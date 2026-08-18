@@ -3,7 +3,7 @@
   "medicamento_nombre": "SALBUTAMOL BASE o SULFATO 100mcg/inhalación, suspensión en aerosol libre de CFC, inhalador con 200-250 dosis, Vía Bucal.",
   "medicamento_termino": "salbutamol",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-18T08:36:28.375Z",
+  "generado_en": "2026-08-18T10:33:39.741Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0522Z",
@@ -14,6 +14,30 @@
     {
       "captura": "2026-08-18/0554Z",
       "capturado_en": "2026-08-18T05:54:31.643Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0759Z",
+      "capturado_en": "2026-08-18T07:59:25.777Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/0848Z",
+      "capturado_en": "2026-08-18T08:48:44.332Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1003Z",
+      "capturado_en": "2026-08-18T10:03:06.619Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/1018Z",
+      "capturado_en": "2026-08-18T10:18:04.049Z",
       "ok": true,
       "error": null
     }
@@ -47,6 +71,42 @@
           "cantidad_texto": "485 inhaladores",
           "dias": 28,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 485,
+          "cantidad_texto": "485 inhaladores",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 485,
+          "cantidad_texto": "485 inhaladores",
+          "dias": 28,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -72,6 +132,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 121,
+          "cantidad_texto": "121 inhaladores",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 121,
+          "cantidad_texto": "121 inhaladores",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 121,
           "cantidad_texto": "121 inhaladores",
@@ -108,6 +204,42 @@
           "cantidad_texto": "1,498 inhaladores",
           "dias": 40,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1498,
+          "cantidad_texto": "1,498 inhaladores",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1498,
+          "cantidad_texto": "1,498 inhaladores",
+          "dias": 40,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -138,6 +270,42 @@
           "cantidad_texto": "112 inhaladores",
           "dias": 102,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 112,
+          "cantidad_texto": "112 inhaladores",
+          "dias": 102,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 112,
+          "cantidad_texto": "112 inhaladores",
+          "dias": 102,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -163,6 +331,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 120,
+          "cantidad_texto": "120 inhaladores",
+          "dias": 109,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 120,
+          "cantidad_texto": "120 inhaladores",
+          "dias": 109,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 120,
           "cantidad_texto": "120 inhaladores",
@@ -199,6 +403,42 @@
           "cantidad_texto": "307 inhaladores",
           "dias": 279,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 307,
+          "cantidad_texto": "307 inhaladores",
+          "dias": 279,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 307,
+          "cantidad_texto": "307 inhaladores",
+          "dias": 279,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -229,6 +469,42 @@
           "cantidad_texto": "144 inhaladores",
           "dias": 46,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 144,
+          "cantidad_texto": "144 inhaladores",
+          "dias": 44,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 144,
+          "cantidad_texto": "144 inhaladores",
+          "dias": 44,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -258,6 +534,48 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 714,
+          "cantidad_texto": "714 inhaladores",
+          "dias": 166,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 714,
+          "cantidad_texto": "714 inhaladores",
+          "dias": 166,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 714,
           "cantidad_texto": "714 inhaladores",
@@ -297,6 +615,42 @@
           "cantidad_texto": "1,474 inhaladores",
           "dias": 88,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1474,
+          "cantidad_texto": "1,474 inhaladores",
+          "dias": 84,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1474,
+          "cantidad_texto": "1,474 inhaladores",
+          "dias": 84,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -328,6 +682,42 @@
           "cantidad_texto": "456 inhaladores",
           "dias": 52,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 456,
+          "cantidad_texto": "456 inhaladores",
+          "dias": 52,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 456,
+          "cantidad_texto": "456 inhaladores",
+          "dias": 52,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -353,6 +743,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 37,
+          "cantidad_texto": "37 inhaladores",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 37,
+          "cantidad_texto": "37 inhaladores",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 37,
           "cantidad_texto": "37 inhaladores",
@@ -389,6 +815,42 @@
           "cantidad_texto": "1,043 inhaladores",
           "dias": 50,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1043,
+          "cantidad_texto": "1,043 inhaladores",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1043,
+          "cantidad_texto": "1,043 inhaladores",
+          "dias": 50,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -414,6 +876,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 977,
+          "cantidad_texto": "977 inhaladores",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 977,
+          "cantidad_texto": "977 inhaladores",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 977,
           "cantidad_texto": "977 inhaladores",
@@ -450,6 +948,42 @@
           "cantidad_texto": "1,012 inhaladores",
           "dias": 131,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1012,
+          "cantidad_texto": "1,012 inhaladores",
+          "dias": 131,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1012,
+          "cantidad_texto": "1,012 inhaladores",
+          "dias": 131,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -476,6 +1010,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1413,
+          "cantidad_texto": "1,413 inhaladores",
+          "dias": 106,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1413,
+          "cantidad_texto": "1,413 inhaladores",
+          "dias": 106,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 1413,
           "cantidad_texto": "1,413 inhaladores",
@@ -512,6 +1082,42 @@
           "cantidad_texto": "62 inhaladores",
           "dias": 56,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 62,
+          "cantidad_texto": "62 inhaladores",
+          "dias": 56,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 62,
+          "cantidad_texto": "62 inhaladores",
+          "dias": 56,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -538,6 +1144,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 386,
+          "cantidad_texto": "386 inhaladores",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 386,
+          "cantidad_texto": "386 inhaladores",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 386,
           "cantidad_texto": "386 inhaladores",
@@ -574,6 +1216,42 @@
           "cantidad_texto": "630 inhaladores",
           "dias": 55,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 630,
+          "cantidad_texto": "630 inhaladores",
+          "dias": 55,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 630,
+          "cantidad_texto": "630 inhaladores",
+          "dias": 55,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -599,6 +1277,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 248,
+          "cantidad_texto": "248 inhaladores",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 248,
+          "cantidad_texto": "248 inhaladores",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 248,
           "cantidad_texto": "248 inhaladores",
@@ -635,6 +1349,42 @@
           "cantidad_texto": "850 inhaladores",
           "dias": 70,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 850,
+          "cantidad_texto": "850 inhaladores",
+          "dias": 70,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 850,
+          "cantidad_texto": "850 inhaladores",
+          "dias": 70,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -666,6 +1416,42 @@
           "cantidad_texto": "1,727 inhaladores",
           "dias": 174,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1726,
+          "cantidad_texto": "1,726 inhaladores",
+          "dias": 174,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1726,
+          "cantidad_texto": "1,726 inhaladores",
+          "dias": 174,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -692,6 +1478,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 840,
+          "cantidad_texto": "840 inhaladores",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 840,
+          "cantidad_texto": "840 inhaladores",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 840,
           "cantidad_texto": "840 inhaladores",
@@ -728,6 +1550,42 @@
           "cantidad_texto": "1,827 inhaladores",
           "dias": 44,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1827,
+          "cantidad_texto": "1,827 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1827,
+          "cantidad_texto": "1,827 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -759,6 +1617,42 @@
           "cantidad_texto": "912 inhaladores",
           "dias": 138,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 912,
+          "cantidad_texto": "912 inhaladores",
+          "dias": 138,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 912,
+          "cantidad_texto": "912 inhaladores",
+          "dias": 138,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -784,6 +1678,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 7,
+          "cantidad_texto": "7 inhaladores",
+          "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 7,
+          "cantidad_texto": "7 inhaladores",
+          "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 7,
           "cantidad_texto": "7 inhaladores",
@@ -825,6 +1755,48 @@
           "avisos": [
             "Farmacia disponible solo para niños (menores de edad)."
           ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1513,
+          "cantidad_texto": "1,513 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1513,
+          "cantidad_texto": "1,513 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
         }
       ]
     },
@@ -850,6 +1822,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 673,
+          "cantidad_texto": "673 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 673,
+          "cantidad_texto": "673 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 673,
           "cantidad_texto": "673 inhaladores",
@@ -886,6 +1894,42 @@
           "cantidad_texto": "374 inhaladores",
           "dias": 33,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 374,
+          "cantidad_texto": "374 inhaladores",
+          "dias": 33,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 374,
+          "cantidad_texto": "374 inhaladores",
+          "dias": 33,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -912,6 +1956,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 434,
+          "cantidad_texto": "434 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 434,
+          "cantidad_texto": "434 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 434,
           "cantidad_texto": "434 inhaladores",
@@ -947,6 +2027,42 @@
           "cantidad_texto": "430 inhaladores",
           "dias": 69,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 430,
+          "cantidad_texto": "430 inhaladores",
+          "dias": 69,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 430,
+          "cantidad_texto": "430 inhaladores",
+          "dias": 69,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -972,6 +2088,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 40,
           "cantidad_texto": "40 inhaladores",
@@ -1008,6 +2160,42 @@
           "cantidad_texto": "804 inhaladores",
           "dias": 43,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 804,
+          "cantidad_texto": "804 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 804,
+          "cantidad_texto": "804 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1039,6 +2227,42 @@
           "cantidad_texto": "2,536 inhaladores",
           "dias": 54,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2536,
+          "cantidad_texto": "2,536 inhaladores",
+          "dias": 55,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2536,
+          "cantidad_texto": "2,536 inhaladores",
+          "dias": 55,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1064,6 +2288,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 40,
           "cantidad_texto": "40 inhaladores",
@@ -1099,6 +2359,42 @@
           "cantidad_texto": "20 inhaladores",
           "dias": 18,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1124,6 +2420,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 159,
+          "cantidad_texto": "159 inhaladores",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 159,
+          "cantidad_texto": "159 inhaladores",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 159,
           "cantidad_texto": "159 inhaladores",
@@ -1160,6 +2492,42 @@
           "cantidad_texto": "358 inhaladores",
           "dias": 86,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 357,
+          "cantidad_texto": "357 inhaladores",
+          "dias": 85,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 357,
+          "cantidad_texto": "357 inhaladores",
+          "dias": 85,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1190,6 +2558,42 @@
           "cantidad_texto": "111 inhaladores",
           "dias": 34,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 111,
+          "cantidad_texto": "111 inhaladores",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 111,
+          "cantidad_texto": "111 inhaladores",
+          "dias": 34,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1215,6 +2619,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 60,
           "cantidad_texto": "60 inhaladores",
@@ -1251,6 +2691,42 @@
           "cantidad_texto": "1,260 inhaladores",
           "dias": 63,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1260,
+          "cantidad_texto": "1,260 inhaladores",
+          "dias": 63,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1260,
+          "cantidad_texto": "1,260 inhaladores",
+          "dias": 63,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1277,6 +2753,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1636,
+          "cantidad_texto": "1,636 inhaladores",
+          "dias": 69,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1636,
+          "cantidad_texto": "1,636 inhaladores",
+          "dias": 69,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 1636,
           "cantidad_texto": "1,636 inhaladores",
@@ -1313,6 +2825,42 @@
           "cantidad_texto": "36 inhaladores",
           "dias": 13,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 36,
+          "cantidad_texto": "36 inhaladores",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 36,
+          "cantidad_texto": "36 inhaladores",
+          "dias": 13,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1339,6 +2887,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 inhaladores",
+          "dias": 124,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 inhaladores",
+          "dias": 124,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 260,
           "cantidad_texto": "260 inhaladores",
@@ -1375,6 +2959,42 @@
           "cantidad_texto": "300 inhaladores",
           "dias": 34,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 inhaladores",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 inhaladores",
+          "dias": 34,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1405,6 +3025,42 @@
           "cantidad_texto": "40 inhaladores",
           "dias": 36,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": 36,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1430,6 +3086,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 220,
+          "cantidad_texto": "220 inhaladores",
+          "dias": 105,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 220,
+          "cantidad_texto": "220 inhaladores",
+          "dias": 105,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 220,
           "cantidad_texto": "220 inhaladores",
@@ -1466,6 +3158,42 @@
           "cantidad_texto": "261 inhaladores",
           "dias": 13,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 261,
+          "cantidad_texto": "261 inhaladores",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 261,
+          "cantidad_texto": "261 inhaladores",
+          "dias": 13,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1496,6 +3224,42 @@
           "cantidad_texto": "18 inhaladores",
           "dias": 16,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 18,
+          "cantidad_texto": "18 inhaladores",
+          "dias": 16,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 18,
+          "cantidad_texto": "18 inhaladores",
+          "dias": 16,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1521,6 +3285,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 57,
+          "cantidad_texto": "57 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 57,
+          "cantidad_texto": "57 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 57,
           "cantidad_texto": "57 inhaladores",
@@ -1557,6 +3357,42 @@
           "cantidad_texto": "991 inhaladores",
           "dias": 86,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 991,
+          "cantidad_texto": "991 inhaladores",
+          "dias": 86,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 991,
+          "cantidad_texto": "991 inhaladores",
+          "dias": 86,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1588,6 +3424,42 @@
           "cantidad_texto": "80 inhaladores",
           "dias": 4,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 80,
+          "cantidad_texto": "80 inhaladores",
+          "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 80,
+          "cantidad_texto": "80 inhaladores",
+          "dias": 3,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1614,6 +3486,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 269,
+          "cantidad_texto": "269 inhaladores",
+          "dias": 63,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 269,
+          "cantidad_texto": "269 inhaladores",
+          "dias": 63,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 269,
           "cantidad_texto": "269 inhaladores",
@@ -1650,6 +3558,42 @@
           "cantidad_texto": "438 inhaladores",
           "dias": 49,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 438,
+          "cantidad_texto": "438 inhaladores",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 438,
+          "cantidad_texto": "438 inhaladores",
+          "dias": 66,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1681,6 +3625,42 @@
           "cantidad_texto": "122 inhaladores",
           "dias": 18,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 122,
+          "cantidad_texto": "122 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 122,
+          "cantidad_texto": "122 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1706,6 +3686,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 337,
+          "cantidad_texto": "337 inhaladores",
+          "dias": 306,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 337,
+          "cantidad_texto": "337 inhaladores",
+          "dias": 306,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 337,
           "cantidad_texto": "337 inhaladores",
@@ -1742,6 +3758,42 @@
           "cantidad_texto": "145 inhaladores",
           "dias": 44,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 145,
+          "cantidad_texto": "145 inhaladores",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 145,
+          "cantidad_texto": "145 inhaladores",
+          "dias": 25,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1773,6 +3825,42 @@
           "cantidad_texto": "70 inhaladores",
           "dias": 33,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 70,
+          "cantidad_texto": "70 inhaladores",
+          "dias": 32,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 70,
+          "cantidad_texto": "70 inhaladores",
+          "dias": 32,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1798,6 +3886,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 18,
+          "cantidad_texto": "18 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 18,
+          "cantidad_texto": "18 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 18,
           "cantidad_texto": "18 inhaladores",
@@ -1834,6 +3958,42 @@
           "cantidad_texto": "805 inhaladores",
           "dias": 70,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 805,
+          "cantidad_texto": "805 inhaladores",
+          "dias": 70,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 805,
+          "cantidad_texto": "805 inhaladores",
+          "dias": 70,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1864,6 +4024,42 @@
           "cantidad_texto": "20 inhaladores",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1889,6 +4085,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 155,
+          "cantidad_texto": "155 inhaladores",
+          "dias": 141,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 155,
+          "cantidad_texto": "155 inhaladores",
+          "dias": 141,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 155,
           "cantidad_texto": "155 inhaladores",
@@ -1924,6 +4156,42 @@
           "cantidad_texto": "93 inhaladores",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 93,
+          "cantidad_texto": "93 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 93,
+          "cantidad_texto": "93 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -1949,6 +4217,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 inhaladores",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 inhaladores",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 30,
           "cantidad_texto": "30 inhaladores",
@@ -1984,6 +4288,42 @@
           "cantidad_texto": "40 inhaladores",
           "dias": 38,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2014,6 +4354,42 @@
           "cantidad_texto": "124 inhaladores",
           "dias": 56,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 124,
+          "cantidad_texto": "124 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 124,
+          "cantidad_texto": "124 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2039,6 +4415,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 6,
+          "cantidad_texto": "6 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 6,
+          "cantidad_texto": "6 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 6,
           "cantidad_texto": "6 inhaladores",
@@ -2076,6 +4488,42 @@
           "cantidad_texto": "4,191 inhaladores",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 4191,
+          "cantidad_texto": "4,191 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 4191,
+          "cantidad_texto": "4,191 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -2101,6 +4549,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 4433,
+          "cantidad_texto": "4,433 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 4433,
+          "cantidad_texto": "4,433 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 4433,
           "cantidad_texto": "4,433 inhaladores",
@@ -2136,6 +4620,42 @@
           "cantidad_texto": "52,944 inhaladores",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 52944,
+          "cantidad_texto": "52,944 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 52944,
+          "cantidad_texto": "52,944 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -2166,6 +4686,42 @@
           "cantidad_texto": "45 inhaladores",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 45,
+          "cantidad_texto": "45 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 45,
+          "cantidad_texto": "45 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     }
@@ -2173,11 +4729,11 @@
   "metricas": {
     "instalaciones_atencion": 66,
     "bodegas": 4,
-    "capturas_ok": 2,
-    "capturas_fallidas": 0,
-    "sin_dias_publicados": 7,
-    "con_dias_publicados": 59,
-    "mediana_cantidad_sin_dias": 40,
-    "mediana_cantidad_con_dias": 337
+    "capturas_ok": 4,
+    "capturas_fallidas": 2,
+    "sin_dias_publicados": 6,
+    "con_dias_publicados": 60,
+    "mediana_cantidad_sin_dias": 49,
+    "mediana_cantidad_con_dias": 322
   }
 }

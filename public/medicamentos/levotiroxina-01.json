@@ -3,7 +3,7 @@
   "medicamento_nombre": "LEVOTIROXINA SAL SÓDICA 0.1mg, tableta, V.O.",
   "medicamento_termino": "levotiroxina",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-18T08:36:28.370Z",
+  "generado_en": "2026-08-18T10:33:39.737Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0522Z",
@@ -14,6 +14,30 @@
     {
       "captura": "2026-08-18/0554Z",
       "capturado_en": "2026-08-18T05:54:31.643Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0759Z",
+      "capturado_en": "2026-08-18T07:59:25.777Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/0848Z",
+      "capturado_en": "2026-08-18T08:48:44.332Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1003Z",
+      "capturado_en": "2026-08-18T10:03:06.619Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/1018Z",
+      "capturado_en": "2026-08-18T10:18:04.049Z",
       "ok": true,
       "error": null
     }
@@ -42,6 +66,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 47005,
+          "cantidad_texto": "47,005 pastillas - cápsulas",
+          "dias": 32,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 47005,
+          "cantidad_texto": "47,005 pastillas - cápsulas",
+          "dias": 32,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 47005,
           "cantidad_texto": "47,005 pastillas - cápsulas",
@@ -77,6 +137,42 @@
           "cantidad_texto": "2,448 pastillas - cápsulas",
           "dias": 55,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2448,
+          "cantidad_texto": "2,448 pastillas - cápsulas",
+          "dias": 55,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2448,
+          "cantidad_texto": "2,448 pastillas - cápsulas",
+          "dias": 55,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -102,6 +198,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 992,
+          "cantidad_texto": "992 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 992,
+          "cantidad_texto": "992 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 992,
           "cantidad_texto": "992 pastillas - cápsulas",
@@ -144,6 +276,48 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 20800,
+          "cantidad_texto": "20,800 pastillas - cápsulas",
+          "dias": 63,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 20800,
+          "cantidad_texto": "20,800 pastillas - cápsulas",
+          "dias": 63,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
         }
       ]
     },
@@ -170,6 +344,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2470,
+          "cantidad_texto": "2,470 pastillas - cápsulas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2470,
+          "cantidad_texto": "2,470 pastillas - cápsulas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 2470,
           "cantidad_texto": "2,470 pastillas - cápsulas",
@@ -206,6 +416,42 @@
           "cantidad_texto": "27,174 pastillas - cápsulas",
           "dias": 32,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 27174,
+          "cantidad_texto": "27,174 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 27174,
+          "cantidad_texto": "27,174 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -235,6 +481,42 @@
           "cantidad": 3405,
           "cantidad_texto": "3,405 pastillas - cápsulas",
           "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 3405,
+          "cantidad_texto": "3,405 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 3405,
+          "cantidad_texto": "3,405 pastillas - cápsulas",
+          "dias": 37,
           "dias_no_publicado": false
         }
       ]
@@ -267,6 +549,42 @@
           "cantidad_texto": "15,083 pastillas - cápsulas",
           "dias": 29,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 15083,
+          "cantidad_texto": "15,083 pastillas - cápsulas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 15083,
+          "cantidad_texto": "15,083 pastillas - cápsulas",
+          "dias": 29,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -292,6 +610,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 11200,
+          "cantidad_texto": "11,200 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 11200,
+          "cantidad_texto": "11,200 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 11200,
           "cantidad_texto": "11,200 pastillas - cápsulas",
@@ -328,6 +682,42 @@
           "cantidad_texto": "3,348 pastillas - cápsulas",
           "dias": 15,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 3348,
+          "cantidad_texto": "3,348 pastillas - cápsulas",
+          "dias": 15,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 3348,
+          "cantidad_texto": "3,348 pastillas - cápsulas",
+          "dias": 15,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -354,6 +744,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 11138,
+          "cantidad_texto": "11,138 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 11138,
+          "cantidad_texto": "11,138 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 11138,
           "cantidad_texto": "11,138 pastillas - cápsulas",
@@ -390,6 +816,42 @@
           "cantidad_texto": "14,917 pastillas - cápsulas",
           "dias": 8,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 14917,
+          "cantidad_texto": "14,917 pastillas - cápsulas",
+          "dias": 8,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 14917,
+          "cantidad_texto": "14,917 pastillas - cápsulas",
+          "dias": 8,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -420,6 +882,42 @@
           "cantidad": 31523,
           "cantidad_texto": "31,523 pastillas - cápsulas",
           "dias": 21,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 31523,
+          "cantidad_texto": "31,523 pastillas - cápsulas",
+          "dias": 20,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 31523,
+          "cantidad_texto": "31,523 pastillas - cápsulas",
+          "dias": 20,
           "dias_no_publicado": false
         }
       ]
@@ -457,6 +955,48 @@
           "avisos": [
             "Farmacia disponible solo para niños (menores de edad)."
           ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 11136,
+          "cantidad_texto": "11,136 pastillas - cápsulas",
+          "dias": 128,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 11136,
+          "cantidad_texto": "11,136 pastillas - cápsulas",
+          "dias": 128,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
         }
       ]
     },
@@ -482,6 +1022,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 66071,
+          "cantidad_texto": "66,071 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 66071,
+          "cantidad_texto": "66,071 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 66071,
           "cantidad_texto": "66,071 pastillas - cápsulas",
@@ -518,6 +1094,42 @@
           "cantidad_texto": "12,465 pastillas - cápsulas",
           "dias": 11,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 12465,
+          "cantidad_texto": "12,465 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 12465,
+          "cantidad_texto": "12,465 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -544,6 +1156,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 33877,
+          "cantidad_texto": "33,877 pastillas - cápsulas",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 33877,
+          "cantidad_texto": "33,877 pastillas - cápsulas",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 33877,
           "cantidad_texto": "33,877 pastillas - cápsulas",
@@ -578,6 +1226,42 @@
           "cantidad": 8110,
           "cantidad_texto": "8,110 pastillas - cápsulas",
           "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 8110,
+          "cantidad_texto": "8,110 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 8110,
+          "cantidad_texto": "8,110 pastillas - cápsulas",
+          "dias": 37,
           "dias_no_publicado": false
         }
       ]
@@ -615,6 +1299,48 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 612,
+          "cantidad_texto": "612 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 612,
+          "cantidad_texto": "612 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
         }
       ]
     },
@@ -646,6 +1372,42 @@
           "cantidad_texto": "15,000 pastillas - cápsulas",
           "dias": 10,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 15000,
+          "cantidad_texto": "15,000 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 15000,
+          "cantidad_texto": "15,000 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -676,6 +1438,42 @@
           "cantidad_texto": "2,680 pastillas - cápsulas",
           "dias": 279,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2680,
+          "cantidad_texto": "2,680 pastillas - cápsulas",
+          "dias": 251,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2680,
+          "cantidad_texto": "2,680 pastillas - cápsulas",
+          "dias": 251,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -701,6 +1499,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 847,
+          "cantidad_texto": "847 pastillas - cápsulas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 847,
+          "cantidad_texto": "847 pastillas - cápsulas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 847,
           "cantidad_texto": "847 pastillas - cápsulas",
@@ -737,6 +1571,42 @@
           "cantidad_texto": "329 pastillas - cápsulas",
           "dias": 1,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 329,
+          "cantidad_texto": "329 pastillas - cápsulas",
+          "dias": 1,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 329,
+          "cantidad_texto": "329 pastillas - cápsulas",
+          "dias": 1,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -763,6 +1633,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 11715,
+          "cantidad_texto": "11,715 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 11715,
+          "cantidad_texto": "11,715 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 11715,
           "cantidad_texto": "11,715 pastillas - cápsulas",
@@ -805,6 +1711,48 @@
           "avisos": [
             "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
           ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 9,
+          "cantidad_texto": "9 pastillas - cápsulas",
+          "dias": 0,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 9,
+          "cantidad_texto": "9 pastillas - cápsulas",
+          "dias": 0,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
+          ]
         }
       ]
     },
@@ -831,6 +1779,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 14000,
+          "cantidad_texto": "14,000 pastillas - cápsulas",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 14000,
+          "cantidad_texto": "14,000 pastillas - cápsulas",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 14000,
           "cantidad_texto": "14,000 pastillas - cápsulas",
@@ -867,6 +1851,42 @@
           "cantidad_texto": "53,962 pastillas - cápsulas",
           "dias": 77,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 53962,
+          "cantidad_texto": "53,962 pastillas - cápsulas",
+          "dias": 78,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 53962,
+          "cantidad_texto": "53,962 pastillas - cápsulas",
+          "dias": 78,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -896,6 +1916,42 @@
           "cantidad": 3000,
           "cantidad_texto": "3,000 pastillas - cápsulas",
           "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 3000,
+          "cantidad_texto": "3,000 pastillas - cápsulas",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 3000,
+          "cantidad_texto": "3,000 pastillas - cápsulas",
+          "dias": 43,
           "dias_no_publicado": false
         }
       ]
@@ -927,6 +1983,42 @@
           "cantidad_texto": "7,601 pastillas - cápsulas",
           "dias": 45,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 7601,
+          "cantidad_texto": "7,601 pastillas - cápsulas",
+          "dias": 45,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 7601,
+          "cantidad_texto": "7,601 pastillas - cápsulas",
+          "dias": 45,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -952,6 +2044,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 7348,
+          "cantidad_texto": "7,348 pastillas - cápsulas",
+          "dias": 53,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 7348,
+          "cantidad_texto": "7,348 pastillas - cápsulas",
+          "dias": 53,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 7348,
           "cantidad_texto": "7,348 pastillas - cápsulas",
@@ -993,6 +2121,48 @@
           "avisos": [
             "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
           ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 5,
+          "cantidad_texto": "5 pastillas - cápsulas",
+          "dias": 0,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 5,
+          "cantidad_texto": "5 pastillas - cápsulas",
+          "dias": 0,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
+          ]
         }
       ]
     }
@@ -1020,6 +2190,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 228000,
+          "cantidad_texto": "228,000 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 228000,
+          "cantidad_texto": "228,000 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 228000,
           "cantidad_texto": "228,000 pastillas - cápsulas",
@@ -1055,6 +2261,42 @@
           "cantidad_texto": "41,000 pastillas - cápsulas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 41000,
+          "cantidad_texto": "41,000 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 41000,
+          "cantidad_texto": "41,000 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     }
@@ -1062,8 +2304,8 @@
   "metricas": {
     "instalaciones_atencion": 31,
     "bodegas": 2,
-    "capturas_ok": 2,
-    "capturas_fallidas": 0,
+    "capturas_ok": 4,
+    "capturas_fallidas": 2,
     "sin_dias_publicados": 0,
     "con_dias_publicados": 31,
     "mediana_cantidad_sin_dias": null,

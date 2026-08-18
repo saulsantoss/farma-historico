@@ -3,7 +3,7 @@
   "medicamento_nombre": "INSULINA NPH (HUMANA) 100U/ml, suspensión, S.C.",
   "medicamento_termino": "insulina nph",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-18T08:36:28.353Z",
+  "generado_en": "2026-08-18T10:33:39.719Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0506Z",
@@ -20,6 +20,30 @@
     {
       "captura": "2026-08-18/0554Z",
       "capturado_en": "2026-08-18T05:54:31.643Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0759Z",
+      "capturado_en": "2026-08-18T07:59:25.777Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/0848Z",
+      "capturado_en": "2026-08-18T08:48:44.332Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1003Z",
+      "capturado_en": "2026-08-18T10:03:06.619Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/1018Z",
+      "capturado_en": "2026-08-18T10:18:04.049Z",
       "ok": true,
       "error": null
     }
@@ -62,6 +86,42 @@
           "cantidad_texto": "1,068 viales o ampollas",
           "dias": 23,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1068,
+          "cantidad_texto": "1,068 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1068,
+          "cantidad_texto": "1,068 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -96,6 +156,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 135,
+          "cantidad_texto": "135 viales o ampollas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 135,
+          "cantidad_texto": "135 viales o ampollas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 135,
           "cantidad_texto": "135 viales o ampollas",
@@ -141,6 +237,42 @@
           "cantidad_texto": "1,040 viales o ampollas",
           "dias": 27,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1040,
+          "cantidad_texto": "1,040 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1040,
+          "cantidad_texto": "1,040 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -179,6 +311,42 @@
           "cantidad": 91,
           "cantidad_texto": "91 viales o ampollas",
           "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 91,
+          "cantidad_texto": "91 viales o ampollas",
+          "dias": 77,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 91,
+          "cantidad_texto": "91 viales o ampollas",
+          "dias": 77,
           "dias_no_publicado": false
         }
       ]
@@ -220,6 +388,42 @@
           "cantidad_texto": "395 viales o ampollas",
           "dias": 65,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 395,
+          "cantidad_texto": "395 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 395,
+          "cantidad_texto": "395 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -254,6 +458,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 58,
+          "cantidad_texto": "58 viales o ampollas",
+          "dias": 49,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 58,
+          "cantidad_texto": "58 viales o ampollas",
+          "dias": 49,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 58,
           "cantidad_texto": "58 viales o ampollas",
@@ -308,6 +548,48 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 541,
+          "cantidad_texto": "541 viales o ampollas",
+          "dias": 153,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 541,
+          "cantidad_texto": "541 viales o ampollas",
+          "dias": 153,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
         }
       ]
     },
@@ -343,6 +625,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2471,
+          "cantidad_texto": "2,471 viales o ampollas",
+          "dias": 84,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2471,
+          "cantidad_texto": "2,471 viales o ampollas",
+          "dias": 84,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 2471,
           "cantidad_texto": "2,471 viales o ampollas",
@@ -388,6 +706,42 @@
           "cantidad_texto": "797 viales o ampollas",
           "dias": 45,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 797,
+          "cantidad_texto": "797 viales o ampollas",
+          "dias": 45,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 797,
+          "cantidad_texto": "797 viales o ampollas",
+          "dias": 45,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -422,6 +776,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 76,
+          "cantidad_texto": "76 viales o ampollas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 76,
+          "cantidad_texto": "76 viales o ampollas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 76,
           "cantidad_texto": "76 viales o ampollas",
@@ -467,6 +857,42 @@
           "cantidad_texto": "2,321 viales o ampollas",
           "dias": 65,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2321,
+          "cantidad_texto": "2,321 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2321,
+          "cantidad_texto": "2,321 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -501,6 +927,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 368,
+          "cantidad_texto": "368 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 368,
+          "cantidad_texto": "368 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 368,
           "cantidad_texto": "368 viales o ampollas",
@@ -546,6 +1008,42 @@
           "cantidad_texto": "288 viales o ampollas",
           "dias": 10,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -585,6 +1083,42 @@
           "cantidad": 2141,
           "cantidad_texto": "2,141 viales o ampollas",
           "dias": 101,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2141,
+          "cantidad_texto": "2,141 viales o ampollas",
+          "dias": 96,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2141,
+          "cantidad_texto": "2,141 viales o ampollas",
+          "dias": 96,
           "dias_no_publicado": false
         }
       ]
@@ -626,6 +1160,42 @@
           "cantidad_texto": "162 viales o ampollas",
           "dias": 48,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 162,
+          "cantidad_texto": "162 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 162,
+          "cantidad_texto": "162 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -661,6 +1231,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 102,
           "cantidad_texto": "102 viales o ampollas",
@@ -706,6 +1312,42 @@
           "cantidad_texto": "150 viales o ampollas",
           "dias": 9,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 viales o ampollas",
+          "dias": 8,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 viales o ampollas",
+          "dias": 8,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -745,6 +1387,42 @@
           "cantidad_texto": "988 viales o ampollas",
           "dias": 59,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 988,
+          "cantidad_texto": "988 viales o ampollas",
+          "dias": 61,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 988,
+          "cantidad_texto": "988 viales o ampollas",
+          "dias": 61,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -780,6 +1458,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 59,
+          "cantidad_texto": "59 viales o ampollas",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 59,
+          "cantidad_texto": "59 viales o ampollas",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 59,
           "cantidad_texto": "59 viales o ampollas",
@@ -825,6 +1539,42 @@
           "cantidad_texto": "80 viales o ampollas",
           "dias": 1,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 80,
+          "cantidad_texto": "80 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 80,
+          "cantidad_texto": "80 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -860,6 +1610,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 502,
+          "cantidad_texto": "502 viales o ampollas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 502,
+          "cantidad_texto": "502 viales o ampollas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 502,
           "cantidad_texto": "502 viales o ampollas",
@@ -905,6 +1691,42 @@
           "cantidad_texto": "245 viales o ampollas",
           "dias": 1,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 245,
+          "cantidad_texto": "245 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 245,
+          "cantidad_texto": "245 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -945,6 +1767,42 @@
           "cantidad_texto": "1,033 viales o ampollas",
           "dias": 80,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1033,
+          "cantidad_texto": "1,033 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1033,
+          "cantidad_texto": "1,033 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -979,6 +1837,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 321,
+          "cantidad_texto": "321 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 321,
+          "cantidad_texto": "321 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 321,
           "cantidad_texto": "321 viales o ampollas",
@@ -1032,6 +1926,48 @@
           "avisos": [
             "Farmacia disponible solo para niños (menores de edad)."
           ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 94,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 94,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
         }
       ]
     },
@@ -1066,6 +2002,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 863,
+          "cantidad_texto": "863 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 863,
+          "cantidad_texto": "863 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 863,
           "cantidad_texto": "863 viales o ampollas",
@@ -1111,6 +2083,42 @@
           "cantidad_texto": "574 viales o ampollas",
           "dias": 16,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 574,
+          "cantidad_texto": "574 viales o ampollas",
+          "dias": 16,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 574,
+          "cantidad_texto": "574 viales o ampollas",
+          "dias": 16,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1151,6 +2159,42 @@
           "cantidad_texto": "556 viales o ampollas",
           "dias": 50,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 556,
+          "cantidad_texto": "556 viales o ampollas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 556,
+          "cantidad_texto": "556 viales o ampollas",
+          "dias": 50,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1185,6 +2229,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 108,
+          "cantidad_texto": "108 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 108,
+          "cantidad_texto": "108 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 108,
           "cantidad_texto": "108 viales o ampollas",
@@ -1238,6 +2318,48 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 7,
+          "cantidad_texto": "7 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 7,
+          "cantidad_texto": "7 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
         }
       ]
     },
@@ -1273,6 +2395,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 633,
+          "cantidad_texto": "633 viales o ampollas",
+          "dias": 95,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 633,
+          "cantidad_texto": "633 viales o ampollas",
+          "dias": 95,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 633,
           "cantidad_texto": "633 viales o ampollas",
@@ -1318,6 +2476,42 @@
           "cantidad_texto": "1,650 viales o ampollas",
           "dias": 57,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1650,
+          "cantidad_texto": "1,650 viales o ampollas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1650,
+          "cantidad_texto": "1,650 viales o ampollas",
+          "dias": 54,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1357,6 +2551,42 @@
           "cantidad_texto": "34 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 34,
+          "cantidad_texto": "34 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 34,
+          "cantidad_texto": "34 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -1391,6 +2621,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 487,
+          "cantidad_texto": "487 viales o ampollas",
+          "dias": 73,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 487,
+          "cantidad_texto": "487 viales o ampollas",
+          "dias": 73,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 487,
           "cantidad_texto": "487 viales o ampollas",
@@ -1436,6 +2702,42 @@
           "cantidad_texto": "550 viales o ampollas",
           "dias": 82,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 550,
+          "cantidad_texto": "550 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 550,
+          "cantidad_texto": "550 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1475,6 +2777,42 @@
           "cantidad_texto": "85 viales o ampollas",
           "dias": 5,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 85,
+          "cantidad_texto": "85 viales o ampollas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 85,
+          "cantidad_texto": "85 viales o ampollas",
+          "dias": 5,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1509,6 +2847,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 83,
+          "cantidad_texto": "83 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 83,
+          "cantidad_texto": "83 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 83,
           "cantidad_texto": "83 viales o ampollas",
@@ -1554,6 +2928,42 @@
           "cantidad_texto": "3,484 viales o ampollas",
           "dias": 99,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 3484,
+          "cantidad_texto": "3,484 viales o ampollas",
+          "dias": 99,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 3484,
+          "cantidad_texto": "3,484 viales o ampollas",
+          "dias": 99,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1594,6 +3004,42 @@
           "cantidad_texto": "1,170 viales o ampollas",
           "dias": 62,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1170,
+          "cantidad_texto": "1,170 viales o ampollas",
+          "dias": 59,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1170,
+          "cantidad_texto": "1,170 viales o ampollas",
+          "dias": 59,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1629,6 +3075,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 472,
+          "cantidad_texto": "472 viales o ampollas",
+          "dias": 53,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 472,
+          "cantidad_texto": "472 viales o ampollas",
+          "dias": 53,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 472,
           "cantidad_texto": "472 viales o ampollas",
@@ -1674,6 +3156,42 @@
           "cantidad_texto": "240 viales o ampollas",
           "dias": 14,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1709,6 +3227,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 260,
           "cantidad_texto": "260 viales o ampollas",
@@ -1753,6 +3307,42 @@
           "cantidad_texto": "32 viales o ampollas",
           "dias": 27,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 32,
+          "cantidad_texto": "32 viales o ampollas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 32,
+          "cantidad_texto": "32 viales o ampollas",
+          "dias": 27,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1787,6 +3377,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 100,
           "cantidad_texto": "100 viales o ampollas",
@@ -1832,6 +3458,42 @@
           "cantidad_texto": "260 viales o ampollas",
           "dias": 6,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1871,6 +3533,42 @@
           "cantidad_texto": "30 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -1905,6 +3603,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 8,
+          "cantidad_texto": "8 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 8,
+          "cantidad_texto": "8 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 8,
           "cantidad_texto": "8 viales o ampollas",
@@ -1950,6 +3684,42 @@
           "cantidad_texto": "712 viales o ampollas",
           "dias": 35,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 712,
+          "cantidad_texto": "712 viales o ampollas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 712,
+          "cantidad_texto": "712 viales o ampollas",
+          "dias": 34,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1990,6 +3760,42 @@
           "cantidad_texto": "100 viales o ampollas",
           "dias": 3,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2025,6 +3831,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 595,
+          "cantidad_texto": "595 viales o ampollas",
+          "dias": 97,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 595,
+          "cantidad_texto": "595 viales o ampollas",
+          "dias": 97,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 595,
           "cantidad_texto": "595 viales o ampollas",
@@ -2070,6 +3912,42 @@
           "cantidad_texto": "271 viales o ampollas",
           "dias": 35,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 271,
+          "cantidad_texto": "271 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 271,
+          "cantidad_texto": "271 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2110,6 +3988,42 @@
           "cantidad_texto": "160 viales o ampollas",
           "dias": 18,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 160,
+          "cantidad_texto": "160 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 160,
+          "cantidad_texto": "160 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2144,6 +4058,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 131,
+          "cantidad_texto": "131 viales o ampollas",
+          "dias": 111,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 131,
+          "cantidad_texto": "131 viales o ampollas",
+          "dias": 111,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 131,
           "cantidad_texto": "131 viales o ampollas",
@@ -2189,6 +4139,42 @@
           "cantidad_texto": "330 viales o ampollas",
           "dias": 23,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2229,6 +4215,42 @@
           "cantidad_texto": "60 viales o ampollas",
           "dias": 18,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 viales o ampollas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 viales o ampollas",
+          "dias": 17,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2263,6 +4285,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 37,
+          "cantidad_texto": "37 viales o ampollas",
+          "dias": 31,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 37,
+          "cantidad_texto": "37 viales o ampollas",
+          "dias": 31,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 37,
           "cantidad_texto": "37 viales o ampollas",
@@ -2308,6 +4366,42 @@
           "cantidad_texto": "61 viales o ampollas",
           "dias": 26,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 61,
+          "cantidad_texto": "61 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 61,
+          "cantidad_texto": "61 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2342,6 +4436,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 20,
           "cantidad_texto": "20 viales o ampollas",
@@ -2386,6 +4516,42 @@
           "cantidad_texto": "289 viales o ampollas",
           "dias": 82,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 289,
+          "cantidad_texto": "289 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 289,
+          "cantidad_texto": "289 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2420,6 +4586,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 147,
+          "cantidad_texto": "147 viales o ampollas",
+          "dias": 125,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 147,
+          "cantidad_texto": "147 viales o ampollas",
+          "dias": 125,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 147,
           "cantidad_texto": "147 viales o ampollas",
@@ -2464,6 +4666,42 @@
           "cantidad_texto": "100 viales o ampollas",
           "dias": 14,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2498,6 +4736,42 @@
         {
           "captura": "2026-08-18/0554Z",
           "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 137,
+          "cantidad_texto": "137 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 137,
+          "cantidad_texto": "137 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
           "estado_captura": "ok",
           "cantidad": 137,
           "cantidad_texto": "137 viales o ampollas",
@@ -2544,6 +4818,42 @@
           "cantidad_texto": "2,240 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2240,
+          "cantidad_texto": "2,240 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2240,
+          "cantidad_texto": "2,240 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -2583,6 +4893,42 @@
           "cantidad_texto": "46,191 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 46191,
+          "cantidad_texto": "46,191 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 46191,
+          "cantidad_texto": "46,191 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     }
@@ -2590,8 +4936,8 @@
   "metricas": {
     "instalaciones_atencion": 62,
     "bodegas": 2,
-    "capturas_ok": 3,
-    "capturas_fallidas": 0,
+    "capturas_ok": 5,
+    "capturas_fallidas": 2,
     "sin_dias_publicados": 5,
     "con_dias_publicados": 57,
     "mediana_cantidad_sin_dias": 30,

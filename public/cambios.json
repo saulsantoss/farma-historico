@@ -1,9 +1,9 @@
 {
-  "generado_en": "2026-08-18T08:36:28.381Z",
+  "generado_en": "2026-08-18T10:33:39.747Z",
   "nota": "Un cambio solo se registra entre dos capturas incluidas y exitosas del mismo medicamento. Los fallos de captura no producen cambios, y las capturas excluidas no se comparan.",
   "total": 1,
   "pares_comparados": 20,
-  "pares_saltados_por_fallo": 0,
+  "pares_saltados_por_fallo": 56,
   "por_tipo": {
     "baja": 1
   },

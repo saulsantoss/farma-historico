@@ -120,6 +120,37 @@ export const EXPLICACION_ESTADO = {
     "La captura fue exitosa, pero el sitio no incluyó esta instalación en el listado del medicamento.",
 };
 
+// Tipos de cambio que produce el agregador. Los dos primeros comparan
+// cantidades; los demás describen que la instalación entró o salió del
+// listado, o que la fuente empezó o dejó de publicar los días.
+export const ETIQUETA_TIPO_CAMBIO = {
+  baja: "baja",
+  sube: "sube",
+  aparece: "aparece en el listado",
+  desaparece: "sale del listado",
+  deja_de_publicar_dias: "deja de publicar días",
+  empieza_a_publicar_dias: "empieza a publicar días",
+};
+
+// "aparece" y "desaparece" traen null en el lado en que la instalación no
+// figuraba en el listado. Eso no es un fallo de captura ("sin dato"): ambas
+// capturas fueron exitosas. Y nunca es un cero.
+export function etiquetaCantidadAusente(tipo, lado) {
+  if (tipo === "aparece" && lado === "antes") return "no listada";
+  if (tipo === "desaparece" && lado === "despues") return "no listada";
+  return "sin cifra publicada";
+}
+
+// Los registros de "aparece" y "desaparece" no llevan los campos de días:
+// ausencia de campo no es "no publicado", así que no se inventa la fila.
+export function tieneDiasRegistrados(cambio) {
+  return cambio && ("dias_antes" in cambio || "dias_despues" in cambio);
+}
+
+export function diasDeCambio(valor) {
+  return typeof valor === "number" ? numero(valor) : "no publicado";
+}
+
 export function diasTexto(punto) {
   if (!punto || punto.estado_captura !== "ok") return null;
   if (punto.dias_no_publicado === true) return "no publicado";

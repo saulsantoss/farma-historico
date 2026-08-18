@@ -7,12 +7,16 @@ import Cabecera from "../../componentes/Cabecera";
 import Pie from "../../componentes/Pie";
 import { Cargando, Error as ErrorDatos } from "../../componentes/Estado";
 import {
+  diasDeCambio,
   diasTexto,
   estadoInstalacion,
+  etiquetaCantidadAusente,
+  ETIQUETA_TIPO_CAMBIO,
   fechaHoraUTC,
   horaDeCaptura,
   numero,
   obtenerJSON,
+  tieneDiasRegistrados,
 } from "../../lib/datos";
 import estilos from "./pagina.module.css";
 
@@ -198,7 +202,9 @@ function Contenido({ medicamento, cambios, id }) {
                 className={estilos.cambio}
               >
                 <div className={estilos.cambioCabecera}>
-                  <span className="marca">{c.tipo}</span>
+                  <span className="marca">
+                    {ETIQUETA_TIPO_CAMBIO[c.tipo] ?? c.tipo}
+                  </span>
                   {c.es_bodega === true && (
                     <span className="marca">bodega</span>
                   )}
@@ -209,10 +215,20 @@ function Contenido({ medicamento, cambios, id }) {
                 <p className={estilos.cambioInstalacion}>{c.instalacion}</p>
                 <p className={estilos.cambioProvincia}>{c.provincia ?? "—"}</p>
                 <p className={`${estilos.cambioCifras} num`}>
-                  {numero(c.cantidad_antes) ?? "sin dato"}
+                  <LadoCantidad
+                    valor={c.cantidad_antes}
+                    tipo={c.tipo}
+                    lado="antes"
+                  />
                   <span className={estilos.flecha}> → </span>
-                  {numero(c.cantidad_despues) ?? "sin dato"}
-                  {c.unidad ? (
+                  <LadoCantidad
+                    valor={c.cantidad_despues}
+                    tipo={c.tipo}
+                    lado="despues"
+                  />
+                  {c.unidad &&
+                  typeof c.cantidad_antes === "number" &&
+                  typeof c.cantidad_despues === "number" ? (
                     <span className={estilos.unidad}> {c.unidad}</span>
                   ) : null}
                   {typeof c.delta === "number" && (
@@ -221,20 +237,14 @@ function Contenido({ medicamento, cambios, id }) {
                     </span>
                   )}
                 </p>
-                <p className={estilos.cambioDetalle}>
-                  Días de abastecimiento:{" "}
-                  <span className="num">
-                    {typeof c.dias_antes === "number"
-                      ? numero(c.dias_antes)
-                      : "no publicado"}
-                  </span>
-                  <span className={estilos.flecha}> → </span>
-                  <span className="num">
-                    {typeof c.dias_despues === "number"
-                      ? numero(c.dias_despues)
-                      : "no publicado"}
-                  </span>
-                </p>
+                {tieneDiasRegistrados(c) && (
+                  <p className={estilos.cambioDetalle}>
+                    Días de abastecimiento:{" "}
+                    <span className="num">{diasDeCambio(c.dias_antes)}</span>
+                    <span className={estilos.flecha}> → </span>
+                    <span className="num">{diasDeCambio(c.dias_despues)}</span>
+                  </p>
+                )}
                 <p className={estilos.cambioDetalle}>
                   Entre las capturas{" "}
                   <span className="num">{c.captura_antes}</span> y{" "}
@@ -437,10 +447,11 @@ function Dias({ estado }) {
   }
 
   const anterior = datoAnterior ? diasTexto(datoAnterior) : null;
+  const esNoListada = ultimo?.estado_captura === "no_listada";
 
   return (
     <>
-      <span className="marca">sin dato</span>
+      <span className="marca">{esNoListada ? "no listada" : "sin dato"}</span>
       {anterior && (
         <span className={estilos.subCelda}>
           {anterior === "no publicado"
@@ -450,6 +461,11 @@ function Dias({ estado }) {
       )}
     </>
   );
+}
+
+function LadoCantidad({ valor, tipo, lado }) {
+  if (typeof valor === "number") return <>{numero(valor)}</>;
+  return <span className="marca">{etiquetaCantidadAusente(tipo, lado)}</span>;
 }
 
 function Cifra({ valor, etiqueta }) {

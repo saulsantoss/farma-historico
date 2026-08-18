@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-08-18T16:15:49.414Z",
+  "generado_en": "2026-08-18T19:34:22.813Z",
   "total": 14,
   "medicamentos": [
     {
@@ -10,7 +10,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 63167
+      "mediana_cantidad_con_dias": 62567
     },
     {
       "medicamento_id": "carbamazepina-200",
@@ -30,7 +30,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 13520
+      "mediana_cantidad_con_dias": 13490
     },
     {
       "medicamento_id": "fluoxetina-20",
@@ -50,7 +50,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 1,
       "mediana_cantidad_sin_dias": 3380,
-      "mediana_cantidad_con_dias": 10389
+      "mediana_cantidad_con_dias": 9199
     },
     {
       "medicamento_id": "insulina-glargina",
@@ -70,7 +70,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 4,
       "mediana_cantidad_sin_dias": 25,
-      "mediana_cantidad_con_dias": 268
+      "mediana_cantidad_con_dias": 265
     },
     {
       "medicamento_id": "insulina-nph",
@@ -80,7 +80,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 6,
       "mediana_cantidad_sin_dias": 25,
-      "mediana_cantidad_con_dias": 287
+      "mediana_cantidad_con_dias": 283
     },
     {
       "medicamento_id": "insulina-regular",
@@ -90,7 +90,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 8,
       "mediana_cantidad_sin_dias": 30,
-      "mediana_cantidad_con_dias": 164
+      "mediana_cantidad_con_dias": 163
     },
     {
       "medicamento_id": "levotiroxina-01",
@@ -120,7 +120,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 34727
+      "mediana_cantidad_con_dias": 33570
     },
     {
       "medicamento_id": "salbutamol-inhalador",
@@ -137,7 +137,7 @@
       "medicamento_nombre": "WARFARINA SÓDICA 5mg, tableta, V.O.",
       "instalaciones_atencion": 40,
       "bodegas": 2,
-      "capturas_fallidas": 2,
+      "capturas_fallidas": 3,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
       "mediana_cantidad_con_dias": 1571

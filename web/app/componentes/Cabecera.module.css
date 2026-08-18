@@ -1,0 +1,46 @@
+.cabecera {
+  border-bottom: 1px solid var(--linea);
+}
+
+.fila {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px 32px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.titulo {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: var(--tinta);
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.enlace {
+  font-size: 14px;
+  text-decoration: none;
+  color: var(--gris-fuerte);
+  padding-bottom: 2px;
+  border-bottom: 1px solid transparent;
+}
+
+.enlace:hover {
+  color: var(--tinta);
+  border-bottom-color: var(--linea-media);
+}
+
+.enlaceActivo {
+  color: var(--tinta);
+  font-weight: 600;
+  border-bottom-color: var(--tinta);
+}

@@ -1,0 +1,19 @@
+.pie {
+  margin-top: 96px;
+  border-top: 1px solid var(--linea);
+  padding: 32px 0 64px;
+}
+
+.fuente {
+  max-width: 62ch;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--gris-fuerte);
+}
+
+.autor {
+  margin-top: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--tinta);
+}

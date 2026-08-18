@@ -1,150 +1,240 @@
-.page {
-  --background: #fafafa;
-  --foreground: #fff;
-
-  --text-primary: #000;
-  --text-secondary: #666;
-
-  --button-primary-hover: #383838;
-  --button-secondary-hover: #f2f2f2;
-  --button-secondary-border: #ebebeb;
-
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-geist-sans);
-  background-color: var(--background);
-}
-
-.main {
-  display: flex;
-  flex: 1;
-  width: 100%;
-  max-width: 800px;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: space-between;
-  background-color: var(--foreground);
-  padding: 120px 60px;
-}
-
 .intro {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  text-align: left;
-  gap: 24px;
+  padding: 96px 0 72px;
+  max-width: 74ch;
 }
 
-.intro h1 {
-  max-width: 320px;
-  font-size: 40px;
+.h1 {
+  font-size: clamp(2.25rem, 6vw, 4rem);
   font-weight: 600;
-  line-height: 48px;
-  letter-spacing: -2.4px;
-  text-wrap: balance;
-  color: var(--text-primary);
+  letter-spacing: -0.035em;
 }
 
-.intro p {
-  max-width: 440px;
-  font-size: 18px;
-  line-height: 32px;
-  text-wrap: balance;
-  color: var(--text-secondary);
+.entrada {
+  margin-top: 32px;
+  font-size: clamp(1.0625rem, 2.2vw, 1.375rem);
+  line-height: 1.55;
+  color: var(--tinta-texto);
 }
 
-.intro a {
+.entradaSecundaria {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--gris-fuerte);
+}
+
+/* Primera captura */
+
+.hito {
+  border-top: 2px solid var(--tinta);
+  border-bottom: 1px solid var(--linea);
+  padding: 40px 0 48px;
+}
+
+.hitoFecha {
+  margin-top: 20px;
+  font-size: clamp(2.5rem, 8vw, 5.25rem);
+  font-weight: 600;
+  line-height: 1.02;
+  letter-spacing: -0.04em;
+  color: var(--tinta);
+}
+
+.hitoHora {
+  margin-top: 8px;
+  font-size: clamp(1.375rem, 3.4vw, 2rem);
   font-weight: 500;
-  color: var(--text-primary);
+  letter-spacing: -0.02em;
+  color: var(--tinta);
 }
 
-.ctas {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  max-width: 440px;
-  gap: 16px;
+.hitoHoraLocal {
+  font-weight: 400;
+  color: var(--gris);
+}
+
+.hitoNota {
+  margin-top: 28px;
+  max-width: 64ch;
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--gris-fuerte);
+}
+
+.hitoMeta {
+  margin-top: 36px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px 32px;
+  border-top: 1px solid var(--linea);
+  padding-top: 24px;
+}
+
+.hitoMeta dd {
+  margin-top: 6px;
+  font-size: 15px;
+  color: var(--tinta);
+}
+
+/* Secciones */
+
+.seccion {
+  padding: 72px 0 0;
+}
+
+.h2 {
+  font-size: clamp(1.375rem, 3vw, 1.875rem);
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--tinta);
+}
+
+.parrafo {
+  margin-top: 24px;
+  max-width: 72ch;
+  font-size: 15px;
+  line-height: 1.75;
+  color: var(--gris-fuerte);
+}
+
+.notaSeccion {
+  margin-top: 28px;
+  max-width: 72ch;
+  border-left: 1px solid var(--linea-media);
+  padding-left: 16px;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--gris-fuerte);
+}
+
+.enlaceGrande {
+  margin-top: 24px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+/* Cifras */
+
+.cifras {
+  margin-top: 32px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  border-top: 1px solid var(--linea);
+  border-left: 1px solid var(--linea);
+}
+
+.cifra {
+  border-right: 1px solid var(--linea);
+  border-bottom: 1px solid var(--linea);
+  padding: 24px;
+}
+
+.cifraValor {
+  font-size: clamp(2.25rem, 5vw, 3.25rem);
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--tinta);
+}
+
+.cifraEtiqueta {
+  margin-top: 14px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--tinta);
+}
+
+.cifraApoyo {
+  margin-top: 6px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--gris);
+}
+
+/* Portada nacional */
+
+.portada {
+  margin-top: 32px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1px;
+  background: var(--linea);
+  border: 1px solid var(--linea);
+}
+
+.portadaBloque {
+  background: var(--fondo);
+  padding: 28px 24px 24px;
+}
+
+.portadaNumero {
+  font-size: clamp(2.5rem, 5.5vw, 3.5rem);
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.035em;
+  color: var(--tinta);
+  font-variant-numeric: tabular-nums;
+}
+
+.portadaDe {
+  font-size: 0.42em;
+  font-weight: 500;
+  color: var(--gris);
+  letter-spacing: 0;
+}
+
+.portadaBloque p + p {
+  margin-top: 16px;
+}
+
+/* Tablas */
+
+.tablaEnvoltura {
+  margin-top: 32px;
+  overflow-x: auto;
+}
+
+.tabla {
+  min-width: 640px;
   font-size: 14px;
 }
 
-.ctas a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 40px;
-  padding: 0 16px;
-  border-radius: 128px;
-  border: 1px solid transparent;
-  transition: 0.2s;
-  cursor: pointer;
-  width: fit-content;
+.tabla th {
+  text-align: left;
+  vertical-align: bottom;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--gris);
+  padding: 0 16px 10px 0;
+  border-bottom: 1px solid var(--tinta);
+}
+
+.tabla td {
+  padding: 14px 16px 14px 0;
+  border-bottom: 1px solid var(--linea);
+  vertical-align: top;
+  color: var(--tinta-texto);
+}
+
+.tabla tr td:last-child,
+.tabla tr th:last-child {
+  padding-right: 0;
+}
+
+.derecha {
+  text-align: right;
+}
+
+.cero {
+  color: var(--gris-claro);
+}
+
+.enlaceMedicamento {
   font-weight: 500;
+  text-decoration-color: var(--linea-media);
 }
 
-a.primary {
-  background: var(--text-primary);
-  color: var(--background);
-  gap: 8px;
-}
-
-a.secondary {
-  border-color: var(--button-secondary-border);
-}
-
-/* Enable hover only on non-touch devices */
-@media (hover: hover) and (pointer: fine) {
-  a.primary:hover {
-    background: var(--button-primary-hover);
-    border-color: transparent;
-  }
-
-  a.secondary:hover {
-    background: var(--button-secondary-hover);
-    border-color: transparent;
-  }
-}
-
-@media (max-width: 600px) {
-  .main {
-    padding: 48px 24px;
-  }
-
-  .intro {
-    gap: 16px;
-  }
-
-  .intro h1 {
-    font-size: 32px;
-    line-height: 40px;
-    letter-spacing: -1.92px;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  .logo {
-    filter: invert();
-  }
-
-  .page {
-    --background: #000;
-    --foreground: #000;
-
-    --text-primary: #ededed;
-    --text-secondary: #999;
-
-    --button-primary-hover: #ccc;
-    --button-secondary-hover: #1a1a1a;
-    --button-secondary-border: #1a1a1a;
-  }
-}
-
-.code {
-  font-family: var(--font-geist-mono);
-  font-size: 0.9em;
-  background: color-mix(in srgb, currentColor 8%, transparent);
-  padding: 0.1em 0.4em;
-  border-radius: 6px;
+.enlaceMedicamento:hover {
+  text-decoration-color: var(--tinta);
 }

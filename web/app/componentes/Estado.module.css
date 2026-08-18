@@ -1,0 +1,25 @@
+.mensaje {
+  padding: 64px 0;
+  font-size: 15px;
+  color: var(--gris);
+}
+
+.error {
+  margin: 48px 0;
+  border: 1px solid var(--tinta);
+  padding: 24px;
+  max-width: 62ch;
+}
+
+.errorTexto {
+  margin-top: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--tinta);
+}
+
+.errorNota {
+  margin-top: 12px;
+  font-size: 13px;
+  color: var(--gris-fuerte);
+}

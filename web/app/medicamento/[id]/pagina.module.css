@@ -1,0 +1,332 @@
+.volver {
+  padding-top: 32px;
+  font-size: 13px;
+}
+
+.encabezado {
+  padding: 24px 0 40px;
+  border-bottom: 1px solid var(--linea);
+}
+
+.h1 {
+  margin-top: 14px;
+  max-width: 46ch;
+  font-size: clamp(1.75rem, 4.4vw, 3rem);
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+
+.meta {
+  margin-top: 36px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px 32px;
+}
+
+.meta dd {
+  margin-top: 6px;
+  font-size: 15px;
+  color: var(--tinta);
+  word-break: break-word;
+}
+
+.seccionCifras {
+  padding-top: 40px;
+}
+
+.cifras {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  border-top: 1px solid var(--linea);
+  border-left: 1px solid var(--linea);
+}
+
+.cifra {
+  border-right: 1px solid var(--linea);
+  border-bottom: 1px solid var(--linea);
+  padding: 20px;
+}
+
+.cifraValor {
+  font-size: clamp(1.875rem, 4vw, 2.75rem);
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--tinta);
+}
+
+.cifraEtiqueta {
+  margin-top: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--gris-fuerte);
+}
+
+/* Aviso de integridad */
+
+.aviso {
+  margin-top: 40px;
+  border: 1px solid var(--tinta);
+  padding: 24px;
+}
+
+.avisoTexto {
+  margin-top: 12px;
+  max-width: 78ch;
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--tinta-texto);
+}
+
+.avisoNota {
+  margin-top: 16px;
+  max-width: 78ch;
+  border-top: 1px solid var(--linea);
+  padding-top: 16px;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--gris-fuerte);
+}
+
+/* Secciones */
+
+.seccion {
+  padding-top: 72px;
+}
+
+.tituloFila {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 24px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--tinta);
+}
+
+.h2,
+.h2Bloque {
+  font-size: clamp(1.25rem, 2.6vw, 1.625rem);
+}
+
+.h2 {
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--tinta);
+}
+
+.conteo {
+  font-size: clamp(1.25rem, 2.6vw, 1.625rem);
+  font-weight: 600;
+  color: var(--gris);
+}
+
+.parrafo {
+  margin-top: 20px;
+  max-width: 76ch;
+  font-size: 14px;
+  line-height: 1.75;
+  color: var(--gris-fuerte);
+}
+
+.notaSeccion {
+  margin-top: 16px;
+  max-width: 76ch;
+  border-left: 1px solid var(--linea-media);
+  padding-left: 16px;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--gris-fuerte);
+}
+
+.vacio {
+  margin-top: 24px;
+  border: 1px solid var(--linea);
+  padding: 20px;
+  font-size: 14px;
+  color: var(--gris-fuerte);
+}
+
+/* Tablas */
+
+.tablaEnvoltura {
+  margin-top: 28px;
+  overflow-x: auto;
+}
+
+.tabla {
+  min-width: 720px;
+  font-size: 14px;
+}
+
+.tabla th {
+  text-align: left;
+  vertical-align: bottom;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--gris);
+  padding: 0 16px 10px 0;
+  border-bottom: 1px solid var(--tinta);
+}
+
+.tabla td {
+  padding: 16px 16px 16px 0;
+  border-bottom: 1px solid var(--linea);
+  vertical-align: top;
+}
+
+.tabla tr td:last-child,
+.tabla tr th:last-child {
+  padding-right: 0;
+}
+
+.derecha {
+  text-align: right;
+}
+
+.nombreInstalacion {
+  display: block;
+  font-weight: 500;
+  color: var(--tinta);
+}
+
+.etiquetas,
+.corregimiento {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--gris);
+}
+
+.avisos {
+  margin-top: 8px;
+  max-width: 46ch;
+}
+
+.avisos li {
+  font-size: 12px;
+  line-height: 1.55;
+  color: var(--gris-fuerte);
+  border-left: 1px solid var(--linea-media);
+  padding-left: 10px;
+  margin-top: 6px;
+}
+
+.cantidad {
+  display: block;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--tinta);
+}
+
+.cantidadDias {
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--tinta);
+}
+
+.noPublicado {
+  display: block;
+  font-size: 13px;
+  color: var(--gris);
+}
+
+.subCelda {
+  display: block;
+  margin-top: 6px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--gris);
+}
+
+.motivo {
+  max-width: 44ch;
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--gris-fuerte);
+}
+
+/* Cambios */
+
+.cambios {
+  margin-top: 32px;
+  border-top: 1px solid var(--linea);
+}
+
+.cambio {
+  border-bottom: 1px solid var(--linea);
+  padding: 24px 0;
+}
+
+.cambioCabecera {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.cambioCuando {
+  font-size: 12px;
+  color: var(--gris);
+}
+
+.cambioInstalacion {
+  margin-top: 14px;
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--tinta);
+}
+
+.cambioProvincia {
+  margin-top: 2px;
+  font-size: 13px;
+  color: var(--gris);
+}
+
+.cambioCifras {
+  margin-top: 16px;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--tinta);
+}
+
+.flecha {
+  color: var(--gris-claro);
+  font-weight: 400;
+}
+
+.unidad {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--gris);
+}
+
+.delta {
+  display: inline-block;
+  margin-left: 14px;
+  border: 1px solid var(--linea-media);
+  padding: 1px 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--gris-fuerte);
+  font-variant-numeric: tabular-nums;
+}
+
+.cambioDetalle {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--gris-fuerte);
+}
+
+.generado {
+  margin-top: 64px;
+  border-top: 1px solid var(--linea);
+  padding-top: 20px;
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--gris);
+  word-break: break-word;
+}

@@ -1,0 +1,206 @@
+Búsqueda de Medicamentos
+Mi Farma Digital
+Ir al inicio
+Plataforma Nacional de Consulta y Abastecimiento de Medicamentos CSS Panamá
+Menú principal
+565
+
+Medicamentos cubiertos por la Caja de Seguro Social — Lista Oficial de Medicamentos (LOM)
+
+Ver lista oficial de medicamentos
+94%
+De medicamentos disponibles
+
+531 en existencia de 565
+
+Corresponde a la proporción de medicamentos de la Lista Oficial que están disponibles.
+
+Óptimo por encima de 90%
+
+Cómo se calcula
+57 días
+de abastecimiento
+
+Estimación basada en el ritmo de utilización reciente de los medicamentos.
+
+Cómo se calcula
+Busque su medicamento
+
+Escriba el nombre y seleccione de la lista, o filtre por provincia y unidad
+
+Limpiar
+FILTRAR POR
+Todas las provincias
+Bocas del Toro
+Chiriquí
+Coclé
+Colón
+Herrera
+Los Santos
+Panamá
+Panamá Oeste
+Veraguas
+Tipo de unidad ejecutora: Todas
+CAPPS y ULAPS
+Policlínicas Básicas
+Policlínicas Especializadas
+Policl. Esp. con Cirugía
+Hospitales
+Nombre de la unidad ejecutora (elija provincia)
+Medicamento Disponible
+INSULINA ANÁLOGA DE ACCIÓN PROLONGADA GLARGINA 100UI/ml, solución, S.C.
+¿Este medicamento puede recetarse fuera del sistema CSS-MINSA? Sí
+Nombre comercial:
+LANTUS 1-- U/ML SOLUCION INYECTABLE S.C.
+Se suministra en: Policlínicas especializadas, Policlínicas con cirugía, Hospitales
+
+Recuerde que no todos los medicamentos están disponibles en todos los tipos de unidades ejecutoras, por su especialización.
+
+¿Para qué sirve este medicamento?
+Indicaciones: Diabetes Mellitus Tipo 1: Para niños mayores de 6 años con diagnóstico de Diabetes Mellitus tipo 1. Para dar continuidad del esquema de manejo de la Diabetes en los adolescentes con diabetes Tipo I que son referidos por Pediatría al Servicio de Endocrinología de adulto al llegar a la edad de 15 años. Diabetes Mellitus Tipo 2: Pacientes especiales con DM tipo 2 como enfermedad renal crónica G3, falla hepática, enfermedad cardiovascular establecida, pacientes con mínimo dos episodios de hipoglicemia y pacientes hospitalizados con alto riesgo de hipoglicemia.
+Restricciones de uso: Restringido para Diabetes Mellitus tipo 1 a: Medicina Interna, Medicina Familiar, Pediatría para Diabetes Mellitus Tipo 1 para continuidad del tratamiento con previa referencia de Endocrinología. Restringido para Diabetes Mellitus tipo 2 a: Endocrinología Pediátrica, Endocrinología Adulto, Medicina Interna, Medicina Familiar, Geriatría, Programa de Diabetes; el Médico General del Programa de Diabetes requerirá el uso de Protocolo autorizado por especialista
+HORACIO DÍAZ GÓMEZ
+Pol. de Santiago
+Policlinica
+Veraguas · Santiago
+Cantidad en inventario: 270 viales o ampollas
+Días de abastecimiento: 12 días
+ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)
+Pol. de Chitré
+Policlinica
+Herrera · Chitré
+Cantidad en inventario: 250 viales o ampollas
+Días de abastecimiento: 7 días
+DR. GUSTAVO NELSON COLLADO (CHITRÉ)
+Hosp. de Chitré
+Hospital
+Herrera · Chitré
+Cantidad en inventario: 210 viales o ampollas
+Días de abastecimiento: 4 días
+DR. EZEQUIEL ABADÍA
+Hosp. de Soná
+Hospital
+Veraguas · Soná
+Cantidad en inventario: 204 viales o ampollas
+Días de abastecimiento: 7 días
+PENONOMÉ (MANUEL PAULINO OCAÑA)
+Pol. de Penonomé
+Policlinica
+Coclé · Penonomé
+Cantidad en inventario: 200 viales o ampollas
+Días de abastecimiento: 12 días
+BLAS GÓMEZ CHETRO (ARRAIJÁN)
+Pol. de Arraiján
+Policlinica
+Panamá Oeste · Arraiján
+Cantidad en inventario: 179 viales o ampollas
+Días de abastecimiento: 9 días
+REGIONAL DE CHEPO
+Hosp. de Chepo
+Hospital
+Panamá · Chepo
+Cantidad en inventario: 156 viales o ampollas
+Días de abastecimiento: 15 días
+RAFAEL ESTÉVEZ
+Hosp. de Aguadulce
+Hospital
+Coclé · Aguadulce
+Cantidad en inventario: 140 viales o ampollas
+Días de abastecimiento: 11 días
+MIGUEL CÁRDENAS
+Pol. de Las Tablas
+Policlinica
+Los Santos · Las Tablas
+Cantidad en inventario: 138 viales o ampollas
+Días de abastecimiento: 8 días
+DR. MANUEL DE JESÚS ROJAS (AGUADULCE)
+Pol. de Aguadulce
+Policlinica
+Coclé · Aguadulce
+Cantidad en inventario: 120 viales o ampollas
+Días de abastecimiento: 8 días
+CIUDAD DE LA SALUD
+CIDELAS
+Hospital
+Panamá · Centenario
+Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).
+Cantidad en inventario: 112 viales o ampollas
+Días de abastecimiento: 48 días
+ESPECIALIDADES PEDIÁTRICAS (HEPOTH)
+Hospital
+Panamá
+Farmacia disponible solo para niños (menores de edad).
+Cantidad en inventario: 111 viales o ampollas
+Días de abastecimiento: 25 días
+LAURENCIO JAÉN OCAÑA (SABANITAS)
+Pol. de Sabanitas
+Policlinica
+Colón · Sabanitas
+Cantidad en inventario: 98 viales o ampollas
+Días de abastecimiento: 44 días
+SAN JUAN DE DIOS (NATÁ)
+Pol. de Natá
+Policlinica
+Coclé · Natá
+Cantidad en inventario: 95 viales o ampollas
+Días de abastecimiento: 10 días
+DR. HUGO SPADAFORA
+Policlinica
+Colón · Coco Solo
+Cantidad en inventario: 86 viales o ampollas
+Días de abastecimiento: 13 días
+DR. RAÚL DÁVILA MENA (CHANGUINOLA)
+Hosp. de Changuinola (Raúl Dávila)
+Hospital
+Bocas del Toro · Changuinola
+Cantidad en inventario: 85 viales o ampollas
+Días de abastecimiento: 10 días
+GUABITO
+Policlinica
+Bocas del Toro · Guabito
+Cantidad en inventario: 72 viales o ampollas
+Días de abastecimiento: 10 días
+DR. MANUEL AMADOR GUERRERO
+Hosp. Amador Guerrero
+Hospital
+Colón · Coco Solo
+Cantidad en inventario: 39 viales o ampollas
+Días de abastecimiento: 13 días
+ALMIRANTE
+Hospital
+Bocas del Toro · Almirante
+Cantidad en inventario: 4 viales o ampollas
+Días de abastecimiento: 3 días
+ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ
+Antigua ULAPS Nvo. Vedado (Rodrigo Hidalgo)
+Policlinica
+Chiriquí · Alto Verde
+Cantidad en inventario: 3 viales o ampollas
+Días de abastecimiento: menos de 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)
+Policlinica
+Panamá · Juan Díaz
+Cantidad en inventario: 1 viales o ampollas
+Días de abastecimiento: menos de 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+MANUEL FERRER VALDÉS
+Pol. de Marañón
+Policlinica
+Panamá · Calle 25 - Marañón
+Cantidad en inventario: 1 viales o ampollas
+Días de abastecimiento: menos de 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+MANUEL MARÍA VALDÉS (SAN MIGUELITO)
+Pol. de San Miguelito
+Policlinica
+Panamá · Veranillo
+Cantidad en inventario: 1 viales o ampollas
+Días de abastecimiento: menos de 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+HOGAR DE LA ESPERANZA (VERACRUZ)
+Hospital
+Panamá Oeste
+Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).
+Cantidad en inventario: 1 viales o ampollas
+Volver a los resultados

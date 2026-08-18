@@ -1,0 +1,3993 @@
+{
+  "capturado_en": "2026-08-18T05:38:41.476Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "ok": true,
+  "error": null,
+  "encabezado_modal": "Medicamentos cubiertos por la Caja de Seguro Social — Lista Oficial de Medicamentos (LOM)",
+  "nombre_archivo_origen": "MiFarmaDigital_LOM_20260818_0038.csv",
+  "total": 565,
+  "columnas": [
+    "#",
+    "Código",
+    "Nombre genérico",
+    "Nombre comercial",
+    "Presentación"
+  ],
+  "codigos_unicos": 565,
+  "por_presentacion": {
+    "Pastilla - Cápsula": 199,
+    "Frasco de gotas": 27,
+    "Vial/Ampolla": 235,
+    "Frasco de jarabe": 42,
+    "Inhalador": 15,
+    "Crema/Ungüento": 30,
+    "KAVIBEN P1 EMULSION PARA INFUSION I.V. | COMBIFLEX LIPID PERI INYECCION": 1,
+    "DEPO-MEDROL 4-MG/ML SUSPENSION INYECTABLE I.M., I.SINOVIAL Y EN TEJIDOS BLANDO": 1,
+    "Gas medicinal": 1,
+    "Óvulo/Supositorio": 4,
+    "NORGYLEN TABLETAS RECUBIERTAS": 1,
+    "S/P REGISTRADO": 1,
+    "DOLOFENIL 75MG/3ML SOLUCION INYECTABLE | KLONAFENAC 75MG/3ML SOLUCION INYECTABLE I.M., INFUSION I.V. | DICLOFENACO SÓDICO SOLUCIÓN INYECTABLE 75MG/3ML | DICLOFENAC SODICO 25MG/ML SOLUCION INYECTABLE": 1,
+    "I.V.\"": 1,
+    "Implante": 2,
+    "IBUPROFENO NORMON 4-- MG COMPRIMIDOS RECUBIERTOS EFG | IBULAP 4--MG TABLETAS RECUBIERTAS. | IBUPROFENO RIGAR 4-- MG COMPRIMIDOS RECUBIERTOS | REUMALAF TABLETAS": 1,
+    "Parche": 3
+  },
+  "medicamentos": [
+    {
+      "#": "1",
+      "Código": "101097501",
+      "Nombre genérico": "ABACAVIR 300mg, tableta, V.O.",
+      "Nombre comercial": "ABACAVIR 3-- MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "2",
+      "Código": "101099901",
+      "Nombre genérico": "ABIRATERONA 250mg, tableta, V.O.",
+      "Nombre comercial": "ABIRAVITAE 25- MG COMPRIMIDOS | ZYTIGA 25- MG COMPRIMIDOS | ABIRONE 25- MG TABLETAS | Acetato de Abiraterona 25- mg Tabletas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "3",
+      "Código": "102048801",
+      "Nombre genérico": "ACETILCOLINA CLORURO 1:100 o CARBACOL 0.01%, solución estéril, Vía Oftálmica.",
+      "Nombre comercial": "Miostat -.-1% solución Intraocular estéril",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "4",
+      "Código": "102073301",
+      "Nombre genérico": "ACICLOVIR 25mg/ml, polvo liofilizado, I.V.",
+      "Nombre comercial": "ZOVIRAX 25- MG/VIAL POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE INFUSIÓN INTRAVENOSA | ISAVIR 25-MG/VIAL Polvo Liofilizado para Solución Inyectable Infusión Intravenosa | ACICLOVIR 25- MG/ FCO. AMP. POLVO LIOFILIZADO ESTÉRIL PARA RECONSTITUIR A SOLUCIÓN INYECTABLE POR INFUSIÓN I.V. LENTA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "5",
+      "Código": "101085201",
+      "Nombre genérico": "ACICLOVIR 400mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "Zovirax 4--mg Tabletas | AUROVIR - 4-- (4-- MG) TABLETAS RECUBIERTAS | Virax 4-- mg comprimidos ranurados | ACICLOVIR USP 4-- MG TABLETAS.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "6",
+      "Código": "102079401",
+      "Nombre genérico": "ADENOSINA 3mg/ml, solución, I.V.",
+      "Nombre comercial": "ADENOSINA 6mg/2mL Solución Inyectable I.V. | Caden 6 mg/ 2 ml Solución Inyectable I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "7",
+      "Código": "102048201",
+      "Nombre genérico": "ADRENALINA CLORURO (EPINEFRINA) 1:1,000, 1mg/ml, solución, 1ml, S.C. I.M. I.V.",
+      "Nombre comercial": "PINADRINA 1MG/ML SOLUCIÓN INYECTABLE S.C., I.M., I.V. | ADRENALINA SINTETICA 1MG/ML SIN SULFITO SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "8",
+      "Código": "102051901",
+      "Nombre genérico": "ALBÚMINA HUMANA POBRE EN SODIO 10g/50ml (20%) ó 12.5g/50ml (25%), solución, I.V.",
+      "Nombre comercial": "ALBURX 2- SOLUCIÓN PARA INFUSIÓN DE USO INTRAVENOSO | Alburex 2- (2-%) Solución Inyectable para Infusión Intravenosa | ALBUMINA HUMANA GRIFOLS AL 2-% SOLUCION INYECTABLE I.V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "9",
+      "Código": "101002401",
+      "Nombre genérico": "ALFACALCIDOL 1mcg, cápsula, V.O.",
+      "Nombre comercial": "ETALPHA 1 MCG CAPSULAS.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "10",
+      "Código": "102097801",
+      "Nombre genérico": "ALTEPLASA (rtpA) 50mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "Actilyse 5- mg/vial polvo liofilizado + solvente para solución inyectable I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "11",
+      "Código": "102043901",
+      "Nombre genérico": "AMIKACINA SULFATO 250mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "A.M.K 5--mg/2mL Solución Inyectable | Amikacina 5-- mg/2 ml Solución Inyectable I.M. Infusión I.V. | AMIKACINA 5-- MG/2ML SOLUCIÓN INYECTABLE I.M, I.V. (INFUSIÓN LENTA)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "12",
+      "Código": "102053001",
+      "Nombre genérico": "AMINOCAPRÓICO ÁCIDO 250mg/ml, solución, I.V.",
+      "Nombre comercial": "HAMOSTAT ACIDO AMINOCAPROICO INYECCION IP 5 G /2- ML SOLUCION I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "13",
+      "Código": "102094101",
+      "Nombre genérico": "AMINOÁCIDOS al 13.4%, enriquecido con GLUTAMINA, solución, 500-1,000ml, I.V.",
+      "Nombre comercial": "GLAMIN SOLUCIÓN INYECTABLE PARA INFUSIÓN INTRAVENOSA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "14",
+      "Código": "102078101",
+      "Nombre genérico": "AMINOÁCIDOS CRISTALINOS al 10%, con CISTEÍNA, HISTIDINA, TAURINA y TIROSINA, solución, 250-500ml, I.V.",
+      "Nombre comercial": "AMINOVEN INFANT AL 1-% SOLUCION PARA INFUSION I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "15",
+      "Código": "102045001",
+      "Nombre genérico": "AMINOÁCIDOS CRISTALINOS al 10%, solución, 500ml, I.V.",
+      "Nombre comercial": "AMINOPLASMAL B.BRAUN 1-% SOLUCION PARA PERFUSION | AMINOVEN AL 1-% SOLUCIÓN PARA INFUSIÓN I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "16",
+      "Código": "102079301",
+      "Nombre genérico": "AMIODARONA 50mg/ml, solución, I.V.",
+      "Nombre comercial": "CORDARONE 15- MG / 3 ML SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "17",
+      "Código": "101075501",
+      "Nombre genérico": "AMIODARONA CLORHIDRATO 200mg, tableta, V.O.",
+      "Nombre comercial": "CORDARONE 2--MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "18",
+      "Código": "101092801",
+      "Nombre genérico": "AMOXICILINA 500mg con ACIDO CLAVULÁNICO 125mg, tableta, V.O.",
+      "Nombre comercial": "Augmentin 5--mg/125mg Tabletas Recubiertas | CLAVOXILIN PLUS (5-- MG / 125 MG) COMPRIMIDOS REVESTIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "19",
+      "Código": "103055201",
+      "Nombre genérico": "AMOXICILINA BASE O TRIHIDRATADA 250mg/5ml, polvo para suspensión o jarabe, frasco, 60-100ml. V.O.",
+      "Nombre comercial": "AMICIL 25-MG/ 5ML GRANULOS PARA SUSPENSION ORAL | AMOXAPEN | AMOXICILINA 25-MG/5ML POLVO PARA SUSPENSIÓN ORAL | AMOXICILINA 25-MG/5ML POLVO PARA RECONSTITUIR A SUSPENSIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "20",
+      "Código": "101061101",
+      "Nombre genérico": "AMOXICILINA BASE O TRIHIDRATADA 500mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "AMOXICILINA CINFA 5--MG CÁPSULAS DURAS | AMOXAPEN 5--MG CÁPSULAS | AMOXICILINA 5--MG CÁPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "21",
+      "Código": "102023801",
+      "Nombre genérico": "AMPICILINA SÓDICA 1g, polvo liofilizado, I.M., I.V.",
+      "Nombre comercial": "Ampicilina 1g Polvo Estéril para Reconstituir a Solución Inyectable | AMPICILINA 1,- G POLVO PARA INYECCIÓN | MPICILINA (SODICA) 1.- G POLVO PARA SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "22",
+      "Código": "102055301",
+      "Nombre genérico": "ANFOTERICINA B 50mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "AMFOTERICINA B 5- MG/VIAL POLVO PARA SOLUCIÓN INYECTABLE INTRAVENOSA (INFUSIÓN LENTA). | AMFOTERICINA B 5-MG POLVO LIOFILIZADO PARA RECONSTITUIR A SOLUCION INYECTABL | GANCICLOVIR 5--MG Polvo Liofilizado para reconstituir a solución inyectable | AMPHOTRET ANFOTERICINA B 5- MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE VÍA INTRAVENOSA (INFUSIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "23",
+      "Código": "102013701",
+      "Nombre genérico": "ANTAGONISTAS DE RECEPTORES 5-HT3: ONDANSETRÓN CLORHIDRATO 2mg/ml, solución, I.V., o TROPISETRÓN 1mg/ml, solución, I.V., o GRANISETRÓN 1mg/ml, solución, I.V.",
+      "Nombre comercial": "MODIFICAL 8MG/4ML SOLUCION INYECTABLE I.V., INFUSIÓN INTRAVENOSA E INTRAMUSCULAR | ANTIVON 8mg/4mL Solución Inyectable | Grani-Denk 1 mg/ml Concentrado Para Solución Inyectable o Para Infusión | ONDANSETRON 8MG / 4ML SOLUCION INYECTABLE I.M., I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "24",
+      "Código": "102064001",
+      "Nombre genérico": "ASPARAGINASA 10,000UI, polvo  liofilizado, I.V.",
+      "Nombre comercial": "ASPAREM L-ASPARAGINASA PARA INYECCIÓN 1---- IU POLVO LIOFILIZADO PARA SOLUCIÓN INYECCIÓN, I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "25",
+      "Código": "101016301",
+      "Nombre genérico": "ATENOLOL 100mg, tableta ranurada, V.O.",
+      "Nombre comercial": "ATENOLOL CINFA 1--MG COMPRIMIDOS | ATENOLOL NORMON 1-- MG COMPRIMIDOS RECUBIERTOS EFG | Atenolol 1--mg Tabletas | Cardiotal 1-- mg comprimido",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "26",
+      "Código": "102013901",
+      "Nombre genérico": "ATRACURIO BESILATO 10mg/ml, solución, I.V.",
+      "Nombre comercial": "ATRACURIO BESILATO 25mg/2.5ml SOLUCIÓN INYECTABLE | RELATRAC 25MG/2.5ML SOLUCION INYECTABLE I.V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "27",
+      "Código": "102032401",
+      "Nombre genérico": "ATROPINA SULFATO 1mg/ml, solución, S.C., I.M., I.V.",
+      "Nombre comercial": "Atropina Sulfato 1MG/ML Solución Inyectable I.M., I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "28",
+      "Código": "102096301",
+      "Nombre genérico": "AZACITIDINA 100mg, polvo  para preparación inyectable o para perfusión, S.C., I.V.",
+      "Nombre comercial": "AZADIR 1-- MG POLVO LIOFILIZADO PARA INYECTABLE | Xitidin 1--mg polvo liofilizado para inyección | AZACITIDINA ACCORD 1-- MG/VIAL POLVO PARA SUSPENSIÓN INYECTABLE S.C. O POLVO PARA SOLUCIÓN INYECTABLE I.V. POR INFUSIÓN | TAZADIR 1-- MG POLVO LIOFILIZADO PARA INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "29",
+      "Código": "101015901",
+      "Nombre genérico": "AZATIOPRINA 50mg, tableta, V.O.",
+      "Nombre comercial": "",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "30",
+      "Código": "101083401",
+      "Nombre genérico": "AZITROMICINA 500mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "ZITHROMAX 5-- MG TABLETAS RECUBIERTAS. | AZITROMICINA CINFA 5--MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA | AZYNOR 5-- MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA | Azitrolaf 5-- mg tabletas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "31",
+      "Código": "102080301",
+      "Nombre genérico": "BASILIXIMAB 20mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "SIMULECT 2-mg POLVO PARA SOLUCIÓN INYECTABLE/INFUSIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "32",
+      "Código": "102013601",
+      "Nombre genérico": "BENCILPENICILINA BENZATÍNICA 2,400,000UI, polvo liofilizado, I.M.",
+      "Nombre comercial": "BENCILPENICILINA BENZATINICA 2.4 MEGA UI /VIAL POLVO PARA SUSPENSIÓN INYECTABLE I.M | PENICILINA G BENZATINICA 2.4--.--- POLVO ESTERIL PARA RECONSTITUIR A SUSPENSION INYECTABLE I.M.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "33",
+      "Código": "102014101",
+      "Nombre genérico": "BENCILPENICILINA PROCAÍNICA 600,000 – 800,000UI, con o sin BENCILPENICILINA cristalina SÓDICA o POTÁSICA, polvo liofilizado, I.M.",
+      "Nombre comercial": "PENISODINA 8--,--- UI POLVO PARA SUSPENSION INYECTABLE I.M.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "34",
+      "Código": "102014001",
+      "Nombre genérico": "BENCILPENICILINA SÓDICA 1,000,000UI, polvo liofilizado, I.V.",
+      "Nombre comercial": "PENICILINA G SODICA 1.---.--- UI, Polvo Estéril para Reconstituir a Solución Inyectable | PENICILINA G SODICA 1.---.--- UI POLVO ESTERIL PARA RECONSTITUIR A SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "35",
+      "Código": "102099001",
+      "Nombre genérico": "BENDAMUSTINA 100mg, I.V.",
+      "Nombre comercial": "MEXED 1-- POLVO LIOFILIZADO PARA SOLUCION INYECTABLE | BENDAMUSTINA ACCORD 2,5MG/ML POLVO PARA CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN EFG 1-- MG | Bendamustina 1-- mg/vial Polvo Liofilizado para Concentrado para Solución por Infusión | BENDAMUSTINA CLORHIDRATO PARA INYECCIÓN 1-- MG/VIAL",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "36",
+      "Código": "102099101",
+      "Nombre genérico": "BENDAMUSTINA 25mg, I.V.",
+      "Nombre comercial": "MEXED 25 POLVO LIOFILIZADO PARA SOLUCION INYECTABLE | Bendamustina 25 mg/vial Polvo Liofilizado para Concentrado para Solución por Infusión | BENDAMUSTINA CLORHIDRATO PARA INYECCIÓN 25 MG/VIAL | BENDAMUSTINA CLORHIDRATO 25 MG/VIAL POLVO PARA CONCENTRADO PARA SOLUCION PARA INFUSION",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "37",
+      "Código": "101104301",
+      "Nombre genérico": "BICTEGRAVIR (50mg)/EMTRICITABINA (200mg)/TENOFOVIR ALAFENAMIDA (25mg), cápsula o comprimido, V.O.",
+      "Nombre comercial": "BIKTARVY TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "38",
+      "Código": "102023901",
+      "Nombre genérico": "BIPERIDENO LACTATO 5mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "39",
+      "Código": "102008501",
+      "Nombre genérico": "BLEOMICINA SULFATO 15U, polvo liofilizado, S.C., I.M., I.V.",
+      "Nombre comercial": "BLOCIN 15UI POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "40",
+      "Código": "102093901",
+      "Nombre genérico": "BORTEZOMIB 3.5mg, polvo liofilizado, I.V., S.C.",
+      "Nombre comercial": "Porix 3.5mg Polvo Liofilizado para inyección | BORMIB 3.5 MG/FCO. AMP. POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE I.V. | NINIB POLVO LIOFILIZADO PARA INYECTABLE | BORTESUN LIOFILIZADO (BORTEZOMIB PARA INYECCIÓN 3.5 MG/VIAL)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "41",
+      "Código": "103000101",
+      "Nombre genérico": "BUDESONIDA 160mcg / FORMOTEROL FUMARATO DIHIDRATADO 4.5mcg, polvo o aerosol o suspensión para inhalación, V.O.",
+      "Nombre comercial": "SYMBICORT TURBUHALER 16-/4.5 MCG/DOSIS POLVO PARA INHALACION ORAL. | SYMBICORT RAPIHALER INHALADOR PRESURIZADO 16-MCG/4.5MCG/ SUSPENSIÓN PARA INHALACIÓN ORAL",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "42",
+      "Código": "102044201",
+      "Nombre genérico": "BUPIVACAÍNA CLORHIDRATO 0.5%, solución, Vía Parenteral.",
+      "Nombre comercial": "BUVACAINA 5mg/mL Solución Inyectable Infiltración Troncular o Peridural | BUPIVACAÍNA CLORHIDRATO 5MG/ML SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "43",
+      "Código": "102091201",
+      "Nombre genérico": "BUSULFANO 6mg/ml, solución, I.V.",
+      "Nombre comercial": "Busulfan Varifarma SoluciÃ³n Inyectable | BUSULFAN TILLOMED 6 MG/ML CONCENTRADO PARA SOLUCIÓN PARA INFUSIÓN | Busulfan Solución Inyectable 6-mg/1-ml (6mg/ml)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "44",
+      "Código": "101099601",
+      "Nombre genérico": "CABERGOLINA 0.5mg, tableta, V.O.",
+      "Nombre comercial": "DOSTINEX -.5 MG COMPRIMIDOS. | CABERTRIX -.5MG COMPRIMIDOS. | Alactin -,5mg Tabletas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "45",
+      "Código": "102003001",
+      "Nombre genérico": "CALCIO GLUCONATO 10%, solución, I.V.",
+      "Nombre comercial": "SOLUCION GC AL 1-% SOL INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "46",
+      "Código": "103061101",
+      "Nombre genérico": "CALCIPOTRIOL (HIDRATO) 50mcg/g con BETAMETASONA (DIPROPIONATO) 0.5mg/g, gel, frasco, 30g, Vía Tópica.",
+      "Nombre comercial": "DAIVOBET -.-5MG + -.5MG /G GEL TOPICO",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "47",
+      "Código": "101091901",
+      "Nombre genérico": "CAPECITABINA 500mg, tableta o cápsula, V.O.",
+      "Nombre comercial": "CORRETAL 5-- MG COMPRIMIDOS RECUBIERTOS | CAPECITABINA SANDOZ 5-- MG TABLETAS RECUBIERTAS | KAPETRAL 5-- MG COMPRIMIDOS RECUBIERTOS CON PELICULA | CAPECITABINA 5-- MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "48",
+      "Código": "101074201",
+      "Nombre genérico": "CAPTOPRIL 25mg, tableta, V.O.",
+      "Nombre comercial": "CAPTOPRIL CINFA 25 MG COMPRIMIDOS EFG.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "49",
+      "Código": "103053701",
+      "Nombre genérico": "CARBAMAZEPINA 100mg/5ml, suspensión, frasco, 100ml, V.O.",
+      "Nombre comercial": "TEGRETOL AL 2 % SUSPENSIÓN ORAL.",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "50",
+      "Código": "101027701",
+      "Nombre genérico": "CARBAMAZEPINA 200mg, tableta, V.O.",
+      "Nombre comercial": "CARBAMAZEPINA NORMON 2-- MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "51",
+      "Código": "102075001",
+      "Nombre genérico": "CARBAPENEM: IMIPENEM 500mg con CILASTATINA 500mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "ARZOMEBA 5-- MG/5-- MG POLVO PARA SOLUCIÓN INYECTABLE | PREPENEM 5-- MG POLVO PARA SOLUCIÓN INYECTABLE I.V. | IMIPENEM 5-- mg CILASTATINA 5-- mg Polvo Estéril para reconstituir a Solución Inyectabl",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "52",
+      "Código": "102076101",
+      "Nombre genérico": "CARBOPLATINO 150mg, polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "CARBOPLATINO 1-MG/ML SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "53",
+      "Código": "102001001",
+      "Nombre genérico": "CARBOXIMALTOSA DE HIERRO 50mg/ml, solución, I.V.",
+      "Nombre comercial": "FERINJECT 5-- mg/1- ml (5- mg/ml) Solución Inyectable y para Perfusión, I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "54",
+      "Código": "102093101",
+      "Nombre genérico": "CARDIOPLÉJICA, solución para perfusión cardiaca, Instilación Cardiaca.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "55",
+      "Código": "102045901",
+      "Nombre genérico": "CARMUSTINA  100mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "CARMUSTINA 1-- MG POLVO LIOFOLIZADO I,V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "56",
+      "Código": "102091301",
+      "Nombre genérico": "CASPOFUNGINA 50mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "CASPOVITAE 5- MG POLVO PARA CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN INTRAVENOSA | CASPONOR 5-MG POLVO PARA CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN | KASINIV 5-MG POLVO PARA CONCENTRADO PARA SOLUCIÓN PARA INFUSIÓN | CASPOFUNGINA NORMON 5-MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION EFG",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "57",
+      "Código": "103032801",
+      "Nombre genérico": "CEFALEXINA 250mg/5ml, gránulo o polvo para suspensión o jarabe, 60-100ml, frasco, V.O.",
+      "Nombre comercial": "CEFALEPAN 25- MG/5 ML POLVO PARA SUSPENSIÓN ORAL | Cefalexina 25- mg / 5 ml polvo para suspensión oral | CEFALEXINA 25- mg / 5 mL POLVO PARA SUSPENSIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "58",
+      "Código": "101061301",
+      "Nombre genérico": "CEFALEXINA 500mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "CEFALEPAN 5-- (5-- MG ) CAPSULAS | CEFALEXINA CÁPSULAS BP 5-- MG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "59",
+      "Código": "102055501",
+      "Nombre genérico": "CEFALOTINA SÓDICA 1g, polvo liofilizado, I.V.",
+      "Nombre comercial": "FALOT 1G POLVO PARA SOLUCIÓN INYECTABLE I.M. PROFUNDA, I.V. + DILUYENTE | CEFALOTINA FABRA 1G POLVO PARA INYECTABLE | CEFALOTINA 1G POLVO ESTERIL PARA RECONSTITUIR A SOLUCIÓN INYECTABLE | CEFALOTINA SODICA 1.-G/VIAL POLVO PARA SOLUCION INYECTABLE I.M., I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "60",
+      "Código": "102077501",
+      "Nombre genérico": "CEFEPIME 1g, polvo liofilizado, I.V.",
+      "Nombre comercial": "IMATION 1G Polvo para solución Inyectable I.M., I.V. + Diluyente | CEFEPIMA 1G POLVO PARA INYECCIÓN | CEFEPIMA (CLORHIDRATO) 1G/VIAL POLVO PARA SOLUCION INYECTABLE I.M., I.V. | CEFEPIME CLORHIDRATO PARA INYECCIÓN 1.-G",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "61",
+      "Código": "102066301",
+      "Nombre genérico": "CEFOTAXIMA 1g, polvo liofilizado, I.V.",
+      "Nombre comercial": "CEFOTAXIMA QUALIPHARM 1G/VIAL POLVO PARA SOLUCIÓN INYECTABLE I.M., I.V. | CEFOTAXIMA SÓDICA PARA INYECCIÓN 1.- G. | AMEGHXIMEGH 1 G. POLVO PARA SOLUCIÓN INYECTABLE I.V. | CEFOTAXIMA 1G POLVO PARA INYECCIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "62",
+      "Código": "102062801",
+      "Nombre genérico": "CEFOXITINA SÓDICA 1g, polvo liofilizado, I.V.",
+      "Nombre comercial": "CEFOXITINA (SODICA) 1 G POLVO PARA SOLUCION INYECTABLE I.M., I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "63",
+      "Código": "102072101",
+      "Nombre genérico": "CEFTAZIDIMA 1g, polvo liofilizado, I.M., I.V.",
+      "Nombre comercial": "IZADIMA 1G POLVO PARA SOLUCIÓN INYECTABLE I.M., I.V. | CEFTAZIDIMA PENTAHIDRATO 1G POLVO PARA SOLUCION INYECTABLE | CEFTAZIDIMA 1G POLVO ESTERIL PARA RECONSTITUIR A SOLUCION INYECTABLE I.M., I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "64",
+      "Código": "102080101",
+      "Nombre genérico": "CEFTAZIDIMA/AVIBACTAM 2g/0.5g, polvo para solución para perfusión, I.V.",
+      "Nombre comercial": "ZAVICEFTA 2G/-.5G POLVO PARA CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "65",
+      "Código": "102062701",
+      "Nombre genérico": "CEFTRIAXONA SÓDICA 1g, polvo liofilizado, I.V.",
+      "Nombre comercial": "AXTAR 1 G/VIAL POLVO PARA SOLUCIÓN INYECTABLE I.V. + DILUYENTE | MESPORIN 1---MG POLVO Y DISOLVENTE (AGUA ESTÉRIL) PARA SOLUCIÓN INYECTABLE I.V. | CEFTRIAXONA NORMON 1--- MG POLVO Y DISOLVENTE PARA SOLUCIÓN INYECTABLE Y PARA PERFUSIÓN EFG | CEFTRIAZ 1G VIAL POLVO PARA SOLUCIÓN INYECTABLE I.M. - I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "66",
+      "Código": "102037401",
+      "Nombre genérico": "CICLOFOSFAMIDA 500mg–1g,  polvo liofilizado, I.V.",
+      "Nombre comercial": "ENDUXAN 1G / VIAL",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "67",
+      "Código": "101042701",
+      "Nombre genérico": "CICLOSPORINA 100mg,  cápsula con microemulsión, V.O.",
+      "Nombre comercial": "SANDIMMUN NEORAL 1-- MG CÁPSULAS BLANDAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "68",
+      "Código": "103059401",
+      "Nombre genérico": "CICLOSPORINA 100mg/ml, solución con microemulsión, frasco, V.O.",
+      "Nombre comercial": "SANDIMMUN NEORAL 1-- MG/ML SOLUCIÓN BEBIBLE",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "69",
+      "Código": "101042601",
+      "Nombre genérico": "CICLOSPORINA 25mg, cápsula con microemulsión,  V.O.",
+      "Nombre comercial": "ANDIMMUN NEORAL 25 MG CÁPSULAS BLANDAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "70",
+      "Código": "102091401",
+      "Nombre genérico": "CICLOSPORINA 50mg/ml, solución, I.V.",
+      "Nombre comercial": "SANDIMMUN CONCENTRADO 5-MG/ML SOLUCION PARA PERFUSION I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "71",
+      "Código": "101094701",
+      "Nombre genérico": "CINACALCET HIDROCLORURO  30mg,  tableta, V.O.",
+      "Nombre comercial": "CINANOR 3- MG COMPRIMIDOS RECUBIERTOS CON PELICULA | DRIADA 3- MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "72",
+      "Código": "102060101",
+      "Nombre genérico": "CISPLATINO 1mg/ml o 10mg, polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "Cisplatino -.5 mg/mL Solución Inyectable | CISPLATINO 5-MG/5-ML (1MG/ML) SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "73",
+      "Código": "102026001",
+      "Nombre genérico": "CITARABINA 100mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "CYTOSAR 1-- MG POLVO LIOFILIZADO PARA SOLUCIÓN PARA INYECCIÓN | CITARABINA MICROSULES 1--MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE | ONCOTAR 1-- (1-- MG/ML) SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "74",
+      "Código": "102079701",
+      "Nombre genérico": "CITARABINA 500mg-1000mg,  polvo estéril para solución inyectable, I.V., Infusión I.V., S.C., Intratecal.",
+      "Nombre comercial": "CYTOSAR 5-- MG POLVO LIOFILIZADO PARA SOLUCIÓN PARA INYECCIÓN | ONCOTAR 5-- (5-- MG / 5 ML) SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "75",
+      "Código": "102091501",
+      "Nombre genérico": "CLADRIBINA 1-2mg/ml, solución inyectable, I.V. o S.C.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "76",
+      "Código": "101083201",
+      "Nombre genérico": "CLARITROMICINA 500mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "KLARICID 5-- MG TABLETAS RECUBIERTAS | Claritromicina 5--mg Tabletas recubiertas | BRUCLAR - 5-- TABLETAS RECUBIERTAS CON PELICULA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "77",
+      "Código": "101070501",
+      "Nombre genérico": "CLINDAMICINA CLORHIDRATO 300mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "DALACIN C 3--MG CAPSULAS | CLINDALAF CÃPSULAS DURAS | CLINDAMICINA CLORHIDRATO CAPSULAS USP, CAMYDA 3-- | EUROCLIN 3-- mg CÁPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "78",
+      "Código": "102060301",
+      "Nombre genérico": "CLINDAMICINA FOSFATO 150mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "CLINDAMICINA 15- MG /ML SOLUCIÓN INYECTABLE I.M., I.V. | INDAMID 6--MG/4ML SOLUCION INYECTABLE I.V., I.M. | CLINDAMICINA 6--MG/4ML SOLUCION INYECTABLE | CLINDAMICINA QUALIPHARM 6--MG/4ML SOLUCIÓN INYECTABLE I.M./I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "79",
+      "Código": "104017001",
+      "Nombre genérico": "CLOBETASOL PROPIONATO 0.05%, crema, tubo, 25g, Vía Tópica. (Corticoide súper potente).",
+      "Nombre comercial": "DERMOVATE AL -.-5% CREMA | CLOBETASOL PROPIONATO CREMA TÓPICA -.-5% | CLOBETASOL PROPIONATO MP -.-5% CREMA TÓPICA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "80",
+      "Código": "103042901",
+      "Nombre genérico": "CLONAZEPAM 2.5mg/ml, solución, frasco, 10ml, V.O.",
+      "Nombre comercial": "Pracal Solución Oral | KRIADEX 2.5MG/ML SOLUCIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "81",
+      "Código": "101066401",
+      "Nombre genérico": "CLONAZEPAM 2mg, tableta, V.O.",
+      "Nombre comercial": "KRIADEX 2MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "82",
+      "Código": "101086001",
+      "Nombre genérico": "CLOPIDOGREL DISULFATO 75mg, tableta, V.O.",
+      "Nombre comercial": "Clopidogrel Cinfamed 75mg Comprimidos Recubiertos Con Película | CLOPACIN 75MG COMPRIMIDOS RECUBIERTOS CON PELICULA | CLOPILET 75 MG TABLETAS RECUBIERTAS | CLOPIDOGREL 75 MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "83",
+      "Código": "102003801",
+      "Nombre genérico": "CLORFENIRAMINA MALEATO 10mg/ml,  solución, I.M., I.V.",
+      "Nombre comercial": "HISTAPRIN 1-MG/ML SOLUCIÓN INYECTABLE I.M., I.V., S.C. | CLORFENIRAMINA MALEATO 1- MG/ML SOLUCIÓN INYECTABLE I.M., I.V., S.C. | CLORFENAMINA MALEATO 1-MG/ML SOLUCIÓN INYECTABLE I.M., I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "84",
+      "Código": "101080001",
+      "Nombre genérico": "CLOZAPINA 100mg, tableta ranurada, V.O.",
+      "Nombre comercial": "Leponex 1--mg Tabletas | CLOZAPINA 1-- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "85",
+      "Código": "102074401",
+      "Nombre genérico": "COMPLEJO PROTROMBÍNICO con un mínimo de 200UI de FACTOR IX, solución o polvo liofilizado, I.V.",
+      "Nombre comercial": "OCTAPLEX 5-- UI POLVO Y SOLVENTE PARA INFUSIÓN INTRAVENOSA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "86",
+      "Código": "104014801",
+      "Nombre genérico": "CORTICOIDE POTENCIA ALTA: AMCINONIDE 0.1% o BETAMETASONA DIPROPIONATO 0.05%  o FLUOCINOLONA ACETÓNIDA 0.2%  o HALCINONIDA 1%  o MOMETASONA FUROATO 0.1%,  crema, tubo, 15g, Vía Tópica.",
+      "Nombre comercial": "CREMIRIT AL -.-5% CREMA DERMICA | BETAMETASONA DIPROPIONATO MP -.-5% CREMA TÓPICA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "87",
+      "Código": "102042601",
+      "Nombre genérico": "DACARBAZINA CITRATO 200mg, polvo liofilizado, I. V.",
+      "Nombre comercial": "DACARBAZINA 2--MG USP POLVO LIOFILIZADO PARA SOLUCIÓN I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "88",
+      "Código": "101100201",
+      "Nombre genérico": "DAPSONA 100mg, tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "89",
+      "Código": "101000301",
+      "Nombre genérico": "DARUNAVIR/COBICISTAT 800mg/150mg, tableta, V.O.",
+      "Nombre comercial": "PREZCOBIX 8-- mg / 15- mg COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "90",
+      "Código": "101096101",
+      "Nombre genérico": "DASATINIB 70mg, tableta, V.O.",
+      "Nombre comercial": "LITEDA 7- MG COMPRIMIDOS RECUBIERTOS.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "91",
+      "Código": "102091601",
+      "Nombre genérico": "DAUNORUBICINA HIDROCLORURO 20mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "DAUNOREM DAUNORUBICINA INYECTABLE (LIOFILIZADO) 2- MG",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "92",
+      "Código": "101095601",
+      "Nombre genérico": "DEFERASIROX 125mg, tableta dispersable, V.O.",
+      "Nombre comercial": "EXJADE 125 MG COMPRIMIDOS DISPERSABLES | ENFEROX 125 MG TABLETAS DISPERSABLES",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "93",
+      "Código": "101095701",
+      "Nombre genérico": "DEFERASIROX 250mg, tableta dispersable, V.O.",
+      "Nombre comercial": "EXJADE 25- MG COMPRIMIDOS DISPERSABLES | ENFEROX 25-MG TABLETAS DISPERSABLES | FERASIRO 25- MG TABLETAS DISPERSABLES",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "94",
+      "Código": "101095801",
+      "Nombre genérico": "DEFERASIROX 500mg, tableta dispersable, V.O.",
+      "Nombre comercial": "DEFERASIROX TABLETAS DISPERSABLES | APO-DEFERASIROX 5-- MG TABLETAS DISPERSABLES | EXJADE 5-- MG COMPRIMIDOS DISPERSABLES | ENFEROX 5-- MG TABLETAS DISPERSABLES",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "95",
+      "Código": "101093001",
+      "Nombre genérico": "DEFLAZACORT 6mg, tableta, V.O.",
+      "Nombre comercial": "FLEZACOR 6 MG TABLETAS | Deflazacort Calox 6mg tabletas | DEFLARIN 6 MG COMPRIMIDOS | zamen de 6mg comprimidos",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "96",
+      "Código": "102004402",
+      "Nombre genérico": "DEXAMETASONA FOSFATO SÓDICO (LIBRE DE ALCOHOL BENCÍLICO) 4mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "97",
+      "Código": "102100001",
+      "Nombre genérico": "DEXKETOPROFENO 25mg/ml, solución para perfusión, I.V., I.M.",
+      "Nombre comercial": "DEXAMETASONA FOSFATO DE SODIO USP 4 MG/ML SOLUCION INYECTABLE LIBRE DE ALCOHOL BENCÍLICO | DEXAMETASONA FOSFATO 8MG/2ML SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "98",
+      "Código": "102098901",
+      "Nombre genérico": "DEXMEDETOMIDINA CLORHIDRATO 100mcg a 400mcg, solución, I.V.",
+      "Nombre comercial": "DEXMEDETOMIDINA 2-- MCG/ 2 ML SOLUCION INYECTABLE | PRECEDEX 4-- MCG/1-- ML (4MCG/ ML) SOLUCIÓN INYECTABLE I.V. (INFUSIÓN) | Dexmedetomidina B.Braun 1-- microgramos/ml concentrado para solución para perfusión | Dexmedetomidina Richet 2--mcg/2mL soluciÃ³n inyectable I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "99",
+      "Código": "102005302",
+      "Nombre genérico": "DEXTROSA al 50%, solución, vial o frasco o bolsa, 50-100ml, I.V.",
+      "Nombre comercial": "DEXTROSA 5-% SOLUCIÓN INYECTABLE | SOLUCIÓN DX-5- (5-%) PISA SOLUCIÓN INYECTABLE | SOLUCIÓN DX-5- (5-%) PISA SOLUCIÓN INYECTABL",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "100",
+      "Código": "102005001",
+      "Nombre genérico": "DEXTROSA EN AGUA al 10%, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión Intravenosa, 500 ml. I.V.",
+      "Nombre comercial": "DEXTROSA 1-% SOLUCIÓN INYECTABLE | SOLUCION DX -1- PISA SOLUCION INYECTABLE I.V. | DEXTROSA AL 1-% EN AGUA SOLUCIÓN INYECTABLE I.V. | DEXTROSA 1- % P/V SOLUCION INYECTABLE PARA INFUSION I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "101",
+      "Código": "102079201",
+      "Nombre genérico": "DEXTROSA EN AGUA al 5% en SOLUCIÓN SALINA al 0.33%, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión Intravenosa, 500ml.",
+      "Nombre comercial": "COMBINACIÓN RUBIN CALCAGNO Solución Inyectable I.V | SOLUPED SOLUCIÒN ELECTROLÌTICA HIPOTÒNICA PEDIÀTRICA DE CLORURO DE SODIO -.3% Y DEXTROSA 5% SOLUCIÒN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "102",
+      "Código": "102080201",
+      "Nombre genérico": "DEXTROSA EN AGUA al 5% en SOLUCIÓN SALINA al 0.45%, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión Intravenosa, 500ml.",
+      "Nombre comercial": "DEXTROSA AL 5 % Y CLORURO DE SODIO AL -,45 % SOLUCION INYECTABLE I.V. | SOLUCIÓN MIXTA DE CLORURO DE SODIO AL -.45% Y DEXTROSA AL 5% SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "103",
+      "Código": "102004601",
+      "Nombre genérico": "DEXTROSA EN AGUA al 5% en SOLUCIÓN SALINA al 0.9%, solución, envase plástico (bolsa o frasco) con equipo adaptable desechable para Infusión Intravenosa, 500ml.",
+      "Nombre comercial": "SOLUCIÓN DX-CS PISA (CLORURO DE SODIO -.9% Y GLUCOSA 5%) SOLUCIÓN INYECTABLE I.V. | DEXTROSA AL 5% Y CLORURO DE SODIO AL -.9% SOLUCIÓN INYECTABLE I.V. | CLORURO DE SODIO Y DEXTROSA /(-.9% P/V Y 5% P/V)/ SOLUCIÓN INYECTABLE PARA INFUSIÓN INTRAVENOSA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "104",
+      "Código": "102004701",
+      "Nombre genérico": "DEXTROSA EN AGUA al 5% en SOLUCIÓN SALINA al 0.9%, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión Intravenosa, 1,000ml.",
+      "Nombre comercial": "SOLUCIÓN DX-CS PISA (CLORURO DE SODIO -.9% Y GLUCOSA 5%) SOLUCIÓN INYECTABLE I.V. | DEXTROSA AL 5% Y CLORURO DE SODIO AL -.9% SOLUCIÓN INYECTABLE I.V. | CLORURO DE SODIO Y DEXTROSA /(-.9% P/V Y 5% P/V)/ SOLUCIÓN INYECTABLE PARA INFUSIÓN INTRAVENOSA | SOLUCION INYECTABLE DE DEXTROSA AL 5% Y CLORURO DE SODIO AL -.9%",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "105",
+      "Código": "102094701",
+      "Nombre genérico": "DEXTROSA EN AGUA al 5%, solución, bolsa plástica con dos salidas, con equipo adaptable desechable para Infusión Intravenosa, 100ml.",
+      "Nombre comercial": "DEXTROSA 5% SOLUCIÓN INYECTABLE | DEXTROSA AL 5 % EN AGUA INYECTABLE BAXTER SOLUCION INYECTABLE I.V. | SOLUCION INYECTABLE DE DEXTROSA AL 5% I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "106",
+      "Código": "102094601",
+      "Nombre genérico": "DEXTROSA EN AGUA al 5%, solución, bolsa plástica con dos salidas, con equipo adaptable desechable para Infusión Intravenosa, 50ml.",
+      "Nombre comercial": "DEXTROSA AL 5 % EN AGUA INYECTABLE BAXTER SOLUCION INYECTABLE I.V. | SOLUCION INYECTABLE DE DEXTROSA AL 5% I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "107",
+      "Código": "102004801",
+      "Nombre genérico": "DEXTROSA EN AGUA al 5%, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión Intravenosa, 500ml.",
+      "Nombre comercial": "DEXTROSA 5% SOLUCIÓN INYECTABL | OLUCIÓN DX-5 PISA SOLUCION INYECTABLE | DEXTROSA 5 % P/V SOLUCIÓN INYECTABLE PARA INFUSIÓN INTRAVENOSA. | SOLUCION INYECTABLE DE DEXTROSA AL 5% I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "108",
+      "Código": "103022101",
+      "Nombre genérico": "DICLOXACILINA 250mg/5ml, polvo para suspensión, frasco,  60–100ml, V.O.",
+      "Nombre comercial": "DICLOBIOTIK S 25-MG/5ML POLVO PARA SUSPENSION ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "109",
+      "Código": "101061701",
+      "Nombre genérico": "DICLOXACILINA 500mg, cápsula, V.O.",
+      "Nombre comercial": "DICLOBIOTIK 5-- MG CÁPSULAS | DICLOXACILINA 5-- MG MK CÁPSULAS | DICLOXACILINA 5-- MG CAPSULAS | DICLOXACILINA SODICA CAPSULAS USP 5--MG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "110",
+      "Código": "102002101",
+      "Nombre genérico": "DIFENHIDRAMINA 10mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "KLONADRYL ANTIALERGICO 1- MG/ML SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "111",
+      "Código": "101008501",
+      "Nombre genérico": "DIGOXINA 0.25mg, tableta, V.O.",
+      "Nombre comercial": "DIGOXINA KERN PHARMA -,25 MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "112",
+      "Código": "102049301",
+      "Nombre genérico": "DIGOXINA 0.25mg/ml, solución, I.V.",
+      "Nombre comercial": "DIGOXINA -.5mg/2mL Solución Inyectable",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "113",
+      "Código": "102052401",
+      "Nombre genérico": "DIMENHIDRINATO 10mg/ml, solución, I.V.",
+      "Nombre comercial": "Gravidex 5-mg/5ml Solución Inyectable I.M. Profundo, I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "114",
+      "Código": "102094201",
+      "Nombre genérico": "DIPÉPTIDO ALANINA-GLUTAMINA al 20%, solución, frasco, 100ml, I.V.",
+      "Nombre comercial": "DIPEPTIVEN 2-- MG/ML SOLUCION CONCENTRADA PARA INFUSION I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "115",
+      "Código": "102063001",
+      "Nombre genérico": "DOBUTAMINA 250mg, solución, I.V.",
+      "Nombre comercial": "DOBUTAMINA 12.5 MG/ML SOLUCIÓN INYECTABLE, I.V. | DOBUTAMINA 25- MG/ 5 ML SOLUCION INYECTABLE | Dobutamina 25- mg/5ml Solución Inyectable | DOBUCIN 5- MG/ML SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "116",
+      "Código": "102045101",
+      "Nombre genérico": "DOPAMINA CLORHIDRATO 40-50mg/ml, solución, I.V.",
+      "Nombre comercial": "INOTROPISA 2--MG/5ML SOLUCIÓN INYECTABLE I.V. LENTA | DOPAMINA CLORHIDRATO/ 2-- MG /5ML/ SOLUCIÓN INYECTABLE/ INFUSIÓN I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "117",
+      "Código": "101085801",
+      "Nombre genérico": "DOXICICLINA 100mg, base clorhidrato o hiclato, cápsula o tableta, V.O.",
+      "Nombre comercial": "SuPRaMyCiNa 1-- mg TABLETAS | APO-DOXY 1-- MG CAPSULAS | APO-GABAPENTINA 3--MG CAPSULAS | PO-DOXY 1-- MG CAPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "118",
+      "Código": "102008901",
+      "Nombre genérico": "DOXORUBICINA CLORHIDRATO 10mg-50mg, polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "DOXORUBICINA CLORHIDRATO 1-MG/5ML SOLUCIÓN INYECTABLE I.V. (INFUSIÓN)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "119",
+      "Código": "102083601",
+      "Nombre genérico": "EMICIZUMAB 150mg/ml, solución, S.C.",
+      "Nombre comercial": "Hemlibra 15-mg/ml (15-mg/mL, 1-5mg/-.7ml y 6-mg/-.4ml) Solución para inyección subcutánea",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "120",
+      "Código": "102083501",
+      "Nombre genérico": "EMICIZUMAB 30mg/ml, solución, S.C.",
+      "Nombre comercial": "Hemlibra 3-mg/1ml solución para inyección subcutanea",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "121",
+      "Código": "101097001",
+      "Nombre genérico": "EMTRICITABINA 200mg/ TENOFOVIR 300mg, tableta, V.O.",
+      "Nombre comercial": "TRUVADA 2-- MG / 3-- MG TABLETAS RECUBIERTAS | Emtricitabina y Tenofovir Disoproxil Fumarato 2--mg + 3--mg tabletas recubiertas | EMTRICITABINA 2--MG/ TENOFOVIR DISOPROXILO FUMARATO 3--MG TABLETAS RECUBIERTAS | EMTRICITABINA 2-- MG/TENOFOVIR DISOPROXIL FUMARATO 3--MG TABLETAS RECUBIERTAS CON PELICULA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "122",
+      "Código": "102070601",
+      "Nombre genérico": "EMULSIÓN DE LÍPIDOS DE CUARTA GENERACIÓN: ACEITE DE SOYA 40-60g/1000ml, TRIGLICÉRIDOS DE CADENA MEDIA 40-60g/1000ml, ACEITE DE OLIVA 40-60g/1000ml, ACEITE DE PESCADO RICO EN OMEGA-3 20-30g/1000ml, bolsa plástica o frasco, 500ml, I.V.",
+      "Nombre comercial": "SMOFLIPID 2-% EMULSION PARA INYECCION I.V. (INF.)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "123",
+      "Código": "102080901",
+      "Nombre genérico": "EPOETINA  (ERITROPOYETINA)  20,000-50,000UI, solución o polvo, S.C., I.V.",
+      "Nombre comercial": "Recormon 3- --- UI/-.6ml Jeringa precargada con solución inyectable S.C. I.V. | Binocrit 3-.---UI/-.75ml solución para inyección en jeringa prellenada",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "124",
+      "Código": "102073401",
+      "Nombre genérico": "ERITROPOYETINA 2,000UI, solución, polvo liofilizado, S.C., I.V.",
+      "Nombre comercial": "Binocrit 2--- UI / 1ml soluciÃ³n para inyecciÃ³n en jeringa prellenada | IOR EPOCIM- 2--- UI/ML SOLUCIÓN INYECTABLE I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "125",
+      "Código": "102082401",
+      "Nombre genérico": "ERTAPENEM 1g, polvo liofilizado para solución inyectable, I.M., I.V.",
+      "Nombre comercial": "INVANZ 1 G POLVO LIOFILIZADO PARA SOLUCION INYECTABLE I.M., I.V. | ERTAPENEM 1G/VIAL (COMO ERTAPENEM SÓDICO) POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE I.M., I.V. POR INFUSIÓN | Ertapenem Aurovitas 1 g polvo para concentrado para solución para perfusión EFG | Ertapenem 1 g Polvo Liofilizado para Solución Inyectable",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "126",
+      "Código": "101068401",
+      "Nombre genérico": "ESPIRAMICINA 1.0-1.5 millones UI, cápsula o tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "127",
+      "Código": "102006701",
+      "Nombre genérico": "ESTREPTOMICINA SULFATO 1g, polvo liofilizado, I.M.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "128",
+      "Código": "101060601",
+      "Nombre genérico": "ETAMBUTOL 400mg, tableta,  V.O.",
+      "Nombre comercial": "ETAMBUTOL 4-- MG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "129",
+      "Código": "102091701",
+      "Nombre genérico": "ETANERCEPT 50mg, S.C.",
+      "Nombre comercial": "ENBREL 5-MG SOLUCIÓN INYECTABLE EN JERINGA PRELLENADA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "130",
+      "Código": "102064701",
+      "Nombre genérico": "ETOPÓSIDO 20mg/ml, solución, I.V.",
+      "Nombre comercial": "ETOPÓSIDO 2-MG/ML SOLUCIÓN INYECTABLE IV",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "131",
+      "Código": "101099501",
+      "Nombre genérico": "EVEROLIMUS 0.5mg, tableta, V.O.",
+      "Nombre comercial": "CERTICAN -.5 MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "132",
+      "Código": "102077801",
+      "Nombre genérico": "FACTOR ESTIMULANTE DE COLONIAS DE GRANULOCITOS (G-CSF): FILGRASTIM 300mcg, solución, S.C., I.V.",
+      "Nombre comercial": "ZARZIO 3- MU/-.5 ML SOLUCIÓN PARA INYECCIÓN O INFUSIÓN EN JERINGA PRELLENADA | Leukustim 1--mg Polvo Liofilizado para solución inyectable",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "133",
+      "Código": "102096101",
+      "Nombre genérico": "FACTOR IX 50-600UI/ml, polvo y disolvente para solución inyectable o para perfusión, I.V.",
+      "Nombre comercial": "OCTANINE F FACTOR IX DE LA COAGULACION HUMANA 1--UI/ML POLVO Y DISOLVENTE PARA SOLUCIÓN INYECTABLE INFUSION I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "134",
+      "Código": "102099301",
+      "Nombre genérico": "FACTOR VII A RECOMBINANTE HUMANO 1mg a 2mg, I.V.",
+      "Nombre comercial": "NOVOSEVEN RT 1 MG MIXPRO POLVO LIOFILIZADO Y SOLVENTE PARA SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "135",
+      "Código": "102074202",
+      "Nombre genérico": "FACTOR VIII ANTIHEMOFÍLICO HUMANO DE ORIGEN PLASMÁTICO CON O SIN FACTOR DE VON WILLEBRAND, con doble inactivación viral o inactivación viral y eliminación viral 250-1,000UI, solución o polvo, vial,  I.V.",
+      "Nombre comercial": "",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "136",
+      "Código": "102091801",
+      "Nombre genérico": "FACTOR VIII RICO EN FACTOR VON WILLEBRAND 250-500UI, polvo liofilizado, vial, I.V.",
+      "Nombre comercial": "WILATE 5-- UI/VIAL Y 1--- UI/VIAL POLVO Y SOLVENTE PARA SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "137",
+      "Código": "101008601",
+      "Nombre genérico": "FENITOÍNA SÓDICA 100mg, cápsula o tableta, de liberación modificada, V.O.",
+      "Nombre comercial": "DILANTIN 1--MG CAPSULAS DE LIBERACION PROLONGADA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "138",
+      "Código": "102047601",
+      "Nombre genérico": "FENITOÍNA SÓDICA 50mg/ml, solución, I.V.",
+      "Nombre comercial": "FENATEN 25- mg/5 mL Solución Inyectable I.V. | FENITOINA SODICA 25-MG/5ML SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "139",
+      "Código": "101012201",
+      "Nombre genérico": "FENOBARBITAL 32mg, tableta, V.O.",
+      "Nombre comercial": "FENOBIT 32 TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "140",
+      "Código": "101012301",
+      "Nombre genérico": "FENOBARBITAL 64mg, tableta, V.O.",
+      "Nombre comercial": "FENOBIT 64 TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "141",
+      "Código": "101098901",
+      "Nombre genérico": "FINGOLIMOD 0.5mg, cápsula, V.O.",
+      "Nombre comercial": "GILENYA -.5MG CAPSULAS DURAS | FINGOLIMOD -.5 MG CAPSULAS | FINGOLIMOD ACCORD -,5 MG CAPSULAS DURAS EFG | FINLIM (Fingolimod -.5 mg Cápsulas)",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "142",
+      "Código": "102052601",
+      "Nombre genérico": "FITOMENADIONA (VITAMINA K) 10mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "FITO K 1- (1- MG/ML) SOLUCION INYECTABLE I.M., I.V., S.C. | FITOMENADIONA 1-mg/1mL Emulsión Inyectable I.M., I.V. | FITOMENADIONA 1- MG/ML SOLUCION INYECTABLE I.M., S.C. | PHYTODON INYECCIÓN-1- (FITOMENADIONA INYECCIÓN BP 1- MG)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "143",
+      "Código": "102077201",
+      "Nombre genérico": "FLUCONAZOL 2mg/ml, solución, I.V.",
+      "Nombre comercial": "FLUCOXAN 2mg/mL Solución Inyectable I.V. | Fluconazol 2 mg/ml Solución Inyectable por Infusión I.V. | FLUCANIR 2 mg/ml SOLUCION PARA INFUSION INTRAVENOSA | FLUCONAZOL 2--MG/1--ML SOLUCIÓN INYECTABLE INFUSIÓN I.V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "144",
+      "Código": "102091901",
+      "Nombre genérico": "FLUDARABINA FOSFATO  50mg,  polvo liofilizado, I.V.",
+      "Nombre comercial": "FLUDARABINA MICROSULES POLVO LIOFILIZADO PARA INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "145",
+      "Código": "102075901",
+      "Nombre genérico": "FLUMAZENIL 0.1mg/ml, solución, I.V.",
+      "Nombre comercial": "FLUMAZENIL -.5MG/5ML SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "146",
+      "Código": "102097901",
+      "Nombre genérico": "\"FORMULACIÓN PARA ALIMENTACIÓN PARENTERAL EN BOLSA DE TRES CÁMARAS: NUTRICIÓN PARENTERAL PERIFÉRICA COMPLETA: EMULSIÓN LIPÍDICA 20%+ GLUCOSA 11% + AMINOÁCIDO Y ELECTROLITOS",
+      "Nombre comercial": "solución, bolsa, 1440ml, I.V.\"",
+      "Presentación": "KAVIBEN P1 EMULSION PARA INFUSION I.V. | COMBIFLEX LIPID PERI INYECCION"
+    },
+    {
+      "#": "147",
+      "Código": "102031702",
+      "Nombre genérico": "FUROSEMIDA 10mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "HENEXAL 2-mg/2mL Solución Inyectable I.M., I.V. Lenta | FUROSEMIDA 2- MG / 2 ML SOLUCIÓN INYECTABLE I.M., I.V. | FUROSEMIDA 2-MG/2ML SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "148",
+      "Código": "101051101",
+      "Nombre genérico": "FUROSEMIDA 40mg, tableta, V.O.",
+      "Nombre comercial": "FUROSEMIDA CINFA 4-MG COMPRIMIDOS | FUROSEMIDA 4- MG COMPRIMIDOS | FUROSEMIDA 4- MG TABLETAS BP",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "149",
+      "Código": "104009801",
+      "Nombre genérico": "FUSIDATO SÓDICO 2%, ungüento, tubo, 15-20g, Vía Tópica.",
+      "Nombre comercial": "ÁCIDO FUSÍDICO 2 % CREMA TÓPICA | FUCIDIN AL 2% UNGÜENTO",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "150",
+      "Código": "101013101",
+      "Nombre genérico": "FÓLICO ÁCIDO 5mg, tableta, V.O.",
+      "Nombre comercial": "Folitab 5 mg Tabletas | FOLIMEN 5MG COMPRIMIDOS. | FOLICIL 5 MG COMPRIMIDOS | FOLACÍN 5 (5 MG) COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "151",
+      "Código": "101093390",
+      "Nombre genérico": "GABAPENTINA 300mg, cápsula, V.O.",
+      "Nombre comercial": "",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "152",
+      "Código": "102075301",
+      "Nombre genérico": "GANCICLOVIR 500mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "UMECORTIL 5--mg Polvo para solución Inyectable I.V | GANCICLOVIR 5-- MG POLVO LIOFILIZADO PARA RECONSTITUIR A SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "153",
+      "Código": "102079801",
+      "Nombre genérico": "GEMCITABINA CLORHIDRATO 1g, polvo liofilizado, I.V.",
+      "Nombre comercial": "BIOGEM 1--- POLVO LIOFILIZADO PARA SOLUCIÒN INYECTABLE I.V. | GEMCITABINA 1---MG POLVO PARA SOLUCIÓN PARA INFUSIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "154",
+      "Código": "101000801",
+      "Nombre genérico": "GLIBENCLAMIDA 5mg, tableta, V.O.",
+      "Nombre comercial": "APO-GLYBURIDE 5MG TABLETAS | GLITISOL 5 MG COMPRIMIDOS | G-MIDE 5MG TABLETAS | LMG-DAOAVANCE 5MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "155",
+      "Código": "102074301",
+      "Nombre genérico": "GLICERIL TRINITRATO (NITROGLICERINA) 5mg/ml, solución, I.V.",
+      "Nombre comercial": "NITROGLICERINA 5- MG /1- ML SOLUCION INYECTABLE INFUSION I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "156",
+      "Código": "101072701",
+      "Nombre genérico": "GLICLAZIDA 80mg, tableta, V.O.",
+      "Nombre comercial": "Gliclazida 8- MP Comprimidos | LMG-UPGLUCE 8- TABLETAS | LMG-GLUCEUP 8- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "157",
+      "Código": "102099201",
+      "Nombre genérico": "GOSERELINA 10.8mg, S.C.",
+      "Nombre comercial": "Zoladex LA 1-.8mg Implante S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "158",
+      "Código": "102040101",
+      "Nombre genérico": "HALOPERIDOL 5mg/ml, solución, I.M.",
+      "Nombre comercial": "ALOPERIDOL 5 MG/ ML SOLUCIÓN INYECTABLE | HALOPERIDOL 5MG/ML SOLUCIÓN INYECTABLE | HALOPERIL 5MG/ML SOLUCION INYECTABLE I.M. I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "159",
+      "Código": "102092101",
+      "Nombre genérico": "HEPARINA BAJO PESO MOLECULAR (ENOXAPARINA SÓDICA), ACTIVIDAD ANTI-Xa 8,000UI, solución, jeringa prellenada, 0.8ml, S.C.",
+      "Nombre comercial": "Enoxaparina 1--mg/ml Sandoz solución inyectable en jeringa precargada I.V. S.C. | CRUSIA (ENOXAPARINA SÓDICA) SOLUCION INYECTABLE S.C., I.V., LINEA ARTERIAL (HEMODIALISIS).EN JERINGA PRELLENADA | CLENOX (2-MG/-.2ML, 4-MG/-.4ML, 6-MG/-.6ML, 8-MG/-.8ML) SOLUCION INYECTABLE S.C, .I.V, LINEA ARTERIAL (HEMODIALISIS) | CLEXANE (2- MG/-.2 ML, 4- MG/-.4 ML, 6- MG/-.6 ML, 8- MG/-.8 ML) SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "160",
+      "Código": "102077301",
+      "Nombre genérico": "HEPARINA DE BAJO PESO MOLECULAR, CON ACTIVIDAD ANTI-Xa  2,500-4,000UI, solución, jeringa prellenada, S.C.",
+      "Nombre comercial": "Enoxaparina 1--mg/ml Sandoz solución inyectable en jeringa precargada I.V. S.C. | CRUSIA (ENOXAPARINA SÓDICA) SOLUCION INYECTABLE S.C., I.V., LINEA ARTERIAL (HEMODIALISIS).EN JERINGA PRELLENADA | CLENOX (2-MG/-.2ML, 4-MG/-.4ML, 6-MG/-.6ML, 8-MG/-.8ML) SOLUCION INYECTABLE S.C, .I.V, LINEA ARTERIAL (HEMODIALISIS) | BADYKET 35--UI/-.2ML SOLUCION INYECTABLE S.C. JERINGAS PRECARGADAS",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "161",
+      "Código": "102053201",
+      "Nombre genérico": "HEPARINA SÓDICA 5,000UI/ml, solución, I.V., S.C.",
+      "Nombre comercial": "INHEPAR 5--- UI/ML SOLUCION INYECTABLE I.V., S.C. | Heparina Sodica 5,--- UI/ML Solución Inyectable I.V., S.C. | Heparina Sódica 5--- UI/mL Solución Inyectable | Heparina Sodica 5,--- UI/ML Solución Inyectable I.V., S.C",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "162",
+      "Código": "102041301",
+      "Nombre genérico": "HIDRALAZINA CLORHIDRATO 20mg/ml, polvo o solución, I.M., I.V.",
+      "Nombre comercial": "FLAGASOLINA 2- MG SOLUCIÓN INYECTABLE I.M., I.V. | HIDRALAZINA CLORHIDRATO 2-MG/1ML SOLUCIÓN INYECTABLE I.V. | Hidralazina Hidrocloruro inyección 2- mg/ml",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "163",
+      "Código": "101030701",
+      "Nombre genérico": "HIDROCLOROTIAZIDA 25mg con TRIAMTERENO 50mg, tableta ranurada, V.O.",
+      "Nombre comercial": "DIURESTEN COMPRIMIDOS | TRIACIL COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "164",
+      "Código": "102019101",
+      "Nombre genérico": "HIDROCORTISONA SUCCINATO SÓDICO 50mg/ml, polvo liofilizado, I.M., I.V.",
+      "Nombre comercial": "HIDROCORTISONA KLONAL 1--MG POLVO PARA SOLUCION INYECTABLE I.M,I.V | HIDROCORTISONA 1-- MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE I.M., I.V. | HYBRU-1-- POLVO LIOFILIZABLE PARA SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "165",
+      "Código": "101071701",
+      "Nombre genérico": "HIDROXICARBAMIDA (HIDROXIUREA) 500mg, cápsula, V.O.",
+      "Nombre comercial": "HYDMOXIA 5-- MG CAPSULAS DURAS | HIDROXIUREA USP 5--MG CÁPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "166",
+      "Código": "101023201",
+      "Nombre genérico": "HIDROXICLOROQUINA SULFATO 400mg, tableta, V.O.",
+      "Nombre comercial": "PLAQUINOL 4-- MG TABLETAS RECUBIERTAS.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "167",
+      "Código": "102079001",
+      "Nombre genérico": "HIERRO NO DEXTRÁN 10-20mg/ml, solución, I.V.",
+      "Nombre comercial": "VENOFER, 1--MG./5ML. SOLUCION INYECTABLE I.V. | VENOFER 1--MG/5ML SOLUCIÓN INYECTABLE I.V. | GLIRRON 1-- MG/ 5ML SOLUCION INYECTABLE | HIERRO SACAROSA 1--mg/5ml SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "168",
+      "Código": "102095601",
+      "Nombre genérico": "HORMONA DE CRECIMIENTO (SOMATROPINA) 5-16mg, solución o polvo  con diluyente, S.C.",
+      "Nombre comercial": "GENOTROPIN 36 UI ( 12 MG/ML) POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE + DILUYENTE S.C. | GENOTROPIN 16 UI ( 5.3 MG/ML) POLVO LIOFILIZADO PARA SOLUCION INYECTABLE + DILUYENTE S.C. | NORDITROPIN NORDIFLEX 5MG/1.5ML SOLUCIÓN PARA INYECCIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "169",
+      "Código": "102095301",
+      "Nombre genérico": "ICODEXTRINA 7.5%, solución, Intraperitoneal.",
+      "Nombre comercial": "EXTRANEAL SOLUCION PARA DIALISIS PERITONEAL CON ICODEXTRIN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "170",
+      "Código": "102073501",
+      "Nombre genérico": "IFOSFAMIDA 1g, polvo liofilizado, I.V.",
+      "Nombre comercial": "IFOSFAMIDA LIBRA 1 G POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE INFUSIÓN I.V. | HOLOXAN 1G/VIAL POLVO PARA SOLUCIÓN INYECTABLE I.V. POR INFUSIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "171",
+      "Código": "101091601",
+      "Nombre genérico": "IMATINIB MESILATO 100mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "MESILATO DE IMATINIB 1-- MG COMPRIMIDOS RECUBIERTOS | IMATINIB ACCORD 1-- MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA EFG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "172",
+      "Código": "101092301",
+      "Nombre genérico": "IMATINIB MESILATO 400mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "MESILATO DE IMATINIB 4-- MG COMPRIMIDOS RECUBIERTO | APO -IMATINIB 4-- MG TABLETAS RECUBIERTA | IMATINIB AQVIDA 4-- MG CAPSULAS DURAS | IMATINIB (MESILATO) 4--MG, CÁPSULAS VÍA ORA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "173",
+      "Código": "101091001",
+      "Nombre genérico": "INDAPAMIDA 1.5mg, tableta de acción prolongada, V.O.",
+      "Nombre comercial": "Natrilix SR 1.5mg Comprimidos Peliculados de Liberación Prolongada | LORVAS SR 1.5 MG TABLETAS DE LIBERACIÓN SOSTENIDA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "174",
+      "Código": "102069501",
+      "Nombre genérico": "INDOMETACINA SÓDICA 1mg, polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "INDOMETACINA 1MG/VIAL POLVO LIOFILIZADO PARA SOLUCION INYECTABLE I.V. (USP)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "175",
+      "Código": "102092301",
+      "Nombre genérico": "INFLIXIMAB 100mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "REMSIMA 1-- MG/VIAL POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE INFUSIÓN I.V. | IXIFI 1--MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "176",
+      "Código": "102001901",
+      "Nombre genérico": "INMUNOGLOBULINA ANTI-D HUMANA 125-150mcg/ml o su equivalente en UI, solución, I.M.",
+      "Nombre comercial": "Rhophylac 3-- (3-- MCG / 2 ML) SOLUCION INYECTABLE I.M., I.V. JERINGA PRELLENADA. | HYPER RHO S/D INMUNOGLOBULINA RhO (D) (HUMANA) TRATADO CON SOLVENTE / DETERGENTE SOLUCION INYECTABLE I.M",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "177",
+      "Código": "102007701",
+      "Nombre genérico": "INMUNOGLOBULINA ANTITETÁNICA 250UI, solución, I.M.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "178",
+      "Código": "102082101",
+      "Nombre genérico": "INSULINA ANÁLOGA DE ACCIÓN PROLONGADA GLARGINA 100UI/ml, solución, S.C.",
+      "Nombre comercial": "LANTUS 1-- U/ML SOLUCION INYECTABLE S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "179",
+      "Código": "102095101",
+      "Nombre genérico": "INSULINA ANÁLOGA LISPRO 100UI/ml, solución, S.C., I.V.",
+      "Nombre comercial": "HUMALOG INSULINA LISPRO 1-- U/ML SOLUCION INYECTABLE I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "180",
+      "Código": "102072301",
+      "Nombre genérico": "INSULINA NPH (HUMANA) 100U/ml, suspensión, S.C.",
+      "Nombre comercial": "HUMULIN N 1-- UI/ ML SUSPENSIÓN INYECTABLE S.C. | NOVOLIN N 1-- UI/ML SUSPENSIÓN INYECTABLE S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "181",
+      "Código": "102072401",
+      "Nombre genérico": "INSULINA REGULAR (HUMANA) 100U/ml,  solución, S.C., I.V.",
+      "Nombre comercial": "HUMULIN R REGULAR 1-- UI/ ML SOLUCIÓN INYECTABLE S.C., I.V., INFUSIÓN I.V. | NOVOLIN R 1-- UI/ML SOLUCION INYECTABLE I.V. S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "182",
+      "Código": "102081501",
+      "Nombre genérico": "INTERFERON BETA 1a 30mcg (6 millones UI), polvo liofilizado, I.M.",
+      "Nombre comercial": "AVONEX 3-UG/-,5ML SOLUCIÓN INYECTABLE EN JERINGA PRELLENADA I.M.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "183",
+      "Código": "102081401",
+      "Nombre genérico": "INTERFERON BETA 1a 44mcg (12 millones UI), solución, sin albúmina, S.C.",
+      "Nombre comercial": "REBIF NF 44 UG (12MUI)/-.5ML SOLUCIÓN INYECTABLE LIBRE DE ALBUMINA S.C. EN JERINGAS PRECARGADAS",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "184",
+      "Código": "103054701",
+      "Nombre genérico": "IPRATROPIO BROMURO 15-20mcg/inhalación, solución en  aerosol, inhalador con 200-250 dosis, Vía Bucal.",
+      "Nombre comercial": "Atrovent 2-mcg/dosis solución en aerosol | BROMURO DE IPRATROPIO AEROSOL 2- MCG/DOSIS",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "185",
+      "Código": "103057101",
+      "Nombre genérico": "IPRATROPIO BROMURO 250mcg/ml, solución para nebulización,  frasco, 20ml.",
+      "Nombre comercial": "ATROVENT 25-MCG/ML SOLUCIÓN PARA NEBULIZACIÓN | REQUILAR | IPATROP 25 MG / 1--ML SOLUCIÓN PARA NEBULIZAR INHALACIÓN ORAL Y NASAL",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "186",
+      "Código": "102081601",
+      "Nombre genérico": "IRINOTECAN CLORHIDRATO 20mg/ml, solución, I.V.",
+      "Nombre comercial": "IRINOTECAN Unipharm 1-- mg / 5 ml Concentrado para Solución Inyectable | CLORHIDRATO DE IRINOTECAN 2- MG / ML, SOLUCION INYECTABLE, I.V. | KEBIRTECAN 1--MG/5ML SOLUCIÓN INYECTABLE | Irinotecan Aurovitas 2- mg/ml Concentrado para Solución para Perfusión",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "187",
+      "Código": "101059301",
+      "Nombre genérico": "ISONIAZIDA 100mg, tableta, V.O.",
+      "Nombre comercial": "Solonex - 1-- (1-- mg) Tabletas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "188",
+      "Código": "102048301",
+      "Nombre genérico": "ISOPROTERENOL 0.2mg/ml, solución, I.V.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "189",
+      "Código": "101010601",
+      "Nombre genérico": "ISOSORBIDE DINITRATO 5mg, tableta, Vía Sublingual.",
+      "Nombre comercial": "Isosorbide Dinitrato Maxihealth 5 (5 mg) tabletas sublinguales",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "190",
+      "Código": "101090501",
+      "Nombre genérico": "ITRACONAZOL 100mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "ITRACARE 1-- MG CÁPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "191",
+      "Código": "102037201",
+      "Nombre genérico": "KETAMINA 50mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "ANESKET 5--mg/1-mL Solución Inyectable I.M., I.V | KETAMINA-5- 5-mg/mL Solución Inyectable | KETAMINA LABATEC",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "192",
+      "Código": "102090801",
+      "Nombre genérico": "LABETALOL HIDROCLORURO 5mg/ml, solución, I.V.",
+      "Nombre comercial": "Blocamine Solución Inyectable | LABETALOL CLORHIDRATO SOLUCIÓN INYECTABLE 1--MG/2-ML | LABETALOL CLORHIDRATO 1--mg/2-mL SOLUCION INYECTABLE | BIASCOR 5 MG/ML SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "193",
+      "Código": "103049101",
+      "Nombre genérico": "LACTULOSA LÍQUIDO 667mg/ml, solución, frasco, 450-500ml, V.O.",
+      "Nombre comercial": "AXANT SOLUCIÓN ORAL 65% | LACTULOSA 1- G/ 15 ML SOLUCIÓN ORAL | LACTULOSA MP 1-G/15ML SOLUCIÓN ORAL | LACTULOSA SOLUCIÓN USP 1-G/15ML",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "194",
+      "Código": "103060401",
+      "Nombre genérico": "LAMIVUDINA 10mg/ml, solución, frasco, 240-300ml, V.O.",
+      "Nombre comercial": "3TC 1-MG/ML SOLUCION ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "195",
+      "Código": "101090101",
+      "Nombre genérico": "LAMIVUDINA 150mg, cápsula o tableta,  V.O.",
+      "Nombre comercial": "LAMIVUDINA 15- MG TABLETAS RECUBIERTAS | 3TC 15-MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "196",
+      "Código": "101083801",
+      "Nombre genérico": "LEFLUNOMIDA 20mg, tableta, V.O.",
+      "Nombre comercial": "LEFLUNOMIDA NORMON 2- MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "197",
+      "Código": "101100001",
+      "Nombre genérico": "LENALIDOMIDA 10mg, tableta o cápsula, V.O.",
+      "Nombre comercial": "REVLIMID 1- MG CAPSULAS | APO-LENALIDOMIDA 5MG CÁPSULAS | Lenangio cápsulas 1- mg | LENALIDOMIDA GRINDEKS 1- MG CAPSULAS DURAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "198",
+      "Código": "101100101",
+      "Nombre genérico": "LENALIDOMIDA 25mg, tableta o cápsula,  V.O.",
+      "Nombre comercial": "REVLIMID 25 MG CÁPSULAS | APO-LENALIDOMIDA 25MG CÁPSULAS | Lenangio cápsulas 25 mg | LENALIDOMIDA GRINDEKS 25 MG CAPSULAS DURAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "199",
+      "Código": "101092001",
+      "Nombre genérico": "LETROZOL  2.5mg, tableta, V.O.",
+      "Nombre comercial": "LETROVITAE 2.5 MG COMPRIMIDOS RECUBIERTOS | LETROZOL 2.5 MG COMPRIMIDOS RECUBIERTOS | LETROZOL DENK 2.5 MG COMPRIMIDOS CON CUBIERTA PELICULAR | LETROZOL KERN PHARMA 2.5 MG COMPRIMIDOS RECUBIERTOS CON PEL-CULA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "200",
+      "Código": "102074001",
+      "Nombre genérico": "LEUCOVORINA CÁLCICA (ACIDO FOLÍNICO) 50mg, polvo liofilizado o  solución, I.M., I.V.",
+      "Nombre comercial": "FOLINATO CALCICO 5-mg/4mL Solución Inyectable I.V., I.M. | INNEFOL 5-MG/4ML SOLUCIÓN INYECTABLE | LEUCOVORINA 1-MG/ML SOLUCIÓN INYECTABLE | FOLINATO DE CALCIO 5-MG/ VIAL POLVO LIOFILIZADO PARA RECONSTITUIR A SOLUCIÓN INYECTABLE I.M., I.V. (INFUSIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "201",
+      "Código": "102080401",
+      "Nombre genérico": "LEUPRORELINA (LEUPROLIDE) ACETATO 11.25mg, polvo liofilizado, S.C., I.M.",
+      "Nombre comercial": "LUCRIN DEPOT 11.25 MG - 3 MESES POLVO ESTERIL LIOFILIZADO PARA SUSPENSION INYECTABLE + DILUYENTE, IM., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "202",
+      "Código": "102092501",
+      "Nombre genérico": "LEVOBUPIVACAÍNA CLORHIDRATO 5mg/ml, solución, Vía Parenteral.",
+      "Nombre comercial": "LEVOBUPIVACAINA 5MG/ML SOLUCIÓN INYECTABLE Y PARA INFUSIÓN/ EPIDURAL, INTRATECAL, PERINEURAL, INFILTRACIÓN LOCAL",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "203",
+      "Código": "101063301",
+      "Nombre genérico": "LEVODOPA con CARBIDOPA 250mg/25mg o LEVODOPA con BENSERAZIDE 200mg/50mg, tableta, V.O.",
+      "Nombre comercial": "PROLOPA 2--MG + 5-MG COMPRIMIDOS | CLOISONE 25- MG / 25 MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "204",
+      "Código": "102093601",
+      "Nombre genérico": "LEVOSIMENDAN 2.5mg/ml, solución, I.V.",
+      "Nombre comercial": "MALIPAFED 2.5mg/mL Solución Inyectable I.V. | LEVOSIDAX 12.5 MG/5 ML SOLUCION INYECTABLE | LEVOSIMENDAN RICHET 12.5 MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE, I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "205",
+      "Código": "101079701",
+      "Nombre genérico": "LEVOTIROXINA SAL SÓDICA 0.1mg, tableta, V.O.",
+      "Nombre comercial": "EUTIROX 1-- (1-- MCG) TABLETA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "206",
+      "Código": "102094901",
+      "Nombre genérico": "LIDOCAÍNA 2%, solución sin preservativo, Vía Infiltración Local, Troncular, Peridural, I.M., I.V.",
+      "Nombre comercial": "PISACAINA AL 2% SoluciÃ³n Inyectable SubcutÃ¡nea I.V., Troncular O Peridural.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "207",
+      "Código": "102026801",
+      "Nombre genérico": "LIGNOCAÍNA (LIDOCAÍNA) 2%, con preservativo, solución, I.M., I.V.",
+      "Nombre comercial": "IJOCAINA AL 2 % SOLUCIÓN INYECTABLE I.M., I.V., S.C. | Lidocaína clorhidrato 2% (2-mg/mL) Solución inyectable I.M., I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "208",
+      "Código": "102092601",
+      "Nombre genérico": "LINEZOLID 600mg, solución, I.V.",
+      "Nombre comercial": "ZYVOX 2 MG/ML SOLUCION INYECTABLE PARA INFUSION I.V. | LINEZOLID NORMON 2 MG/ML SOLUCION PARA PERFUSION EFG | Linezolid 6-- mg / 3-- mL Solución para Infusión | LEZOPISA 2MG/ML SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "209",
+      "Código": "101093501",
+      "Nombre genérico": "LINEZOLID 600mg, tableta,  V.O.",
+      "Nombre comercial": "LINEZOLID 6-- MG TABLETAS RECUBIERTAS | LIZOLID 6-- MG TABLETAS RECUBIERTAS | Linezolid 6-- mg Comprimidos Recubiertos",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "210",
+      "Código": "101092101",
+      "Nombre genérico": "LISINOPRIL 20mg, tableta, V.O.",
+      "Nombre comercial": "LISINOPRIL CINFA 2-MG COMPRIMIDOS | LISINOPRIL NORMON 2- MG COMPRIMIDOS EFG | ECAPRIL 2- MG COMPRIMIDOS | Lisinopril tabletas USP 2- mg",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "211",
+      "Código": "101034901",
+      "Nombre genérico": "LITIO CARBONATO 300mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "CARBOLIT 3-- (3-- MG) CÁPSULAS | CARBONATO DE LITIO CÁPSULAS USP 3--MG | CARBONATO DE LITIO TABLETAS DE LIBERACIÓN PROLONGADA USP 3-- MG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "212",
+      "Código": "103057501",
+      "Nombre genérico": "LOPINAVIR 80mg-RITONAVIR 20mg/ml, solución, frasco, V.O.",
+      "Nombre comercial": "KALETRA 8-/2- MG/ML SOLUCIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "213",
+      "Código": "102011701",
+      "Nombre genérico": "MAGNESIO SULFATO 10%, solución, I.V.",
+      "Nombre comercial": "MAGNEFUSIN AL 1-% SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "214",
+      "Código": "102037601",
+      "Nombre genérico": "MANITOL 20%, solución para Infusión Intravenosa, con equipo adaptable desechable, I.V., (con filtro).",
+      "Nombre comercial": "OSMOROL 2- (2-G/1--ML) SOLUCION INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "215",
+      "Código": "102081801",
+      "Nombre genérico": "MEGLUMINA ANTIMONIATO 1.5g/5ml, sal activa en solución 81mg/ml, I.M., I.V.",
+      "Nombre comercial": "GLUCANTIME 1.5 G/5 ML SOLUCIÓN INYECTABLE I.M., I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "216",
+      "Código": "101018501",
+      "Nombre genérico": "MELFALANO 2mg, tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "217",
+      "Código": "102092701",
+      "Nombre genérico": "MELFALANO CLORHIDRATO 50mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "melfalán5- mg, polvo liofilizado, solucion inyectable i.v.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "218",
+      "Código": "101043001",
+      "Nombre genérico": "MERCAPTOPURINA 50mg,  tableta, V.O.",
+      "Nombre comercial": "PURI-NETHOL 5-MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "219",
+      "Código": "102077901",
+      "Nombre genérico": "MEROPENEM 1g, polvo liofilizado, I.V.",
+      "Nombre comercial": "Meropenem 1g Polvo para Solución Inyectable | PISAPEM 1G POLVO PARA SOLUCION INYECTABLE I.V. + DILUYENTE. | MEROPENEM 1.- G POLVO PARA INYECCION I.V. | MEROSEG MEROPENEM 1G POLVO PARA SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "220",
+      "Código": "101074801",
+      "Nombre genérico": "METFORMINA CLORHIDRATO 850mg, tableta ranurada,  V.O.",
+      "Nombre comercial": "METFORVITAE 85- MG COMPRIMIDOS RECUBIERTO | DIABETINA 85- MG TABLETAS | APO-METFORMINA 85-MG TABLETAS RECUBIERTAS. | Metformina 85-mg tabletas recubiertas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "221",
+      "Código": "101018401",
+      "Nombre genérico": "METILDOPA 250mg, tableta, V.O.",
+      "Nombre comercial": "Aldomet 25- mg Tabletas Recubiertas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "222",
+      "Código": "102012401",
+      "Nombre genérico": "METILERGONOVINA 0.2mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "METILERGONOVINA MALEATO USP -.2 MG/ML SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "223",
+      "Código": "102017101",
+      "Nombre genérico": "\"METILPREDNISOLONA ACETATO o TRIAMCINOLONA ACETONIDO o DIACETATO: 40mg/ml, solución o suspensión, Intramuscular",
+      "Nombre comercial": "Intraarticular, Tejidos Blandos e Intralesional.\"",
+      "Presentación": "DEPO-MEDROL 4-MG/ML SUSPENSION INYECTABLE I.M., I.SINOVIAL Y EN TEJIDOS BLANDO"
+    },
+    {
+      "#": "224",
+      "Código": "102061601",
+      "Nombre genérico": "METILPREDNISOLONA SUCCINATO SÓDICO 500mg polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "CORTISOLONA 5-- mg POLVO PARA SOLUCIÓN INYECTABLE | Metilprednisolona 5--mg Polvo para Solución Inyectable | LISAMETHYLE 5-- MG POLVO PARA SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "225",
+      "Código": "102079601",
+      "Nombre genérico": "METOTREXATE 1g, solución I.M., I.T, I.V.",
+      "Nombre comercial": "HI-TREX-PF (METOTREXATO BP 1-- MG/ML) INYECCIÓN | METROTEXATE DE 1 GR VIAL",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "226",
+      "Código": "101022301",
+      "Nombre genérico": "METOTREXATE 2.5mg, tableta, V.O.",
+      "Nombre comercial": "METOTREXATO 2.5MG TABLETAS SANDOZ | ETOTREXATO 2.5 MG USP TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "227",
+      "Código": "102053901",
+      "Nombre genérico": "METOTREXATE 25mg/ml, solución isotónica parenteral libre de preservativos, I.M., I.T., I.V.",
+      "Nombre comercial": "Unitrexate 5-mg/2mL solución inyectable I.V./I.M./Intratecal",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "228",
+      "Código": "102069001",
+      "Nombre genérico": "METRONIDAZOL 500mg, solución, I.V.",
+      "Nombre comercial": "Metronidazol 5-- mg (5mg/ml) Solución Inyectable para Infusión | OTROZOL 5-- SOLUCION INYECTABLE | METRONIDAZOL B.BRAUN 5 MG/ML SOLUCIÓN PARA PERFUSIÓN | CUMET 5-- mg/1-- ml SOLUCION INYECTABLE PARA INFUSION INTRAVENOSA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "229",
+      "Código": "101087401",
+      "Nombre genérico": "MICOFENOLATO MOFETILO 250mg, cápsula, V.O.",
+      "Nombre comercial": "CELLCEPT 25- MG CÁPSULAS | APO-MICOFENOLATO 25- MG CAPSULAS | MYCORT 25- (MICOFENOLATO MOFETILO 25- MG CÁPSULAS)",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "230",
+      "Código": "102092801",
+      "Nombre genérico": "MILRINONA 1mg/ml, solución, I.V.",
+      "Nombre comercial": "MILRINONA 1-MG / 1-ML SOLUCIÓN INYECTABLE | MILRICOR SOLUCIÓN INYECTABL | MILRINONA 1- MG/1- ML SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "231",
+      "Código": "101093601",
+      "Nombre genérico": "MINOXIDIL 10mg, tableta, V.O.",
+      "Nombre comercial": "VAXDIL 1- MG TABLETAS. | MINODIL 1- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "232",
+      "Código": "102045801",
+      "Nombre genérico": "MITOMICINA 5mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "Maximitom Polvo Liofilizado Inyectable",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "233",
+      "Código": "102066801",
+      "Nombre genérico": "MORFINA CLORHIDRATO o SULFATO 10mg/ml, solución, S.C., I.M., I.V.",
+      "Nombre comercial": "MORPHIN-HAMELN 1-MG/ML SOLUCIÓN INYECTABLE S.C., I.M., I.V., EPIDURAL E INTRATECAL | MORFINA CLORHIDRATO TRIHIDRATO 1-MG/ML SOLUCIÓN INYECTABLE I.M., I.V., S.C | MORPHIN-HAMELN 1-MG/ML SOLUCIÓN INYECTABLE S.C., I.M., I.V., EPIDURAL E INTRATECA | MORFINA CLORHIDRATO TRIHIDRATO 1-MG/ML SOLUCIÓN INYECTABLE I.M., I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "234",
+      "Código": "101084001",
+      "Nombre genérico": "MORFINA SULFATO 15mg, cápsula o tableta, V.O. (Control Narcóticos).",
+      "Nombre comercial": "MORFINEX 15 MG TABLETAS | MORFIA 15 MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "235",
+      "Código": "102007401",
+      "Nombre genérico": "NALOXONA 0.4mg/ml, solución, I.M., I.V., S.C.",
+      "Nombre comercial": "NALOXONA HCL -.4 MG/ML SOLUCIÓN INYECTABLE I.M., I.V., S.C. | Nalox -.4 mg/mL Solución Inyectable I.M., I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "236",
+      "Código": "102016401",
+      "Nombre genérico": "NEOSTIGMINA METILSULFATO 0.5mg/ml, solución, I.M., I.V., S.C.",
+      "Nombre comercial": "PROSTIGMINE -.5 MG/ML SOLUCION INYECTABLE I.M., I.V., S.C. | NEOSTIGMINA METILSULFATO -.5 MG/ML, SOLUCIÓN INYECTABLE, I.M., I.V., S.C | NEOSTIGMINA METILSULFATO -.5MG/ML SOLUCION INYECTABLE I.M., I.V., S.C. | NEOSTIGMINA METILSULFATO -.5 MG/ML, SOLUCIÓN INYECTABLE, I.M., I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "237",
+      "Código": "101101101",
+      "Nombre genérico": "NILOTINIB 150mg, cápsula, V.O.",
+      "Nombre comercial": "TASIGNA 15-MG CAPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "238",
+      "Código": "101096001",
+      "Nombre genérico": "NILOTINIB 200mg, cápsula, V.O.",
+      "Nombre comercial": "TASIGNA 2-- MG CAPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "239",
+      "Código": "102075501",
+      "Nombre genérico": "NIMODIPINA 10mg/50ml, solución, I.V.",
+      "Nombre comercial": "NIMODIPINO 1-mg/5-mL Solución Inyectable para Infusión I.V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "240",
+      "Código": "102040801",
+      "Nombre genérico": "NITROPRUSIATO SÓDICO 50mg, polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "NITROPRUSIATO DE SODIO 5-MG/2ML SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "241",
+      "Código": "102013401",
+      "Nombre genérico": "NOREPINEFRINA BITARTRATO (sal), equivalente a NOREPINEFRINA (base) 1mg/ml, solución, I.V.",
+      "Nombre comercial": "PRIDAM 4 MG / 4 ML SOLUCION INYECTABLE I.V. | NORADRENALINA SINTETICA 4MG/4ML CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "242",
+      "Código": "102082601",
+      "Nombre genérico": "OCRELIZUMAB 30mg/ml solución I.V.",
+      "Nombre comercial": "Ocrevus 3--mg/1-ml concentrado para solución para infusión I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "243",
+      "Código": "102075601",
+      "Nombre genérico": "OCTREOTIDE 0.1mg, solución, I.V., S.C.",
+      "Nombre comercial": "SANDOSTATIN -,1 MG/ML SOLUCIÓN INYECTABLE INFUSION I.V., S.C. | OTIDE 1-- (1--MCG/ML) SOLUCION INYECTABLE S.C., I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "244",
+      "Código": "102090701",
+      "Nombre genérico": "OCTREOTIDE 20mg, acción prolongada, polvo liofilizado, I.M.",
+      "Nombre comercial": "OCTREOTIDA 2-MG / VIAL POLVO Y DISOLVENTE PARA SUSPENSIÓN INYECTABLE DE LIBERACIÓN PROLONGADA | SANDOSTATIN LAR 2- MG/VIAL POLVO (MICROESFERAS) PARA SUSPENSIÓN INYECTABLE I.M. + DILUYENTE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "245",
+      "Código": "101091401",
+      "Nombre genérico": "OLANZAPINA 10mg, tableta o tableta dispersable, V.O.",
+      "Nombre comercial": "ZYPREXA ZYDIS 1- MG COMPRIMIDOS BUCODISPERSABLES | APO-OLANZAPINA 1-MG TABLETAS RECUBIERTAS | FONTANIVIO 1- MG TABLETAS | OLEXAR -1- (1-MG ) TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "246",
+      "Código": "102078301",
+      "Nombre genérico": "OLIGOELEMENTOS o ELEMENTOS TRAZAS PARA ADULTOS CON ZINC, COBRE, MANGANESO Y CROMO, solución, I.V.",
+      "Nombre comercial": "ADDAVEN CONCENTRADO PARA SOLUCION POR INFUSION",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "247",
+      "Código": "102013801",
+      "Nombre genérico": "OLIGOELEMENTOS o ELEMENTOS TRAZAS PARA PEDIATRÍA CON ZINC, COBRE, MANGANESO, solución, I.V.",
+      "Nombre comercial": "TRACEFUSIN SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "248",
+      "Código": "101059401",
+      "Nombre genérico": "OMEPRAZOL 20mg,  cápsula con microesferas gastrorresistentes, V.O.",
+      "Nombre comercial": "OMEPRAZOL CINFA 2- MG CAPSULAS DURAS GASTRORRESISTENTES | OMENOR 2-MG CÁPSULAS DURAS GASTRORRESISTENTES | OMEPRAZOL 2- MG CAPSULA GASTRO RESISTENTE | OMEPRAZOL 2- MG CAPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "249",
+      "Código": "102078701",
+      "Nombre genérico": "OMEPRAZOL 40mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "Omeprazol Normon 4-mg / Vial Polvo para Solución para Perfusión EFG | OMEPRAZOL 4-MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE INFUSIÓN I.V. | FLAGOSEC 4-MG/VIAL POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE I.V. | Omeprazol (Sódico) 4- mg Polvo para Solución Inyectable",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "250",
+      "Código": "102041901",
+      "Nombre genérico": "OXACILINA SÓDICA 1g, polvo liofilizado, I.V.",
+      "Nombre comercial": "OXACILINA (SODICA) 1 G/VIAL POLVO PARA SOLUCION INYECTABLE I.M., I.V., INFUSION I.V | OXACILINA 1G POLVO ESTERIL PARA RECONSTITUIR A SOLUCIÓN INYECTABLE I.M., I.V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "251",
+      "Código": "101097201",
+      "Nombre genérico": "OXICODONA CLORHIDRATO 10mg, tableta de liberación prolongada, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "252",
+      "Código": "101097301",
+      "Nombre genérico": "OXICODONA CLORHIDRATO 20mg, tableta de liberación prolongada, V.O.",
+      "Nombre comercial": "ENDOCODIL XR 2-MG TABLETAS DE LIBERACIÓN PROLONGADA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "253",
+      "Código": "102020101",
+      "Nombre genérico": "OXITOCINA SINTÉTICA 5-10UI/ml, solución, I.V.",
+      "Nombre comercial": "OXITOPISA 5UI/ML SOLUCIÓN INYECTABLE I.M., I.V. (DILUIDA). | OXITOCINA 5 UI/ML SOLUCIÓN INYECTABLE I.M., I.V. LENTA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "254",
+      "Código": "103000201",
+      "Nombre genérico": "OXÍGENO MÉDICO, no menor de 99.0%, gas, Vía Inhalatoria.",
+      "Nombre comercial": "",
+      "Presentación": "Gas medicinal"
+    },
+    {
+      "#": "255",
+      "Código": "101077501",
+      "Nombre genérico": "PARACETAMOL (ACETAMINOFÉN) 300-325mg con CODEÍNA FOSFATO 30mg, tableta, V.O. (Control Narcóticos)",
+      "Nombre comercial": "Atercod (3--mg/3-mg) tabletas | ANALFEN CON CODEÍNA 325 MG/3- MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "256",
+      "Código": "102100101",
+      "Nombre genérico": "PARACETAMOL 10mg/ml, solución para perfusión, I.V.",
+      "Nombre comercial": "PARACONICA 1--- MG, SOLUCIÓN PARA PERFUSIÓN, I.V. | PARANOR 1- MG/ ML SOLUCION PARA PERFUSION | XFEBRIL 1- MG / ML SOLUCIÓN CONCENTRADA PARA INFUSIÓN IV | SALPIFAR 1g/1--mL Solución Inyectable I.V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "257",
+      "Código": "101101201",
+      "Nombre genérico": "PARICALCITOL 2mcg, cápsula, V.O.",
+      "Nombre comercial": "ZEMPLAR 2 MCG CAPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "258",
+      "Código": "102092901",
+      "Nombre genérico": "PARICALCITOL 5mcg/ml, solución, I.V.",
+      "Nombre comercial": "Paricalcitol Sandoz 5mcg/ml solución inyectable I.V. | PARICALCITOL ACCORD 5 MICROGRAMOS/ML SOLUCIÓN INYECTABLE EFG | RICALCITOL D 5 MCG/ML SOLUCION INYECTABLE INTRAVENOSA | PARICALCITOL 5 MCG/ML SOLUCIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "259",
+      "Código": "102078001",
+      "Nombre genérico": "PIPERACILINA 4g con TAZOBACTAM 500mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "AMPITOTAL 4 g + -.5 g POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE | PIPERACILINA 4G + TAZOBACTAM -.5G, POLVO PARA SOLUCIÓN INYECTABL | Piperacilina Sódica y Tazobactam sódico para inyección | PIPERAZAM 4.5G/VIAL POLVO ESTERIL PARA SOLUCION INYECTABLE I.V. POR PERFUSION",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "260",
+      "Código": "101018301",
+      "Nombre genérico": "PIRIDOSTIGMINA BROMURO 60mg, tableta, V.O.",
+      "Nombre comercial": "MESTINON 6- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "261",
+      "Código": "103030501",
+      "Nombre genérico": "POLIESTIRENO SULFONATO, polvo, pote o frasco, 453.6 g,  V.O., Vía Rectal.",
+      "Nombre comercial": "KAYEXALATE 99.934% POLVO PARA SUSPENSIÓN ORAL/RECTAL",
+      "Presentación": "Óvulo/Supositorio"
+    },
+    {
+      "#": "262",
+      "Código": "103062101",
+      "Nombre genérico": "POLIETILENGLICOL 3350, CON ELECTROLITOS (SULFATO DE SODIO ANHIDRO, BICARBONATO DE  SODIO, CLORURO DE SODIO, CLORURO DE POTASIO), polvo para solución, V.O.",
+      "Nombre comercial": "KLEAN PREP LAXANTES",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "263",
+      "Código": "102093001",
+      "Nombre genérico": "POLIMIXINA B SULFATO 500,000UI, polvo o solución, I.M., I.V.",
+      "Nombre comercial": "POLIXIN CB POLVO PARA SOLUCION INYECTABLE I.M., I.V, INTRATECAL",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "264",
+      "Código": "102014901",
+      "Nombre genérico": "POTASIO CLORURO 2mEq/ml, solución, I.V.",
+      "Nombre comercial": "CLORURO DE POTASIO 1.49 G / 1- ML SOLUCIÓN INYECT | CLORURO DE POTASIO 14.9% SOLUCIÓN INYECTABLE I.V. POR INFUSIÓ",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "265",
+      "Código": "102078401",
+      "Nombre genérico": "POTASIO FOSFATO 3mmol/ml, solución, I.V.",
+      "Nombre comercial": "FOSFATO DE POTASIO INYECCIÓN USP 45MM/15ML FOSFORO 66MEQ/15ML POTASIO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "266",
+      "Código": "103006801",
+      "Nombre genérico": "POTASIO GLUCONATO 20mEq/15ml, elixir, frasco, 150-200ml, V.O.",
+      "Nombre comercial": "IONKA 2- MEQ / 15 ML ELIXIR.",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "267",
+      "Código": "101062501",
+      "Nombre genérico": "PRAZOSINA 2mg, tableta ranurada, V.O.",
+      "Nombre comercial": "APO-PRAZO 2 MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "268",
+      "Código": "103056801",
+      "Nombre genérico": "PREDNISONA o PREDNISOLONA 1-3mg/ml, jarabe o solución, 60- 120ml, V.O.",
+      "Nombre comercial": "PRELONE 15 MG / 5 ML JARABE | DOPRESOL SOLUCION ORAL | PREDNISOLONA (FOSFATO SÓDICO) 3 MG/ML SOLUCIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "269",
+      "Código": "101024201",
+      "Nombre genérico": "PREDNISONA o PREDNISOLONA 5mg, tableta, V.O.",
+      "Nombre comercial": "PREDNISONA 5MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "270",
+      "Código": "101093801",
+      "Nombre genérico": "PROPAFENONA 150mg, tableta, V.O.",
+      "Nombre comercial": "Rytmonorm 15-mg tabletas recubiertas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "271",
+      "Código": "102073001",
+      "Nombre genérico": "PROPOFOL 10mg/ml, emulsión, I.V.",
+      "Nombre comercial": "DIPRIVAN 1- MG/ML (1 %) EMULSIÓN INYECTABLE I.V. EN JERINGUILLAS PRELLENDAS Y AMPOLLAS | PROFOL 1% EMULSIÓN PARA INYECCIÓN O INFUSIÓN INTRAVENOSA | POFOL 1-MG/ML EMULSION INYECTABLE I.V. | PROPOFOL 1% MCT EMULSIÓN INYECTABLE 1-MG/ML",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "272",
+      "Código": "101053901",
+      "Nombre genérico": "PROPRANOLOL CLORHIDRATO 10mg, tableta, V.O.",
+      "Nombre comercial": "PROPRANOLOL HCL 1- MG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "273",
+      "Código": "102048601",
+      "Nombre genérico": "PROPRANOLOL CLORHIDRATO 1mg/ml, solución, I.V.",
+      "Nombre comercial": "PROPRANOLOL CLORHIDRATO 1MG/1ML SOLUCION INYECTABLE I.V. LENTA.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "274",
+      "Código": "101054001",
+      "Nombre genérico": "PROPRANOLOL CLORHIDRATO 40mg, tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "275",
+      "Código": "102053501",
+      "Nombre genérico": "PROTAMINA CLORHIDRATO o SULFATO 10mg/ml ó 1,000U/ml, solución, I.V.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "276",
+      "Código": "101091201",
+      "Nombre genérico": "RIFAMPICINA 120mg con ISONIAZIDA 50mg con PIRAZINAMIDA 300mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "277",
+      "Código": "101068801",
+      "Nombre genérico": "RIFAMPICINA 150mg con ISONIAZIDA 100mg, cápsula o tableta,  V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "278",
+      "Código": "101047001",
+      "Nombre genérico": "RIFAMPICINA 300mg, cápsula o tableta,  V.O.",
+      "Nombre comercial": "RIFAMPICINA 3-- mg CÁPSULA | RIFAMPICINA 3-- MG | RIFAMPICINA LABATEC",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "279",
+      "Código": "102009401",
+      "Nombre genérico": "RINGER LACTATO, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión Intravenosa 1,000ml.",
+      "Nombre comercial": "SOLUCIÓN HT PISA SOLUCIÓN INYECTABLE I.V. | OLUCIÓN HT PISA SOLUCIÓN INYECTABLE I.V. | SOLUCION HARTMANN (LACTATO DE RINGER) INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "280",
+      "Código": "102010701",
+      "Nombre genérico": "RINGER LACTATO, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión Intravenosa, 500ml.",
+      "Nombre comercial": "SOLUCIÓN HT PISA SOLUCIÓN INYECTABLE I.V. | SOLUCION INYECTABLE DE LACTATO DE RINGER USP I.V. | SOLUCION HARTMANN (LACTATO DE RINGER) INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "281",
+      "Código": "102080801",
+      "Nombre genérico": "RITUXIMAB 100mg, solución, I.V.",
+      "Nombre comercial": "Mabthera 1-mg/ml (5--mg/5-ml y 1--mg/1-ml) concentrado para solución para infusión | TRUXIMA 5--MG/5-ML Y 1--MG/1-ML CONCENTRADO PARA SOLUCIÓN PARA INFUSIÓN I.V. | RIXATHON 1-MG/ML (1--MG/1-ML Y 5--MG/5-ML) CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN I.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "282",
+      "Código": "102081701",
+      "Nombre genérico": "RITUXIMAB 500mg, solución, I.V.",
+      "Nombre comercial": "Mabthera 1-mg/ml (5--mg/5-ml y 1--mg/1-ml) concentrado para solución para infusión | TRUXIMA 5--MG/5-ML Y 1--MG/1-ML CONCENTRADO PARA SOLUCIÓN PARA INFUSIÓN I.V. | RIXATHON 1-MG/ML (1--MG/1-ML Y 5--MG/5-ML) CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN I",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "283",
+      "Código": "103048601",
+      "Nombre genérico": "SALES DE REHIDRATACIÓN ORAL,  con un contenido mínimo de: DEXTROSA (GLUCOSA) ANHIDRA 20g, SODIO CLORURO 3.5g,  SODIO CITRATO DIHIDRATADO 2.9g, POTASIO  CLORURO 1.5g, polvo, sobre, V.O.",
+      "Nombre comercial": "ELECTRO - DEX SABOR A LIMON POLVO PARA SUERO ORAL. | ELECTROLITOS APO-POLVO SABOR NARANJA | LECTROLITOS APO POLVO PARA SOLUCIÓN SUERO ORAL SABOR A MANZANA. | ELECTROLITOS APO POLVO PARA SOLUCION SUERO ORAL SABOR A PIÑA.",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "284",
+      "Código": "101097101",
+      "Nombre genérico": "SEVELAMER CARBONATO 800mg, tableta, V.O.",
+      "Nombre comercial": "ARBONATO DE SEVELAMER ANHIDRO 8--MG TABLETAS RECUBIERTAS | Sevelamer carbonato 8-- mg tabletas | LAMERIS 8-- MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "285",
+      "Código": "103040801",
+      "Nombre genérico": "SEVOFLURANO, solución, frasco, 250ml, Inhalación.",
+      "Nombre comercial": "sevorane 1--% anestÃ©sico liquido por inhalaciÃ³n | FLOVES 1--% Solución | SOJOURN SEVOFLURANO USP ANESTÉSICO PARA INHALACIÓN",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "286",
+      "Código": "101094001",
+      "Nombre genérico": "SIROLIMUS 1mg, tableta, V.O.",
+      "Nombre comercial": "RAPAMUNE 1 MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "287",
+      "Código": "102018101",
+      "Nombre genérico": "SODIO BICARBONATO 7.5%, solución hipertónica, I.V.",
+      "Nombre comercial": "BICAR-NAT 7.5% Solución Inyectable I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "288",
+      "Código": "102099401",
+      "Nombre genérico": "SODIO CLORURO al 0.9%, solución, bolsa plástica con dos salidas, con equipo adaptable desechable para Infusión Intravenosa, 100ml.",
+      "Nombre comercial": "CLORURO DE SODIO AL -.9% SOLUCION INYECTABLE IV | CLORURO DE SODIO AL -.9 % EN AGUA INYECTABLE BAXTER I.V. | SOLUCIÓN ISOTONICA DE CLORURO DE SODIO AL -.9% SOLUCIÓN INYECTABLE I.V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "289",
+      "Código": "102017602",
+      "Nombre genérico": "SODIO CLORURO al 0.9%, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión Intravenosa, 1,000ml.",
+      "Nombre comercial": "SOLUCIÓN CS PISA SOLUCION INYECTABLE | CLORURO DE SODIO AL -.9% SOLUCION INYECTABLE IV | CLORURO DE SODIO AL -.9 % EN AGUA INYECTABLE BAXTER I.V. | Cloruro de Sodio -.9% Solución Inyectable",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "290",
+      "Código": "102017401",
+      "Nombre genérico": "SODIO CLORURO al 0.9%, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión Intravenosa, 500ml.",
+      "Nombre comercial": "SOLUCIÓN CS PISA SOLUCION INYECTABLE | CLORURO DE SODIO AL -.9% SOLUCION INYECTABLE IV | CLORURO DE SODIO AL -.9 % EN AGUA INYECTABLE BAXTER I.V. | Cloruro de Sodio -.9% Solución Inyectable",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "291",
+      "Código": "102095201",
+      "Nombre genérico": "SUERO ANTIOFÍDICO ANTI-CORAL (CONTRA MICRURUS NIGROCINTUS, MICRURUS FULVIUS Y MICRURUS D. CARINICAUDUS), solución o polvo liofilizado, ampolla o vial, 10ml, I.M., I.V.",
+      "Nombre comercial": "CORAL ICP ANTIVENENO OFIDICO ANTICORAL LIQUIDO SOLUCION INYECTABLE I.M.,I.V.",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "292",
+      "Código": "102059001",
+      "Nombre genérico": "SUERO ANTIOFÍDICO, POLIVALENTE, (QUE INCLUYE ANTI-B  ASPER/ATROX), CON ANTILAQUÉSICO, solución, vial, 10ml, I.V.",
+      "Nombre comercial": "POLIVAL-ICP ANTIVENENO OFIDICO POLIVALENTE LIQUIDO SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "293",
+      "Código": "104014701",
+      "Nombre genérico": "SULFADIAZINA DE PLATA 1%, crema, pote, 100-400g, Vía Tópica.",
+      "Nombre comercial": "ARGENTAFIL 1 % CREMA TOPICA | SULFADIAZINA DE PLATA AL 1 % CREMA TÓPICA | SILVEDERMA 1- MG/G CREMA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "294",
+      "Código": "104018501",
+      "Nombre genérico": "SULFADIAZINA DE PLATA 1%, crema, tubo o pote, 30-60g, Vía Tópica.",
+      "Nombre comercial": "ARGENTAFIL 1 % CREMA TOPICA | SULFADIAZINA DE PLATA AL 1 % CREMA TÓPICA | SILVEDERMA 1- MG/G CREMA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "295",
+      "Código": "101059201",
+      "Nombre genérico": "SULFASALAZINA 500mg,  tableta, V.O.",
+      "Nombre comercial": "ULFASALAZINA 5--MG TABLETAS RECUBIERTAS NO ENTÉRICAS | SAZO EN 5-- (SULFASALAZINA USP 5-- MG TABLETAS DE LIBERACIÓN RETARDADA) | SULFASALAZINA 5--MG TABLETAS RECUBIERTAS NO ENTÉRICAS.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "296",
+      "Código": "102075401",
+      "Nombre genérico": "SURFACTANTE PULMONAR: COLPOSFERIL PALMITATO o FOSFOLÍPIDO 100-240mg, suspensión, Vía Endotraqueal.",
+      "Nombre comercial": "SURVANTA 25 MG/ML SUSPENSION INTRATRAQUEAL (BOVINO)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "297",
+      "Código": "101094101",
+      "Nombre genérico": "TACROLIMUS 1mg, cápsula, V.O.",
+      "Nombre comercial": "PROGRAF 1MG CAPSULAS | TACROLIMUS 1MG CÁPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "298",
+      "Código": "101094201",
+      "Nombre genérico": "TALIDOMIDA 100mg, tableta, V.O.",
+      "Nombre comercial": "THALIDE 1-- Talidomida Cápsulas USP 1--mg | alidomida Lazar 1--mg Comprimidos",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "299",
+      "Código": "101024501",
+      "Nombre genérico": "TAMOXIFENO CITRATO 20mg,  tableta, V.O.",
+      "Nombre comercial": "NOLVADEX - D 2- MG COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "300",
+      "Código": "102093201",
+      "Nombre genérico": "TEICOPLANINA 400mg, polvo liofilizado, I.M, I.V.",
+      "Nombre comercial": "PLANICID 4--MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE | eicoplanina Richet 4--mg/frasco polvo liofilizado para solución inyectable I.V. I.M. más solvente",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "301",
+      "Código": "102001201",
+      "Nombre genérico": "TENECTEPLASA 50mg (10,000UI), I.V.",
+      "Nombre comercial": "",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "302",
+      "Código": "101096801",
+      "Nombre genérico": "TENOFOVIR FUMARATO DE DISOPROXILO 300mg, equivalente a 245mg de  TENOFOVIR DISOPROXILO , tableta, V.O.",
+      "Nombre comercial": "APO-TENOFOVIR 3-- MG TABLETA RECUBIERTA | FUMARATO DE DISOPROXILO DE TENOFOVIR 3--MG TABLETAS RECUBIERTAS CON PELICULA | TENOFOVIR DISOPROXIL FUMARATO 3-- MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "303",
+      "Código": "102095501",
+      "Nombre genérico": "TESTOSTERONA UNDECANOATO 1,000mg, solución, I.M.",
+      "Nombre comercial": "NEBIDO 1---MG/4ML SOLUCIÓN INYECTABLE I.M",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "304",
+      "Código": "101030201",
+      "Nombre genérico": "TIAMAZOL (METIMAZOL)  5mg, tableta, V.O.",
+      "Nombre comercial": "TAPAZOL 5 MG TABLETAS | COMPLEJO B RIGAR",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "305",
+      "Código": "102082301",
+      "Nombre genérico": "TIGECICLINA CLORHIDRATO 50mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "IGECICLINA GALENICUM 5- MG POLVO PARA SOLUCIÓN PARA PERFUSIÓN | IGECICLINA NORMON 5- MG POLVO PARA SOLUCIÓN PARA PERFUSIÓN EFG | TIGECID 5- MG POLVO LIOFILIZADO PARA SOLUCIÓN IV | Geclix 5-mg polvo para solución inyectable",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "306",
+      "Código": "103060801",
+      "Nombre genérico": "TIOTROPIO BROMURO 18mcg/inhalación, polvo seco, inhalador con dispositivo, Vía Bucal.",
+      "Nombre comercial": "SPIRIVA TIOTROPIO CÁPSULAS DURAS CON POLVO PARA INHALACIÓ",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "307",
+      "Código": "102079101",
+      "Nombre genérico": "TIROFIBAN CLORHIDRATO 0.25mg/ml, solución, I.V.",
+      "Nombre comercial": "AGRASTAT -.25 MG/ML SOLUCIÓN INYECTABLE I.V. | AGRASTAT -.25 MG/ML SOLUCIÓN INYECTABLE, CONCENTRADO PARA SOLUCIÓN PARA INFUSIÓ | INIPLAQ 5- mcg/mL, SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "308",
+      "Código": "101097601",
+      "Nombre genérico": "TIZANIDINA CLORHIDRATO 4mg, tableta, V.O.",
+      "Nombre comercial": "SIRDALUD 4 MG COMPRIMIDOS | TIZANIDINA (CLORHIDRATO) 4 MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "309",
+      "Código": "103061401",
+      "Nombre genérico": "TOBRAMICINA 300mg/5ml, solución para Inhalación y Nebulizar, ampolla.",
+      "Nombre comercial": "OBRAL 3-- MG / 5 ML SOLUCION INHALATORIA",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "310",
+      "Código": "101094301",
+      "Nombre genérico": "TOPIRAMATO 100mg, tableta, V.O.",
+      "Nombre comercial": "TOPICTAL 1--MG COMPRIMIDOS RECUBIERTOS | TOPIRAMATO NORMON 1--MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG | Topiramato Maxihealth 1-- (1--mg) tabletas recubiertas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "311",
+      "Código": "102057301",
+      "Nombre genérico": "TOXOIDE TETÁNICO (PRECIPITADO EN ALUMBRE), solución, vial, 5-10ml, I.M.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "312",
+      "Código": "103000901",
+      "Nombre genérico": "TRAMADOL 100mg/ml, solución, gotas, V.O.",
+      "Nombre comercial": "TRAMAL 1-- mg / ml SOLUCIÓN GOTAS ORALES",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "313",
+      "Código": "101037901",
+      "Nombre genérico": "TRAMADOL CLORHIDRATO 50mg, cápsula, V.O.",
+      "Nombre comercial": "RAMADOL NORMON 5- MG CAPSULAS DURAS EFG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "314",
+      "Código": "102093401",
+      "Nombre genérico": "TRAMADOL CLORHIDRATO 50mg/ml, solución, I.V.",
+      "Nombre comercial": "RAMAL 5- (5-MG/ ML)SOLUCION INYECTABLE I.M/I.V./S.C | TRADOXIL 1--MG/2ML SOLUCION INYECTABLE I.M., I.V., S.C. | TRAMADOL CLORHIDRATO SOLUCIÓN INYECTABLE 1-- mg/2m | PISAZOL 1--MG/2ML SOLUCIÓN INYECTABLE I.M., I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "315",
+      "Código": "101094401",
+      "Nombre genérico": "TRETINOÍNA (ACIDO RETINOICO) 10mg, cápsula, V.O.",
+      "Nombre comercial": "TRETINOINA (ACIDO RETINOICO)",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "316",
+      "Código": "102090601",
+      "Nombre genérico": "TRIMETOPRIN 16mg CON SULFAMETOXAZOL 80mg/ml, solución, I.V.",
+      "Nombre comercial": "BACTRIM 4--MG / 8-MG SOLUCIÓN INYECTABLE | SPECTREX 4--MG-8-MG/5ML SOLUCION INYECTABLE | Cotrizol G solución inyectable | TRIMETOPRIM + SULFAMETOXAZOL 8-MG + 4--MG/5ML SOLUCION INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "317",
+      "Código": "102055201",
+      "Nombre genérico": "TRIPLE VACUNA DPT, solución,  ampolla, I.M.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "318",
+      "Código": "102054201",
+      "Nombre genérico": "VACUNA ANTI-SARAMPIÓN VIVA ATENUADA, polvo liofilizado, vial, 0.5ml, S.C.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "319",
+      "Código": "101094501",
+      "Nombre genérico": "VALGANCICLOVIR 450mg, tableta, V.O.",
+      "Nombre comercial": "Valganciclovir 45- mg Comprimidos Vía Oral | Valganciclovir Aurovitas 45-mg comprimidos recubiertos con película EFG | VALGANCICLOVIR TABLETAS USP 45- MG | VALGANCICLOVIR 45- MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "320",
+      "Código": "101073801",
+      "Nombre genérico": "VALPROATO DE MAGNESIO, DIVALPROATO SÓDICO 500mg, cápsula o tableta, de liberación modificada con capa entérica, V.O.",
+      "Nombre comercial": "EPIVAL 5-- MG TABLETAS CON CAPA ENTERICA | Epival ER 5--mg tabletas de liberación prolongada | ATEMPERATOR 5--MG TABLETAS CON CAPA ENTÉRICA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "321",
+      "Código": "103048701",
+      "Nombre genérico": "VALPROICO ÁCIDO 250mg/5ml, jarabe o suspensión, frasco, 120ml, V.O.",
+      "Nombre comercial": "Depakene 25-mg./5ml Jarabe | VALIPESIA 25-MG/5ML JARABE. | ATEMPERATOR S SUSPENSIÓN ORAL | FLAXVAN JARABE",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "322",
+      "Código": "102063201",
+      "Nombre genérico": "VANCOMICINA 500mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "VANCONOR 5-- MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSIO | VANCOMAX 5-- MG POLVO PARA SOLUCIÓN I.V | anoxat 5--mg Polvo Liofilizado para reconstituir a solución inyectable | VANAURUS 5--mg Polvo para Solución Inyectable I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "323",
+      "Código": "102014501",
+      "Nombre genérico": "VASOPRESINA ACUOSA 10U/0.5ml, solución, S.C., I.M., I.V.",
+      "Nombre comercial": "ARTERINA 2- UI/mL Solución Inyectable I.V., I.M., S.C. | VASOPRESINA INYECCIÓN USP 2- UI SOLUCIÓN INYECTABLE I.M., I.V., S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "324",
+      "Código": "101071301",
+      "Nombre genérico": "VERAPAMILO CLORHIDRATO 120mg, tableta de acción prologada, V.O.",
+      "Nombre comercial": "Isoptin Retard 12-mg tabletas recubiertas de liberación prolongada",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "325",
+      "Código": "102045401",
+      "Nombre genérico": "VERAPAMILO CLORHIDRATO 5mg, solución, I.V.",
+      "Nombre comercial": "Verapamilo Clorhidrato 5 mg/2 ml Solución Inyectable I.V. Lenta",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "326",
+      "Código": "101073501",
+      "Nombre genérico": "VERAPAMILO CLORHIDRATO 80mg, tableta, V.O.",
+      "Nombre comercial": "Isoptin 8-mg tabletas recubiertas | VERAPAMILO CLORHIDRATO, 8-MG. TABLETA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "327",
+      "Código": "102025001",
+      "Nombre genérico": "VINBLASTINA SULFATO 10mg, polvo liofilizado, I.V.",
+      "Nombre comercial": "Velbastine 1-mg/vial polvo liofilizado para solución inyectable IV.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "328",
+      "Código": "102054301",
+      "Nombre genérico": "VINCRISTINA SULFATO 1mg, polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "VINCRISTINA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "329",
+      "Código": "102099901",
+      "Nombre genérico": "VORICONAZOL 200mg, polvo, I.V.",
+      "Nombre comercial": "VEAC 2--mg POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE | VORIX 2-- MG POLVO PARA SOLUCIÓN INYECTABLE EN INFUSIÓN I.V. | VONAZ 2-- MG/VIAL, POLVO LIOFILIZADO PARA SOLUCION INYECTABLE I.V. | VORICONAZOL RICHET 2--MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "330",
+      "Código": "101097401",
+      "Nombre genérico": "VORICONAZOL 200mg, tableta, V.O.",
+      "Nombre comercial": "VORICONA-DENK 2-- MG COMPRIMIDO RECUBIERTO CON PELÍCULA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "331",
+      "Código": "101058301",
+      "Nombre genérico": "WARFARINA SÓDICA 5mg, tableta, V.O.",
+      "Nombre comercial": "APO-WARFARINA 5MG TABLETAS | ARFARIN 5 MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "332",
+      "Código": "103060501",
+      "Nombre genérico": "ZIDOVUDINA 10mg/ml, solución, frasco, 240- 300ml, V.O.",
+      "Nombre comercial": "RETROVIR 5- MG / 5 ML JARABE",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "333",
+      "Código": "102081101",
+      "Nombre genérico": "ZOLEDRÓNICO ÁCIDO 4mg, solución, I.V.",
+      "Nombre comercial": "PROCAPS ZOCLAST 4 MG/5 ML SOLUCIÓN INYECTABLE, INFUSIÓN INTRAVENOSA | ZOLIMETAX 4MG/ 1--ML SOLUCIÓN PARA INFUSIÓN I.V. | ZOLEDRO-DENK 4 MG / 5 ML CONCENTRADO PARA SOLUCION PARA PERFUSION I.V | ACIDO ZOLEDRÓNICO (ANHIDRO) 4 MG/5 ML SOLUCIÓN ESTÉRIL PARA INYECCIÓN I.V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "334",
+      "Código": "101101401",
+      "Nombre genérico": "ZOLPIDEM 12.5mg, tableta de liberación prolongada, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "335",
+      "Código": "101101301",
+      "Nombre genérico": "ZOLPIDEM 6.25mg, tableta de liberación prolongada, V.O.",
+      "Nombre comercial": "ZOLPIDEM TARTRATO TABLETAS DE LIBERACION PROLONGADA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "336",
+      "Código": "101000901",
+      "Nombre genérico": "ACALABRUTINIB 100mg, cápsula, V.O.",
+      "Nombre comercial": "CALQUENCE 1--MG CÁPSULAS | CALQUENCE 1-- MG COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "337",
+      "Código": "101007801",
+      "Nombre genérico": "ACETAZOLAMIDA 250mg, tableta, V.O.",
+      "Nombre comercial": "APO-ACETAZOLAMIDA 25- MG TABLETAS.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "338",
+      "Código": "101038201",
+      "Nombre genérico": "ACETIL SALICÍLICO ÁCIDO 75-100mg, tableta, V.O.",
+      "Nombre comercial": "ASPIRINA 1-- MG TABLETAS MASTICABLES. | CARDIOASPIRINA 81 MG TABLETAS CON CAPA ENTERICA | LMG-CARDICETIL 75 MG TABLETAS | ACIDO ACETIL SALICILICO TABLETAS BP 1-- MG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "339",
+      "Código": "104016801",
+      "Nombre genérico": "ACICLOVIR  3%, ungüento, tubo, 3-7g, Vía Oftálmica.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "340",
+      "Código": "102096501",
+      "Nombre genérico": "ADALIMUMAB 40mg, solución inyectable, S.C.",
+      "Nombre comercial": "AMGEVITA 4- MG/ -.8 ML SOLUCION INYECTABLE | Idacio 4- mg Solución Inyectable",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "341",
+      "Código": "102078501",
+      "Nombre genérico": "AGUA ESTÉRIL, frasco o bolsa, 1,000-4,000ml, Vía Parenteral.",
+      "Nombre comercial": "Agua Estéril para inyección | AGUA INYECTABLE PiSA Solución inyectable | AGUA DESTILADA PARA INYECCIÓN USP",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "342",
+      "Código": "102000901",
+      "Nombre genérico": "AGUA ESTÉRIL, para inyectable, vial o bolsa multiuso con sello de seguridad,  50-100ml.",
+      "Nombre comercial": "AGUA ESTÉRIL PARA INYECCIÓN I.M., I.V. | Agua Bidestilada Solución Inyectable I.M., I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "343",
+      "Código": "103056901",
+      "Nombre genérico": "ALBENDAZOL 40mg/ml, suspensión, frasco, V.O.",
+      "Nombre comercial": "ALDAMIN 4--MG/2-ML SUSPENSION ORAL | ZENTEL 4 % SUSPENSION ORAL | ALBENDAZOL MK 4--MG/1-ML SUSPENSIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "344",
+      "Código": "101064601",
+      "Nombre genérico": "ALOPURINOL 300mg, tableta, V.O.",
+      "Nombre comercial": "ALOPURINOL NORMON 3--MG COMPRIMIDOS EFG | ALOPURINOL 3--MG COMPRIMIDOS | ZURIM 3-- mg comprimidos",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "345",
+      "Código": "104009001",
+      "Nombre genérico": "ALUMINIO ACETATO ÁCIDO 0.050%- 0.060%, crema, pH: 4.0- 4.8, tubo, 30g, Vía Tópica.",
+      "Nombre comercial": "NOVADERMIS -.-59% CREMA TOPICA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "346",
+      "Código": "103000401",
+      "Nombre genérico": "ALUMINIO ACETATO ÁCIDO 0.050%- 0.060%, loción, pH: 3.5-4.8, frasco, 120ml, Vía Tópica.",
+      "Nombre comercial": "OVADERMIS -,-59% LOCIÓN TÓPICA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "347",
+      "Código": "103010301",
+      "Nombre genérico": "ALUMINIO ACETATO ÁCIDO, (ACETATO DE CALCIO Y SULFATO DE ALUMINIO), polvo, sobre,  2-3g, Vía Tópica.",
+      "Nombre comercial": "ACETATO DE ALUMINIO POLVO PARA SOLUCION TOPICA.",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "348",
+      "Código": "103007901",
+      "Nombre genérico": "ALUMINIO Y MAGNESIO HIDRÓXIDOS 5.9-8.3% de hidróxidos totales, gel o suspensión, frasco, 150-240ml, V.O.",
+      "Nombre comercial": "GASTRIGEL N SUSPENCION ORAL",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "349",
+      "Código": "102048101",
+      "Nombre genérico": "AMINOFILINA 25mg/ml, solución, I.V.",
+      "Nombre comercial": "AMOFILIN 25-mg/1-mL Solución Inyectable I.V. | Aminofilina 25- mg/1- ml Solución Inyectable Intravenosa",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "350",
+      "Código": "101052301",
+      "Nombre genérico": "AMITRIPTILINA 10mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "351",
+      "Código": "101032901",
+      "Nombre genérico": "AMITRIPTILINA 25mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "AMITRIPTILINA 25MG MK TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "352",
+      "Código": "101086601",
+      "Nombre genérico": "AMLODIPINA 5mg, tableta, V.O.",
+      "Nombre comercial": "NORVASC 5 MG TABLETAS | AMLODIPINO CINFA 5MG COMPRIMIDOS. | AMLOPRES - 5 (5 MG) TABLETAS | Amlodipina 5mg tabletas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "353",
+      "Código": "103057801",
+      "Nombre genérico": "AMOXICILINA 400mg con ACIDO CLAVULÁNICO 57mg (CLAVULONATO POTÁSICO), suspensión, frasco, V.O.",
+      "Nombre comercial": "AUGMENTIN BID 4--MG-57MG/5ML POLVO PARA SUSPENSIÓN ORAL | CLAVOXILIN PLUS 4-- (4-- MG + 57 MG/ 5 ML) POLVO PARA SUSPENSIÓN ORAL | LAPRIMOX CLAV 4--MG + 57MG/5ML Polvo para suspensión oral",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "354",
+      "Código": "101037801",
+      "Nombre genérico": "\"ANOVULATORIO ORAL, ESTRÓGENOS: ETINILESTRADIOL 0.020-0.030mg",
+      "Nombre comercial": "PROGESTÁGENOS: LEVONORGESTREL 0.15mg  o GESTODENO, 0.075mg, tableta, V.O.\"",
+      "Presentación": "NORGYLEN TABLETAS RECUBIERTAS"
+    },
+    {
+      "#": "355",
+      "Código": "105002501",
+      "Nombre genérico": "\"ANTIHEMORROIDAL CON CORTICOIDE Y ANESTESICO LOCAL: HIDROCORTISONA o BETAMETASONA o PREDNISOLONA/ LIDOCAINA o BENZOCAINA",
+      "Nombre comercial": "o DOBESILATO CALCIO MONOHIDRATO 4g /LIDOCAINA 2g /DEXAMETASONA ACETATO 0.025g, crema, jalea, pomada o ungüento rectal, con tubo aplicador, Vía Rectal.\"",
+      "Presentación": "S/P REGISTRADO"
+    },
+    {
+      "#": "356",
+      "Código": "101059601",
+      "Nombre genérico": "ANTIHISTAMÍNICO CON DESCONGESTIONANTE NASAL, ACCIÓN CORTA: ANTIHISTAMÍNICO: BROMFENIRAMINA 4mg, o CARBINOXAMINA 4mg, o CLORFENIRAMINA 4mg, o TRIPROLIDINA, 2.5mg con DESCONGESTIONANTE NASAL: FENILEFRINA 20mg, o PSEUDOEFEDRINA 60mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "MEDITAP (4 MG/2- MG) COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "357",
+      "Código": "103015001",
+      "Nombre genérico": "ANTIHISTAMÍNICO CON DESCONGESTIONANTE NASAL: ANTIHISTAMÍNICO: BROMFENIRAMINA 2mg/5ml, o CLORFENIRAMINA 2mg/5ml, o DEXBROMFENIRAMINA 1.5mg/5ml, o TRIPROLIDINA 1.25mg/5ml con DESCONGESTIONANTE NASAL: FENILEFRINA 5mg/5ml, o PSEUDOEFEDRINA 30mg/5ml, jarabe, frasco, 60-90ml, V.O.",
+      "Nombre comercial": "Gripe Kid NF Jarabe | RINOFEN SOLUCIÓN ORAL | MEDITAP SOLUCIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "358",
+      "Código": "101003601",
+      "Nombre genérico": "APALUTAMIDA 60mg, tableta, Vía Oral.",
+      "Nombre comercial": "ERLEADA 6- mg COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "359",
+      "Código": "101034801",
+      "Nombre genérico": "ASCÓRBICO ÁCIDO (VITAMINA C) 500mg, tableta recubierta (película), masticable o efervescente, V.O.",
+      "Nombre comercial": "VITAMINA C 5-- MG TABLETAS MASTICABLES SABOR MANDARINA | VITAMINA C CENCO TABLETAS MASTICABLES 5-- MG | ÁCIDO ASCÓRBICO,(VITAMINA C), 5-- mg, comprimido recubierto, (Película), masticable v.o. | AMINCEE 5-- MG TABLETA RECUBIERTA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "360",
+      "Código": "103058201",
+      "Nombre genérico": "AZELASTINA HIDROCLORURO 0.05%, gotas, solución, frasco, Vía  Oftálmica.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "361",
+      "Código": "103058301",
+      "Nombre genérico": "AZITROMICINA 200mg/5ml,  polvo para suspensión, 15-30ml, frasco, V.O.",
+      "Nombre comercial": "ZITHROMAX 2--MG/5ML POLVO PARA SUSPENSION ORAL | Azitronovum 2-- mg / 5mL Polvo para Reconstituir a Suspensión Oral | BINOZYT 2-- MG / 5 ML POLVO PARA SUSPENSION ORAL.",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "362",
+      "Código": "103041301",
+      "Nombre genérico": "BECLOMETASONA DIPROPIONATO 50mcg/inhalación, solución en aerosol  libre de CFC, inhalador con 100-200 dosis,  Vía Bucal.",
+      "Nombre comercial": "BECLOMETASONA DIPROPIONATO 5- MCG SOLUCIÓN EN AEROSOL PARA INHALACIÓN ORAL | BECLATE-5- HFA 5- mcg/DOSIS SOLUCIÓN EN AEROSOL | BECLOMETASONA 5- MCG SUSPENSIÓN EN AEROSOL",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "363",
+      "Código": "103057901",
+      "Nombre genérico": "BENCILO BENZOATO 25%, loción, frasco, 120ml, Vía Tópica.",
+      "Nombre comercial": "Escabiol al 25% Loción Tópica",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "364",
+      "Código": "104015301",
+      "Nombre genérico": "BENZOILO PERÓXIDO 5%, gel, tubo, 40-60g, Vía Tópica.",
+      "Nombre comercial": "JMR PEROXYGEL GEL TÓPICO | PEROXYMYCIN AL 5% GEL TÓPICO",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "365",
+      "Código": "104011901",
+      "Nombre genérico": "BETAMETASONA VALERATO 0.1%, crema, tubo, 15g, Vía Tópica.",
+      "Nombre comercial": "NOBETZONA 1MG/G CREMA TÓPICA | Betnovate -.1% Crema Tópica | BETASONE G CREMA | BETAMETASONA -.1 % MP, CREMA TÓPICA.",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "366",
+      "Código": "103047701",
+      "Nombre genérico": "BETAMETASONA VALERATO 0.1%, loción capilar, frasco, 20-60ml, Vía Tópica.",
+      "Nombre comercial": "Betnovate -.1% Loción Capilar",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "367",
+      "Código": "101092901",
+      "Nombre genérico": "BICALUTAMIDA 50mg, tableta, V.O.",
+      "Nombre comercial": "CASODEX 5- MG COMPRIMIDOS RECUBIERTOS | BICALUTAMIDA 5- MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "368",
+      "Código": "101035701",
+      "Nombre genérico": "BIPERIDENO CLORHIDRATO 2mg, tableta, V.O.",
+      "Nombre comercial": "Limus 2mg tabletas | AKINETON 2 MG TABLETAS | KINEX 2MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "369",
+      "Código": "101002101",
+      "Nombre genérico": "BLOQUEADORES DE LOS RECEPTORES ALFA 1 ADRENÉRGICOS: TERAZOSINA 2mg o DOXAZOSINA 2mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "CARDURA 2 MG TABLETAS | DOXAZOSINA NORMON 2 MG COMPRIMIDOS EFG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "370",
+      "Código": "103059301",
+      "Nombre genérico": "BRIMONIDINA TARTRATO 0.2%, gotas,  solución, frasco, Vía  Oftálmica.",
+      "Nombre comercial": "BRIMOF -.2 % SOLUCIÓN OFTÁLMICA | AGGLAD OFTENO AL -.2% SOLUCIÓN OFTÁLMICA | Brimonidina Tartrato Solución Oftálmica -.2%",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "371",
+      "Código": "103058001",
+      "Nombre genérico": "CALAMINA 8%, loción, frasco, 120ml, Vía Tópica.",
+      "Nombre comercial": "LOCION DE CALADRYL SUSPENSION TOPICA | LOCIÓN CALAMINA RIGAR.",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "372",
+      "Código": "101004501",
+      "Nombre genérico": "CALCIO CARBONATO 500mg-1,000mg de calcio elemental, tableta, V.O.",
+      "Nombre comercial": "KALMAN 6--MG /CÁPSULAS | CARBONATO DE CALCIO 5--MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "373",
+      "Código": "101086401",
+      "Nombre genérico": "CARVEDILOL 6.25mg, tableta, V.O.",
+      "Nombre comercial": "CARVEDILOL NORMON 6,25 MG COMPRIMIDOS EFG | CORYOL 6.25 MG TABLETAS | CARVEDILOL 6.25 MG TABLETAS | CARVEDILOL 6.25 MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "374",
+      "Código": "102062501",
+      "Nombre genérico": "CEFTRIAXONA SÓDICA 500mg, polvo liofilizado, con diluyente lidocaína 1%, I.M.",
+      "Nombre comercial": "AXTAR -.5G POLVO PARA SOLUCION INYECTABLE I.M. | CEFAXONA 5--mg/Vial Polvo para Solución Inyectable I.M. + Diluyente. | Zensif (Ceftriaxona 5-- mg polvo para solución inyectable I.M + diluyente lidocaína 1% 2 ml)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "375",
+      "Código": "101002701",
+      "Nombre genérico": "CEFUROXIMA 250mg/5ml suspensión, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "376",
+      "Código": "102022701",
+      "Nombre genérico": "CIANOCOBALAMINA 1,000mcg/ml, solución, I.M.",
+      "Nombre comercial": "DOLO-NEUROBION DC SOLUCION INYECTABLE INTRAMUSCULAR | COBALEX 1--- MCG/ML SOLUCION INYECTABLE I.M. | DOLO DOCEPLEX-D D.A. SOLUCIÓN INYECTABLE | CIANOCOBALAMINA QUALIPHARM/ 1--- MCG/ML/ SOLUCIÓN INYECTABLE/ I.M.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "377",
+      "Código": "101010101",
+      "Nombre genérico": "CIPROFLOXACINA 500mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "CIPROFLOXACINO CINFA 5--MG COMPRIMIDOS RECUBIERTOS | CIPROFLOXACINO NORMON 5-- MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG | CIPROFLOXACINO 5-- MG COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "378",
+      "Código": "102077101",
+      "Nombre genérico": "CIPROFLOXACINA LACTATO 200mg, solución, I.V.",
+      "Nombre comercial": "CIPROFLOXACINO NORMON 2 MG/ML SOLUCIÓN PARA PERFUSIÓN EFG | GAAP OFTENO -.--5% SOLUCIÓN OFTÁLMICA ESTÉRIL | Ciprobac 2--mg/1--mL Solución Inyectable I.V. | CIPROLIFE 2--MG/1--ML SOLUCIÓN PARA INFUSION INTRAVENOSA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "379",
+      "Código": "101001301",
+      "Nombre genérico": "CLADRIBINA 10mg, tableta, V.O.",
+      "Nombre comercial": "MAVENCLAD 1- MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "380",
+      "Código": "101066201",
+      "Nombre genérico": "CLOMIFENO CITRATO 50mg, tableta, V.O.",
+      "Nombre comercial": "CLOMIFENO CITRATO 5- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "381",
+      "Código": "104014901",
+      "Nombre genérico": "CLORANFENICOL  1%, ungüento, tubo 3-5g, Vía Oftálmica.",
+      "Nombre comercial": "CLORANFENICOL UNGÜENTO OFTÁLMICO 1% | CLORANFENICOL 1% UNGUENTO OFTALMICO TUBO 3.5 GRAMOS",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "382",
+      "Código": "103002903",
+      "Nombre genérico": "CLORANFENICOL 0.5%, gotas, solución, frasco 5-15ml, Vía Oftálmica.",
+      "Nombre comercial": "",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "383",
+      "Código": "101008801",
+      "Nombre genérico": "CLORFENIRAMINA MALEATO  4mg, tableta, V.O.",
+      "Nombre comercial": "NIPOLEN 4MG COMPRIMIDOS | HISTAPRIN COMPRIMIDOS | Clorfeniramina 4 mg tabletas | CLORFENIRAMINA MP 4 MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "384",
+      "Código": "103016601",
+      "Nombre genérico": "CLORFENIRAMINA MALEATO 2-2.5mg/5ml, jarabe, frasco, 120ml,  V.O.",
+      "Nombre comercial": "HISTAPRIN S/C 2MG/5ML JARABE. | Clorfen 2 mg /5 ml Jarabe | PRILON SOLUCION | PRILON PEDIATRICO SOLUCION ORAL GOTAS",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "385",
+      "Código": "104000201",
+      "Nombre genérico": "CLOSTRIDIOPEPTIDASA CON CLORANFENICOL 60UI/1g, ungüento, Vía Tópica.",
+      "Nombre comercial": "",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "386",
+      "Código": "103041201",
+      "Nombre genérico": "CLOTRIMAZOL 1-2%, solución, frasco,  20-30ml, Vía Tópica.",
+      "Nombre comercial": "CREMASTEN 1% SOLUCIÓN TÓPICA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "387",
+      "Código": "101074301",
+      "Nombre genérico": "COLCHICINA 0.5mg-0.6mg,  tableta, V.O.",
+      "Nombre comercial": "COLCHICINA INFARMA -.5MG CAPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "388",
+      "Código": "103039801",
+      "Nombre genérico": "COLESTIRAMINA RESINA 4g, polvo, sobre, V.O.",
+      "Nombre comercial": "COLESTIRAMINA ANHIDRA 4 G POLVO PARA SUSPENSION ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "389",
+      "Código": "101057701",
+      "Nombre genérico": "COMPLEJO B,  tableta, V.O.",
+      "Nombre comercial": "NEUROCOMPLEX B CENCO TABLETAS | BEVIT NF TABLETAS RECUBIERTAS | COMPLEJO B TABLETAS | COMPLEJO B RIGAR",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "390",
+      "Código": "103058101",
+      "Nombre genérico": "COMPLEJO B, elixir o jarabe, V.O.",
+      "Nombre comercial": "Bevit Plus Elixir | Vitafer NF solución oral | Vitabex Complejo B jarabe | VitaBoost B Complex",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "391",
+      "Código": "104006501",
+      "Nombre genérico": "CORTICOIDE DE BAJA POTENCIA NO FLUORINADO: DESONIDE, 0.05% o HIDROCORTISONA  0.25 -2.5%,  crema, tubo, 15-30g, Vía Tópica.",
+      "Nombre comercial": "Gutisona -.25% crema tópica | HALCORT AL 1% /CREMA TOPICA. | HIDROCORTISONA 1% CREMA TÓPICA | HYDROPEX CREMA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "392",
+      "Código": "103055001",
+      "Nombre genérico": "CROMOGLICATO SÓDICO 4% peso/volumen, solución, frasco atomizador con dispositivo, Vía Nasal.",
+      "Nombre comercial": "CROMOALERGIC AL 4% SOLUCIÓN NASAL",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "393",
+      "Código": "101074101",
+      "Nombre genérico": "DANAZOL 200mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "394",
+      "Código": "101000401",
+      "Nombre genérico": "DAPAGLIFLOZINA 10mg, tableta, V.O.",
+      "Nombre comercial": "FORXIGA 1- MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA | FANTER 1-MG COMPRIMIDOS RECUBIERTOS | LIFAXER 1-MG COMPRIMIDO RECUBIERTO CON PELÍCULA | DAPADALT 1- MG COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "395",
+      "Código": "102083001",
+      "Nombre genérico": "DARATUMUMAB 20 mg/ml, concentrado para solución para infusión,  I.V.",
+      "Nombre comercial": "",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "396",
+      "Código": "102096001",
+      "Nombre genérico": "DERIVADOS DE ÁCIDO HIALURÓNICO  DE ALTO PESO MOLECULAR (mayor de 4 millones de Daltons), solución, uso Vía Intra-Articular.",
+      "Nombre comercial": "SYNVISC (HILANO G-F 2-) 8MG/ML SOLUCIÓN INYECTABLE INTRA ARTICULAR",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "397",
+      "Código": "103051001",
+      "Nombre genérico": "DESMOPRESINA ACETATO 0.1mg/ml, solución, frasco, 2.5ml, Vía Nasal.",
+      "Nombre comercial": "DINADOM ACETATO DE DESMOPRESINA 5 MCG/DOSIS SOLUCION NASAL (SPRAY)",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "398",
+      "Código": "102095001",
+      "Nombre genérico": "DESMOPRESINA ACETATO 15mcg/ml, solución, I.V., S.C.",
+      "Nombre comercial": "OCTOSTIM 15 MCG/ML SOLUCION INYECTABLE DC | DESMOPRESINA 15 ug/mL Solución Inyectable I.V., I.M.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "399",
+      "Código": "101091101",
+      "Nombre genérico": "DEXAMETASONA 4mg, tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "400",
+      "Código": "103000602",
+      "Nombre genérico": "DEXTROMETORFANO BROMHIDRATO 10mg/5ml, jarabe, frasco, 120ml, V.O.",
+      "Nombre comercial": "TORFANOL 1- MG / 5 ML JARABE. | BRODEX DM JARABE | DEXTROMETORFANO 1-MG/5ML JARABE | METORFANO 1- MG/5 ML SOLUCIÓN ORAL NUEVA FÓRMULA",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "401",
+      "Código": "103062001",
+      "Nombre genérico": "DEXTROSA 37.5g cada 100ml, solución oral, 200ml.",
+      "Nombre comercial": "Glucotex 75 Solución Oral Sabor Naranja",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "402",
+      "Código": "102004901",
+      "Nombre genérico": "DEXTROSA EN AGUA al 5%, solución, envase plástico (bolsa o frasco), con equipo adaptable desechable para Infusión intravenosa, 1,000ml.",
+      "Nombre comercial": "",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "403",
+      "Código": "102078201",
+      "Nombre genérico": "DEXTROSA HIPERTÓNICA 50% a 70%, solución, 500ml a 2,000ml, I.V.",
+      "Nombre comercial": "SOLUCIÓN DX 5- (5-%)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "404",
+      "Código": "103054801",
+      "Nombre genérico": "DICLOFENACO 0.1%, o FLURBIPROFEN 0.03%, o SUPROFEN 1%, gotas, solución,  frasco, 2.5-10ml, Vía Oftálmica.",
+      "Nombre comercial": "OFTIC 1 MG/ML SOLUCIÓN OFTÁLMICA | 3-A OFTENO -.1% SOLUCION OFTALMICA ESTERIL",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "405",
+      "Código": "102044501",
+      "Nombre genérico": "\"DICLOFENACO SÓDICO 25mg/ml, solución, I.M. o I.M.",
+      "Nombre comercial": "I.V.\"",
+      "Presentación": "DOLOFENIL 75MG/3ML SOLUCION INYECTABLE | KLONAFENAC 75MG/3ML SOLUCION INYECTABLE I.M., INFUSION I.V. | DICLOFENACO SÓDICO SOLUCIÓN INYECTABLE 75MG/3ML | DICLOFENAC SODICO 25MG/ML SOLUCION INYECTABLE"
+    },
+    {
+      "#": "406",
+      "Código": "105007201",
+      "Nombre genérico": "DICLOFENACO SÓDICO 50mg,  supositorio,  Vía Rectal.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Óvulo/Supositorio"
+    },
+    {
+      "#": "407",
+      "Código": "101065401",
+      "Nombre genérico": "DICLOFENACO SÓDICO 50mg, cápsula o tableta, de liberación convencional o con capa entérica, V.O.",
+      "Nombre comercial": "DOLOFENIL 5- MG CÁPSULAS | DICLOFENACO NORMON 5- MG COMPRIMIDOS GASTRORRESISTENTES EFG | DICLOFENACO SODICO 5- MG TABLETAS RECUBIERTAS DE LIBERACION RETARDADA | Diclofenaco Rigar 5-mg Comprimidos Recubiertos",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "408",
+      "Código": "103036001",
+      "Nombre genérico": "DIFENHIDRAMINA 12.5mg/5ml, jarabe, frasco 120ml, V.O.",
+      "Nombre comercial": "FENADRIN 12.5MG/5ML SOLUCION ORAL | DIFENHIDRAMINA MP 12.5 MG/5 ML SOLUCIÓN ORAL NUEVA FÓRMULA",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "409",
+      "Código": "101003101",
+      "Nombre genérico": "DIFENHIDRAMINA 25mg, cápsula, V.O.",
+      "Nombre comercial": "DIFENHIDRAMINA MP 25 MG CÁPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "410",
+      "Código": "101087001",
+      "Nombre genérico": "DILTIAZEM 180mg, cápsula o tableta, de liberación modificada, V.O.",
+      "Nombre comercial": "Diltiazem Maxihealth ER 18- mg cápsulas de liberación extendida",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "411",
+      "Código": "101087201",
+      "Nombre genérico": "DILTIAZEM 60mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "ANGIOTROFIN 6- MG COMPRIMIDOS | Diltiazem Maxihealth 6- mg tabletas recubiertas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "412",
+      "Código": "101009501",
+      "Nombre genérico": "DIMENHIDRINATO 50mg, tableta, V.O.",
+      "Nombre comercial": "Viajesan 5-mg tabletas | Dimenhidrinato 5-mg tabletas | DIMENHIDRINATO 5-MG TABLETAS | PASEDOL 5- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "413",
+      "Código": "105007801",
+      "Nombre genérico": "DINOPROSTONE 2mg/3g, gel, tubo con aplicador precargado o jeringa, Vía Vaginal.",
+      "Nombre comercial": "PROSTIN E2 2MG/3G GEL VAGINAL",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "414",
+      "Código": "102047001",
+      "Nombre genérico": "DIPIRONA CON SALES MAGNÉSICAS 2g/5ml, solución, I.M., I.V.",
+      "Nombre comercial": "\"DOLOFOR 2 G / 5 ML SOLUCION INYECTABLE I.M., I.V. | DISALGIN 2G /5ML SOLUCIÓN INYECTABLE I.M. I.V. (LENTA) | DIPIRONA MAGNESICA 2g/5mL SOLUCION INYECTABLE I.M.",
+      "Presentación": "I.V.\""
+    },
+    {
+      "#": "415",
+      "Código": "101001501",
+      "Nombre genérico": "DOLUTEGRAVIR 50mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "TIVICAY 5- MG TABLETAS RECUBIERTAS | DOLUTEGRAVIR 5- MG COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "416",
+      "Código": "102094501",
+      "Nombre genérico": "DORNASE ALFA (DESOXIRRIBONUCLEASA) 1mg/ml, solución, Nebulización.",
+      "Nombre comercial": "Pulmozyme 2.5mg/2.5ml solución para inhalación",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "417",
+      "Código": "103057401",
+      "Nombre genérico": "DORZOLAMIDA CLORHIDRATO 2%, gotas, solución, frasco, 5-10ml,  Vía  Oftálmica.",
+      "Nombre comercial": "Dorzolamida 2-mg/ml solución oftálmica | DORZOLAMIDA VIJOSA 2% SOLUCION OFTALMICA | ELIPTIC OFTENO SOLUCIÓN OFTÁLMICA",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "418",
+      "Código": "101100901",
+      "Nombre genérico": "DULOXETINA 60mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "Duloxvitae 6- mg Cápsulas de Liberación Retardada | CYMBALTA 6- MG CAPSULAS DE LIBERACIÓN RETARDADA | DUXET 6- MG CAPSULA GASTRO RESISTENTE | Duloxetina 6-mg cápsulas de Liberación Retardada V.O.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "419",
+      "Código": "102000801",
+      "Nombre genérico": "DUPILUMAB 300mg, solución, Subcutánea (S.C.)",
+      "Nombre comercial": "DUPIXENT 3--MG/2ML SOLUCIÓN INYECTABLE EN JERINGA PRECARGADA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "420",
+      "Código": "102005901",
+      "Nombre genérico": "EFEDRINA SULFATO 25-60mg/ml, solución, I.V.",
+      "Nombre comercial": "TENDRIN 5-MG/2ML SOLUCIÓN INYECTABLE I.M.I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "421",
+      "Código": "101001201",
+      "Nombre genérico": "ELTROMBOPAG OLAMINA 25mg, tableta, V.O.",
+      "Nombre comercial": "ELTROMBOPAG 25 MG COMPRIMIDOS RECUBIERTOS | REVOLADE 25 MG TABLETAS RECUBIERTAS | ELTROMBOPAG 25 MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "422",
+      "Código": "101000601",
+      "Nombre genérico": "ELTROMBOPAG OLAMINA 50mg, tableta, V.O.",
+      "Nombre comercial": "ELTROMBOPAG 5- MG COMPRIMIDOS RECUBIERTOS | REVOLADE 5- MG TABLETAS RECUBIERTAS | REVOLADE 5- mg TABLETAS RECUBIERTAS | BIEMPAG ® 5- mg TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "423",
+      "Código": "104000101",
+      "Nombre genérico": "ERITROMICINA 0.5%, ungüento oftálmico.",
+      "Nombre comercial": "ERLEADA 6- mg COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "424",
+      "Código": "101101001",
+      "Nombre genérico": "ESCITALOPRAM 10mg, tableta, V.O.",
+      "Nombre comercial": "",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "425",
+      "Código": "101002601",
+      "Nombre genérico": "ESCOPOLAMINA BUTILBROMURO (HIOSCINA) 10mg, tableta, V.O.",
+      "Nombre comercial": "HIOSCINA BUTILBROMURO 1- MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "426",
+      "Código": "102002701",
+      "Nombre genérico": "ESCOPOLAMINA BUTILBROMURO (HIOSCINA) 20mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "BROMURO DE N-BUTIL HIOSCINA 2- mg / ml SOLUCIÓN INYECTABLE I.M., I.V., S.c. | CAPIN BH 2-mg/1mL Solución Inyectable I.M., I.V. | ESCOPOLAMINA N-BUTIL BROMURO 2-MG/ML SOLUCIÓN INYECTABLE I.M., I.V., S.C. | N-BUTIL BROMURO DE HIOSCINA 2-MG/ML SOLUCIÓN INYECTABLE I.M.,I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "427",
+      "Código": "101037701",
+      "Nombre genérico": "ESPIRONOLACTONA 25mg, tableta, V.O.",
+      "Nombre comercial": "ALDACTONE A 25 MG TABLETAS. | SLYDEX 25MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA | Modulactone 25 Comprimidos",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "428",
+      "Código": "101011401",
+      "Nombre genérico": "ESTRÓGENOS CONJUGADOS NATURALES DE ORIGEN EQUINO 0.625-1mg, tableta o tableta de liberación prolongada, V.O.",
+      "Nombre comercial": "ESTERMAX -.625 MG TABLETAS DE LIBERACION PROLONGADA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "429",
+      "Código": "105001401",
+      "Nombre genérico": "ESTRÓGENOS CONJUGADOS NATURALES DE ORIGEN EQUINO 0.625mg/g, crema, tubo con aplicador, 40-45g, Vía Vaginal.",
+      "Nombre comercial": "ESTERMAX CREMA VAGINAL | ESTRIN CREMA VAGINAL",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "430",
+      "Código": "105000101",
+      "Nombre genérico": "ETONOGESTREL 68mg, implante, S.C.",
+      "Nombre comercial": "MPLANON NXT",
+      "Presentación": "Implante"
+    },
+    {
+      "#": "431",
+      "Código": "102001401",
+      "Nombre genérico": "FARICIMAB 120mg/ml (6mg/0.05ml) solución inyectable intravítrea.",
+      "Nombre comercial": "",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "432",
+      "Código": "101086201",
+      "Nombre genérico": "FENOFIBRATO 200-250mg, cápsula de liberación prolongada, V.O.",
+      "Nombre comercial": "Controlip 25-mg cápsulas de liberación prolongada",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "433",
+      "Código": "103025101",
+      "Nombre genérico": "FERROSO FUMARATO 140mg/5ml,  suspensión, frasco, 150-200ml, V.O.",
+      "Nombre comercial": "FUMARATO FERROSO 14- MG/5 ML SUSPENSIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "434",
+      "Código": "101001801",
+      "Nombre genérico": "FINASTERIDA 5mg, tableta,  V.O.",
+      "Nombre comercial": "FINCAR 5 mg TABLETAS RECUBIERTAS | Finasteride USP 5 mg Tabletas Recubiertas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "435",
+      "Código": "101104601",
+      "Nombre genérico": "FLUCONAZOL 150-200mg, tableta o cápsula, V.O.",
+      "Nombre comercial": "FLUCONAZOL CINFA 15-MG CÁPSULAS | FLUCONAZOL 15- MG CAPSULAS | Flunazol 2-- (2-- mg) cápsulas | LUCONAZOL 15- MG CAPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "436",
+      "Código": "103064601",
+      "Nombre genérico": "FLUCONAZOL, 50mg/5ml, suspensión o solución, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "437",
+      "Código": "102001302",
+      "Nombre genérico": "FLUFENAZINA DECANOATO 25mg/ml, solución, I.M.",
+      "Nombre comercial": "FLUFENAZINA DECANOATO BP 25 mg SOLUCIÓN INYECTABLE I.M. | PSYCOSIN 25MG/ML SOLUCION PARA INYECCION",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "438",
+      "Código": "104017701",
+      "Nombre genérico": "FLUORACILO 5%, crema, tubo, 15-30g, Vía Tópica.",
+      "Nombre comercial": "EFUDIX 5% CREMA TOPICA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "439",
+      "Código": "101032001",
+      "Nombre genérico": "FLUOXETINA  20mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "FLUOXETINA NORMON 2- MG CAPSULAS DURAS EFG | FLUOXAC CAPS 2- MG CÁPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "440",
+      "Código": "103059601",
+      "Nombre genérico": "FLUOXETINA HIDROCLORURO 20mg/5ml, solución, frasco, V.O.",
+      "Nombre comercial": "MOLTOBEN® 2-mg/5mL JARABE",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "441",
+      "Código": "101003901",
+      "Nombre genérico": "FORMOTEROL FUMARATO (EFORMOTEROL) 9-12mcg/inhalación, polvo seco, inhalador con aplicador con 30-60 dosis,  Vía Bucal.",
+      "Nombre comercial": "OXIS TURBUHALER 9 MCG/ DOSIS POLVO PARA INHALACION ORAL",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "442",
+      "Código": "104014101",
+      "Nombre genérico": "GENTAMICINA SULFATO 0.3%, ungüento, tubo, 3-5g,  Vía Oftálmica.",
+      "Nombre comercial": "OFTAGEN AL -.3% UNGUENTO OFTALMICO | BROMYCIN -.3% UNGÜENTO OFTÁLMICO",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "443",
+      "Código": "102033301",
+      "Nombre genérico": "GENTAMICINA SULFATO 40mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "IKATIN 8-mg/2mL Solución Inyectable I.M, I.V. | GENTAMICINA 16-MG/2ML SOLUCION INYECTABLE | GENTAMICINA 8- MG 2ML SOLUCIÓN INYECTABLE I.M., I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "444",
+      "Código": "103009901",
+      "Nombre genérico": "GUAYACOLATO DE GLICERILO 100mg/5ml, jarabe, frasco, 120ml, V.O.",
+      "Nombre comercial": "Aliflux G Jarabe | GUAIFENESIN JARABE | GUAIFENESIN 2 G / 1-- ML JARABE. | Dife-Nadryl Jarabe",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "445",
+      "Código": "102000501",
+      "Nombre genérico": "GUSELKUMAB 100 mg/ml solución inyectable, S.C.",
+      "Nombre comercial": "TREMFYA (GUSELKUMAB) SOLUCIÓN INYECTABLE EN JERINGA PRECARGADA S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "446",
+      "Código": "103001801",
+      "Nombre genérico": "HALOPERIDOL 2mg/ml, gotas, solución, frasco cuentagotas o gotero calibrado, 15ml, V.O.",
+      "Nombre comercial": "Rimont Solución Oral | HALOPERIDOL MP 2 MG/ML SOLUCIÓN GOTAS ORALES",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "447",
+      "Código": "101070401",
+      "Nombre genérico": "HALOPERIDOL 5mg, tableta, V.O.",
+      "Nombre comercial": "HALOPERIDOL 5 MG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "448",
+      "Código": "101002001",
+      "Nombre genérico": "HIDRALAZINA CLORHIDRATO 50mg, tableta, V.O.",
+      "Nombre comercial": "HIDRALAZINA CLORHIDRATO 5-MG COMPRIMIDOS RECUBIERTOS | YDRAPRES 5-MG COMPRIMIDOS | HIDRALAZINA CLORHIDRATO TABLETAS USP 5-MG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "449",
+      "Código": "103003201",
+      "Nombre genérico": "HIDROCORTISONA 0.25-2.5%, loción, frasco, 15-30ml, Vía Tópica. (Corticoide de baja potencia).",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "450",
+      "Código": "103015801",
+      "Nombre genérico": "HIDROXICINA 0.2%, 10mg/5ml, jarabe, frasco, 180-200ml, V.O.",
+      "Nombre comercial": "HIDROXICINA MP 1- MG/5ML SOLUCIÓN ORAL | HIDROXICINA MP 1-MG/5ML SOLUCIÓN ORAL NUEVA FÓRMULA",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "451",
+      "Código": "101002301",
+      "Nombre genérico": "HIDROXICINA 25mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "CEDAR 25 (25MG) TABLETAS RECUBIERTAS. | HIDROXIZINA BICLORHIDRATO 25 MG TABLETAS | HIDROXICINA 25MG TABLETAS.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "452",
+      "Código": "103018801",
+      "Nombre genérico": "HIERRO (SAL FERROSA) 25mg/ml de hierro elemental, gotas, frasco con cuentagotas o gotero calibrado, 15-30ml, V.O.",
+      "Nombre comercial": "FERROSOL 125 mg / mL SOLUCIÓN ORAL GOTAS | FERROTONE Gotas Orales",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "453",
+      "Código": "101036301",
+      "Nombre genérico": "HIERRO (SAL FERROSA) 50-100mg de hierro elemental, tableta,  V.O.",
+      "Nombre comercial": "FERRUMKLINGE 1--MG COMPRIMIDOS RECUBIERTOS. | SULFATO FERROSO GRAGEAS USP 3-- MG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "454",
+      "Código": "103005802",
+      "Nombre genérico": "HOMATROPINA METILBROMURO 5mg/5ml, elixir, frasco, 120ml, V.O.",
+      "Nombre comercial": "HOMATROPIN AL -.1% ELIXIR",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "455",
+      "Código": "101068201",
+      "Nombre genérico": "\"IBUPROFENO 400mg, cápsula o tableta",
+      "Nombre comercial": "V.O.\"",
+      "Presentación": "IBUPROFENO NORMON 4-- MG COMPRIMIDOS RECUBIERTOS EFG | IBULAP 4--MG TABLETAS RECUBIERTAS. | IBUPROFENO RIGAR 4-- MG COMPRIMIDOS RECUBIERTOS | REUMALAF TABLETAS"
+    },
+    {
+      "#": "456",
+      "Código": "105007701",
+      "Nombre genérico": "IMIDAZOLES: CLOTRIMAZOL,  ISOCONAZOL, MICONAZOL  1-2%, crema o jalea, tubo con aplicador, 35-40g, Vía Vaginal.",
+      "Nombre comercial": "VAGICLEAN 1% CREMA VAGINAL | CANESTEN V 1% CREMA VAGINAL | HALTRIMIN V 1% CREMA VAGINAL | CLOTRIMAZOL 1 % CREMA VAGINAL",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "457",
+      "Código": "101031601",
+      "Nombre genérico": "IMIPRAMINA 10mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "Imipramina Clorhidrato 1-mg tabletas recubiertas | IMIPRAMINA, 1- mg, cápsula o comprimido, v.o.",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "458",
+      "Código": "102076501",
+      "Nombre genérico": "INMUNOGLOBULINA 0.5–1g, polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "459",
+      "Código": "102076401",
+      "Nombre genérico": "INMUNOGLOBULINA 2.5-3g, polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "OCTAGAM 5% SOLUCIÓN PARA INFUSIÓN INTRAVENOSA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "460",
+      "Código": "102072601",
+      "Nombre genérico": "INMUNOGLOBULINA 5-10g, polvo liofilizado o solución, I.V.",
+      "Nombre comercial": "PRIVIGEN AL 1-% SOLUCION PARA INFUSIÓN I.V. | FLEBOGAMMA 5 % DIF SOLUCIÓN PARA PERFUSIÓN I.V. | OCTAGAM 5% SOLUCIÓN PARA INFUSIÓN INTRAVENOSA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "461",
+      "Código": "101093401",
+      "Nombre genérico": "IRBESARTÁN 300mg, tableta, V.O.",
+      "Nombre comercial": "RBEVITAE 3--MG COMPRIMIDOS RECUBIERTOS | Irbesartán Cinfa 3--mg Comprimidos | IRBEA 3--MG COMPRIMIDOS | IRBESARTAN NORMON 3-- MG COMPRIMIDOS EFG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "462",
+      "Código": "101010801",
+      "Nombre genérico": "ISOSORBIDE DINITRATO 10mg, tableta, V.O.",
+      "Nombre comercial": "ISOSORBIDA DINITRATO 1-MG COMPRIMIDOS | NGINAL 1- (1- MG) TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "463",
+      "Código": "101096602",
+      "Nombre genérico": "IVERMECTINA 6mg, tableta, V.O.",
+      "Nombre comercial": "",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "464",
+      "Código": "104013601",
+      "Nombre genérico": "KETOCONAZOL  1-2%, crema, tubo, 15-20g, Vía Tópica.",
+      "Nombre comercial": "KETOCONAZOL RIGAR AL 2 % CREMA TOPICA. | KETOCONAZOL CREMA 2% | KETOCONAZOL CREMA 2 %",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "465",
+      "Código": "101079901",
+      "Nombre genérico": "LAMOTRIGINA 100mg, tableta o tableta  dispersable masticable o tableta dispersable, V.O.",
+      "Nombre comercial": "LAMOTRIGINA NORMON 1-- MG COMPRIMIDOS DISPERSABLES / MASTICABLES EFG | FENEBRA 1--MG TABLETAS | EPICON 1-- MG TABLETAS DISPERSABLES/MASTICABLES",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "466",
+      "Código": "101101901",
+      "Nombre genérico": "LAMOTRIGINA 25mg, comprimido, comprimido dispersable/masticable, V.O.",
+      "Nombre comercial": "",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "467",
+      "Código": "103057301",
+      "Nombre genérico": "LATANOPROST 50mcg/ml, gotas, solución, frasco, 2.5ml, Vía Oftálmica.",
+      "Nombre comercial": "LATOF SP SOLUCIÓN OFTALMICA | XALOPTIC SR -,--5% SOLUCION OFTALMICA | GAAP OFTENO -.--5 % SOLUCIÓN OFTÁLMICA ESTÉRIL | LATOPROST RT GOTAS ESTERILES PARA LOS OJOS (LATANOPROST SOLUCION OFTALMICA MICROEMULSION -.--5% P/V)",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "468",
+      "Código": "103001301",
+      "Nombre genérico": "LEVETIRACETAM 100 mg/ml solución o suspensión V.O.",
+      "Nombre comercial": "LEVEVITAE 1--MG/ML SOLUCIÓN ORAL | KEPPRA 1--MG/ML SOLUCION ORAL | TAMLET-S 1--MG/ML SOLUCIÓN ORAL | Letram (Levetiracetam Solución Oral 1-- mg/mL)",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "469",
+      "Código": "102083101",
+      "Nombre genérico": "LEVETIRACETAM 100 mg/ml, solución I.V.",
+      "Nombre comercial": "Keppra 5--mg/5ml Solucion Inyectable Intravenosa | LEVETIRACETAM RICHET 1--MG/ML SOLUCIÓN INYECTABLE I.V. | LEVETIRACETAM 1-- MG/ML CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN | Levetiracetam inyección USP 1--mg/ml",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "470",
+      "Código": "101000501",
+      "Nombre genérico": "LEVETIRACETAM 1000mg, tableta V.O.",
+      "Nombre comercial": "LEVEVITAE 1--- MG COMPRIMIDOS RECUBIERTOS. | Keppra 1---mg Tabletas Recubiertas | LEVETNOR 1--- MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA | TAMLET-T 1--- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "471",
+      "Código": "102079501",
+      "Nombre genérico": "LEVOFLOXACINA 500mg, solución, I.V.",
+      "Nombre comercial": "LEVOFLOXACINO NORMON 5 MG/ML SOLUCION PARA PERFUSION INTRAVENOSA EFG. | FLUONING 5--MG/1--ML SOLUCIÓN INYECTABLE | LEVOFLOXACINA QUALIPHARM 5-- MG/ 1-- ML SOLUCIÓN INYECTABLE INFUSION I.V. | EVOFLOXACINO NORMON 5 MG/ML SOLUCION PARA PERFUSION INTRAVENOSA EFG.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "472",
+      "Código": "101083601",
+      "Nombre genérico": "LEVOFLOXACINA 500mg, tableta, V.O.",
+      "Nombre comercial": "EVOFLOXACINO NORMON 5--MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG | ELEQUINE 5-- mg TABLETAS | LEFLOX 5-- MG COMPRIMIDOS RECUBIERTOS | LEVO - DENK 5-- MG COMPRIMIDOS CON CUBIERTA PELICULAR",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "473",
+      "Código": "101028501",
+      "Nombre genérico": "LEVOMEPROMAZINA 25mg, tableta, V.O.",
+      "Nombre comercial": "LEVOMEPROMAZINA (MALEATO) 25 MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "474",
+      "Código": "105008101",
+      "Nombre genérico": "LEVONORGESTREL 52mg (20mcg/24horas), sistema Intrauterino.",
+      "Nombre comercial": "Mahely Sistema Intrauterino Hormonal | MIRENA 2- MCG / 24 HORAS/ (SISTEMA INTRAUTERINO)",
+      "Presentación": "Implante"
+    },
+    {
+      "#": "475",
+      "Código": "102098401",
+      "Nombre genérico": "LIDOCAÍNA  CLORHIDRATO 2% con EPINEFRINA 1:100.000, solución, Infiltración Bucal.",
+      "Nombre comercial": "ODDONTO LIDO SOLUCIÓN INYECTABLE | ALPHACAINE 1:1--.--- SOLUCIÓN INYECTABLE INFILTRACIÓN DENTAL",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "476",
+      "Código": "105008201",
+      "Nombre genérico": "LIDOCAÍNA 700mg, parche, Vía Tópica.",
+      "Nombre comercial": "VERSATIS PARCHE MEDICADO",
+      "Presentación": "Parche"
+    },
+    {
+      "#": "477",
+      "Código": "105002901",
+      "Nombre genérico": "LIGNOCAÍNA (LIDOCAÍNA) 2%, jalea, tubo,  20-30g, Vía Tópica.",
+      "Nombre comercial": "LUBAL 2% JALEA ESTÉRIL | LAFECAINA JALEA",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "478",
+      "Código": "101003501",
+      "Nombre genérico": "LINAGLIPTINA 5mg, tableta, V.O.",
+      "Nombre comercial": "Trayenta® 5 mg tabletas recubiertas | Linagliptina Calox 5 mg Tabletas Recubiertas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "479",
+      "Código": "101068701",
+      "Nombre genérico": "LOPERAMIDA CLORHIDRATO 2mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "COLIPER 2MG COMPRIMIDOS | LOPERAMIDA 2 MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "480",
+      "Código": "101059901",
+      "Nombre genérico": "LORATADINA 10mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "LORATADINA NORMON 1- MG COMPRIMIDOS EFG | Loratadina Prieto 1- mg Tabletas | LORATADINA RIGAR 1- MG COMPRIMIDOS | NULAREF 1- MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "481",
+      "Código": "103025201",
+      "Nombre genérico": "LÁGRIMAS ARTIFICIALES QUE CONTENGAN POLÍMEROS DE ÉSTERES DE CELULOSA  0.2%-0.5% y/o alcohol polivinílico 1%-3%, gotas, solución, 15-20ml, Vía Oftálmica.",
+      "Nombre comercial": "Hipromelosa -.3% solución oftálmica | NICOTEARS SOLUCION OFTALMICA ESTERIL | HUMEDBIO -.3% SOLUCIÓN OFTALMICA | METICEL OFTENO AL -.5% SOLUCIÓN OFTÁLMICA.",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "482",
+      "Código": "101065301",
+      "Nombre genérico": "MEBENDAZOL 100mg, tableta, V.O.",
+      "Nombre comercial": "MEBENDAMIN 1-- MG TABLETAS | PARASITOL 1-- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "483",
+      "Código": "101044101",
+      "Nombre genérico": "MEDROXIPROGESTERONA 5mg, tableta, V.O.",
+      "Nombre comercial": "PROVERA 5MG TABLETAS .",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "484",
+      "Código": "102027801",
+      "Nombre genérico": "MEDROXIPROGESTERONA, larga acción, 150mg/ml, solución o suspensión, I.M.",
+      "Nombre comercial": "GYTROGEN DEPOT 15-MG/ML SUSPENSION INYECTABLE I.M. | DEPO-PROVERA 15- MG/ML SUSPENSION ACUOSA ESTERIL I.M. | ENWIWO 15-MG/ML SUSPENSIÓN INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "485",
+      "Código": "104017301",
+      "Nombre genérico": "MENTOL COMPUESTO 10-20%, ungüento, tubo, Vía  Tópica.",
+      "Nombre comercial": "BALSAMO DE MENTOL COMPUESTO SAN RAFAEL | Ungüento Balsámico Rigar",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "486",
+      "Código": "102098501",
+      "Nombre genérico": "MEPIVACAÍNA CLORHIDRATO 3% (30mg/ml) SIN VASOCONSTRICTOR, solución, Infiltración Bucal.",
+      "Nombre comercial": "ODONTOCAÍNA 3% MEPIVACAÍNA 3%, SOLUCIÓN INYECTABLE POR INFILTRACIÓN DENTAL | ODONTOCAINA 3 % MEPIVACAINA 3 % SOLUCION INYECTABLE POR INFILTRACION DENTAL | MEPISV 3% SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "487",
+      "Código": "102073601",
+      "Nombre genérico": "MESNA 100mg/ml, solución, I.V.",
+      "Nombre comercial": "UROMITEXAN 4--MG/4ML SOLUCIÓN INYECTABLE I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "488",
+      "Código": "105006201",
+      "Nombre genérico": "METACRESOLSULFÓNICO ÁCIDO con FORMALDEHÍDO (POLICRESULENO) 18mg/g, gel,  tubo con aplicador, 50g, Vía Vaginal.",
+      "Nombre comercial": "POLICRESULENO 18MG/G GEL VAGINAL CON APLICADOR",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "489",
+      "Código": "103005501",
+      "Nombre genérico": "METACRESOLSULFÓNICO ÁCIDO con FORMALDEHÍDO (POLICRESULENO) 36 - 41%, líquido, frasco, 10-25ml, Vía Tópica.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "490",
+      "Código": "101027201",
+      "Nombre genérico": "METILFENIDATO 10mg, tableta, V.O.",
+      "Nombre comercial": "RUBIFEN 1-MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "491",
+      "Código": "103000501",
+      "Nombre genérico": "METOCLOPRAMIDA 5mg/5ml, jarabe, frasco, 90-125ml, V.O.",
+      "Nombre comercial": "CLOPRAM 5 MG / 5 ML SOLUCIÓN ORAL | CLOPRAMIDA 5 MG / 5 ML SOLUCION ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "492",
+      "Código": "102000702",
+      "Nombre genérico": "METOCLOPRAMIDA 5mg/ml, solución, I.M., I.V.",
+      "Nombre comercial": "NOVOMIT 1- MG/2ML INYECTABLE | PRAMOTIL 1-mg / 2mL Solución Inyectable I.M. o I.V. | METOCLOPRAMIDA CLORHIDRATO 1-MG/2ML SOLUCIÓN INYECTABLE I.M., I.V. | METOCLOPRAMIDA HIDROCLORURO 1- MG/2 ML SOLUCIÓN PARA INYECCIÓN",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "493",
+      "Código": "102101601",
+      "Nombre genérico": "METOXI-POLIETILENGLICOL ERITROPOYETINA BETA 100mcg/0.3mL, solución, S.C.",
+      "Nombre comercial": "MIRCERA 1-- MICROGRAMOS / -.3 ML SOLUCIÓN PARA INYECCIÓN EN JERINGA PRECARGADA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "494",
+      "Código": "102101701",
+      "Nombre genérico": "METOXI-POLIETILENGLICOL ERITROPOYETINA BETA 50mcg/0.3mL, solución, S.C.",
+      "Nombre comercial": "MIRCERA 5- microgramos/-.3mL SOLUCION PARA INYECCION EN JERINGA PRECARGADA",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "495",
+      "Código": "103037001",
+      "Nombre genérico": "METRONIDAZOL 125mg/5ml, suspensión, frasco, 120ml, V.O.",
+      "Nombre comercial": "METRONIDAZOL 125 MG / 5 ML SUSPENSION ORAL | IMIDAKID 125 MG/5 ML SUSPENSION ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "496",
+      "Código": "101012901",
+      "Nombre genérico": "METRONIDAZOL 500mg, tableta ranurada, V.O.",
+      "Nombre comercial": "FLAGYL 5--MG COMPRIMIDOS | AMEVAN 5-- (5--MG) TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "497",
+      "Código": "105001801",
+      "Nombre genérico": "METRONIDAZOL 500mg, óvulo, Vía Vaginal.",
+      "Nombre comercial": "FLAGYL V 5--MG / OVULOS VAGINALES",
+      "Presentación": "Óvulo/Supositorio"
+    },
+    {
+      "#": "498",
+      "Código": "101005101",
+      "Nombre genérico": "MODULADOR HEMORREOLÓGICO TIPO PENTOXIFILINA 400mg, tableta de liberación modificada, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "499",
+      "Código": "103061701",
+      "Nombre genérico": "MOMETASONA 50mcg/inhalación, suspensión acuosa en aerosol, inhalador, Vía Nasal.",
+      "Nombre comercial": "MOMETASYN -.-5 % SUSPENSIÓN SPRAY NASAL ADULTOS | Mometzona -.-5% suspensión para inhalación nasal | ALEGORIA -.-5% Suspensión para inhalación | METASPRAY -.-5% SUSPENSION NASAL",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "500",
+      "Código": "103060201",
+      "Nombre genérico": "MOMETASONA FUROATO 200mcg/ inhalación, polvo seco, inhalador, Vía Bucal.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "501",
+      "Código": "101085001",
+      "Nombre genérico": "MONTELUKAST 10mg, tableta, V.O.",
+      "Nombre comercial": "ASMONT 1- (1- MG) TABLETAS RECUBIERTAS | Uxigril 1-mg tabletas recubiertas | DENK-AIR 1-MG COMPRIMIDOS RECUBIERTOS CON PELICULA | MONTELUKAST 1- MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "502",
+      "Código": "101085101",
+      "Nombre genérico": "MONTELUKAST 5mg, tableta masticable, V.O.",
+      "Nombre comercial": "MONTELUKAST (SÓDICO) 1- MG TABLETAS RECUBIERTAS | Montelukast 5 mg Tabletas Masticables",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "503",
+      "Código": "103007502",
+      "Nombre genérico": "MUCILOIDES HIDROFÍLICOS DERIVADOS DE PLANTAGINACEAE (equivalente a un  mínimo de 49% de PSYLLIUM), polvo o cáscara, frasco, 200-350g, V.O.",
+      "Nombre comercial": "PSYLLIUM PLANTAGO POLVO | MUGASIN POLVO PARA SUSPENSIÓN ORAL SABOR LIMA-LIMÓN | PSYLLIUM PLANTAGO PLANTAFIBER SABOR NATURAL 49.7- G / 1-- G POLVO PARA SUSPENSIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "504",
+      "Código": "101048601",
+      "Nombre genérico": "MULTIVITAMINAS Y MINERALES, cápsula o tableta, V.O.",
+      "Nombre comercial": "Dayamineral tabletas recubiertas | VITAFER GOLD TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "505",
+      "Código": "103035301",
+      "Nombre genérico": "MULTIVITAMINAS, gotas,  frasco con cuentagotas o gotero calibrado, 15-30ml, V.O.",
+      "Nombre comercial": "MULTIVITAMINAS CON MINERALES LIQUIDA",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "506",
+      "Código": "103049301",
+      "Nombre genérico": "NAFAZOLINA CLORHIDRATO 0.1%, gotas, solución, frasco, 7-15ml, Vía Oftálmica.",
+      "Nombre comercial": "NAZIL OFTENO 1MG/ML SOLUCIÓN OFTÁLMICA | NAFAZOLINA -.1% SOLUCIÓN OFTALMICA MEMPHIS",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "507",
+      "Código": "103020001",
+      "Nombre genérico": "NISTATINA 100,000UI/ml, suspensión, frasco con cuentagotas o gotero calibrado, 24-30ml, V.O.",
+      "Nombre comercial": "Nistatina Infantil Arsal 1--,---UI/ML Suspensión Oral Gotas | Nistal 1--,--- UI / ML SUSPENSIÓN ORAL | Micostyl Suspensión",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "508",
+      "Código": "101013701",
+      "Nombre genérico": "NITROFURANTOÍNA 100mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "UVAMIN RETARD 1-- MG CAPSULAS | NITROFURANTOINA 1--MG MK CAPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "509",
+      "Código": "102081901",
+      "Nombre genérico": "OBINUTUZUMAB 1000mg, polvo o solución inyectable, I.V.",
+      "Nombre comercial": "GAZYVA 1--- MG /4- ML CONCENTRADO PARA SOLUCION PARA INFUSIÓN I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "510",
+      "Código": "102102601",
+      "Nombre genérico": "OMALIZUMAB 150mg, polvo liofilizado o solución inyectable, S.C.",
+      "Nombre comercial": "XOLAIR 75 MG/-.5 ML Y 15- MG/1.- ML SOLUCIÓN INYECTABLE EN JERINGA PRECARGADA | XOLAIR 15-MG/VIAL POLVO PARA SOLUCION INYECTABLE S.C.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "511",
+      "Código": "101093701",
+      "Nombre genérico": "OMEPRAZOL 10mg,  cápsula o tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "512",
+      "Código": "101003401",
+      "Nombre genérico": "OSELTAMIVIR 75mg, cápsula, V.O.",
+      "Nombre comercial": "ELTAFERON 75 mg CÁPSULAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "513",
+      "Código": "101079801",
+      "Nombre genérico": "OXIBUTININA 5mg, tableta, V.O.",
+      "Nombre comercial": "UREQUIN 5MG COMPRIMIDOS | Cloruro de Oxibutinina tabletas de liberación prolongada USP 5 mg",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "514",
+      "Código": "102105901",
+      "Nombre genérico": "PALIPERIDONA PALMITATO, 100mg, solución o suspensión, l.M.",
+      "Nombre comercial": "INVEGA SUSTENNA 1-- mg / ml Suspensión para Inyección de Liberacion Prolongada en Jeringa Precargada (15- mg / 1.5 ml, 1-- mg / ml, 75 mg / -.75 ml, 5- mg / -.5 ml) / I.M.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "515",
+      "Código": "102106001",
+      "Nombre genérico": "PALIPERIDONA PALMITATO, 150mg, solución o suspensión, l.M.",
+      "Nombre comercial": "INVEGA SUSTENNA 1-- mg / ml Suspensión para Inyección de Liberacion Prolongada en Jeringa Precargada (15- mg / 1.5 ml, 1-- mg / ml, 75 mg / -.75 ml, 5- mg / -.5 ml) / I.M",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "516",
+      "Código": "102095701",
+      "Nombre genérico": "PALIVIZUMAB 100mg, polvo liofilizado o solución, I.M.",
+      "Nombre comercial": "SYNAGIS 1-- MG/ML SOLUCION INYECTABLE, I.M",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "517",
+      "Código": "101097701",
+      "Nombre genérico": "PANCREATINA 150mg, equivalente a: LIPASA 10,000U, AMILASA  8,000U, PROTEASA 600U, cápsula, V.O.",
+      "Nombre comercial": "CREON 1---- 15- MG CÁPSULAS CON MICROGRÁNULOS CON RECUBRIMIENTO ENTÉRICO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "518",
+      "Código": "103019801",
+      "Nombre genérico": "PARACETAMOL (ACETAMINOFÉN) 120-160mg/5ml, jarabe o solución, frasco, V.O.",
+      "Nombre comercial": "ZETAFEN 12- MG / 5 ML JARABE | ATERMÍN NF SOLUCIÓN ORAL | ACETAMINOFEN RIGAR 12-MG/5ML JARABE | ACETAMINOFEN 12- MG / 5 ML SOLUCION ORAL SABOR CEREZA",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "519",
+      "Código": "105004901",
+      "Nombre genérico": "PARACETAMOL (ACETAMINOFÉN) 250-300mg, supositorios pediátricos, Vía Rectal.",
+      "Nombre comercial": "PARA-DENK 25- MG SUPOSITORIO",
+      "Presentación": "Óvulo/Supositorio"
+    },
+    {
+      "#": "520",
+      "Código": "101001101",
+      "Nombre genérico": "PARACETAMOL (ACETAMINOFÉN) 500mg, tableta, V.O.",
+      "Nombre comercial": "ATERMIN 5-- (5--MG) COMPRIMIDOS | ACETAMINOFEN 5-- MG TABLETAS | ACETAMINOFEN MK 5-- MG TABLETAS | APYROL 5-- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "521",
+      "Código": "103019701",
+      "Nombre genérico": "PARACETAMOL (ACETAMINOFÉN) 90-100mg/ml, gotas, solución, frasco con cuentagotas o gotero calibrado, 15-30ml, V.O.",
+      "Nombre comercial": "ASINGESIC 1-- MG /ML SOLUCION ORAL EN GOTAS. | Paracetamol Lafedar Gotas | FEVERIDOL SOLUCION GOTAS ORALES | ANALFÉN 1-- MG/ML SOLUCIÓN ORAL GOTAS",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "522",
+      "Código": "103009501",
+      "Nombre genérico": "PASIFLORA 500mg/5ml, solución, frasco, V.O.",
+      "Nombre comercial": "TILOFLORINA SOLUCIÓN ORAL | EDAFLORINA SOLUCIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "523",
+      "Código": "101096301",
+      "Nombre genérico": "PERINDOPRIL 5mg, tableta, V.O.",
+      "Nombre comercial": "PERINDOPRIL ARGININA 5 MG TABLETAS RECUBIERTAS | COVERSYL 5 MG COMPRIMIDOS RECUBIERTOS CON PELICULA | CODOPRIL 5 MG TABLETAS REVESTIDAS | Perindopril tosilato 5 mg tabletas recubiertas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "524",
+      "Código": "103027401",
+      "Nombre genérico": "PIPACETATO 40mg/ml, gotas, frasco,  15ml, V.O.",
+      "Nombre comercial": "SELVIGON 4- MG/ML SOLUCIÓN ORAL GOTAS",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "525",
+      "Código": "103047001",
+      "Nombre genérico": "PIRANTEL PAMOATO 250mg-OXANTEL 250mg/5ml, suspensión, frasco, 15ml, V.O.",
+      "Nombre comercial": "LUMBRICINA SUSPENSION ORAL.",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "526",
+      "Código": "101034401",
+      "Nombre genérico": "PIRIDOXINA  (VITAMINA B6) 50mg, tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "527",
+      "Código": "103003401",
+      "Nombre genérico": "POLIMIXINA B, NEOMICINA, HIDROCORTISONA 1%, gotas, suspensión, frasco, 5ml, Vía Ótica.",
+      "Nombre comercial": "XINATOL SUSPENSIÓN ÓTICA",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "528",
+      "Código": "101097801",
+      "Nombre genérico": "PRAMIPEXOL 0.25mg, tableta ranurada, V.O.",
+      "Nombre comercial": "PARMITAL -.25 MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "529",
+      "Código": "101097901",
+      "Nombre genérico": "PRAMIPEXOL 1mg, tableta ranurada, V.O.",
+      "Nombre comercial": "PARMITAL 1MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "530",
+      "Código": "103049901",
+      "Nombre genérico": "PREDNISOLONA ACETATO 1%, gotas, suspensión, frasco, 5-15ml,  Vía Oftálmica.",
+      "Nombre comercial": "REDSO 1% SUSPENSION OFTALMICA | SOPHIPREN OFTENO 1% SUSPENSIÓN OFTÁLMICA ESTÉRIL | PREDNIOFTAL F 1- MG/ML SUSPENSIÓN OFTALMICA | PREDSO 1% SUSPENSION OFTALMICA",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "531",
+      "Código": "101073401",
+      "Nombre genérico": "PREDNISONA 50mg, tableta, V.O.",
+      "Nombre comercial": "Meticorten 5- mg tableta | PREDNISONA 5- MG TABLETAS | LMG-SONE 5- MG TABLETAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "532",
+      "Código": "103039201",
+      "Nombre genérico": "PROXIMETACAÍNA (PROPARACAÍNA) 0.5% o TETRACAÍNA (AMETHOCAÍNA) 0.5%, gotas, solución, frasco, 10-15ml, Vía Oftálmica.",
+      "Nombre comercial": "PONTI OFTENO -.5% SOLUCIÓN OFTÁLMICA",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "533",
+      "Código": "101096501",
+      "Nombre genérico": "QUETIAPINA FUMARATO 200mg, tableta, V.O.",
+      "Nombre comercial": "Quetidin Quetiapina 2--mg tabletas recubiertas | Quetivitae 2-- mg comprimidos recubiertos | QUITIAPRIM 2-- mg Tabletas Recubiertas | QUETINOR 2-- MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "534",
+      "Código": "103061301",
+      "Nombre genérico": "RIVASTIGMINA 18mg, parche transdérmico, Vía Tópica.",
+      "Nombre comercial": "RIVAZIC PARCHES RIVASTIGMINA 9.5 MG/ 24 HORAS | EXELON PATCH 1- (18 MG/1- CM2) PARCHE TRANSDÉRMICO | Memory Touch 18 mg Parche Transdérmico",
+      "Presentación": "Parche"
+    },
+    {
+      "#": "535",
+      "Código": "103061201",
+      "Nombre genérico": "RIVASTIGMINA 9mg, parche transdérmico, Vía Tópica.",
+      "Nombre comercial": "RIVAZIC PARCHES RIVASTIGMINA 9.5 MG/ 24 HORAS | EXELON PATCH 5 (9 MG / 5 CM2) PARCHE TRANSDERMICO | Memory Touch 9 mg Parche Transdérmico | SINSIN RIVASTIGMINA PARCHE 5",
+      "Presentación": "Parche"
+    },
+    {
+      "#": "536",
+      "Código": "102080001",
+      "Nombre genérico": "ROCURONIO BROMURO 10mg/ml, solución, I.V.",
+      "Nombre comercial": "ESMERON 5-MG/5ML SOLUCION INYECTABLE / INTRAVENOSA | BROMURO DE ROCURONIO 5- MG / 5 ML SOLUCION INYECTABLE I.V. | LUFCUREN 5- MG / 5 ML SOLUCIÓN INYECTABLE INTRAVENOSA, INTRAVENOSA (INFUSIÓN | BROMURO DE ROCURONIO SOLUCIÓN INYECTABLE 5- mg/5 mL",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "537",
+      "Código": "101000201",
+      "Nombre genérico": "ROSUVASTATINA 10mg, cápsula o tableta V.O.",
+      "Nombre comercial": "ROSUVITAE 1- MG COMPRIMIDOS RECUBIERTOS | Rosuvastatina Cinfa 1-mg Comprimidos Recubiertos Con Película | ROSUVASTATINA NORMON 1- MG. COMPRIMIDOS RECUBIERTO CON PELÍCULA EFG. | ROSUGRAS 1-MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "538",
+      "Código": "103000701",
+      "Nombre genérico": "RUIBARBO 1.5% y SODIO 3.5%, mixtura, frasco, 120-240ml, V.O.",
+      "Nombre comercial": "MIXTURA DE RUIBARBO Y SODA RIGAR.",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "539",
+      "Código": "103043401",
+      "Nombre genérico": "SALBUTAMOL BASE o SULFATO 100mcg/inhalación, suspensión en aerosol libre de  CFC, inhalador con  200-250 dosis, Vía Bucal.",
+      "Nombre comercial": "Ventolin Inhalador 1--mcg/Dosis Suspensión para Inhalación Oral (Libre de CFC) | SALBUTAMOL 1--MCG SUSPENSIÓN EN AEROSOL PARA INHALACIÓN ORAL | ASTHALIN HFA 1--MCG / DOSIS SUSPENSION EN AEROSOL PARA INHALACION ORAL | SACRUSYT 1-- MCG/DOSIS SUSPENSIÓN EN AEROSOL PARA INHALACIÓN ORAL.",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "540",
+      "Código": "103048901",
+      "Nombre genérico": "SALBUTAMOL SULFATO 0.5%, solución, frasco, 20-30ml, Nebulización.",
+      "Nombre comercial": "VENTOLIN 5MG/ML SOLUCIÓN PARA RESPIRADOR INHALACIÓN ORAL | VENTOLIN 2MG/5ML SOLUCIÓN ORAL | BUTAMOL SOLUCION PARA NEBULIZAR VÍA INHALATORIA ORAL Y NASAL",
+      "Presentación": "Inhalador"
+    },
+    {
+      "#": "541",
+      "Código": "102062401",
+      "Nombre genérico": "SALINA BALANCEADA, solución estéril, Uso  Intraocular.",
+      "Nombre comercial": "S.S.B. PISA SOLUCIÓN SALINA BALANCEADA PARA IRRIGACIÓN OFTÁLMICA | BSS Solución Salina Balanceada Estéril para irrigación intraocular",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "542",
+      "Código": "103061001",
+      "Nombre genérico": "SODIO CLORURO 0.85%-0.9%, gotas nasales en solución, frasco 50ml, Vía Nasal.",
+      "Nombre comercial": "AQUAMAR SOLUCIÓN SALINA -.9% | XCLEAR SOLUCION SALINA NATURAL SPRAY NASAL",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "543",
+      "Código": "102075701",
+      "Nombre genérico": "SODIO CLORURO 0.9%,  solución, envase plástico (bolsa o frasco), 3,000ml, I.V.",
+      "Nombre comercial": "SOLUCIÓN ISOTONICA DE CLORURO DE SODIO AL -.9% SOLUCIÓN INYECTABLE I.V",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "544",
+      "Código": "102019001",
+      "Nombre genérico": "SODIO CLORURO 20-25%, solución hipertónica, I.V.",
+      "Nombre comercial": "CLORURO DE SODIO ALFA 2-% SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "545",
+      "Código": "101075001",
+      "Nombre genérico": "SUCRALFATO 1g, tableta o gel oral, V.O.",
+      "Nombre comercial": "Ulcicoat 1G Tabletas",
+      "Presentación": "Crema/Ungüento"
+    },
+    {
+      "#": "546",
+      "Código": "101070201",
+      "Nombre genérico": "SULPIRIDA 200mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "547",
+      "Código": "101070101",
+      "Nombre genérico": "SULPIRIDA 50mg, cápsula o tableta, V.O.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "548",
+      "Código": "102059601",
+      "Nombre genérico": "SUXAMETONIO (SUCCINILCOLINA) CLORURO 50mg/ml, polvo liofilizado, I.V.",
+      "Nombre comercial": "uccinilcolina 5-- mg/vial polvo liofilizado para solución inyectable I.M.,I.V. | CLORURO DE SUXAMETONIO BP 5--MG /1- ML SOLUCIÓN INYECTABL",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "549",
+      "Código": "101001901",
+      "Nombre genérico": "TAPENTADOL 50mg, tableta recubierta de liberación prolongada, V.O.",
+      "Nombre comercial": "PALEXIS RETARD 5- mg Comprimido Recubierto de Liberación Prolongada",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "550",
+      "Código": "101034201",
+      "Nombre genérico": "TIAMINA (VITAMINA B1) 100mg, tableta, V.O.",
+      "Nombre comercial": "TIAMINA MP 1-- MG COMPRIMIDOS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "551",
+      "Código": "103047601",
+      "Nombre genérico": "TIMOLOL MALEATO o BETAXOLOL CLORHIDRATO o LEVOBUNOLOL CLORHIDRATO  0.5%, gotas, solución, frasco 5- 15ml,  Vía Oftálmica.",
+      "Nombre comercial": "TIOF -.5- % SOLUCIÓN OFTÁLMICA ESTÉRIL | IMOT OFTENO AL -.5% SOLUCIÓN OFTÁLMICA | ALFER LOLO -,5% SOLUCION OFTALMICA | OFTALMOTRILOL SOLUCION OFTALMICA ESTERIL",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "552",
+      "Código": "103061901",
+      "Nombre genérico": "TOBRAMICINA 0.3% CON DEXAMETASONA 0.1%, suspensión, gotas, Vía Oftálmica.",
+      "Nombre comercial": "TOBRAZOL-DX -.3% + -.1% SUSPENSIÓN OFTÁLMICA | RAZIDEX OFTENO SUSPENSIÓN OFTÁLMICA | DEXAMETASONA 1MG + TOBRAMICINA 3MG SUSPENSIÓN OFTÁLMICA",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "553",
+      "Código": "103061801",
+      "Nombre genérico": "TOBRAMICINA 3mg/mL (0.3%), solución, gotas, Vía Oftálmica.",
+      "Nombre comercial": "XOLOF -.3% SOLUCIÓN OFTÁLMICA ESTÉRIL | TOBREX -.3 % SOLUCIÓN OFTÁLMICA ESTÉRIL | KLONAMICIN SOLUCIÓN OFTÁLMICA -.3%",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "554",
+      "Código": "102082201",
+      "Nombre genérico": "TOCILIZUMAB 20mg/ml, solución concentrada, I.V.",
+      "Nombre comercial": "Actemra 2-mg/ml concentrado para solución para infusión I.V.",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "555",
+      "Código": "102093301",
+      "Nombre genérico": "TOXINA BOTULÍNICA TIPO A 100UI, polvo, I.M.",
+      "Nombre comercial": "BOTOX (TOXINA BOTULINICA TIPO A) POLVO SECADO AL VACIO PARA SOLUCION INYECTABLE. | JUVENLIFE TOXINA BOTULINICA TIPO A 1-- U / VIAL POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE I.M | NEURONOX 1-- U POLVO LIOFILIZADO PARA SOLUCION INYECTABLE I.M., S.C | XEOMIN 1-- UI POLVO PARA SOLUCION INYECTABLE",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "556",
+      "Código": "101082901",
+      "Nombre genérico": "TRIMETAZIDINA 20mg, tableta, V.O.",
+      "Nombre comercial": "ADYNA 2-MG COMPRIMIDOS RECUBIERTOS CON PELICULA. | Trimetazidina Maxihealth 2- (2-mg) Tabletas Recubiertas",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "557",
+      "Código": "101038801",
+      "Nombre genérico": "TRIMETOPRIN 160mg CON SULFAMETOXAZOL 800mg, tableta ranurada, V.O.",
+      "Nombre comercial": "BACTRIM FORTE 8--/16-MG COMPRIMIDOS | BACTRIM FORTE 8--MG/16-MG COMPRIMIDOS | SULFATRIM 16-/8-- MG TABLETAS | CO-TRIMOXAZOL Tabletas BP 96- mg",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "558",
+      "Código": "103012801",
+      "Nombre genérico": "TRIMETOPRIN 40mg CON SULFAMETOXAZOL 200mg/5ml, suspensión  pediátrica, frasco, 100-120ml, V.O.",
+      "Nombre comercial": "PRIMASULF 4-MG-2--MG/5ML SUSPENSION ORAL | SULFATRIM 8MG-4-MG/ML SUSPENSION PEDIATRICA ORAL. | TRIMETOPRIM SULFA ECAR SUSPENSIÓN ORAL",
+      "Presentación": "Frasco de jarabe"
+    },
+    {
+      "#": "559",
+      "Código": "103001401",
+      "Nombre genérico": "TROPICAMIDA 8mg CON FENILEFRINA 50mg (0.8%/5%), solución, gotas, Vía Oftálmica.",
+      "Nombre comercial": "T-P- OFTENO SOLUCIÓN OFTÁLMICA",
+      "Presentación": "Frasco de gotas"
+    },
+    {
+      "#": "560",
+      "Código": "101104701",
+      "Nombre genérico": "UPADACITINIB 15mg, cápsula o tableta o comprimido de liberación prolongada, V.O.",
+      "Nombre comercial": "",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "561",
+      "Código": "102000601",
+      "Nombre genérico": "USTEKINUMAB 130mg/26ml (5mg/ml), solución Intravenosa I.V.",
+      "Nombre comercial": "STELARA (13- mg / 26 ml) CONCENTRADO PARA SOLUCIÓN PARA INFUSIÓN (I.V.)",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "562",
+      "Código": "102064101",
+      "Nombre genérico": "VACUNA ANTINEUMOCÓCCICA 25mcg/0.5ml, solución, I.M., S.C.",
+      "Nombre comercial": "S/P REGISTRADO",
+      "Presentación": "Vial/Ampolla"
+    },
+    {
+      "#": "563",
+      "Código": "101003301",
+      "Nombre genérico": "VENETOCLAX 100mg, tableta, V.O.",
+      "Nombre comercial": "VENCLEXTA 1-- MG TABLETAS RECUBIERTAS",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "564",
+      "Código": "101082801",
+      "Nombre genérico": "ZOLPIDEM 10mg, tableta ranurada, V.O.",
+      "Nombre comercial": "ZOLPIDEM NORMON 1-MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA EFG",
+      "Presentación": "Pastilla - Cápsula"
+    },
+    {
+      "#": "565",
+      "Código": "101098001",
+      "Nombre genérico": "ÁCIDO ALENDRÓNICO (ALENDRONATO SÓDICO TRIHIDRATADO) 70mg, tableta, V.O.",
+      "Nombre comercial": "ALENDRONATO SÓDICO 7-MG TABLETAS | OSTOSIX 7- MG COMPRIMIDOS RECUBIERTOS",
+      "Presentación": "Pastilla - Cápsula"
+    }
+  ]
+}

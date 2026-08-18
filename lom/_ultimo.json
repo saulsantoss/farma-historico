@@ -1,0 +1,36 @@
+{
+  "capturado_en": "2026-08-18T05:38:41.476Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "ok": true,
+  "error": null,
+  "encabezado_modal": "Medicamentos cubiertos por la Caja de Seguro Social — Lista Oficial de Medicamentos (LOM)",
+  "nombre_archivo_origen": "MiFarmaDigital_LOM_20260818_0038.csv",
+  "total": 565,
+  "columnas": [
+    "#",
+    "Código",
+    "Nombre genérico",
+    "Nombre comercial",
+    "Presentación"
+  ],
+  "codigos_unicos": 565,
+  "por_presentacion": {
+    "Pastilla - Cápsula": 199,
+    "Frasco de gotas": 27,
+    "Vial/Ampolla": 235,
+    "Frasco de jarabe": 42,
+    "Inhalador": 15,
+    "Crema/Ungüento": 30,
+    "KAVIBEN P1 EMULSION PARA INFUSION I.V. | COMBIFLEX LIPID PERI INYECCION": 1,
+    "DEPO-MEDROL 4-MG/ML SUSPENSION INYECTABLE I.M., I.SINOVIAL Y EN TEJIDOS BLANDO": 1,
+    "Gas medicinal": 1,
+    "Óvulo/Supositorio": 4,
+    "NORGYLEN TABLETAS RECUBIERTAS": 1,
+    "S/P REGISTRADO": 1,
+    "DOLOFENIL 75MG/3ML SOLUCION INYECTABLE | KLONAFENAC 75MG/3ML SOLUCION INYECTABLE I.M., INFUSION I.V. | DICLOFENACO SÓDICO SOLUCIÓN INYECTABLE 75MG/3ML | DICLOFENAC SODICO 25MG/ML SOLUCION INYECTABLE": 1,
+    "I.V.\"": 1,
+    "Implante": 2,
+    "IBUPROFENO NORMON 4-- MG COMPRIMIDOS RECUBIERTOS EFG | IBULAP 4--MG TABLETAS RECUBIERTAS. | IBUPROFENO RIGAR 4-- MG COMPRIMIDOS RECUBIERTOS | REUMALAF TABLETAS": 1,
+    "Parche": 3
+  }
+}

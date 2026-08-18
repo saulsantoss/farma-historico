@@ -1,3 +1,5 @@
 node_modules/
 captura.log
 diag*.js
+ESTADO-PROYECTO.md
+*.csv

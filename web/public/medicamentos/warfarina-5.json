@@ -1,0 +1,4837 @@
+{
+  "medicamento_id": "warfarina-5",
+  "medicamento_nombre": "WARFARINA SÓDICA 5mg, tableta, V.O.",
+  "medicamento_termino": "warfarina",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "generado_en": "2026-08-18T16:15:49.413Z",
+  "capturas_analizadas": [
+    {
+      "captura": "2026-08-18/0522Z",
+      "capturado_en": "2026-08-18T05:22:59.175Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0554Z",
+      "capturado_en": "2026-08-18T05:54:31.643Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0759Z",
+      "capturado_en": "2026-08-18T07:59:25.777Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/0848Z",
+      "capturado_en": "2026-08-18T08:48:44.332Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1003Z",
+      "capturado_en": "2026-08-18T10:03:06.619Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/1018Z",
+      "capturado_en": "2026-08-18T10:18:04.049Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1041Z",
+      "capturado_en": "2026-08-18T10:41:35.489Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1049Z",
+      "capturado_en": "2026-08-18T10:49:37.602Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1100Z",
+      "capturado_en": "2026-08-18T11:00:01.198Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1230Z",
+      "capturado_en": "2026-08-18T12:30:02.843Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1530Z",
+      "capturado_en": "2026-08-18T15:30:03.955Z",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "instalaciones_atencion": [
+    {
+      "nombre": "ALEJANDRO DE LA GUARDIA (BETANIA)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Betania",
+      "etiquetas": [
+        "Pol. de Betania",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 5159,
+          "cantidad_texto": "5,159 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 5159,
+          "cantidad_texto": "5,159 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 5159,
+          "cantidad_texto": "5,159 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 5159,
+          "cantidad_texto": "5,159 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 5159,
+          "cantidad_texto": "5,159 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 5159,
+          "cantidad_texto": "5,159 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 5159,
+          "cantidad_texto": "5,159 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 5159,
+          "cantidad_texto": "5,159 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 5159,
+          "cantidad_texto": "5,159 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ALMIRANTE",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Almirante",
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "BLAS GÓMEZ CHETRO (ARRAIJÁN)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Arraiján",
+      "etiquetas": [
+        "Pol. de Arraiján",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CHIRIQUÍ GRANDE",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Chiriquí Grande",
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2430,
+          "cantidad_texto": "2,430 pastillas - cápsulas",
+          "dias": 218,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2430,
+          "cantidad_texto": "2,430 pastillas - cápsulas",
+          "dias": 218,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2430,
+          "cantidad_texto": "2,430 pastillas - cápsulas",
+          "dias": 218,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2430,
+          "cantidad_texto": "2,430 pastillas - cápsulas",
+          "dias": 218,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 2430,
+          "cantidad_texto": "2,430 pastillas - cápsulas",
+          "dias": 218,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 2430,
+          "cantidad_texto": "2,430 pastillas - cápsulas",
+          "dias": 218,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 2430,
+          "cantidad_texto": "2,430 pastillas - cápsulas",
+          "dias": 218,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 2430,
+          "cantidad_texto": "2,430 pastillas - cápsulas",
+          "dias": 218,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 2430,
+          "cantidad_texto": "2,430 pastillas - cápsulas",
+          "dias": 218,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CIUDAD DE LA SALUD",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Centenario",
+      "etiquetas": [
+        "CIDELAS",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2220,
+          "cantidad_texto": "2,220 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2220,
+          "cantidad_texto": "2,220 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2220,
+          "cantidad_texto": "2,220 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2220,
+          "cantidad_texto": "2,220 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 2220,
+          "cantidad_texto": "2,220 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 2220,
+          "cantidad_texto": "2,220 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 2220,
+          "cantidad_texto": "2,220 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 2220,
+          "cantidad_texto": "2,220 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 2220,
+          "cantidad_texto": "2,220 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Transístmica",
+      "etiquetas": [
+        "El Complejo",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 6608,
+          "cantidad_texto": "6,608 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 6608,
+          "cantidad_texto": "6,608 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 6608,
+          "cantidad_texto": "6,608 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 6608,
+          "cantidad_texto": "6,608 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 6608,
+          "cantidad_texto": "6,608 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 6608,
+          "cantidad_texto": "6,608 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 6608,
+          "cantidad_texto": "6,608 pastillas - cápsulas",
+          "dias": 66,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 6578,
+          "cantidad_texto": "6,578 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 6546,
+          "cantidad_texto": "6,546 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DIONISIO ARROCHA",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Puerto Armuelles",
+      "etiquetas": [
+        "Hosp. de Puerto Armuelles",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1514,
+          "cantidad_texto": "1,514 pastillas - cápsulas",
+          "dias": 113,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1514,
+          "cantidad_texto": "1,514 pastillas - cápsulas",
+          "dias": 113,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1514,
+          "cantidad_texto": "1,514 pastillas - cápsulas",
+          "dias": 113,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1514,
+          "cantidad_texto": "1,514 pastillas - cápsulas",
+          "dias": 113,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1514,
+          "cantidad_texto": "1,514 pastillas - cápsulas",
+          "dias": 113,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1514,
+          "cantidad_texto": "1,514 pastillas - cápsulas",
+          "dias": 113,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1514,
+          "cantidad_texto": "1,514 pastillas - cápsulas",
+          "dias": 113,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1514,
+          "cantidad_texto": "1,514 pastillas - cápsulas",
+          "dias": 113,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1514,
+          "cantidad_texto": "1,514 pastillas - cápsulas",
+          "dias": 113,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DIVALÁ",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": null,
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 370,
+          "cantidad_texto": "370 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 370,
+          "cantidad_texto": "370 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 370,
+          "cantidad_texto": "370 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 370,
+          "cantidad_texto": "370 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 370,
+          "cantidad_texto": "370 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 370,
+          "cantidad_texto": "370 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 370,
+          "cantidad_texto": "370 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 370,
+          "cantidad_texto": "370 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 370,
+          "cantidad_texto": "370 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Juan Díaz",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 3647,
+          "cantidad_texto": "3,647 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 3647,
+          "cantidad_texto": "3,647 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 3647,
+          "cantidad_texto": "3,647 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 3647,
+          "cantidad_texto": "3,647 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 3647,
+          "cantidad_texto": "3,647 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 3647,
+          "cantidad_texto": "3,647 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 3647,
+          "cantidad_texto": "3,647 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 3629,
+          "cantidad_texto": "3,629 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 3629,
+          "cantidad_texto": "3,629 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. CARLOS N. BRIN (SAN FRANCISCO)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "San Francisco",
+      "etiquetas": [
+        "Pol. de San Fco.",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 3974,
+          "cantidad_texto": "3,974 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 3974,
+          "cantidad_texto": "3,974 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 3974,
+          "cantidad_texto": "3,974 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 3974,
+          "cantidad_texto": "3,974 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 3974,
+          "cantidad_texto": "3,974 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 3974,
+          "cantidad_texto": "3,974 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 3974,
+          "cantidad_texto": "3,974 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 3974,
+          "cantidad_texto": "3,974 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 3974,
+          "cantidad_texto": "3,974 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Las Cumbres",
+      "etiquetas": [
+        "Pol. las Cumbres",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2084,
+          "cantidad_texto": "2,084 pastillas - cápsulas",
+          "dias": 52,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2084,
+          "cantidad_texto": "2,084 pastillas - cápsulas",
+          "dias": 52,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2084,
+          "cantidad_texto": "2,084 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2084,
+          "cantidad_texto": "2,084 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 2084,
+          "cantidad_texto": "2,084 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 2084,
+          "cantidad_texto": "2,084 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 2084,
+          "cantidad_texto": "2,084 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 2084,
+          "cantidad_texto": "2,084 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 2084,
+          "cantidad_texto": "2,084 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. ERNESTO PÉREZ BALLADARES (BOQUETE)",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Boquete",
+      "etiquetas": [
+        "Pol. de Boquete",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. EZEQUIEL ABADÍA",
+      "es_bodega": false,
+      "provincia": "Veraguas",
+      "corregimiento": "Soná",
+      "etiquetas": [
+        "Hosp. de Soná",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1320,
+          "cantidad_texto": "1,320 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1320,
+          "cantidad_texto": "1,320 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1320,
+          "cantidad_texto": "1,320 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1320,
+          "cantidad_texto": "1,320 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1320,
+          "cantidad_texto": "1,320 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1320,
+          "cantidad_texto": "1,320 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1320,
+          "cantidad_texto": "1,320 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1320,
+          "cantidad_texto": "1,320 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1320,
+          "cantidad_texto": "1,320 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "etiquetas": [
+        "Hosp. de Chitré",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. HUGO SPADAFORA",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 5956,
+          "cantidad_texto": "5,956 pastillas - cápsulas",
+          "dias": 85,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 5956,
+          "cantidad_texto": "5,956 pastillas - cápsulas",
+          "dias": 85,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 5956,
+          "cantidad_texto": "5,956 pastillas - cápsulas",
+          "dias": 85,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 5956,
+          "cantidad_texto": "5,956 pastillas - cápsulas",
+          "dias": 85,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 5956,
+          "cantidad_texto": "5,956 pastillas - cápsulas",
+          "dias": 85,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 5956,
+          "cantidad_texto": "5,956 pastillas - cápsulas",
+          "dias": 85,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 5956,
+          "cantidad_texto": "5,956 pastillas - cápsulas",
+          "dias": 85,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 5956,
+          "cantidad_texto": "5,956 pastillas - cápsulas",
+          "dias": 85,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 5896,
+          "cantidad_texto": "5,896 pastillas - cápsulas",
+          "dias": 84,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. MANUEL AMADOR GUERRERO",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "etiquetas": [
+        "Hosp. Amador Guerrero",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2359,
+          "cantidad_texto": "2,359 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2359,
+          "cantidad_texto": "2,359 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2359,
+          "cantidad_texto": "2,359 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2359,
+          "cantidad_texto": "2,359 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 2359,
+          "cantidad_texto": "2,359 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 2359,
+          "cantidad_texto": "2,359 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 2359,
+          "cantidad_texto": "2,359 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 2359,
+          "cantidad_texto": "2,359 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 2359,
+          "cantidad_texto": "2,359 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. MANUEL DE JESÚS ROJAS (AGUADULCE)",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": "Aguadulce",
+      "etiquetas": [
+        "Pol. de Aguadulce",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Changuinola",
+      "etiquetas": [
+        "Hosp. de Changuinola (Raúl Dávila)",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2898,
+          "cantidad_texto": "2,898 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2898,
+          "cantidad_texto": "2,898 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2898,
+          "cantidad_texto": "2,898 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2898,
+          "cantidad_texto": "2,898 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 2898,
+          "cantidad_texto": "2,898 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 2898,
+          "cantidad_texto": "2,898 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 2898,
+          "cantidad_texto": "2,898 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 2898,
+          "cantidad_texto": "2,898 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 2853,
+          "cantidad_texto": "2,853 pastillas - cápsulas",
+          "dias": 88,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. SANTIAGO BARRAZA (CHORRERA)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "La Chorrera",
+      "etiquetas": [
+        "Pol. de La Chorrera",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1748,
+          "cantidad_texto": "1,748 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1748,
+          "cantidad_texto": "1,748 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1748,
+          "cantidad_texto": "1,748 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1748,
+          "cantidad_texto": "1,748 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1748,
+          "cantidad_texto": "1,748 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1748,
+          "cantidad_texto": "1,748 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1748,
+          "cantidad_texto": "1,748 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1748,
+          "cantidad_texto": "1,748 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1748,
+          "cantidad_texto": "1,748 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DRA. CECILIA GUERRA (SAN ANTONIO)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "San Antonio",
+      "etiquetas": [
+        "Pol. de San Antonio (Dra. Cecilia Guerra)",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1837,
+          "cantidad_texto": "1,837 pastillas - cápsulas",
+          "dias": 33,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1837,
+          "cantidad_texto": "1,837 pastillas - cápsulas",
+          "dias": 33,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1837,
+          "cantidad_texto": "1,837 pastillas - cápsulas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1837,
+          "cantidad_texto": "1,837 pastillas - cápsulas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1837,
+          "cantidad_texto": "1,837 pastillas - cápsulas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1837,
+          "cantidad_texto": "1,837 pastillas - cápsulas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1837,
+          "cantidad_texto": "1,837 pastillas - cápsulas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1837,
+          "cantidad_texto": "1,837 pastillas - cápsulas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1627,
+          "cantidad_texto": "1,627 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": null,
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 pastillas - cápsulas",
+          "dias": 108,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIZADA DR. GUSTAVO ADOLFO ROSS (DAVID)",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": null,
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 4002,
+          "cantidad_texto": "4,002 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 4002,
+          "cantidad_texto": "4,002 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 4002,
+          "cantidad_texto": "4,002 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 4002,
+          "cantidad_texto": "4,002 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 4002,
+          "cantidad_texto": "4,002 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 4002,
+          "cantidad_texto": "4,002 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 4002,
+          "cantidad_texto": "4,002 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 4002,
+          "cantidad_texto": "4,002 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 4002,
+          "cantidad_texto": "4,002 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIZADA DR. PABLO ESPINOSA (BUGABA)",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Bugaba",
+      "etiquetas": [
+        "Pol. de Bugaba (Pablo Espinosa)",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1200,
+          "cantidad_texto": "1,200 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1200,
+          "cantidad_texto": "1,200 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1200,
+          "cantidad_texto": "1,200 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1200,
+          "cantidad_texto": "1,200 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1200,
+          "cantidad_texto": "1,200 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1200,
+          "cantidad_texto": "1,200 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1200,
+          "cantidad_texto": "1,200 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1200,
+          "cantidad_texto": "1,200 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1200,
+          "cantidad_texto": "1,200 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Alto Verde",
+      "etiquetas": [
+        "Antigua ULAPS Nvo. Vedado (Rodrigo Hidalgo)",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1873,
+          "cantidad_texto": "1,873 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1873,
+          "cantidad_texto": "1,873 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1873,
+          "cantidad_texto": "1,873 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1873,
+          "cantidad_texto": "1,873 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1873,
+          "cantidad_texto": "1,873 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1873,
+          "cantidad_texto": "1,873 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1873,
+          "cantidad_texto": "1,873 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1873,
+          "cantidad_texto": "1,873 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1873,
+          "cantidad_texto": "1,873 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "GUABITO",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Guabito",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 98,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 98,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 98,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 98,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 98,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 98,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 810,
+          "cantidad_texto": "810 pastillas - cápsulas",
+          "dias": 98,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "HORACIO DÍAZ GÓMEZ",
+      "es_bodega": false,
+      "provincia": "Veraguas",
+      "corregimiento": "Santiago",
+      "etiquetas": [
+        "Pol. de Santiago",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 925,
+          "cantidad_texto": "925 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 925,
+          "cantidad_texto": "925 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 925,
+          "cantidad_texto": "925 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 925,
+          "cantidad_texto": "925 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 925,
+          "cantidad_texto": "925 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 925,
+          "cantidad_texto": "925 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 925,
+          "cantidad_texto": "925 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 925,
+          "cantidad_texto": "925 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 895,
+          "cantidad_texto": "895 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "IRMA DE LOURDES TZANETATOS (24 DE DICIEMBRE)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "24 de Diciembre",
+      "etiquetas": [
+        "Hosp. de la 24 de Dic.",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1770,
+          "cantidad_texto": "1,770 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1770,
+          "cantidad_texto": "1,770 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1770,
+          "cantidad_texto": "1,770 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1770,
+          "cantidad_texto": "1,770 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1770,
+          "cantidad_texto": "1,770 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1770,
+          "cantidad_texto": "1,770 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1770,
+          "cantidad_texto": "1,770 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1770,
+          "cantidad_texto": "1,770 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1770,
+          "cantidad_texto": "1,770 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "LAURENCIO JAÉN OCAÑA (SABANITAS)",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Sabanitas",
+      "etiquetas": [
+        "Pol. de Sabanitas",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 886,
+          "cantidad_texto": "886 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 886,
+          "cantidad_texto": "886 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 886,
+          "cantidad_texto": "886 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 886,
+          "cantidad_texto": "886 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 886,
+          "cantidad_texto": "886 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 886,
+          "cantidad_texto": "886 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 886,
+          "cantidad_texto": "886 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 886,
+          "cantidad_texto": "886 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 886,
+          "cantidad_texto": "886 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MANUEL FERRER VALDÉS",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Calle 25 - Marañón",
+      "etiquetas": [
+        "Pol. de Marañón",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 9623,
+          "cantidad_texto": "9,623 pastillas - cápsulas",
+          "dias": 74,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 9623,
+          "cantidad_texto": "9,623 pastillas - cápsulas",
+          "dias": 74,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 9623,
+          "cantidad_texto": "9,623 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 9623,
+          "cantidad_texto": "9,623 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 9623,
+          "cantidad_texto": "9,623 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 9623,
+          "cantidad_texto": "9,623 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 9623,
+          "cantidad_texto": "9,623 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 9623,
+          "cantidad_texto": "9,623 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 9599,
+          "cantidad_texto": "9,599 pastillas - cápsulas",
+          "dias": 64,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Veranillo",
+      "etiquetas": [
+        "Pol. de San Miguelito",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2857,
+          "cantidad_texto": "2,857 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2857,
+          "cantidad_texto": "2,857 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 2857,
+          "cantidad_texto": "2,857 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 2857,
+          "cantidad_texto": "2,857 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 2857,
+          "cantidad_texto": "2,857 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 2857,
+          "cantidad_texto": "2,857 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 2857,
+          "cantidad_texto": "2,857 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 2857,
+          "cantidad_texto": "2,857 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 2857,
+          "cantidad_texto": "2,857 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MIGUEL CÁRDENAS",
+      "es_bodega": false,
+      "provincia": "Los Santos",
+      "corregimiento": "Las Tablas",
+      "etiquetas": [
+        "Pol. de Las Tablas",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "NUEVO SAN JUAN",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "En Giral",
+      "etiquetas": [
+        "Pol. Nvo. San Juan",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "PENONOMÉ (MANUEL PAULINO OCAÑA)",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": "Penonomé",
+      "etiquetas": [
+        "Pol. de Penonomé",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1500,
+          "cantidad_texto": "1,500 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1500,
+          "cantidad_texto": "1,500 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1500,
+          "cantidad_texto": "1,500 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1500,
+          "cantidad_texto": "1,500 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1500,
+          "cantidad_texto": "1,500 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1500,
+          "cantidad_texto": "1,500 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1500,
+          "cantidad_texto": "1,500 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1500,
+          "cantidad_texto": "1,500 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1500,
+          "cantidad_texto": "1,500 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "PRESIDENTE REMÓN",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Calle 17",
+      "etiquetas": [
+        "PPR",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 7260,
+          "cantidad_texto": "7,260 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 7260,
+          "cantidad_texto": "7,260 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 7260,
+          "cantidad_texto": "7,260 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 7260,
+          "cantidad_texto": "7,260 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 7260,
+          "cantidad_texto": "7,260 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 7260,
+          "cantidad_texto": "7,260 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 7260,
+          "cantidad_texto": "7,260 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 7260,
+          "cantidad_texto": "7,260 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 7260,
+          "cantidad_texto": "7,260 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "RAFAEL HERNÁNDEZ",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "David",
+      "etiquetas": [
+        "El Regional",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 976,
+          "cantidad_texto": "976 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 976,
+          "cantidad_texto": "976 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 976,
+          "cantidad_texto": "976 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 976,
+          "cantidad_texto": "976 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 976,
+          "cantidad_texto": "976 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 976,
+          "cantidad_texto": "976 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 976,
+          "cantidad_texto": "976 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 976,
+          "cantidad_texto": "976 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1276,
+          "cantidad_texto": "1,276 pastillas - cápsulas",
+          "dias": 30,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "REGIONAL DE CHEPO",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Chepo",
+      "etiquetas": [
+        "Hosp. de Chepo",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 785,
+          "cantidad_texto": "785 pastillas - cápsulas",
+          "dias": 55,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 785,
+          "cantidad_texto": "785 pastillas - cápsulas",
+          "dias": 55,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 785,
+          "cantidad_texto": "785 pastillas - cápsulas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 785,
+          "cantidad_texto": "785 pastillas - cápsulas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 785,
+          "cantidad_texto": "785 pastillas - cápsulas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 785,
+          "cantidad_texto": "785 pastillas - cápsulas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 785,
+          "cantidad_texto": "785 pastillas - cápsulas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 785,
+          "cantidad_texto": "785 pastillas - cápsulas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 785,
+          "cantidad_texto": "785 pastillas - cápsulas",
+          "dias": 50,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "etiquetas": [
+        "Pol. de Chitré",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1800,
+          "cantidad_texto": "1,800 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SAN JUAN DE DIOS (NATÁ)",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": "Natá",
+      "etiquetas": [
+        "Pol. de Natá",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SAN JUAN DE DIOS (VILLA DE LOS SANTOS)",
+      "es_bodega": false,
+      "provincia": "Los Santos",
+      "corregimiento": "La Villa",
+      "etiquetas": [
+        "Pol. de La Villa",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SUSANA JONES CANO (VILLA LUCRE)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Villa Lucre",
+      "etiquetas": [
+        "Susana Jones",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        }
+      ]
+    }
+  ],
+  "bodegas": [
+    {
+      "nombre": "Bodega CHIRIQUÍ",
+      "es_bodega": true,
+      "provincia": "Chiriquí",
+      "corregimiento": null,
+      "etiquetas": [
+        "Bodega"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 10680,
+          "cantidad_texto": "10,680 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 10680,
+          "cantidad_texto": "10,680 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 10680,
+          "cantidad_texto": "10,680 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 10680,
+          "cantidad_texto": "10,680 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 10680,
+          "cantidad_texto": "10,680 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 10680,
+          "cantidad_texto": "10,680 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 10680,
+          "cantidad_texto": "10,680 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 10680,
+          "cantidad_texto": "10,680 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 10680,
+          "cantidad_texto": "10,680 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "Bodega PANAMÁ",
+      "es_bodega": true,
+      "provincia": "Panamá",
+      "corregimiento": null,
+      "etiquetas": [
+        "Bodega"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 214800,
+          "cantidad_texto": "214,800 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 214800,
+          "cantidad_texto": "214,800 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 214800,
+          "cantidad_texto": "214,800 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 214800,
+          "cantidad_texto": "214,800 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 214800,
+          "cantidad_texto": "214,800 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 214800,
+          "cantidad_texto": "214,800 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 214800,
+          "cantidad_texto": "214,800 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 214800,
+          "cantidad_texto": "214,800 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 214800,
+          "cantidad_texto": "214,800 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    }
+  ],
+  "metricas": {
+    "instalaciones_atencion": 40,
+    "bodegas": 2,
+    "capturas_ok": 9,
+    "capturas_fallidas": 2,
+    "sin_dias_publicados": 0,
+    "con_dias_publicados": 40,
+    "mediana_cantidad_sin_dias": null,
+    "mediana_cantidad_con_dias": 1571
+  }
+}

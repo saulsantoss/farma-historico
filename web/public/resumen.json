@@ -1,0 +1,267 @@
+{
+  "generado_en": "2026-08-18T16:15:49.425Z",
+  "modo": "normal",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "atribucion": "Fuente: Mi Farma Digital — Caja de Seguro Social de Panamá. Datos capturados de forma automatizada. Este sitio no está afiliado a la CSS.",
+  "primera_captura": {
+    "id": "2026-08-18/0506Z",
+    "fecha": "2026-08-18",
+    "hora_utc": "0506Z"
+  },
+  "ultima_captura": {
+    "id": "2026-08-18/1530Z",
+    "fecha": "2026-08-18",
+    "hora_utc": "1530Z"
+  },
+  "total_capturas_en_disco": 20,
+  "total_capturas_analizadas": 12,
+  "total_medicamentos": 14,
+  "cambios_detectados": 393,
+  "exclusiones": {
+    "texto_para_pantalla": "De 20 capturas registradas, 12 se usan para el análisis. Las 8 excluidas son de la fase de construcción del pipeline; en una de ellas se detectó contaminación de sesión comparando huellas del texto crudo. El dato crudo se conserva completo.",
+    "piso_captura": "2026-08-18/0506Z",
+    "total_excluidas": 8,
+    "por_motivo": {
+      "fase_construccion": 8,
+      "contaminacion_sesion": 1
+    },
+    "glosario_motivos": {
+      "fase_construccion": "Captura hecha mientras el pipeline aún se estaba construyendo. Puede estar incompleta o usar una versión anterior del parser.",
+      "contaminacion_sesion": "Dos medicamentos distintos devolvieron texto idéntico. El sitio conserva estado de sesión entre búsquedas; si no se limpia, una búsqueda devuelve el resultado de la anterior."
+    },
+    "detalle": [
+      {
+        "captura": "2026-08-18/0242Z",
+        "motivos": [
+          "fase_construccion"
+        ],
+        "explicacion": "Captura anterior a la estabilización del pipeline. Se conserva el crudo pero no se usa para análisis."
+      },
+      {
+        "captura": "2026-08-18/0308Z",
+        "motivos": [
+          "fase_construccion"
+        ],
+        "explicacion": "Captura anterior a la estabilización del pipeline. Se conserva el crudo pero no se usa para análisis."
+      },
+      {
+        "captura": "2026-08-18/0322Z",
+        "motivos": [
+          "fase_construccion"
+        ],
+        "explicacion": "Captura anterior a la estabilización del pipeline. Se conserva el crudo pero no se usa para análisis."
+      },
+      {
+        "captura": "2026-08-18/0342Z",
+        "motivos": [
+          "fase_construccion",
+          "contaminacion_sesion"
+        ],
+        "medicamentos_duplicados": [
+          [
+            "insulina-lispro",
+            "insulina-regular"
+          ]
+        ],
+        "explicacion": "Dos medicamentos distintos devolvieron texto crudo idéntico: el estado de sesión del sitio no se limpió entre búsquedas, y una búsqueda devolvió el resultado de la anterior."
+      },
+      {
+        "captura": "2026-08-18/0352Z",
+        "motivos": [
+          "fase_construccion"
+        ],
+        "explicacion": "Captura anterior a la estabilización del pipeline. Se conserva el crudo pero no se usa para análisis."
+      },
+      {
+        "captura": "2026-08-18/0359Z",
+        "motivos": [
+          "fase_construccion"
+        ],
+        "explicacion": "Captura anterior a la estabilización del pipeline. Se conserva el crudo pero no se usa para análisis."
+      },
+      {
+        "captura": "2026-08-18/0428Z",
+        "motivos": [
+          "fase_construccion"
+        ],
+        "explicacion": "Captura anterior a la estabilización del pipeline. Se conserva el crudo pero no se usa para análisis."
+      },
+      {
+        "captura": "2026-08-18/0436Z",
+        "motivos": [
+          "fase_construccion"
+        ],
+        "explicacion": "Captura anterior a la estabilización del pipeline. Se conserva el crudo pero no se usa para análisis."
+      }
+    ]
+  },
+  "portada_nacional_ultima": {
+    "captura": "2026-08-18/1530Z",
+    "captura_id": "2026-08-18T1530Z",
+    "capturado_en": "2026-08-18T15:30:03.955Z",
+    "lom_total": 565,
+    "disponibles_pct": 94,
+    "disponibles_n": 531,
+    "dias_abastecimiento_nacional": 57
+  },
+  "portada_nacional_serie": [
+    {
+      "captura": "2026-08-18/0506Z",
+      "capturado_en": "2026-08-18T05:06:17.683Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/0522Z",
+      "capturado_en": "2026-08-18T05:22:59.175Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/0554Z",
+      "capturado_en": "2026-08-18T05:54:31.643Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/0759Z",
+      "capturado_en": "2026-08-18T07:59:25.777Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/0848Z",
+      "capturado_en": "2026-08-18T08:48:44.332Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/1003Z",
+      "capturado_en": "2026-08-18T10:03:06.619Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/1018Z",
+      "capturado_en": "2026-08-18T10:18:04.049Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/1041Z",
+      "capturado_en": "2026-08-18T10:41:35.489Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/1049Z",
+      "capturado_en": "2026-08-18T10:49:37.602Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/1100Z",
+      "capturado_en": "2026-08-18T11:00:01.198Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/1230Z",
+      "capturado_en": "2026-08-18T12:30:02.843Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-18/1530Z",
+      "capturado_en": "2026-08-18T15:30:03.955Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    }
+  ],
+  "salud_capturas": [
+    {
+      "captura": "2026-08-18/0506Z",
+      "medicamentos_ok": 6,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-18/0522Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-18/0554Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-18/0759Z",
+      "medicamentos_ok": 0,
+      "medicamentos_fallidos": 14
+    },
+    {
+      "captura": "2026-08-18/0848Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-18/1003Z",
+      "medicamentos_ok": 0,
+      "medicamentos_fallidos": 14
+    },
+    {
+      "captura": "2026-08-18/1018Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-18/1041Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-18/1049Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-18/1100Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-18/1230Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-18/1530Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    }
+  ]
+}

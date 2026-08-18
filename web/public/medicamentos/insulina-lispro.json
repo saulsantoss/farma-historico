@@ -1,0 +1,1362 @@
+{
+  "medicamento_id": "insulina-lispro",
+  "medicamento_nombre": "INSULINA ANÁLOGA LISPRO 100UI/ml, solución, S.C., I.V.",
+  "medicamento_termino": "insulina lispro",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "generado_en": "2026-08-18T16:15:49.371Z",
+  "capturas_analizadas": [
+    {
+      "captura": "2026-08-18/0506Z",
+      "capturado_en": "2026-08-18T05:06:17.683Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0522Z",
+      "capturado_en": "2026-08-18T05:22:59.175Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0554Z",
+      "capturado_en": "2026-08-18T05:54:31.643Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0759Z",
+      "capturado_en": "2026-08-18T07:59:25.777Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/0848Z",
+      "capturado_en": "2026-08-18T08:48:44.332Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1003Z",
+      "capturado_en": "2026-08-18T10:03:06.619Z",
+      "ok": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "captura": "2026-08-18/1018Z",
+      "capturado_en": "2026-08-18T10:18:04.049Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1041Z",
+      "capturado_en": "2026-08-18T10:41:35.489Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1049Z",
+      "capturado_en": "2026-08-18T10:49:37.602Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1100Z",
+      "capturado_en": "2026-08-18T11:00:01.198Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1230Z",
+      "capturado_en": "2026-08-18T12:30:02.843Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/1530Z",
+      "capturado_en": "2026-08-18T15:30:03.955Z",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "instalaciones_atencion": [
+    {
+      "nombre": "CIUDAD DE LA SALUD",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Centenario",
+      "etiquetas": [
+        "CIDELAS",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Transístmica",
+      "etiquetas": [
+        "El Complejo",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 294,
+          "cantidad_texto": "294 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DIONISIO ARROCHA",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Puerto Armuelles",
+      "etiquetas": [
+        "Hosp. de Puerto Armuelles",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "DR. EZEQUIEL ABADÍA",
+      "es_bodega": false,
+      "provincia": "Veraguas",
+      "corregimiento": "Soná",
+      "etiquetas": [
+        "Hosp. de Soná",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "DR. MANUEL AMADOR GUERRERO",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "etiquetas": [
+        "Hosp. Amador Guerrero",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Changuinola",
+      "etiquetas": [
+        "Hosp. de Changuinola (Raúl Dávila)",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": null,
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 448,
+          "cantidad_texto": "448 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "RAFAEL HERNÁNDEZ",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "David",
+      "etiquetas": [
+        "El Regional",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 211,
+          "cantidad_texto": "211 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 211,
+          "cantidad_texto": "211 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 211,
+          "cantidad_texto": "211 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 211,
+          "cantidad_texto": "211 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 211,
+          "cantidad_texto": "211 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 211,
+          "cantidad_texto": "211 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 211,
+          "cantidad_texto": "211 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 211,
+          "cantidad_texto": "211 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 211,
+          "cantidad_texto": "211 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 241,
+          "cantidad_texto": "241 viales o ampollas",
+          "dias": 68,
+          "dias_no_publicado": false
+        }
+      ]
+    }
+  ],
+  "bodegas": [
+    {
+      "nombre": "Bodega CHIRIQUÍ",
+      "es_bodega": true,
+      "provincia": "Chiriquí",
+      "corregimiento": null,
+      "etiquetas": [
+        "Bodega"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "Bodega PANAMÁ",
+      "es_bodega": true,
+      "provincia": "Panamá",
+      "corregimiento": null,
+      "etiquetas": [
+        "Bodega"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0759Z",
+          "capturado_en": "2026-08-18T07:59:25.777Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/0848Z",
+          "capturado_en": "2026-08-18T08:48:44.332Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1003Z",
+          "capturado_en": "2026-08-18T10:03:06.619Z",
+          "estado_captura": "no_capturado",
+          "motivo": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-18/1018Z",
+          "capturado_en": "2026-08-18T10:18:04.049Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1041Z",
+          "capturado_en": "2026-08-18T10:41:35.489Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1049Z",
+          "capturado_en": "2026-08-18T10:49:37.602Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1100Z",
+          "capturado_en": "2026-08-18T11:00:01.198Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1230Z",
+          "capturado_en": "2026-08-18T12:30:02.843Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/1530Z",
+          "capturado_en": "2026-08-18T15:30:03.955Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    }
+  ],
+  "metricas": {
+    "instalaciones_atencion": 8,
+    "bodegas": 2,
+    "capturas_ok": 10,
+    "capturas_fallidas": 2,
+    "sin_dias_publicados": 4,
+    "con_dias_publicados": 4,
+    "mediana_cantidad_sin_dias": 25,
+    "mediana_cantidad_con_dias": 268
+  }
+}

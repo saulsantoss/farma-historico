@@ -1,0 +1,66 @@
+{
+  "captura_id": "2026-08-18T0342Z",
+  "capturado_en": "2026-08-18T03:42:23.135Z",
+  "portada": {
+    "lom_total": 565,
+    "disponibles_pct": 94,
+    "disponibles_n": 531,
+    "dias_abastecimiento_nacional": 58
+  },
+  "resumen": [
+    {
+      "id": "paracetamol-500",
+      "ok": false,
+      "etapa": "enter",
+      "via": null,
+      "estado": null,
+      "instalaciones": 0,
+      "error": "page.waitForFunction: Timeout 30000ms exceeded."
+    },
+    {
+      "id": "insulina-glargina",
+      "ok": false,
+      "etapa": "enter",
+      "via": null,
+      "estado": null,
+      "instalaciones": 0,
+      "error": "page.waitForFunction: Timeout 30000ms exceeded."
+    },
+    {
+      "id": "insulina-lispro",
+      "ok": false,
+      "etapa": "detalle",
+      "via": "directo",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "El detalle no corresponde al medicamento pedido"
+    },
+    {
+      "id": "insulina-nph",
+      "ok": false,
+      "etapa": "detalle",
+      "via": "directo",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "El detalle no corresponde al medicamento pedido"
+    },
+    {
+      "id": "insulina-regular",
+      "ok": false,
+      "etapa": "detalle",
+      "via": "directo",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "El detalle no corresponde al medicamento pedido"
+    },
+    {
+      "id": "carbamazepina-200",
+      "ok": false,
+      "etapa": "enter",
+      "via": null,
+      "estado": null,
+      "instalaciones": 0,
+      "error": "page.waitForFunction: Timeout 30000ms exceeded."
+    }
+  ]
+}

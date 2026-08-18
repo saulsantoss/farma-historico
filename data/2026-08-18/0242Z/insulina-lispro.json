@@ -1,0 +1,10 @@
+{
+  "captura_id": "2026-08-18T0242Z",
+  "capturado_en": "2026-08-18T02:42:39.281Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "insulina-lispro",
+  "medicamento_termino": "insulina lispro",
+  "medicamento_nombre": "INSULINA ANÁLOGA LISPRO 100UI/ml, solución, S.C., I.V.",
+  "ok": false,
+  "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[type=\"text\"]').first()\u001b[22m\n"
+}

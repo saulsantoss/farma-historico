@@ -1,0 +1,12 @@
+{
+  "captura_id": "2026-08-18T0342Z",
+  "capturado_en": "2026-08-18T03:42:23.135Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "paracetamol-500",
+  "medicamento_termino": "paracetamol",
+  "medicamento_nombre": "PARACETAMOL (ACETAMINOFÉN) 500mg, tableta, V.O.",
+  "ok": false,
+  "etapa": "enter",
+  "via": null,
+  "error": "page.waitForFunction: Timeout 30000ms exceeded."
+}

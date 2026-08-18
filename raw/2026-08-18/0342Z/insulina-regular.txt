@@ -1,0 +1,221 @@
+=== RESULTADOS ===
+
+
+=== DETALLE ===
+Búsqueda de Medicamentos
+Mi Farma Digital
+Ir al inicio
+Plataforma Nacional de Consulta y Abastecimiento de Medicamentos CSS Panamá
+Menú principal
+565
+
+Medicamentos cubiertos por la Caja de Seguro Social — Lista Oficial de Medicamentos (LOM)
+
+Ver lista oficial de medicamentos
+94%
+De medicamentos disponibles
+
+531 en existencia de 565
+
+Corresponde a la proporción de medicamentos de la Lista Oficial que están disponibles.
+
+Óptimo por encima de 90%
+
+Cómo se calcula
+58 días
+de abastecimiento
+
+Estimación basada en el ritmo de utilización reciente de los medicamentos.
+
+Cómo se calcula
+Busque su medicamento
+
+Escriba el nombre y seleccione de la lista, o filtre por provincia y unidad
+
+Limpiar
+FILTRAR POR
+Todas las provincias
+Bocas del Toro
+Chiriquí
+Coclé
+Colón
+Herrera
+Los Santos
+Panamá
+Panamá Oeste
+Veraguas
+Tipo de unidad ejecutora: Todas
+CAPPS y ULAPS
+Policlínicas Básicas
+Policlínicas Especializadas
+Policl. Esp. con Cirugía
+Hospitales
+Nombre de la unidad ejecutora (elija provincia)
+Medicamento Disponible
+MEPIVACAÍNA CLORHIDRATO 3% (30mg/ml) SIN VASOCONSTRICTOR, solución, Infiltración Bucal.
+¿Este medicamento puede recetarse fuera del sistema CSS-MINSA? No
+Nombres comerciales (3):
+ODONTOCAÍNA 3% MEPIVACAÍNA 3%, SOLUCIÓN INYECTABLE POR INFILTRACIÓN DENTAL
+ODONTOCAINA 3 % MEPIVACAINA 3 % SOLUCION INYECTABLE POR INFILTRACION DENTAL
+MEPISV 3% SOLUCION INYECTABLE
+Se suministra en: CAPPS/ULAPS, Policlínicas básicas, Policlínicas especializadas, Policlínicas con cirugía, Hospitales
+
+Recuerde que no todos los medicamentos están disponibles en todos los tipos de unidades ejecutoras, por su especialización.
+
+¿Para qué sirve este medicamento?
+Indicaciones: Anestesia local dental por infiltración o por bloqueo nervioso en pacientes con enfermedades cardiovasculares, diabéticos, hipertiroideos y asmáticos.
+Restricciones de uso: Programa Nacional de Odontología
+Bodega PANAMÁ
+Bodega
+Panamá
+Cantidad en inventario: 34,350 viales o ampollas
+Bodega Divisa
+Bodega
+Herrera
+Cantidad en inventario: 6,950 viales o ampollas
+Bodega CHIRIQUÍ
+Bodega
+Chiriquí
+Cantidad en inventario: 1,600 viales o ampollas
+DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)
+Policlinica
+Panamá · Juan Díaz
+Cantidad en inventario: 1,120 viales o ampollas
+Días de abastecimiento: 357 días
+CHIRIQUÍ GRANDE
+Hospital
+Bocas del Toro · Chiriquí Grande
+Cantidad en inventario: 600 viales o ampollas
+Días de abastecimiento: 273 días
+DR. CARLOS N. BRIN (SAN FRANCISCO)
+Pol. de San Fco.
+Policlinica
+Panamá · San Francisco
+Cantidad en inventario: 500 viales o ampollas
+Días de abastecimiento: 227 días
+CARLOS VELARDE (SAN CRISTÓBAL)
+ULAPS de San Cristóbal
+ULAPS
+Panamá · San Cristóbal
+Cantidad en inventario: 400 viales o ampollas
+Días de abastecimiento: 191 días
+BLAS GÓMEZ CHETRO (ARRAIJÁN)
+Pol. de Arraiján
+Policlinica
+Panamá Oeste · Arraiján
+Cantidad en inventario: 350 viales o ampollas
+Días de abastecimiento: 159 días
+DR. JUAN VEGA MÉNDEZ - SAN CARLOS
+Pol. de San Carlos
+Policlinica
+Panamá Oeste · San Carlos
+Cantidad en inventario: 350 viales o ampollas
+Días de abastecimiento: 318 días
+JUAN AGUILAR (LAS TABLAS)
+ULAPS
+Bocas del Toro
+Cantidad en inventario: 300 viales o ampollas
+Días de abastecimiento: 273 días
+PRESIDENTE REMÓN
+PPR
+Policlinica
+Panamá · Calle 17
+Cantidad en inventario: 300 viales o ampollas
+Días de abastecimiento: 273 días
+ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ
+Antigua ULAPS Nvo. Vedado (Rodrigo Hidalgo)
+Policlinica
+Chiriquí · Alto Verde
+Cantidad en inventario: 250 viales o ampollas
+Días de abastecimiento: 58 días
+CIUDAD DE LA SALUD
+CIDELAS
+Hospital
+Panamá · Centenario
+Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).
+Cantidad en inventario: 250 viales o ampollas
+Días de abastecimiento: 76 días
+VOLCÁN
+ULAPS
+Chiriquí · Volcán
+Cantidad en inventario: 150 viales o ampollas
+ALEJANDRO DE LA GUARDIA (BETANIA)
+Pol. de Betania
+Policlinica
+Panamá · Betania
+Cantidad en inventario: 150 viales o ampollas
+COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID
+El Complejo
+Hospital
+Panamá · Transístmica
+Cantidad en inventario: 150 viales o ampollas
+Días de abastecimiento: 6 días
+GUABITO
+Policlinica
+Bocas del Toro · Guabito
+Cantidad en inventario: 100 viales o ampollas
+Días de abastecimiento: 5 días
+DR. MANUEL AMADOR GUERRERO
+Hosp. Amador Guerrero
+Hospital
+Colón · Coco Solo
+Cantidad en inventario: 100 viales o ampollas
+ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)
+Pol. de Chitré
+Policlinica
+Herrera · Chitré
+Cantidad en inventario: 100 viales o ampollas
+TORRIJOS CARTER
+CAPPS
+Panamá · Torrijos Carter
+Cantidad en inventario: 100 viales o ampollas
+Días de abastecimiento: 96 días
+DR. SANTIAGO BARRAZA (CHORRERA)
+Pol. de La Chorrera
+Policlinica
+Panamá Oeste · La Chorrera
+Cantidad en inventario: 100 viales o ampollas
+Días de abastecimiento: 5 días
+VACAMONTE
+ULAPS
+Panamá Oeste · Puerto de Vacamonte
+Cantidad en inventario: 100 viales o ampollas
+Días de abastecimiento: 19 días
+LAURENCIO JAÉN OCAÑA (SABANITAS)
+Pol. de Sabanitas
+Policlinica
+Colón · Sabanitas
+Cantidad en inventario: 50 viales o ampollas
+DR. EDILBERTO CULIOLIS (LAS CUMBRES)
+Pol. las Cumbres
+Policlinica
+Panamá · Las Cumbres
+Cantidad en inventario: 50 viales o ampollas
+DRA. CECILIA GUERRA (SAN ANTONIO)
+Pol. de San Antonio (Dra. Cecilia Guerra)
+Policlinica
+Panamá · San Antonio
+Cantidad en inventario: 50 viales o ampollas
+Días de abastecimiento: 5 días
+LOS NOGALES
+CAPPS
+Panamá · Los Nogales
+Cantidad en inventario: 50 viales o ampollas
+Días de abastecimiento: 48 días
+MANUEL MARÍA VALDÉS (SAN MIGUELITO)
+Pol. de San Miguelito
+Policlinica
+Panamá · Veranillo
+Cantidad en inventario: 50 viales o ampollas
+GUADALUPE (LA CHORRERA)
+ULAPS
+Panamá Oeste · Guadalupe
+Cantidad en inventario: 50 viales o ampollas
+Días de abastecimiento: 48 días
+HORACIO DÍAZ GÓMEZ
+Pol. de Santiago
+Policlinica
+Veraguas · Santiago
+Cantidad en inventario: 50 viales o ampollas
+Días de abastecimiento: 45 días
+Volver a los resultados

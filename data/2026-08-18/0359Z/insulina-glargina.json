@@ -1,0 +1,11 @@
+{
+  "captura_id": "2026-08-18T0359Z",
+  "capturado_en": "2026-08-18T03:59:03.262Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "insulina-glargina",
+  "medicamento_termino": "insulina glargina",
+  "medicamento_nombre": "INSULINA ANÁLOGA DE ACCIÓN PROLONGADA GLARGINA 100UI/ml, solución, S.C.",
+  "ok": false,
+  "etapa": "tecleo",
+  "error": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]"
+}

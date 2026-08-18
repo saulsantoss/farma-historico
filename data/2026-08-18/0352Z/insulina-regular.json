@@ -1,0 +1,943 @@
+{
+  "captura_id": "2026-08-18T0352Z",
+  "capturado_en": "2026-08-18T03:52:44.917Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "insulina-regular",
+  "medicamento_termino": "insulina regular",
+  "medicamento_nombre": "INSULINA REGULAR (HUMANA) 100U/ml, solución, S.C., I.V.",
+  "ok": true,
+  "etapa": "detalle",
+  "error": null,
+  "estado": "Medicamento Disponible",
+  "nombres_comerciales": [
+    "HUMULIN R REGULAR 1-- UI/ ML SOLUCIÓN INYECTABLE S.C., I.V., INFUSIÓN I.V.",
+    "NOVOLIN R 1-- UI/ML SOLUCION INYECTABLE I.V. S.C."
+  ],
+  "se_suministra_en": [
+    "CAPPS/ULAPS",
+    "Policlínicas básicas",
+    "Policlínicas especializadas",
+    "Policlínicas con cirugía",
+    "Hospitales"
+  ],
+  "instalaciones": [
+    {
+      "encabezado_lineas": [
+        "Panamá"
+      ],
+      "nombre": "Panamá",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 9355,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "9,355 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Chiriquí"
+      ],
+      "nombre": "Chiriquí",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 2570,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "2,570 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+        "El Complejo",
+        "Hospital"
+      ],
+      "nombre": "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+      "provincia": "Panamá",
+      "corregimiento": "Transístmica",
+      "cantidad": 1171,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "1,171 viales o ampollas",
+      "dias_abastecimiento": 83,
+      "dias_abastecimiento_texto": "83 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DON GENEROSO GUARDIA (SANTA LIBRADA)",
+        "Pol. de Santa Librada",
+        "Policlinica"
+      ],
+      "nombre": "DON GENEROSO GUARDIA (SANTA LIBRADA)",
+      "provincia": "Panamá",
+      "corregimiento": "Santa Librada",
+      "cantidad": 1099,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "1,099 viales o ampollas",
+      "dias_abastecimiento": 70,
+      "dias_abastecimiento_texto": "70 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
+        "Pol. las Cumbres",
+        "Policlinica"
+      ],
+      "nombre": "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
+      "provincia": "Panamá",
+      "corregimiento": "Las Cumbres",
+      "cantidad": 1060,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "1,060 viales o ampollas",
+      "dias_abastecimiento": 150,
+      "dias_abastecimiento_texto": "150 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ESPECIALIZADA DR. PABLO ESPINOSA (BUGABA)",
+        "Pol. de Bugaba (Pablo Espinosa)",
+        "Policlinica"
+      ],
+      "nombre": "ESPECIALIZADA DR. PABLO ESPINOSA (BUGABA)",
+      "provincia": "Chiriquí",
+      "corregimiento": "Bugaba",
+      "cantidad": 816,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "816 viales o ampollas",
+      "dias_abastecimiento": 61,
+      "dias_abastecimiento_texto": "61 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "IRMA DE LOURDES TZANETATOS (24 DE DICIEMBRE)",
+        "Hosp. de la 24 de Dic.",
+        "Hospital"
+      ],
+      "nombre": "IRMA DE LOURDES TZANETATOS (24 DE DICIEMBRE)",
+      "provincia": "Panamá",
+      "corregimiento": "24 de Diciembre",
+      "cantidad": 797,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "797 viales o ampollas",
+      "dias_abastecimiento": 62,
+      "dias_abastecimiento_texto": "62 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "MANUEL FERRER VALDÉS",
+        "Pol. de Marañón",
+        "Policlinica"
+      ],
+      "nombre": "MANUEL FERRER VALDÉS",
+      "provincia": "Panamá",
+      "corregimiento": "Calle 25 - Marañón",
+      "cantidad": 724,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "724 viales o ampollas",
+      "dias_abastecimiento": 46,
+      "dias_abastecimiento_texto": "46 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ALEJANDRO DE LA GUARDIA (BETANIA)",
+        "Pol. de Betania",
+        "Policlinica"
+      ],
+      "nombre": "ALEJANDRO DE LA GUARDIA (BETANIA)",
+      "provincia": "Panamá",
+      "corregimiento": "Betania",
+      "cantidad": 635,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "635 viales o ampollas",
+      "dias_abastecimiento": 60,
+      "dias_abastecimiento_texto": "60 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "BLAS GÓMEZ CHETRO (ARRAIJÁN)",
+        "Pol. de Arraiján",
+        "Policlinica"
+      ],
+      "nombre": "BLAS GÓMEZ CHETRO (ARRAIJÁN)",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Arraiján",
+      "cantidad": 610,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "610 viales o ampollas",
+      "dias_abastecimiento": 36,
+      "dias_abastecimiento_texto": "36 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "RAFAEL HERNÁNDEZ",
+        "El Regional",
+        "Hospital"
+      ],
+      "nombre": "RAFAEL HERNÁNDEZ",
+      "provincia": "Chiriquí",
+      "corregimiento": "David",
+      "cantidad": 428,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "428 viales o ampollas",
+      "dias_abastecimiento": 56,
+      "dias_abastecimiento_texto": "56 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Chiriquí",
+      "corregimiento": "David",
+      "cantidad": 380,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "380 viales o ampollas",
+      "dias_abastecimiento": 18,
+      "dias_abastecimiento_texto": "18 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DIONISIO ARROCHA",
+        "Hosp. de Puerto Armuelles",
+        "Hospital"
+      ],
+      "nombre": "DIONISIO ARROCHA",
+      "provincia": "Chiriquí",
+      "corregimiento": "Puerto Armuelles",
+      "cantidad": 377,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "377 viales o ampollas",
+      "dias_abastecimiento": 80,
+      "dias_abastecimiento_texto": "80 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
+        "Pol. de San Miguelito",
+        "Policlinica"
+      ],
+      "nombre": "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
+      "provincia": "Panamá",
+      "corregimiento": "Veranillo",
+      "cantidad": 351,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "351 viales o ampollas",
+      "dias_abastecimiento": 39,
+      "dias_abastecimiento_texto": "39 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Farmacia disponible solo para niños (menores de edad)."
+      ],
+      "nombre": "Farmacia disponible solo para niños (menores de edad).",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 326,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "326 viales o ampollas",
+      "dias_abastecimiento": 107,
+      "dias_abastecimiento_texto": "107 días",
+      "avisos": [
+        "Farmacia disponible solo para niños (menores de edad)."
+      ]
+    },
+    {
+      "encabezado_lineas": [
+        "DR. SANTIAGO BARRAZA (CHORRERA)",
+        "Pol. de La Chorrera",
+        "Policlinica"
+      ],
+      "nombre": "DR. SANTIAGO BARRAZA (CHORRERA)",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "La Chorrera",
+      "cantidad": 322,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "322 viales o ampollas",
+      "dias_abastecimiento": 4,
+      "dias_abastecimiento_texto": "4 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. CARLOS N. BRIN (SAN FRANCISCO)",
+        "Pol. de San Fco.",
+        "Policlinica"
+      ],
+      "nombre": "DR. CARLOS N. BRIN (SAN FRANCISCO)",
+      "provincia": "Panamá",
+      "corregimiento": "San Francisco",
+      "cantidad": 316,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "316 viales o ampollas",
+      "dias_abastecimiento": 30,
+      "dias_abastecimiento_texto": "30 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "CIUDAD DE LA SALUD",
+        "CIDELAS",
+        "Hospital"
+      ],
+      "nombre": "CIUDAD DE LA SALUD",
+      "provincia": "Panamá",
+      "corregimiento": "Centenario",
+      "cantidad": 303,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "303 viales o ampollas",
+      "dias_abastecimiento": 129,
+      "dias_abastecimiento_texto": "129 días",
+      "avisos": [
+        "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+      ]
+    },
+    {
+      "encabezado_lineas": [
+        "CARLOS VELARDE (SAN CRISTÓBAL)",
+        "ULAPS de San Cristóbal",
+        "ULAPS"
+      ],
+      "nombre": "CARLOS VELARDE (SAN CRISTÓBAL)",
+      "provincia": "Panamá",
+      "corregimiento": "San Cristóbal",
+      "cantidad": 302,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "302 viales o ampollas",
+      "dias_abastecimiento": 129,
+      "dias_abastecimiento_texto": "129 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ",
+        "Antigua ULAPS Nvo. Vedado (Rodrigo Hidalgo)",
+        "Policlinica"
+      ],
+      "nombre": "ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ",
+      "provincia": "Chiriquí",
+      "corregimiento": "Alto Verde",
+      "cantidad": 299,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "299 viales o ampollas",
+      "dias_abastecimiento": 45,
+      "dias_abastecimiento_texto": "45 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. HUGO SPADAFORA",
+        "Policlinica"
+      ],
+      "nombre": "DR. HUGO SPADAFORA",
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "cantidad": 275,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "275 viales o ampollas",
+      "dias_abastecimiento": 26,
+      "dias_abastecimiento_texto": "26 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
+        "Hosp. de Changuinola (Raúl Dávila)",
+        "Hospital"
+      ],
+      "nombre": "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Changuinola",
+      "cantidad": 252,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "252 viales o ampollas",
+      "dias_abastecimiento": 32,
+      "dias_abastecimiento_texto": "32 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "LAURENCIO JAÉN OCAÑA (SABANITAS)",
+        "Pol. de Sabanitas",
+        "Policlinica"
+      ],
+      "nombre": "LAURENCIO JAÉN OCAÑA (SABANITAS)",
+      "provincia": "Colón",
+      "corregimiento": "Sabanitas",
+      "cantidad": 219,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "219 viales o ampollas",
+      "dias_abastecimiento": 98,
+      "dias_abastecimiento_texto": "98 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "PRESIDENTE REMÓN",
+        "PPR",
+        "Policlinica"
+      ],
+      "nombre": "PRESIDENTE REMÓN",
+      "provincia": "Panamá",
+      "corregimiento": "Calle 17",
+      "cantidad": 195,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "195 viales o ampollas",
+      "dias_abastecimiento": 22,
+      "dias_abastecimiento_texto": "22 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "REGIONAL DE CHEPO",
+        "Hosp. de Chepo",
+        "Hospital"
+      ],
+      "nombre": "REGIONAL DE CHEPO",
+      "provincia": "Panamá",
+      "corregimiento": "Chepo",
+      "cantidad": 177,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "177 viales o ampollas",
+      "dias_abastecimiento": 32,
+      "dias_abastecimiento_texto": "32 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. JUAN VEGA MÉNDEZ - SAN CARLOS",
+        "Pol. de San Carlos",
+        "Policlinica"
+      ],
+      "nombre": "DR. JUAN VEGA MÉNDEZ - SAN CARLOS",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "San Carlos",
+      "cantidad": 168,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "168 viales o ampollas",
+      "dias_abastecimiento": 7,
+      "dias_abastecimiento_texto": "7 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "LOS NOGALES",
+        "CAPPS"
+      ],
+      "nombre": "LOS NOGALES",
+      "provincia": "Panamá",
+      "corregimiento": "Los Nogales",
+      "cantidad": 165,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "165 viales o ampollas",
+      "dias_abastecimiento": 25,
+      "dias_abastecimiento_texto": "25 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. MANUEL AMADOR GUERRERO",
+        "Hosp. Amador Guerrero",
+        "Hospital"
+      ],
+      "nombre": "DR. MANUEL AMADOR GUERRERO",
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "cantidad": 163,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "163 viales o ampollas",
+      "dias_abastecimiento": 139,
+      "dias_abastecimiento_texto": "139 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DRA. CECILIA GUERRA (SAN ANTONIO)",
+        "Pol. de San Antonio (Dra. Cecilia Guerra)",
+        "Policlinica"
+      ],
+      "nombre": "DRA. CECILIA GUERRA (SAN ANTONIO)",
+      "provincia": "Panamá",
+      "corregimiento": "San Antonio",
+      "cantidad": 161,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "161 viales o ampollas",
+      "dias_abastecimiento": 7,
+      "dias_abastecimiento_texto": "7 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "SAN JUAN DE DIOS (VILLA DE LOS SANTOS)",
+        "Pol. de La Villa",
+        "Policlinica"
+      ],
+      "nombre": "SAN JUAN DE DIOS (VILLA DE LOS SANTOS)",
+      "provincia": "Los Santos",
+      "corregimiento": "La Villa",
+      "cantidad": 138,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "138 viales o ampollas",
+      "dias_abastecimiento": 30,
+      "dias_abastecimiento_texto": "30 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "GUABITO",
+        "Policlinica"
+      ],
+      "nombre": "GUABITO",
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Guabito",
+      "cantidad": 134,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "134 viales o ampollas",
+      "dias_abastecimiento": 38,
+      "dias_abastecimiento_texto": "38 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "EL TECAL",
+        "CAPPS"
+      ],
+      "nombre": "EL TECAL",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "El Tecal",
+      "cantidad": 125,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "125 viales o ampollas",
+      "dias_abastecimiento": 37,
+      "dias_abastecimiento_texto": "37 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. EZEQUIEL ABADÍA",
+        "Hosp. de Soná",
+        "Hospital"
+      ],
+      "nombre": "DR. EZEQUIEL ABADÍA",
+      "provincia": "Veraguas",
+      "corregimiento": "Soná",
+      "cantidad": 119,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "119 viales o ampollas",
+      "dias_abastecimiento": 8,
+      "dias_abastecimiento_texto": "8 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. ERNESTO PÉREZ BALLADARES (BOQUETE)",
+        "Pol. de Boquete",
+        "Policlinica"
+      ],
+      "nombre": "DR. ERNESTO PÉREZ BALLADARES (BOQUETE)",
+      "provincia": "Chiriquí",
+      "corregimiento": "Boquete",
+      "cantidad": 108,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "108 viales o ampollas",
+      "dias_abastecimiento": 31,
+      "dias_abastecimiento_texto": "31 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)",
+        "Policlinica"
+      ],
+      "nombre": "DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)",
+      "provincia": "Panamá",
+      "corregimiento": "Juan Díaz",
+      "cantidad": 108,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "108 viales o ampollas",
+      "dias_abastecimiento": 3,
+      "dias_abastecimiento_texto": "3 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "HORACIO DÍAZ GÓMEZ",
+        "Pol. de Santiago",
+        "Policlinica"
+      ],
+      "nombre": "HORACIO DÍAZ GÓMEZ",
+      "provincia": "Veraguas",
+      "corregimiento": "Santiago",
+      "cantidad": 107,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "107 viales o ampollas",
+      "dias_abastecimiento": 13,
+      "dias_abastecimiento_texto": "13 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. MANUEL DE JESÚS ROJAS (AGUADULCE)",
+        "Pol. de Aguadulce",
+        "Policlinica"
+      ],
+      "nombre": "DR. MANUEL DE JESÚS ROJAS (AGUADULCE)",
+      "provincia": "Coclé",
+      "corregimiento": "Aguadulce",
+      "cantidad": 100,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "100 viales o ampollas",
+      "dias_abastecimiento": 4,
+      "dias_abastecimiento_texto": "4 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "TORRIJOS CARTER",
+        "CAPPS"
+      ],
+      "nombre": "TORRIJOS CARTER",
+      "provincia": "Panamá",
+      "corregimiento": "Torrijos Carter",
+      "cantidad": 94,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "94 viales o ampollas",
+      "dias_abastecimiento": 42,
+      "dias_abastecimiento_texto": "42 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
+        "Hosp. de Chitré",
+        "Hospital"
+      ],
+      "nombre": "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "cantidad": 90,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "90 viales o ampollas",
+      "dias_abastecimiento": 5,
+      "dias_abastecimiento_texto": "5 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "MIGUEL CÁRDENAS",
+        "Pol. de Las Tablas",
+        "Policlinica"
+      ],
+      "nombre": "MIGUEL CÁRDENAS",
+      "provincia": "Los Santos",
+      "corregimiento": "Las Tablas",
+      "cantidad": 90,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "90 viales o ampollas",
+      "dias_abastecimiento": 7,
+      "dias_abastecimiento_texto": "7 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ALMIRANTE",
+        "Hospital"
+      ],
+      "nombre": "ALMIRANTE",
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Almirante",
+      "cantidad": 69,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "69 viales o ampollas",
+      "dias_abastecimiento": 31,
+      "dias_abastecimiento_texto": "31 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Almirante",
+      "cantidad": 62,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "62 viales o ampollas",
+      "dias_abastecimiento": 56,
+      "dias_abastecimiento_texto": "56 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "RAFAEL ESTÉVEZ",
+        "Hosp. de Aguadulce",
+        "Hospital"
+      ],
+      "nombre": "RAFAEL ESTÉVEZ",
+      "provincia": "Coclé",
+      "corregimiento": "Aguadulce",
+      "cantidad": 60,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "60 viales o ampollas",
+      "dias_abastecimiento": 4,
+      "dias_abastecimiento_texto": "4 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
+        "Pol. de Chitré",
+        "Policlinica"
+      ],
+      "nombre": "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "cantidad": 60,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "60 viales o ampollas",
+      "dias_abastecimiento": 2,
+      "dias_abastecimiento_texto": "2 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "VOLCÁN",
+        "ULAPS"
+      ],
+      "nombre": "VOLCÁN",
+      "provincia": "Chiriquí",
+      "corregimiento": "Volcán",
+      "cantidad": 58,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "58 viales o ampollas",
+      "dias_abastecimiento": 49,
+      "dias_abastecimiento_texto": "49 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "SAN JUAN DE DIOS (NATÁ)",
+        "Pol. de Natá",
+        "Policlinica"
+      ],
+      "nombre": "SAN JUAN DE DIOS (NATÁ)",
+      "provincia": "Coclé",
+      "corregimiento": "Natá",
+      "cantidad": 50,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "50 viales o ampollas",
+      "dias_abastecimiento": 9,
+      "dias_abastecimiento_texto": "9 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Coclé",
+      "corregimiento": "Natá",
+      "cantidad": 48,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "48 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "CAÑITAS",
+        "Policlinica"
+      ],
+      "nombre": "CAÑITAS",
+      "provincia": "Panamá",
+      "corregimiento": "Cañita",
+      "cantidad": 44,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "44 viales o ampollas",
+      "dias_abastecimiento": 37,
+      "dias_abastecimiento_texto": "37 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "CHIRIQUÍ GRANDE",
+        "Hospital"
+      ],
+      "nombre": "CHIRIQUÍ GRANDE",
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Chiriquí Grande",
+      "cantidad": 43,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "43 viales o ampollas",
+      "dias_abastecimiento": 37,
+      "dias_abastecimiento_texto": "37 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ULAPS DE DOLEGA",
+        "ULAPS"
+      ],
+      "nombre": "ULAPS DE DOLEGA",
+      "provincia": "Chiriquí",
+      "corregimiento": "Dólega",
+      "cantidad": 43,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "43 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Chiriquí",
+      "corregimiento": "Dólega",
+      "cantidad": 40,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "40 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "SUSANA JONES CANO (VILLA LUCRE)",
+        "Susana Jones",
+        "Hospital"
+      ],
+      "nombre": "SUSANA JONES CANO (VILLA LUCRE)",
+      "provincia": "Panamá",
+      "corregimiento": "Villa Lucre",
+      "cantidad": 39,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "39 viales o ampollas",
+      "dias_abastecimiento": 17,
+      "dias_abastecimiento_texto": "17 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Panamá",
+      "corregimiento": "Villa Lucre",
+      "cantidad": 33,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "33 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Herrera"
+      ],
+      "nombre": "Herrera",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 29,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "29 viales o ampollas",
+      "dias_abastecimiento": 25,
+      "dias_abastecimiento_texto": "25 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Panamá Oeste"
+      ],
+      "nombre": "Panamá Oeste",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 27,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "27 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Chiriquí"
+      ],
+      "nombre": "Chiriquí",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 20,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "20 viales o ampollas",
+      "dias_abastecimiento": 17,
+      "dias_abastecimiento_texto": "17 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Herrera"
+      ],
+      "nombre": "Herrera",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 19,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "19 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "LAS ACACIAS (PLAZA TOCUMEN)",
+        "ULAPS"
+      ],
+      "nombre": "LAS ACACIAS (PLAZA TOCUMEN)",
+      "provincia": "Panamá",
+      "corregimiento": "Plaza Tocumen",
+      "cantidad": 13,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "13 viales o ampollas",
+      "dias_abastecimiento": 4,
+      "dias_abastecimiento_texto": "4 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+      ],
+      "nombre": "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 8,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "8 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": [
+        "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+      ]
+    },
+    {
+      "encabezado_lineas": [
+        "ZAPOTILLO",
+        "CAPPS"
+      ],
+      "nombre": "ZAPOTILLO",
+      "provincia": "Veraguas",
+      "corregimiento": "Zapotillo",
+      "cantidad": 1,
+      "unidad": "viales o ampollas",
+      "cantidad_texto": "1 viales o ampollas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    }
+  ],
+  "total_instalaciones": 60
+}

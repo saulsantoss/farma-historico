@@ -1,0 +1,60 @@
+{
+  "captura_id": "2026-08-18T0322Z",
+  "capturado_en": "2026-08-18T03:22:41.515Z",
+  "portada": {
+    "lom_total": 565,
+    "disponibles_pct": 94,
+    "disponibles_n": 531,
+    "dias_abastecimiento_nacional": 58
+  },
+  "resumen": [
+    {
+      "id": "paracetamol-500",
+      "ok": false,
+      "etapa": "clic",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "page.waitForFunction: Timeout 30000ms exceeded."
+    },
+    {
+      "id": "insulina-glargina",
+      "ok": false,
+      "etapa": "resultados",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "locator.click: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByText('INSULINA ANÁLOGA DE ACCIÓN PROLONGADA GLARGINA 100UI/ml, solución, S.C.').first()\u001b[22m\n"
+    },
+    {
+      "id": "insulina-lispro",
+      "ok": false,
+      "etapa": "clic",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "page.waitForFunction: Timeout 30000ms exceeded."
+    },
+    {
+      "id": "insulina-nph",
+      "ok": false,
+      "etapa": "clic",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "page.waitForFunction: Timeout 30000ms exceeded."
+    },
+    {
+      "id": "insulina-regular",
+      "ok": false,
+      "etapa": "clic",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "page.waitForFunction: Timeout 30000ms exceeded."
+    },
+    {
+      "id": "carbamazepina-200",
+      "ok": false,
+      "etapa": "clic",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "page.waitForFunction: Timeout 30000ms exceeded."
+    }
+  ]
+}

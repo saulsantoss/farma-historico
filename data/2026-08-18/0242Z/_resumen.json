@@ -1,0 +1,54 @@
+{
+  "captura_id": "2026-08-18T0242Z",
+  "capturado_en": "2026-08-18T02:42:39.281Z",
+  "resumen": [
+    {
+      "id": "paracetamol-500",
+      "ok": false,
+      "estado": null,
+      "instalaciones": 0,
+      "dias_nacional": null,
+      "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[type=\"text\"]').first()\u001b[22m\n"
+    },
+    {
+      "id": "insulina-glargina",
+      "ok": false,
+      "estado": null,
+      "instalaciones": 0,
+      "dias_nacional": null,
+      "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[type=\"text\"]').first()\u001b[22m\n"
+    },
+    {
+      "id": "insulina-lispro",
+      "ok": false,
+      "estado": null,
+      "instalaciones": 0,
+      "dias_nacional": null,
+      "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[type=\"text\"]').first()\u001b[22m\n"
+    },
+    {
+      "id": "insulina-nph",
+      "ok": false,
+      "estado": null,
+      "instalaciones": 0,
+      "dias_nacional": null,
+      "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[type=\"text\"]').first()\u001b[22m\n"
+    },
+    {
+      "id": "insulina-regular",
+      "ok": false,
+      "estado": null,
+      "instalaciones": 0,
+      "dias_nacional": null,
+      "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[type=\"text\"]').first()\u001b[22m\n"
+    },
+    {
+      "id": "carbamazepina-200",
+      "ok": false,
+      "estado": null,
+      "instalaciones": 0,
+      "dias_nacional": null,
+      "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[type=\"text\"]').first()\u001b[22m\n"
+    }
+  ]
+}

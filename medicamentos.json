@@ -1,0 +1,78 @@
+[
+  {
+    "id": "paracetamol-500",
+    "termino": "paracetamol",
+    "nombre": "PARACETAMOL (ACETAMINOFÉN) 500mg, tableta, V.O."
+  },
+  {
+    "id": "insulina-glargina",
+    "termino": "insulina glargina",
+    "nombre": "INSULINA ANÁLOGA DE ACCIÓN PROLONGADA GLARGINA 100UI/ml, solución, S.C."
+  },
+  {
+    "id": "insulina-lispro",
+    "termino": "insulina lispro",
+    "nombre": "INSULINA ANÁLOGA LISPRO 100UI/ml, solución, S.C., I.V."
+  },
+  {
+    "id": "insulina-nph",
+    "termino": "insulina nph",
+    "nombre": "INSULINA NPH (HUMANA) 100U/ml, suspensión, S.C."
+  },
+  {
+    "id": "insulina-regular",
+    "termino": "insulina regular",
+    "nombre": "INSULINA REGULAR (HUMANA) 100U/ml, solución, S.C., I.V."
+  },
+  {
+    "id": "carbamazepina-200",
+    "termino": "carbamazepina",
+    "nombre": "CARBAMAZEPINA 200mg, tableta, V.O."
+  },
+
+  {
+    "id": "PENDIENTE-metformina",
+    "termino": "metformina",
+    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+  },
+  {
+    "id": "PENDIENTE-losartan",
+    "termino": "losartan",
+    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+  },
+  {
+    "id": "PENDIENTE-enalapril",
+    "termino": "enalapril",
+    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+  },
+  {
+    "id": "PENDIENTE-amlodipino",
+    "termino": "amlodipino",
+    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+  },
+  {
+    "id": "PENDIENTE-levotiroxina",
+    "termino": "levotiroxina",
+    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+  },
+  {
+    "id": "PENDIENTE-warfarina",
+    "termino": "warfarina",
+    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+  },
+  {
+    "id": "PENDIENTE-salbutamol",
+    "termino": "salbutamol",
+    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+  },
+  {
+    "id": "PENDIENTE-atorvastatina",
+    "termino": "atorvastatina",
+    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+  },
+  {
+    "id": "PENDIENTE-sertralina",
+    "termino": "sertralina",
+    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+  }
+]

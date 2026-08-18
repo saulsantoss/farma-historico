@@ -1,0 +1,39 @@
+name: captura
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: captura
+  cancel-in-progress: false
+
+jobs:
+  capturar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm install --ignore-scripts
+
+      - run: npx playwright install --with-deps chromium
+
+      - run: node captura.js
+
+      - name: commit
+        run: |
+          git config user.name "captura-bot"
+          git config user.email "actions@github.com"
+          git add data/ raw/
+          git diff --staged --quiet || git commit -m "captura $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git pull --rebase --autostash
+          git push

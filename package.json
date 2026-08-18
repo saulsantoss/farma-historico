@@ -1,0 +1,12 @@
+{
+  "name": "farma-historico",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "captura": "node captura.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

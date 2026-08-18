@@ -1,0 +1,1110 @@
+{
+  "captura_id": "2026-08-18T0352Z",
+  "capturado_en": "2026-08-18T03:52:44.917Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "paracetamol-500",
+  "medicamento_termino": "paracetamol",
+  "medicamento_nombre": "PARACETAMOL (ACETAMINOFÉN) 500mg, tableta, V.O.",
+  "ok": true,
+  "etapa": "detalle",
+  "error": null,
+  "estado": "Medicamento Disponible",
+  "nombres_comerciales": [
+    "ATERMIN 5-- (5--MG) COMPRIMIDOS",
+    "ACETAMINOFEN 5-- MG TABLETAS",
+    "ACETAMINOFEN MK 5-- MG TABLETAS",
+    "APYROL 5-- MG TABLETAS"
+  ],
+  "se_suministra_en": [
+    "CAPPS/ULAPS",
+    "Policlínicas básicas",
+    "Policlínicas especializadas",
+    "Policlínicas con cirugía",
+    "Hospitales"
+  ],
+  "instalaciones": [
+    {
+      "encabezado_lineas": [
+        "Chiriquí"
+      ],
+      "nombre": "Chiriquí",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 2441000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "2,441,000 pastillas - cápsulas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Herrera"
+      ],
+      "nombre": "Herrera",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 1060600,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "1,060,600 pastillas - cápsulas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)",
+        "Policlinica"
+      ],
+      "nombre": "DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)",
+      "provincia": "Panamá",
+      "corregimiento": "Juan Díaz",
+      "cantidad": 765803,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "765,803 pastillas - cápsulas",
+      "dias_abastecimiento": 85,
+      "dias_abastecimiento_texto": "85 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
+        "Pol. las Cumbres",
+        "Policlinica"
+      ],
+      "nombre": "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
+      "provincia": "Panamá",
+      "corregimiento": "Las Cumbres",
+      "cantidad": 261401,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "261,401 pastillas - cápsulas",
+      "dias_abastecimiento": 136,
+      "dias_abastecimiento_texto": "136 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. JUAN VEGA MÉNDEZ - SAN CARLOS",
+        "Pol. de San Carlos",
+        "Policlinica"
+      ],
+      "nombre": "DR. JUAN VEGA MÉNDEZ - SAN CARLOS",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "San Carlos",
+      "cantidad": 249000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "249,000 pastillas - cápsulas",
+      "dias_abastecimiento": 63,
+      "dias_abastecimiento_texto": "63 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "HORACIO DÍAZ GÓMEZ",
+        "Pol. de Santiago",
+        "Policlinica"
+      ],
+      "nombre": "HORACIO DÍAZ GÓMEZ",
+      "provincia": "Veraguas",
+      "corregimiento": "Santiago",
+      "cantidad": 219596,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "219,596 pastillas - cápsulas",
+      "dias_abastecimiento": 23,
+      "dias_abastecimiento_texto": "23 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Veraguas",
+      "corregimiento": "Santiago",
+      "cantidad": 193748,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "193,748 pastillas - cápsulas",
+      "dias_abastecimiento": 23,
+      "dias_abastecimiento_texto": "23 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "IRMA DE LOURDES TZANETATOS (24 DE DICIEMBRE)",
+        "Hosp. de la 24 de Dic.",
+        "Hospital"
+      ],
+      "nombre": "IRMA DE LOURDES TZANETATOS (24 DE DICIEMBRE)",
+      "provincia": "Panamá",
+      "corregimiento": "24 de Diciembre",
+      "cantidad": 193500,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "193,500 pastillas - cápsulas",
+      "dias_abastecimiento": 45,
+      "dias_abastecimiento_texto": "45 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. HUGO SPADAFORA",
+        "Policlinica"
+      ],
+      "nombre": "DR. HUGO SPADAFORA",
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "cantidad": 184912,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "184,912 pastillas - cápsulas",
+      "dias_abastecimiento": 59,
+      "dias_abastecimiento_texto": "59 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ALEJANDRO DE LA GUARDIA (BETANIA)",
+        "Pol. de Betania",
+        "Policlinica"
+      ],
+      "nombre": "ALEJANDRO DE LA GUARDIA (BETANIA)",
+      "provincia": "Panamá",
+      "corregimiento": "Betania",
+      "cantidad": 182709,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "182,709 pastillas - cápsulas",
+      "dias_abastecimiento": 50,
+      "dias_abastecimiento_texto": "50 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "MANUEL FERRER VALDÉS",
+        "Pol. de Marañón",
+        "Policlinica"
+      ],
+      "nombre": "MANUEL FERRER VALDÉS",
+      "provincia": "Panamá",
+      "corregimiento": "Calle 25 - Marañón",
+      "cantidad": 171589,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "171,589 pastillas - cápsulas",
+      "dias_abastecimiento": 34,
+      "dias_abastecimiento_texto": "34 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "MIGUEL CÁRDENAS",
+        "Pol. de Las Tablas",
+        "Policlinica"
+      ],
+      "nombre": "MIGUEL CÁRDENAS",
+      "provincia": "Los Santos",
+      "corregimiento": "Las Tablas",
+      "cantidad": 167000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "167,000 pastillas - cápsulas",
+      "dias_abastecimiento": 56,
+      "dias_abastecimiento_texto": "56 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DRA. CECILIA GUERRA (SAN ANTONIO)",
+        "Pol. de San Antonio (Dra. Cecilia Guerra)",
+        "Policlinica"
+      ],
+      "nombre": "DRA. CECILIA GUERRA (SAN ANTONIO)",
+      "provincia": "Panamá",
+      "corregimiento": "San Antonio",
+      "cantidad": 158866,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "158,866 pastillas - cápsulas",
+      "dias_abastecimiento": 56,
+      "dias_abastecimiento_texto": "56 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. MANUEL DE JESÚS ROJAS (AGUADULCE)",
+        "Pol. de Aguadulce",
+        "Policlinica"
+      ],
+      "nombre": "DR. MANUEL DE JESÚS ROJAS (AGUADULCE)",
+      "provincia": "Coclé",
+      "corregimiento": "Aguadulce",
+      "cantidad": 158000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "158,000 pastillas - cápsulas",
+      "dias_abastecimiento": 23,
+      "dias_abastecimiento_texto": "23 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DON GENEROSO GUARDIA (SANTA LIBRADA)",
+        "Pol. de Santa Librada",
+        "Policlinica"
+      ],
+      "nombre": "DON GENEROSO GUARDIA (SANTA LIBRADA)",
+      "provincia": "Panamá",
+      "corregimiento": "Santa Librada",
+      "cantidad": 136152,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "136,152 pastillas - cápsulas",
+      "dias_abastecimiento": 26,
+      "dias_abastecimiento_texto": "26 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "REGIONAL DE CHEPO",
+        "Hosp. de Chepo",
+        "Hospital"
+      ],
+      "nombre": "REGIONAL DE CHEPO",
+      "provincia": "Panamá",
+      "corregimiento": "Chepo",
+      "cantidad": 119334,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "119,334 pastillas - cápsulas",
+      "dias_abastecimiento": 45,
+      "dias_abastecimiento_texto": "45 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "PENONOMÉ (MANUEL PAULINO OCAÑA)",
+        "Pol. de Penonomé",
+        "Policlinica"
+      ],
+      "nombre": "PENONOMÉ (MANUEL PAULINO OCAÑA)",
+      "provincia": "Coclé",
+      "corregimiento": "Penonomé",
+      "cantidad": 119000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "119,000 pastillas - cápsulas",
+      "dias_abastecimiento": 27,
+      "dias_abastecimiento_texto": "27 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. EZEQUIEL ABADÍA",
+        "Hosp. de Soná",
+        "Hospital"
+      ],
+      "nombre": "DR. EZEQUIEL ABADÍA",
+      "provincia": "Veraguas",
+      "corregimiento": "Soná",
+      "cantidad": 111773,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "111,773 pastillas - cápsulas",
+      "dias_abastecimiento": 60,
+      "dias_abastecimiento_texto": "60 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "CIUDAD DE LA SALUD",
+        "CIDELAS",
+        "Hospital"
+      ],
+      "nombre": "CIUDAD DE LA SALUD",
+      "provincia": "Panamá",
+      "corregimiento": "Centenario",
+      "cantidad": 110000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "110,000 pastillas - cápsulas",
+      "dias_abastecimiento": 17,
+      "dias_abastecimiento_texto": "17 días",
+      "avisos": [
+        "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+      ]
+    },
+    {
+      "encabezado_lineas": [
+        "RAFAEL HERNÁNDEZ",
+        "El Regional",
+        "Hospital"
+      ],
+      "nombre": "RAFAEL HERNÁNDEZ",
+      "provincia": "Chiriquí",
+      "corregimiento": "David",
+      "cantidad": 101808,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "101,808 pastillas - cápsulas",
+      "dias_abastecimiento": 29,
+      "dias_abastecimiento_texto": "29 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ",
+        "Antigua ULAPS Nvo. Vedado (Rodrigo Hidalgo)",
+        "Policlinica"
+      ],
+      "nombre": "ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ",
+      "provincia": "Chiriquí",
+      "corregimiento": "Alto Verde",
+      "cantidad": 101456,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "101,456 pastillas - cápsulas",
+      "dias_abastecimiento": 42,
+      "dias_abastecimiento_texto": "42 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
+        "Hosp. de Chitré",
+        "Hospital"
+      ],
+      "nombre": "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "cantidad": 97000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "97,000 pastillas - cápsulas",
+      "dias_abastecimiento": 17,
+      "dias_abastecimiento_texto": "17 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "SAN JUAN DE DIOS (NATÁ)",
+        "Pol. de Natá",
+        "Policlinica"
+      ],
+      "nombre": "SAN JUAN DE DIOS (NATÁ)",
+      "provincia": "Coclé",
+      "corregimiento": "Natá",
+      "cantidad": 91000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "91,000 pastillas - cápsulas",
+      "dias_abastecimiento": 66,
+      "dias_abastecimiento_texto": "66 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "RAFAEL ESTÉVEZ",
+        "Hosp. de Aguadulce",
+        "Hospital"
+      ],
+      "nombre": "RAFAEL ESTÉVEZ",
+      "provincia": "Coclé",
+      "corregimiento": "Aguadulce",
+      "cantidad": 86000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "86,000 pastillas - cápsulas",
+      "dias_abastecimiento": 21,
+      "dias_abastecimiento_texto": "21 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ESPECIALIZADA DR. PABLO ESPINOSA (BUGABA)",
+        "Pol. de Bugaba (Pablo Espinosa)",
+        "Policlinica"
+      ],
+      "nombre": "ESPECIALIZADA DR. PABLO ESPINOSA (BUGABA)",
+      "provincia": "Chiriquí",
+      "corregimiento": "Bugaba",
+      "cantidad": 83129,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "83,129 pastillas - cápsulas",
+      "dias_abastecimiento": 33,
+      "dias_abastecimiento_texto": "33 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
+        "Pol. de Chitré",
+        "Policlinica"
+      ],
+      "nombre": "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "cantidad": 80000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "80,000 pastillas - cápsulas",
+      "dias_abastecimiento": 19,
+      "dias_abastecimiento_texto": "19 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
+        "Hosp. de Changuinola (Raúl Dávila)",
+        "Hospital"
+      ],
+      "nombre": "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Changuinola",
+      "cantidad": 74042,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "74,042 pastillas - cápsulas",
+      "dias_abastecimiento": 20,
+      "dias_abastecimiento_texto": "20 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. ERNESTO PÉREZ BALLADARES (BOQUETE)",
+        "Pol. de Boquete",
+        "Policlinica"
+      ],
+      "nombre": "DR. ERNESTO PÉREZ BALLADARES (BOQUETE)",
+      "provincia": "Chiriquí",
+      "corregimiento": "Boquete",
+      "cantidad": 71281,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "71,281 pastillas - cápsulas",
+      "dias_abastecimiento": 78,
+      "dias_abastecimiento_texto": "78 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. SANTIAGO BARRAZA (CHORRERA)",
+        "Pol. de La Chorrera",
+        "Policlinica"
+      ],
+      "nombre": "DR. SANTIAGO BARRAZA (CHORRERA)",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "La Chorrera",
+      "cantidad": 68538,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "68,538 pastillas - cápsulas",
+      "dias_abastecimiento": 6,
+      "dias_abastecimiento_texto": "6 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "SAN JUAN DE DIOS (VILLA DE LOS SANTOS)",
+        "Pol. de La Villa",
+        "Policlinica"
+      ],
+      "nombre": "SAN JUAN DE DIOS (VILLA DE LOS SANTOS)",
+      "provincia": "Los Santos",
+      "corregimiento": "La Villa",
+      "cantidad": 58400,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "58,400 pastillas - cápsulas",
+      "dias_abastecimiento": 27,
+      "dias_abastecimiento_texto": "27 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Los Santos",
+      "corregimiento": "La Villa",
+      "cantidad": 52000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "52,000 pastillas - cápsulas",
+      "dias_abastecimiento": null,
+      "dias_abastecimiento_texto": null,
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DIONISIO ARROCHA",
+        "Hosp. de Puerto Armuelles",
+        "Hospital"
+      ],
+      "nombre": "DIONISIO ARROCHA",
+      "provincia": "Chiriquí",
+      "corregimiento": "Puerto Armuelles",
+      "cantidad": 43093,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "43,093 pastillas - cápsulas",
+      "dias_abastecimiento": 12,
+      "dias_abastecimiento_texto": "12 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "NUEVO SAN JUAN",
+        "Pol. Nvo. San Juan",
+        "Policlinica"
+      ],
+      "nombre": "NUEVO SAN JUAN",
+      "provincia": "Colón",
+      "corregimiento": "En Giral",
+      "cantidad": 42000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "42,000 pastillas - cápsulas",
+      "dias_abastecimiento": 9,
+      "dias_abastecimiento_texto": "9 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "BLAS GÓMEZ CHETRO (ARRAIJÁN)",
+        "Pol. de Arraiján",
+        "Policlinica"
+      ],
+      "nombre": "BLAS GÓMEZ CHETRO (ARRAIJÁN)",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Arraiján",
+      "cantidad": 40000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "40,000 pastillas - cápsulas",
+      "dias_abastecimiento": 4,
+      "dias_abastecimiento_texto": "4 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "GUABITO",
+        "Policlinica"
+      ],
+      "nombre": "GUABITO",
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Guabito",
+      "cantidad": 37490,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "37,490 pastillas - cápsulas",
+      "dias_abastecimiento": 5,
+      "dias_abastecimiento_texto": "5 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ALMIRANTE",
+        "Hospital"
+      ],
+      "nombre": "ALMIRANTE",
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Almirante",
+      "cantidad": 36770,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "36,770 pastillas - cápsulas",
+      "dias_abastecimiento": 49,
+      "dias_abastecimiento_texto": "49 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "PRESIDENTE REMÓN",
+        "PPR",
+        "Policlinica"
+      ],
+      "nombre": "PRESIDENTE REMÓN",
+      "provincia": "Panamá",
+      "corregimiento": "Calle 17",
+      "cantidad": 35626,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "35,626 pastillas - cápsulas",
+      "dias_abastecimiento": 7,
+      "dias_abastecimiento_texto": "7 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "TORRIJOS CARTER",
+        "CAPPS"
+      ],
+      "nombre": "TORRIJOS CARTER",
+      "provincia": "Panamá",
+      "corregimiento": "Torrijos Carter",
+      "cantidad": 35338,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "35,338 pastillas - cápsulas",
+      "dias_abastecimiento": 37,
+      "dias_abastecimiento_texto": "37 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. CARLOS N. BRIN (SAN FRANCISCO)",
+        "Pol. de San Fco.",
+        "Policlinica"
+      ],
+      "nombre": "DR. CARLOS N. BRIN (SAN FRANCISCO)",
+      "provincia": "Panamá",
+      "corregimiento": "San Francisco",
+      "cantidad": 31116,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "31,116 pastillas - cápsulas",
+      "dias_abastecimiento": 13,
+      "dias_abastecimiento_texto": "13 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "LAS ACACIAS (PLAZA TOCUMEN)",
+        "ULAPS"
+      ],
+      "nombre": "LAS ACACIAS (PLAZA TOCUMEN)",
+      "provincia": "Panamá",
+      "corregimiento": "Plaza Tocumen",
+      "cantidad": 30843,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "30,843 pastillas - cápsulas",
+      "dias_abastecimiento": 34,
+      "dias_abastecimiento_texto": "34 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "DR. MANUEL AMADOR GUERRERO",
+        "Hosp. Amador Guerrero",
+        "Hospital"
+      ],
+      "nombre": "DR. MANUEL AMADOR GUERRERO",
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "cantidad": 30433,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "30,433 pastillas - cápsulas",
+      "dias_abastecimiento": 10,
+      "dias_abastecimiento_texto": "10 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "SUSANA JONES CANO (VILLA LUCRE)",
+        "Susana Jones",
+        "Hospital"
+      ],
+      "nombre": "SUSANA JONES CANO (VILLA LUCRE)",
+      "provincia": "Panamá",
+      "corregimiento": "Villa Lucre",
+      "cantidad": 29360,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "29,360 pastillas - cápsulas",
+      "dias_abastecimiento": 12,
+      "dias_abastecimiento_texto": "12 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "ULAPS DE DOLEGA",
+        "ULAPS"
+      ],
+      "nombre": "ULAPS DE DOLEGA",
+      "provincia": "Chiriquí",
+      "corregimiento": "Dólega",
+      "cantidad": 27850,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "27,850 pastillas - cápsulas",
+      "dias_abastecimiento": 70,
+      "dias_abastecimiento_texto": "70 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "MÁXIMO HERRERA",
+        "ULAPS del Hipódromo",
+        "ULAPS"
+      ],
+      "nombre": "MÁXIMO HERRERA",
+      "provincia": "Panamá",
+      "corregimiento": "Hipódromo",
+      "cantidad": 24974,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "24,974 pastillas - cápsulas",
+      "dias_abastecimiento": 46,
+      "dias_abastecimiento_texto": "46 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "VISTA ALEGRE",
+        "ULAPS"
+      ],
+      "nombre": "VISTA ALEGRE",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Vista Alegre",
+      "cantidad": 24000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "24,000 pastillas - cápsulas",
+      "dias_abastecimiento": 19,
+      "dias_abastecimiento_texto": "19 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "CAPIRA",
+        "ULAPS"
+      ],
+      "nombre": "CAPIRA",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Capira",
+      "cantidad": 20000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "20,000 pastillas - cápsulas",
+      "dias_abastecimiento": 16,
+      "dias_abastecimiento_texto": "16 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "GUADALUPE (LA CHORRERA)",
+        "ULAPS"
+      ],
+      "nombre": "GUADALUPE (LA CHORRERA)",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Guadalupe",
+      "cantidad": 20000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "20,000 pastillas - cápsulas",
+      "dias_abastecimiento": 8,
+      "dias_abastecimiento_texto": "8 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "CHIRIQUÍ GRANDE",
+        "Hospital"
+      ],
+      "nombre": "CHIRIQUÍ GRANDE",
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Chiriquí Grande",
+      "cantidad": 19667,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "19,667 pastillas - cápsulas",
+      "dias_abastecimiento": 38,
+      "dias_abastecimiento_texto": "38 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Chiriquí Grande",
+      "cantidad": 18543,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "18,543 pastillas - cápsulas",
+      "dias_abastecimiento": 69,
+      "dias_abastecimiento_texto": "69 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "LAURENCIO JAÉN OCAÑA (SABANITAS)",
+        "Pol. de Sabanitas",
+        "Policlinica"
+      ],
+      "nombre": "LAURENCIO JAÉN OCAÑA (SABANITAS)",
+      "provincia": "Colón",
+      "corregimiento": "Sabanitas",
+      "cantidad": 18403,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "18,403 pastillas - cápsulas",
+      "dias_abastecimiento": 6,
+      "dias_abastecimiento_texto": "6 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Colón",
+      "corregimiento": "Sabanitas",
+      "cantidad": 16606,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "16,606 pastillas - cápsulas",
+      "dias_abastecimiento": 45,
+      "dias_abastecimiento_texto": "45 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Chiriquí"
+      ],
+      "nombre": "Chiriquí",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 16166,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "16,166 pastillas - cápsulas",
+      "dias_abastecimiento": 35,
+      "dias_abastecimiento_texto": "35 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "VOLCÁN",
+        "ULAPS"
+      ],
+      "nombre": "VOLCÁN",
+      "provincia": "Chiriquí",
+      "corregimiento": "Volcán",
+      "cantidad": 15206,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "15,206 pastillas - cápsulas",
+      "dias_abastecimiento": 32,
+      "dias_abastecimiento_texto": "32 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Farmacia disponible solo para niños (menores de edad)."
+      ],
+      "nombre": "Farmacia disponible solo para niños (menores de edad).",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 13574,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "13,574 pastillas - cápsulas",
+      "dias_abastecimiento": 57,
+      "dias_abastecimiento_texto": "57 días",
+      "avisos": [
+        "Farmacia disponible solo para niños (menores de edad)."
+      ]
+    },
+    {
+      "encabezado_lineas": [
+        "Panamá Oeste"
+      ],
+      "nombre": "Panamá Oeste",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 13135,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "13,135 pastillas - cápsulas",
+      "dias_abastecimiento": 56,
+      "dias_abastecimiento_texto": "56 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "CARLOS VELARDE (SAN CRISTÓBAL)",
+        "ULAPS de San Cristóbal",
+        "ULAPS"
+      ],
+      "nombre": "CARLOS VELARDE (SAN CRISTÓBAL)",
+      "provincia": "Panamá",
+      "corregimiento": "San Cristóbal",
+      "cantidad": 12541,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "12,541 pastillas - cápsulas",
+      "dias_abastecimiento": 37,
+      "dias_abastecimiento_texto": "37 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "GUARARÉ",
+        "CAPPS"
+      ],
+      "nombre": "GUARARÉ",
+      "provincia": "Los Santos",
+      "corregimiento": "Guararé",
+      "cantidad": 12000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "12,000 pastillas - cápsulas",
+      "dias_abastecimiento": 38,
+      "dias_abastecimiento_texto": "38 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Los Santos",
+      "corregimiento": "Guararé",
+      "cantidad": 10000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "10,000 pastillas - cápsulas",
+      "dias_abastecimiento": 41,
+      "dias_abastecimiento_texto": "41 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "VACAMONTE",
+        "ULAPS"
+      ],
+      "nombre": "VACAMONTE",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Puerto de Vacamonte",
+      "cantidad": 10000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "10,000 pastillas - cápsulas",
+      "dias_abastecimiento": 21,
+      "dias_abastecimiento_texto": "21 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Puerto de Vacamonte",
+      "cantidad": 8439,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "8,439 pastillas - cápsulas",
+      "dias_abastecimiento": 24,
+      "dias_abastecimiento_texto": "24 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "LOS NOGALES",
+        "CAPPS"
+      ],
+      "nombre": "LOS NOGALES",
+      "provincia": "Panamá",
+      "corregimiento": "Los Nogales",
+      "cantidad": 7313,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "7,313 pastillas - cápsulas",
+      "dias_abastecimiento": 9,
+      "dias_abastecimiento_texto": "9 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [],
+      "nombre": null,
+      "provincia": "Panamá",
+      "corregimiento": "Los Nogales",
+      "cantidad": 6925,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "6,925 pastillas - cápsulas",
+      "dias_abastecimiento": 60,
+      "dias_abastecimiento_texto": "60 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Herrera"
+      ],
+      "nombre": "Herrera",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 4396,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "4,396 pastillas - cápsulas",
+      "dias_abastecimiento": 30,
+      "dias_abastecimiento_texto": "30 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Los Santos"
+      ],
+      "nombre": "Los Santos",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 4000,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "4,000 pastillas - cápsulas",
+      "dias_abastecimiento": 21,
+      "dias_abastecimiento_texto": "21 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "PORTOBELO",
+        "ULAPS"
+      ],
+      "nombre": "PORTOBELO",
+      "provincia": "Colón",
+      "corregimiento": "Portobelo",
+      "cantidad": 3060,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "3,060 pastillas - cápsulas",
+      "dias_abastecimiento": 64,
+      "dias_abastecimiento_texto": "64 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "CAÑITAS",
+        "Policlinica"
+      ],
+      "nombre": "CAÑITAS",
+      "provincia": "Panamá",
+      "corregimiento": "Cañita",
+      "cantidad": 1922,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "1,922 pastillas - cápsulas",
+      "dias_abastecimiento": 5,
+      "dias_abastecimiento_texto": "5 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+      ],
+      "nombre": "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).",
+      "provincia": null,
+      "corregimiento": null,
+      "cantidad": 1700,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "1,700 pastillas - cápsulas",
+      "dias_abastecimiento": 36,
+      "dias_abastecimiento_texto": "36 días",
+      "avisos": [
+        "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+      ]
+    },
+    {
+      "encabezado_lineas": [
+        "ZAPOTILLO",
+        "CAPPS"
+      ],
+      "nombre": "ZAPOTILLO",
+      "provincia": "Veraguas",
+      "corregimiento": "Zapotillo",
+      "cantidad": 1234,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "1,234 pastillas - cápsulas",
+      "dias_abastecimiento": 13,
+      "dias_abastecimiento_texto": "13 días",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+        "El Complejo",
+        "Hospital"
+      ],
+      "nombre": "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+      "provincia": "Panamá",
+      "corregimiento": "Transístmica",
+      "cantidad": 1046,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "1,046 pastillas - cápsulas",
+      "dias_abastecimiento": 0,
+      "dias_abastecimiento_texto": "menos de 1 día",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
+        "Pol. de San Miguelito",
+        "Policlinica"
+      ],
+      "nombre": "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
+      "provincia": "Panamá",
+      "corregimiento": "Veranillo",
+      "cantidad": 745,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "745 pastillas - cápsulas",
+      "dias_abastecimiento": 0,
+      "dias_abastecimiento_texto": "menos de 1 día",
+      "avisos": []
+    },
+    {
+      "encabezado_lineas": [
+        "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.",
+        "EL TECAL",
+        "CAPPS"
+      ],
+      "nombre": "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.",
+      "provincia": "Panamá Oeste",
+      "corregimiento": "El Tecal",
+      "cantidad": 12,
+      "unidad": "pastillas - cápsulas",
+      "cantidad_texto": "12 pastillas - cápsulas",
+      "dias_abastecimiento": 0,
+      "dias_abastecimiento_texto": "menos de 1 día",
+      "avisos": [
+        "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
+      ]
+    }
+  ],
+  "total_instalaciones": 71
+}

@@ -3,7 +3,7 @@
   "medicamento_nombre": "HIDROCLOROTIAZIDA 25mg con TRIAMTERENO 50mg, tableta ranurada, V.O.",
   "medicamento_termino": "hidroclorotiazida",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-18T19:34:22.796Z",
+  "generado_en": "2026-08-18T21:34:57.922Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0522Z",
@@ -74,6 +74,12 @@
     {
       "captura": "2026-08-18/1830Z",
       "capturado_en": "2026-08-18T18:30:04.353Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/2130Z",
+      "capturado_en": "2026-08-18T21:30:04.898Z",
       "ok": true,
       "error": null
     }
@@ -197,6 +203,15 @@
           "cantidad_texto": "74,158 pastillas - cápsulas",
           "dias": 80,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 74038,
+          "cantidad_texto": "74,038 pastillas - cápsulas",
+          "dias": 80,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -312,6 +327,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 1106,
+          "cantidad_texto": "1,106 pastillas - cápsulas",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 1106,
           "cantidad_texto": "1,106 pastillas - cápsulas",
@@ -438,6 +462,15 @@
           "cantidad_texto": "19,000 pastillas - cápsulas",
           "dias": 17,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 19000,
+          "cantidad_texto": "19,000 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -558,6 +591,15 @@
           "cantidad_texto": "3,655 pastillas - cápsulas",
           "dias": 76,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 3655,
+          "cantidad_texto": "3,655 pastillas - cápsulas",
+          "dias": 76,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -673,6 +715,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 16000,
+          "cantidad_texto": "16,000 pastillas - cápsulas",
+          "dias": 49,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 16000,
           "cantidad_texto": "16,000 pastillas - cápsulas",
@@ -799,6 +850,15 @@
           "cantidad_texto": "8,310 pastillas - cápsulas",
           "dias": 48,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 8280,
+          "cantidad_texto": "8,280 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -914,6 +974,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 1837,
+          "cantidad_texto": "1,837 pastillas - cápsulas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 1837,
           "cantidad_texto": "1,837 pastillas - cápsulas",
@@ -1070,6 +1139,18 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 6200,
+          "cantidad_texto": "6,200 pastillas - cápsulas",
+          "dias": 146,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
         }
       ]
     },
@@ -1189,6 +1270,15 @@
           "estado_captura": "ok",
           "cantidad": 13972,
           "cantidad_texto": "13,972 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 13912,
+          "cantidad_texto": "13,912 pastillas - cápsulas",
           "dias": 28,
           "dias_no_publicado": false
         }
@@ -1312,6 +1402,15 @@
           "cantidad_texto": "11,320 pastillas - cápsulas",
           "dias": 12,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 11290,
+          "cantidad_texto": "11,290 pastillas - cápsulas",
+          "dias": 12,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1427,6 +1526,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 2795,
+          "cantidad_texto": "2,795 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 2795,
           "cantidad_texto": "2,795 pastillas - cápsulas",
@@ -1553,6 +1661,15 @@
           "cantidad_texto": "21,736 pastillas - cápsulas",
           "dias": 26,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 21676,
+          "cantidad_texto": "21,676 pastillas - cápsulas",
+          "dias": 26,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1668,6 +1785,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 13099,
+          "cantidad_texto": "13,099 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 13099,
           "cantidad_texto": "13,099 pastillas - cápsulas",
@@ -1794,6 +1920,15 @@
           "cantidad_texto": "47,306 pastillas - cápsulas",
           "dias": 63,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 37291,
+          "cantidad_texto": "37,291 pastillas - cápsulas",
+          "dias": 50,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1915,6 +2050,15 @@
           "cantidad_texto": "28,039 pastillas - cápsulas",
           "dias": 58,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 28009,
+          "cantidad_texto": "28,009 pastillas - cápsulas",
+          "dias": 58,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2031,6 +2175,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 5319,
+          "cantidad_texto": "5,319 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 5319,
           "cantidad_texto": "5,319 pastillas - cápsulas",
@@ -2157,6 +2310,15 @@
           "cantidad_texto": "18,860 pastillas - cápsulas",
           "dias": 56,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 18770,
+          "cantidad_texto": "18,770 pastillas - cápsulas",
+          "dias": 55,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2273,6 +2435,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 7000,
+          "cantidad_texto": "7,000 pastillas - cápsulas",
+          "dias": 12,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 7000,
           "cantidad_texto": "7,000 pastillas - cápsulas",
@@ -2398,6 +2569,15 @@
           "cantidad_texto": "171,048 pastillas - cápsulas",
           "dias": 317,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 171018,
+          "cantidad_texto": "171,018 pastillas - cápsulas",
+          "dias": 317,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2514,6 +2694,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 16000,
+          "cantidad_texto": "16,000 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 16000,
           "cantidad_texto": "16,000 pastillas - cápsulas",
@@ -2640,6 +2829,15 @@
           "cantidad_texto": "13,950 pastillas - cápsulas",
           "dias": 105,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 13950,
+          "cantidad_texto": "13,950 pastillas - cápsulas",
+          "dias": 105,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2756,6 +2954,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 12000,
+          "cantidad_texto": "12,000 pastillas - cápsulas",
+          "dias": 16,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 12000,
           "cantidad_texto": "12,000 pastillas - cápsulas",
@@ -2882,6 +3089,15 @@
           "cantidad_texto": "15,799 pastillas - cápsulas",
           "dias": 88,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 15799,
+          "cantidad_texto": "15,799 pastillas - cápsulas",
+          "dias": 88,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3001,6 +3217,15 @@
           "estado_captura": "ok",
           "cantidad": 33964,
           "cantidad_texto": "33,964 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 33874,
+          "cantidad_texto": "33,874 pastillas - cápsulas",
           "dias": 28,
           "dias_no_publicado": false
         }
@@ -3124,6 +3349,15 @@
           "cantidad_texto": "47,635 pastillas - cápsulas",
           "dias": 62,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 47515,
+          "cantidad_texto": "47,515 pastillas - cápsulas",
+          "dias": 62,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3242,6 +3476,15 @@
           "estado_captura": "ok",
           "cantidad": 2280,
           "cantidad_texto": "2,280 pastillas - cápsulas",
+          "dias": 6,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 2250,
+          "cantidad_texto": "2,250 pastillas - cápsulas",
           "dias": 6,
           "dias_no_publicado": false
         }
@@ -3364,6 +3607,15 @@
           "cantidad_texto": "21,558 pastillas - cápsulas",
           "dias": 29,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 23408,
+          "cantidad_texto": "23,408 pastillas - cápsulas",
+          "dias": 31,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3485,6 +3737,15 @@
           "cantidad_texto": "12,830 pastillas - cápsulas",
           "dias": 28,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 12800,
+          "cantidad_texto": "12,800 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3601,6 +3862,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 12412,
+          "cantidad_texto": "12,412 pastillas - cápsulas",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 12412,
           "cantidad_texto": "12,412 pastillas - cápsulas",
@@ -3726,6 +3996,15 @@
           "cantidad_texto": "13,774 pastillas - cápsulas",
           "dias": 9,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 13774,
+          "cantidad_texto": "13,774 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3846,6 +4125,15 @@
           "cantidad_texto": "5,000 pastillas - cápsulas",
           "dias": 23,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 5000,
+          "cantidad_texto": "5,000 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3961,6 +4249,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 2000,
+          "cantidad_texto": "2,000 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 2000,
           "cantidad_texto": "2,000 pastillas - cápsulas",
@@ -4087,6 +4384,15 @@
           "cantidad_texto": "36,511 pastillas - cápsulas",
           "dias": 21,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 37361,
+          "cantidad_texto": "37,361 pastillas - cápsulas",
+          "dias": 21,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -4203,6 +4509,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 37000,
+          "cantidad_texto": "37,000 pastillas - cápsulas",
+          "dias": 68,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 37000,
           "cantidad_texto": "37,000 pastillas - cápsulas",
@@ -4328,6 +4643,15 @@
           "cantidad_texto": "3,380 pastillas - cápsulas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 3380,
+          "cantidad_texto": "3,380 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -4443,6 +4767,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 2000,
+          "cantidad_texto": "2,000 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 2000,
           "cantidad_texto": "2,000 pastillas - cápsulas",
@@ -4568,6 +4901,15 @@
           "cantidad_texto": "26,793 pastillas - cápsulas",
           "dias": 95,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 26763,
+          "cantidad_texto": "26,763 pastillas - cápsulas",
+          "dias": 95,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -4687,6 +5029,15 @@
           "estado_captura": "ok",
           "cantidad": 25040,
           "cantidad_texto": "25,040 pastillas - cápsulas",
+          "dias": 77,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 24980,
+          "cantidad_texto": "24,980 pastillas - cápsulas",
           "dias": 77,
           "dias_no_publicado": false
         }
@@ -4809,6 +5160,15 @@
           "cantidad_texto": "4,455 pastillas - cápsulas",
           "dias": 11,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 4395,
+          "cantidad_texto": "4,395 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -4924,6 +5284,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 4000,
+          "cantidad_texto": "4,000 pastillas - cápsulas",
+          "dias": 148,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 4000,
           "cantidad_texto": "4,000 pastillas - cápsulas",
@@ -5050,6 +5419,15 @@
           "cantidad_texto": "56,725 pastillas - cápsulas",
           "dias": 49,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 56635,
+          "cantidad_texto": "56,635 pastillas - cápsulas",
+          "dias": 49,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5171,6 +5549,15 @@
           "cantidad_texto": "19,740 pastillas - cápsulas",
           "dias": 37,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 18650,
+          "cantidad_texto": "18,650 pastillas - cápsulas",
+          "dias": 35,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5287,6 +5674,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 5135,
+          "cantidad_texto": "5,135 pastillas - cápsulas",
+          "dias": 19,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 5135,
           "cantidad_texto": "5,135 pastillas - cápsulas",
@@ -5413,6 +5809,15 @@
           "cantidad_texto": "24,000 pastillas - cápsulas",
           "dias": 68,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 24000,
+          "cantidad_texto": "24,000 pastillas - cápsulas",
+          "dias": 68,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5529,6 +5934,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 8000,
+          "cantidad_texto": "8,000 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 8000,
           "cantidad_texto": "8,000 pastillas - cápsulas",
@@ -5654,6 +6068,15 @@
           "cantidad_texto": "3,725 pastillas - cápsulas",
           "dias": 48,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 3725,
+          "cantidad_texto": "3,725 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5774,6 +6197,15 @@
           "cantidad_texto": "8,000 pastillas - cápsulas",
           "dias": 13,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 4000,
+          "cantidad_texto": "4,000 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5890,6 +6322,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 20000,
+          "cantidad_texto": "20,000 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 20000,
           "cantidad_texto": "20,000 pastillas - cápsulas",
@@ -6015,6 +6456,15 @@
           "cantidad_texto": "3,030 pastillas - cápsulas",
           "dias": 42,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 3030,
+          "cantidad_texto": "3,030 pastillas - cápsulas",
+          "dias": 42,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -6130,6 +6580,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 1510,
+          "cantidad_texto": "1,510 pastillas - cápsulas",
+          "dias": 53,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 1510,
           "cantidad_texto": "1,510 pastillas - cápsulas",
@@ -6256,6 +6715,15 @@
           "cantidad_texto": "23,979 pastillas - cápsulas",
           "dias": 31,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 23889,
+          "cantidad_texto": "23,889 pastillas - cápsulas",
+          "dias": 31,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -6372,6 +6840,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 5990,
+          "cantidad_texto": "5,990 pastillas - cápsulas",
+          "dias": 89,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 5990,
           "cantidad_texto": "5,990 pastillas - cápsulas",
@@ -6498,6 +6975,15 @@
           "cantidad_texto": "9,397 pastillas - cápsulas",
           "dias": 31,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 9247,
+          "cantidad_texto": "9,247 pastillas - cápsulas",
+          "dias": 31,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -6614,6 +7100,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 5000,
+          "cantidad_texto": "5,000 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 5000,
           "cantidad_texto": "5,000 pastillas - cápsulas",
@@ -6739,6 +7234,15 @@
           "cantidad_texto": "5,065 pastillas - cápsulas",
           "dias": 175,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 5035,
+          "cantidad_texto": "5,035 pastillas - cápsulas",
+          "dias": 173,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -6855,6 +7359,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 9000,
+          "cantidad_texto": "9,000 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 9000,
           "cantidad_texto": "9,000 pastillas - cápsulas",
@@ -6981,6 +7494,15 @@
           "cantidad_texto": "3,000 pastillas - cápsulas",
           "dias": 12,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 3000,
+          "cantidad_texto": "3,000 pastillas - cápsulas",
+          "dias": 12,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7096,6 +7618,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 2130,
+          "cantidad_texto": "2,130 pastillas - cápsulas",
+          "dias": 47,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 2130,
           "cantidad_texto": "2,130 pastillas - cápsulas",
@@ -7222,6 +7753,15 @@
           "cantidad_texto": "2,000 pastillas - cápsulas",
           "dias": 16,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 2000,
+          "cantidad_texto": "2,000 pastillas - cápsulas",
+          "dias": 16,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7337,6 +7877,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 3000,
+          "cantidad_texto": "3,000 pastillas - cápsulas",
+          "dias": 102,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 3000,
           "cantidad_texto": "3,000 pastillas - cápsulas",
@@ -7462,6 +8011,15 @@
           "cantidad_texto": "13,550 pastillas - cápsulas",
           "dias": 56,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 13550,
+          "cantidad_texto": "13,550 pastillas - cápsulas",
+          "dias": 56,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7577,6 +8135,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 3470,
+          "cantidad_texto": "3,470 pastillas - cápsulas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 3470,
           "cantidad_texto": "3,470 pastillas - cápsulas",
@@ -7702,6 +8269,15 @@
           "cantidad_texto": "3,000 pastillas - cápsulas",
           "dias": 56,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 3000,
+          "cantidad_texto": "3,000 pastillas - cápsulas",
+          "dias": 56,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7822,6 +8398,15 @@
           "cantidad_texto": "3,632 pastillas - cápsulas",
           "dias": 30,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 3632,
+          "cantidad_texto": "3,632 pastillas - cápsulas",
+          "dias": 30,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7937,6 +8522,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 1830,
+          "cantidad_texto": "1,830 pastillas - cápsulas",
+          "dias": 64,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 1830,
           "cantidad_texto": "1,830 pastillas - cápsulas",
@@ -8064,6 +8658,15 @@
           "cantidad_texto": "263,000 pastillas - cápsulas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 263000,
+          "cantidad_texto": "263,000 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -8179,6 +8782,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 783000,
+          "cantidad_texto": "783,000 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 783000,
           "cantidad_texto": "783,000 pastillas - cápsulas",
@@ -8304,6 +8916,15 @@
           "cantidad_texto": "1,026,000 pastillas - cápsulas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 1002000,
+          "cantidad_texto": "1,002,000 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -8424,6 +9045,15 @@
           "cantidad_texto": "16,000 pastillas - cápsulas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 16000,
+          "cantidad_texto": "16,000 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     }
@@ -8431,11 +9061,11 @@
   "metricas": {
     "instalaciones_atencion": 65,
     "bodegas": 4,
-    "capturas_ok": 10,
+    "capturas_ok": 11,
     "capturas_fallidas": 2,
     "sin_dias_publicados": 1,
     "con_dias_publicados": 64,
     "mediana_cantidad_sin_dias": 3380,
-    "mediana_cantidad_con_dias": 9199
+    "mediana_cantidad_con_dias": 9124
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-08-18T19:34:22.813Z",
+  "generado_en": "2026-08-18T21:34:57.930Z",
   "total": 14,
   "medicamentos": [
     {
@@ -10,7 +10,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 62567
+      "mediana_cantidad_con_dias": 69387
     },
     {
       "medicamento_id": "carbamazepina-200",
@@ -50,7 +50,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 1,
       "mediana_cantidad_sin_dias": 3380,
-      "mediana_cantidad_con_dias": 9199
+      "mediana_cantidad_con_dias": 9124
     },
     {
       "medicamento_id": "insulina-glargina",
@@ -77,7 +77,7 @@
       "medicamento_nombre": "INSULINA NPH (HUMANA) 100U/ml, suspensión, S.C.",
       "instalaciones_atencion": 63,
       "bodegas": 2,
-      "capturas_fallidas": 2,
+      "capturas_fallidas": 3,
       "sin_dias_publicados": 6,
       "mediana_cantidad_sin_dias": 25,
       "mediana_cantidad_con_dias": 283
@@ -89,8 +89,8 @@
       "bodegas": 2,
       "capturas_fallidas": 2,
       "sin_dias_publicados": 8,
-      "mediana_cantidad_sin_dias": 30,
-      "mediana_cantidad_con_dias": 163
+      "mediana_cantidad_sin_dias": 34,
+      "mediana_cantidad_con_dias": 166
     },
     {
       "medicamento_id": "levotiroxina-01",
@@ -100,7 +100,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 10020
+      "mediana_cantidad_con_dias": 9897
     },
     {
       "medicamento_id": "metformina-850",
@@ -120,7 +120,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 33570
+      "mediana_cantidad_con_dias": 36075
     },
     {
       "medicamento_id": "salbutamol-inhalador",
@@ -140,7 +140,7 @@
       "capturas_fallidas": 3,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 1571
+      "mediana_cantidad_con_dias": 1612
     }
   ]
 }

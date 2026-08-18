@@ -3,7 +3,7 @@
   "medicamento_nombre": "INSULINA NPH (HUMANA) 100U/ml, suspensión, S.C.",
   "medicamento_termino": "insulina nph",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-18T19:34:22.771Z",
+  "generado_en": "2026-08-18T21:34:57.911Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0506Z",
@@ -82,6 +82,12 @@
       "capturado_en": "2026-08-18T18:30:04.353Z",
       "ok": true,
       "error": null
+    },
+    {
+      "captura": "2026-08-18/2130Z",
+      "capturado_en": "2026-08-18T21:30:04.898Z",
+      "ok": false,
+      "error": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]"
     }
   ],
   "instalaciones_atencion": [
@@ -212,6 +218,15 @@
           "cantidad_texto": "1,064 viales o ampollas",
           "dias": 22,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -341,6 +356,15 @@
           "cantidad_texto": "161 viales o ampollas",
           "dias": 48,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -471,6 +495,15 @@
           "cantidad_texto": "1,020 viales o ampollas",
           "dias": 26,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -600,6 +633,15 @@
           "cantidad_texto": "91 viales o ampollas",
           "dias": 77,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -730,6 +772,15 @@
           "cantidad_texto": "395 viales o ampollas",
           "dias": 65,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -859,6 +910,15 @@
           "cantidad_texto": "58 viales o ampollas",
           "dias": 49,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -1022,6 +1082,15 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -1152,6 +1221,15 @@
           "cantidad_texto": "2,454 viales o ampollas",
           "dias": 84,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -1282,6 +1360,15 @@
           "cantidad_texto": "797 viales o ampollas",
           "dias": 45,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -1411,6 +1498,15 @@
           "cantidad_texto": "76 viales o ampollas",
           "dias": 22,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -1541,6 +1637,15 @@
           "cantidad_texto": "2,318 viales o ampollas",
           "dias": 65,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -1670,6 +1775,15 @@
           "cantidad_texto": "347 viales o ampollas",
           "dias": 4,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -1800,6 +1914,15 @@
           "cantidad_texto": "283 viales o ampollas",
           "dias": 10,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -1930,6 +2053,15 @@
           "cantidad_texto": "2,140 viales o ampollas",
           "dias": 96,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -2060,6 +2192,15 @@
           "cantidad_texto": "179 viales o ampollas",
           "dias": 51,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -2190,6 +2331,15 @@
           "cantidad_texto": "101 viales o ampollas",
           "dias": 2,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -2320,6 +2470,15 @@
           "cantidad_texto": "150 viales o ampollas",
           "dias": 8,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -2449,6 +2608,15 @@
           "cantidad_texto": "981 viales o ampollas",
           "dias": 61,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -2579,6 +2747,15 @@
           "cantidad_texto": "59 viales o ampollas",
           "dias": 13,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -2709,6 +2886,15 @@
           "cantidad_texto": "80 viales o ampollas",
           "dias": 1,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -2839,6 +3025,15 @@
           "cantidad_texto": "498 viales o ampollas",
           "dias": 28,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -2969,6 +3164,15 @@
           "cantidad_texto": "238 viales o ampollas",
           "dias": 1,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -3099,6 +3303,15 @@
           "cantidad_texto": "1,027 viales o ampollas",
           "dias": 79,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -3228,6 +3441,15 @@
           "cantidad_texto": "320 viales o ampollas",
           "dias": 29,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -3390,6 +3612,15 @@
           "avisos": [
             "Farmacia disponible solo para niños (menores de edad)."
           ]
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -3519,6 +3750,15 @@
           "cantidad_texto": "855 viales o ampollas",
           "dias": 29,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -3649,6 +3889,15 @@
           "cantidad_texto": "572 viales o ampollas",
           "dias": 16,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -3779,6 +4028,15 @@
           "cantidad_texto": "548 viales o ampollas",
           "dias": 49,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -3908,6 +4166,15 @@
           "cantidad_texto": "208 viales o ampollas",
           "dias": 19,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -4070,6 +4337,15 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -4200,6 +4476,15 @@
           "cantidad_texto": "631 viales o ampollas",
           "dias": 94,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -4330,6 +4615,15 @@
           "cantidad_texto": "1,650 viales o ampollas",
           "dias": 54,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -4459,6 +4753,15 @@
           "cantidad_texto": "54 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -4588,6 +4891,15 @@
           "cantidad_texto": "484 viales o ampollas",
           "dias": 72,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -4718,6 +5030,15 @@
           "cantidad_texto": "544 viales o ampollas",
           "dias": 81,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -4847,6 +5168,15 @@
           "cantidad_texto": "83 viales o ampollas",
           "dias": 5,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -4976,6 +5306,15 @@
           "cantidad_texto": "83 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -5106,6 +5445,15 @@
           "cantidad_texto": "3,480 viales o ampollas",
           "dias": 99,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -5236,6 +5584,15 @@
           "cantidad_texto": "1,167 viales o ampollas",
           "dias": 58,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -5366,6 +5723,15 @@
           "cantidad_texto": "472 viales o ampollas",
           "dias": 53,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -5496,6 +5862,15 @@
           "cantidad_texto": "240 viales o ampollas",
           "dias": 14,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -5626,6 +6001,15 @@
           "cantidad_texto": "260 viales o ampollas",
           "dias": 26,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -5755,6 +6139,15 @@
           "cantidad_texto": "32 viales o ampollas",
           "dias": 27,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -5884,6 +6277,15 @@
           "cantidad_texto": "400 viales o ampollas",
           "dias": 40,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -6014,6 +6416,15 @@
           "cantidad_texto": "260 viales o ampollas",
           "dias": 6,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -6143,6 +6554,15 @@
           "cantidad_texto": "30 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -6272,6 +6692,15 @@
           "cantidad_texto": "8 viales o ampollas",
           "dias": 7,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -6402,6 +6831,15 @@
           "cantidad_texto": "698 viales o ampollas",
           "dias": 33,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -6532,6 +6970,15 @@
           "cantidad_texto": "100 viales o ampollas",
           "dias": 2,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -6662,6 +7109,15 @@
           "cantidad_texto": "654 viales o ampollas",
           "dias": 107,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -6792,6 +7248,15 @@
           "cantidad_texto": "268 viales o ampollas",
           "dias": 34,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -6922,6 +7387,15 @@
           "cantidad_texto": "160 viales o ampollas",
           "dias": 18,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -7051,6 +7525,15 @@
           "cantidad_texto": "131 viales o ampollas",
           "dias": 111,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -7181,6 +7664,15 @@
           "cantidad_texto": "330 viales o ampollas",
           "dias": 23,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -7311,6 +7803,15 @@
           "cantidad_texto": "60 viales o ampollas",
           "dias": 17,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -7440,6 +7941,15 @@
           "cantidad_texto": "36 viales o ampollas",
           "dias": 31,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -7570,6 +8080,15 @@
           "cantidad_texto": "61 viales o ampollas",
           "dias": 26,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -7699,6 +8218,15 @@
           "cantidad_texto": "20 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -7828,6 +8356,15 @@
           "cantidad_texto": "233 viales o ampollas",
           "dias": 66,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -7957,6 +8494,15 @@
           "cantidad_texto": "143 viales o ampollas",
           "dias": 122,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -8086,6 +8632,15 @@
           "cantidad_texto": "100 viales o ampollas",
           "dias": 14,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -8215,6 +8770,15 @@
           "cantidad_texto": "87 viales o ampollas",
           "dias": 19,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -8245,6 +8809,15 @@
           "cantidad_texto": "6 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     }
@@ -8376,6 +8949,15 @@
           "cantidad_texto": "2,240 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     },
@@ -8505,6 +9087,15 @@
           "cantidad_texto": "45,511 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "no_capturado",
+          "motivo": "Opcion no encontrada. Botones visibles: [\"Menú principal\",\"Ver lista oficial de medicamentos\",\"Cómo se calcula\",\"Cómo se calcula\"]",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
         }
       ]
     }
@@ -8513,7 +9104,7 @@
     "instalaciones_atencion": 63,
     "bodegas": 2,
     "capturas_ok": 11,
-    "capturas_fallidas": 2,
+    "capturas_fallidas": 3,
     "sin_dias_publicados": 6,
     "con_dias_publicados": 57,
     "mediana_cantidad_sin_dias": 25,

@@ -3,7 +3,7 @@
   "medicamento_nombre": "INSULINA ANÁLOGA LISPRO 100UI/ml, solución, S.C., I.V.",
   "medicamento_termino": "insulina lispro",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-18T19:34:22.769Z",
+  "generado_en": "2026-08-18T21:34:57.910Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0506Z",
@@ -80,6 +80,12 @@
     {
       "captura": "2026-08-18/1830Z",
       "capturado_en": "2026-08-18T18:30:04.353Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/2130Z",
+      "capturado_en": "2026-08-18T21:30:04.898Z",
       "ok": true,
       "error": null
     }
@@ -245,6 +251,18 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 81,
+          "cantidad_texto": "81 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
         }
       ]
     },
@@ -375,6 +393,15 @@
           "cantidad_texto": "289 viales o ampollas",
           "dias": 82,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -500,6 +527,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 3,
+          "cantidad_texto": "3 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 3,
           "cantidad_texto": "3 viales o ampollas",
@@ -635,6 +671,15 @@
           "cantidad_texto": "33 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 33,
+          "cantidad_texto": "33 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -765,6 +810,15 @@
           "cantidad_texto": "16 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 16,
+          "cantidad_texto": "16 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -890,6 +944,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 102,
           "cantidad_texto": "102 viales o ampollas",
@@ -1057,6 +1120,18 @@
           "avisos": [
             "Farmacia disponible solo para niños (menores de edad)."
           ]
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
         }
       ]
     },
@@ -1182,6 +1257,15 @@
         {
           "captura": "2026-08-18/1830Z",
           "capturado_en": "2026-08-18T18:30:04.353Z",
+          "estado_captura": "ok",
+          "cantidad": 241,
+          "cantidad_texto": "241 viales o ampollas",
+          "dias": 68,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
           "estado_captura": "ok",
           "cantidad": 241,
           "cantidad_texto": "241 viales o ampollas",
@@ -1318,6 +1402,15 @@
           "cantidad_texto": "705 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 705,
+          "cantidad_texto": "705 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -1447,6 +1540,15 @@
           "cantidad_texto": "1,475 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/2130Z",
+          "capturado_en": "2026-08-18T21:30:04.898Z",
+          "estado_captura": "ok",
+          "cantidad": 1475,
+          "cantidad_texto": "1,475 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     }
@@ -1454,7 +1556,7 @@
   "metricas": {
     "instalaciones_atencion": 8,
     "bodegas": 2,
-    "capturas_ok": 11,
+    "capturas_ok": 12,
     "capturas_fallidas": 2,
     "sin_dias_publicados": 4,
     "con_dias_publicados": 4,

@@ -1,0 +1,115 @@
+Búsqueda de Medicamentos
+Mi Farma Digital
+Ir al inicio
+Plataforma Nacional de Consulta y Abastecimiento de Medicamentos CSS Panamá
+Menú principal
+565
+
+Medicamentos cubiertos por la Caja de Seguro Social — Lista Oficial de Medicamentos (LOM)
+
+Ver lista oficial de medicamentos
+94%
+De medicamentos disponibles
+
+531 en existencia de 565
+
+Corresponde a la proporción de medicamentos de la Lista Oficial que están disponibles.
+
+Óptimo por encima de 90%
+
+Cómo se calcula
+57 días
+de abastecimiento
+
+Estimación basada en el ritmo de utilización reciente de los medicamentos.
+
+Cómo se calcula
+Busque su medicamento
+
+Escriba el nombre y seleccione de la lista, o filtre por provincia y unidad
+
+Limpiar
+FILTRAR POR
+Todas las provincias
+Bocas del Toro
+Chiriquí
+Coclé
+Colón
+Herrera
+Los Santos
+Panamá
+Panamá Oeste
+Veraguas
+Tipo de unidad ejecutora: Todas
+CAPPS y ULAPS
+Policlínicas Básicas
+Policlínicas Especializadas
+Policl. Esp. con Cirugía
+Hospitales
+Nombre de la unidad ejecutora (elija provincia)
+Medicamento Disponible
+INSULINA ANÁLOGA LISPRO 100UI/ml, solución, S.C., I.V.
+¿Este medicamento puede recetarse fuera del sistema CSS-MINSA? Sí
+Nombre comercial:
+HUMALOG INSULINA LISPRO 1-- U/ML SOLUCION INYECTABLE I.V., S.C.
+Se suministra en: Hospitales
+
+Recuerde que no todos los medicamentos están disponibles en todos los tipos de unidades ejecutoras, por su especialización.
+
+¿Para qué sirve este medicamento?
+Indicaciones: En niños menores de 6 años con Diabetes Mellitus tipo I. Para aquellos pacientes que iniciaron tratamiento en edades pediátricas.
+Restricciones de uso: Endocrinología Pediátrica, Endocrinología Adulto
+Bodega PANAMÁ
+Bodega
+Panamá
+Cantidad en inventario: 1,475 viales o ampollas
+Bodega CHIRIQUÍ
+Bodega
+Chiriquí
+Cantidad en inventario: 705 viales o ampollas
+ESPECIALIDADES PEDIÁTRICAS (HEPOTH)
+Hospital
+Panamá
+Farmacia disponible solo para niños (menores de edad).
+Cantidad en inventario: 448 viales o ampollas
+Días de abastecimiento: 80 días
+COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID
+El Complejo
+Hospital
+Panamá · Transístmica
+Cantidad en inventario: 294 viales o ampollas
+Días de abastecimiento: 83 días
+RAFAEL HERNÁNDEZ
+El Regional
+Hospital
+Chiriquí · David
+Cantidad en inventario: 241 viales o ampollas
+Días de abastecimiento: 68 días
+DR. RAÚL DÁVILA MENA (CHANGUINOLA)
+Hosp. de Changuinola (Raúl Dávila)
+Hospital
+Bocas del Toro · Changuinola
+Cantidad en inventario: 102 viales o ampollas
+Días de abastecimiento: 46 días
+CIUDAD DE LA SALUD
+CIDELAS
+Hospital
+Panamá · Centenario
+Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).
+Cantidad en inventario: 81 viales o ampollas
+DR. EZEQUIEL ABADÍA
+Hosp. de Soná
+Hospital
+Veraguas · Soná
+Cantidad en inventario: 33 viales o ampollas
+DR. MANUEL AMADOR GUERRERO
+Hosp. Amador Guerrero
+Hospital
+Colón · Coco Solo
+Cantidad en inventario: 16 viales o ampollas
+DIONISIO ARROCHA
+Hosp. de Puerto Armuelles
+Hospital
+Chiriquí · Puerto Armuelles
+Cantidad en inventario: 3 viales o ampollas
+Volver a los resultados

@@ -1,0 +1,60 @@
+{
+  "captura_id": "2026-08-18T0506Z",
+  "capturado_en": "2026-08-18T05:06:17.683Z",
+  "portada": {
+    "lom_total": 565,
+    "disponibles_pct": 94,
+    "disponibles_n": 531,
+    "dias_abastecimiento_nacional": 58
+  },
+  "resumen": [
+    {
+      "id": "paracetamol-500",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 71,
+      "error": null
+    },
+    {
+      "id": "insulina-glargina",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 25,
+      "error": null
+    },
+    {
+      "id": "insulina-lispro",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 10,
+      "error": null
+    },
+    {
+      "id": "insulina-nph",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 64,
+      "error": null
+    },
+    {
+      "id": "insulina-regular",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 60,
+      "error": null
+    },
+    {
+      "id": "carbamazepina-200",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 68,
+      "error": null
+    }
+  ]
+}

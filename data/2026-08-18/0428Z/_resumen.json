@@ -1,0 +1,55 @@
+{
+  "captura_id": "2026-08-18T0428Z",
+  "capturado_en": "2026-08-18T04:28:03.167Z",
+  "portada": {},
+  "resumen": [
+    {
+      "id": "paracetamol-500",
+      "ok": false,
+      "etapa": "carga",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "id": "insulina-glargina",
+      "ok": false,
+      "etapa": "carga",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "id": "insulina-lispro",
+      "ok": false,
+      "etapa": "carga",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "id": "insulina-nph",
+      "ok": false,
+      "etapa": "carga",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "id": "insulina-regular",
+      "ok": false,
+      "etapa": "carga",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    },
+    {
+      "id": "carbamazepina-200",
+      "ok": false,
+      "etapa": "carga",
+      "estado": null,
+      "instalaciones": 0,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+    }
+  ]
+}

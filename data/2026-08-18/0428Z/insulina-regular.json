@@ -1,0 +1,11 @@
+{
+  "captura_id": "2026-08-18T0428Z",
+  "capturado_en": "2026-08-18T04:28:03.167Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "insulina-regular",
+  "medicamento_termino": "insulina regular",
+  "medicamento_nombre": "INSULINA REGULAR (HUMANA) 100U/ml, solución, S.C., I.V.",
+  "ok": false,
+  "etapa": "carga",
+  "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+}

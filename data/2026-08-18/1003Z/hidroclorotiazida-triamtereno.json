@@ -1,0 +1,11 @@
+{
+  "captura_id": "2026-08-18T1003Z",
+  "capturado_en": "2026-08-18T10:03:06.619Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "hidroclorotiazida-triamtereno",
+  "medicamento_termino": "hidroclorotiazida",
+  "medicamento_nombre": "HIDROCLOROTIAZIDA 25mg con TRIAMTERENO 50mg, tableta ranurada, V.O.",
+  "ok": false,
+  "etapa": "carga",
+  "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+}

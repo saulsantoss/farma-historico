@@ -11,7 +11,7 @@
   },
   {
     "id": "insulina-lispro",
-    "termino": "insulina lispro",
+    "termino": "lispro",
     "nombre": "INSULINA ANÁLOGA LISPRO 100UI/ml, solución, S.C., I.V."
   },
   {
@@ -29,50 +29,44 @@
     "termino": "carbamazepina",
     "nombre": "CARBAMAZEPINA 200mg, tableta, V.O."
   },
-
   {
-    "id": "PENDIENTE-metformina",
+    "id": "metformina-850",
     "termino": "metformina",
-    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+    "nombre": "METFORMINA CLORHIDRATO 850mg, tableta ranurada, V.O."
   },
   {
-    "id": "PENDIENTE-losartan",
-    "termino": "losartan",
-    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+    "id": "amlodipina-5",
+    "termino": "amlodipina",
+    "nombre": "AMLODIPINA 5mg, tableta, V.O."
   },
   {
-    "id": "PENDIENTE-enalapril",
-    "termino": "enalapril",
-    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+    "id": "carvedilol-625",
+    "termino": "carvedilol",
+    "nombre": "CARVEDILOL 6.25mg, tableta, V.O."
   },
   {
-    "id": "PENDIENTE-amlodipino",
-    "termino": "amlodipino",
-    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+    "id": "hidroclorotiazida-triamtereno",
+    "termino": "hidroclorotiazida",
+    "nombre": "HIDROCLOROTIAZIDA 25mg con TRIAMTERENO 50mg, tableta ranurada, V.O."
   },
   {
-    "id": "PENDIENTE-levotiroxina",
+    "id": "levotiroxina-01",
     "termino": "levotiroxina",
-    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+    "nombre": "LEVOTIROXINA SAL SÓDICA 0.1mg, tableta, V.O."
   },
   {
-    "id": "PENDIENTE-warfarina",
+    "id": "warfarina-5",
     "termino": "warfarina",
-    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+    "nombre": "WARFARINA SÓDICA 5mg, tableta, V.O."
   },
   {
-    "id": "PENDIENTE-salbutamol",
+    "id": "fluoxetina-20",
+    "termino": "fluoxetina",
+    "nombre": "FLUOXETINA 20mg, cápsula o tableta, V.O."
+  },
+  {
+    "id": "salbutamol-inhalador",
     "termino": "salbutamol",
-    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
-  },
-  {
-    "id": "PENDIENTE-atorvastatina",
-    "termino": "atorvastatina",
-    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
-  },
-  {
-    "id": "PENDIENTE-sertralina",
-    "termino": "sertralina",
-    "nombre": "COPIAR EL NOMBRE EXACTO DE LA LISTA DE COINCIDENCIAS"
+    "nombre": "SALBUTAMOL BASE o SULFATO 100mcg/inhalación, suspensión en aerosol libre de CFC, inhalador con 200-250 dosis, Vía Bucal."
   }
 ]

@@ -7,7 +7,6 @@
   "medicamento_nombre": "CARVEDILOL 6.25mg, tableta, V.O.",
   "ok": true,
   "etapa": "detalle",
-  "error": null,
   "estado": "Medicamento Disponible",
   "nombres_comerciales": [
     "CARVEDILOL NORMON 6,25 MG COMPRIMIDOS EFG",
@@ -24,17 +23,12 @@
   ],
   "instalaciones": [
     {
-      "encabezado_lineas": [
-        "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
-        "El Complejo",
-        "Hospital",
-        "Panamá · Transístmica"
-      ],
       "nombre": "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
       "etiquetas": [
         "El Complejo",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Transístmica",
       "provincia": "Panamá",
       "corregimiento": "Transístmica",
@@ -43,20 +37,22 @@
       "cantidad_texto": "384,782 pastillas - cápsulas",
       "dias_abastecimiento": 87,
       "dias_abastecimiento_texto": "87 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+        "El Complejo",
+        "Hospital",
+        "Panamá · Transístmica"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "DON GENEROSO GUARDIA (SANTA LIBRADA)",
-        "Pol. de Santa Librada",
-        "Policlinica",
-        "Panamá · Santa Librada"
-      ],
       "nombre": "DON GENEROSO GUARDIA (SANTA LIBRADA)",
       "etiquetas": [
         "Pol. de Santa Librada",
         "Policlinica"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Santa Librada",
       "provincia": "Panamá",
       "corregimiento": "Santa Librada",
@@ -65,20 +61,22 @@
       "cantidad_texto": "148,060 pastillas - cápsulas",
       "dias_abastecimiento": 32,
       "dias_abastecimiento_texto": "32 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DON GENEROSO GUARDIA (SANTA LIBRADA)",
+        "Pol. de Santa Librada",
+        "Policlinica",
+        "Panamá · Santa Librada"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "DR. MANUEL AMADOR GUERRERO",
-        "Hosp. Amador Guerrero",
-        "Hospital",
-        "Colón · Coco Solo"
-      ],
       "nombre": "DR. MANUEL AMADOR GUERRERO",
       "etiquetas": [
         "Hosp. Amador Guerrero",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Colón · Coco Solo",
       "provincia": "Colón",
       "corregimiento": "Coco Solo",
@@ -87,20 +85,22 @@
       "cantidad_texto": "72,384 pastillas - cápsulas",
       "dias_abastecimiento": 106,
       "dias_abastecimiento_texto": "106 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DR. MANUEL AMADOR GUERRERO",
+        "Hosp. Amador Guerrero",
+        "Hospital",
+        "Colón · Coco Solo"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "PRESIDENTE REMÓN",
-        "PPR",
-        "Policlinica",
-        "Panamá · Calle 17"
-      ],
       "nombre": "PRESIDENTE REMÓN",
       "etiquetas": [
         "PPR",
         "Policlinica"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Calle 17",
       "provincia": "Panamá",
       "corregimiento": "Calle 17",
@@ -109,20 +109,22 @@
       "cantidad_texto": "60,282 pastillas - cápsulas",
       "dias_abastecimiento": 19,
       "dias_abastecimiento_texto": "19 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "PRESIDENTE REMÓN",
+        "PPR",
+        "Policlinica",
+        "Panamá · Calle 17"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
-        "Pol. las Cumbres",
-        "Policlinica",
-        "Panamá · Las Cumbres"
-      ],
       "nombre": "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
       "etiquetas": [
         "Pol. las Cumbres",
         "Policlinica"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Las Cumbres",
       "provincia": "Panamá",
       "corregimiento": "Las Cumbres",
@@ -131,20 +133,22 @@
       "cantidad_texto": "41,900 pastillas - cápsulas",
       "dias_abastecimiento": 52,
       "dias_abastecimiento_texto": "52 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
+        "Pol. las Cumbres",
+        "Policlinica",
+        "Panamá · Las Cumbres"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "HORACIO DÍAZ GÓMEZ",
-        "Pol. de Santiago",
-        "Policlinica",
-        "Veraguas · Santiago"
-      ],
       "nombre": "HORACIO DÍAZ GÓMEZ",
       "etiquetas": [
         "Pol. de Santiago",
         "Policlinica"
       ],
+      "es_bodega": false,
       "ubicacion": "Veraguas · Santiago",
       "provincia": "Veraguas",
       "corregimiento": "Santiago",
@@ -153,20 +157,22 @@
       "cantidad_texto": "41,725 pastillas - cápsulas",
       "dias_abastecimiento": 17,
       "dias_abastecimiento_texto": "17 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "HORACIO DÍAZ GÓMEZ",
+        "Pol. de Santiago",
+        "Policlinica",
+        "Veraguas · Santiago"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
-        "Pol. de San Miguelito",
-        "Policlinica",
-        "Panamá · Veranillo"
-      ],
       "nombre": "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
       "etiquetas": [
         "Pol. de San Miguelito",
         "Policlinica"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Veranillo",
       "provincia": "Panamá",
       "corregimiento": "Veranillo",
@@ -175,20 +181,22 @@
       "cantidad_texto": "40,200 pastillas - cápsulas",
       "dias_abastecimiento": 16,
       "dias_abastecimiento_texto": "16 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
+        "Pol. de San Miguelito",
+        "Policlinica",
+        "Panamá · Veranillo"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "DR. CARLOS N. BRIN (SAN FRANCISCO)",
-        "Pol. de San Fco.",
-        "Policlinica",
-        "Panamá · San Francisco"
-      ],
       "nombre": "DR. CARLOS N. BRIN (SAN FRANCISCO)",
       "etiquetas": [
         "Pol. de San Fco.",
         "Policlinica"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · San Francisco",
       "provincia": "Panamá",
       "corregimiento": "San Francisco",
@@ -197,20 +205,22 @@
       "cantidad_texto": "38,538 pastillas - cápsulas",
       "dias_abastecimiento": 23,
       "dias_abastecimiento_texto": "23 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DR. CARLOS N. BRIN (SAN FRANCISCO)",
+        "Pol. de San Fco.",
+        "Policlinica",
+        "Panamá · San Francisco"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "CIUDAD DE LA SALUD",
-        "CIDELAS",
-        "Hospital",
-        "Panamá · Centenario"
-      ],
       "nombre": "CIUDAD DE LA SALUD",
       "etiquetas": [
         "CIDELAS",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Centenario",
       "provincia": "Panamá",
       "corregimiento": "Centenario",
@@ -219,22 +229,24 @@
       "cantidad_texto": "15,792 pastillas - cápsulas",
       "dias_abastecimiento": 7,
       "dias_abastecimiento_texto": "7 días",
+      "dias_no_publicado": false,
       "avisos": [
         "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+      ],
+      "encabezado_lineas": [
+        "CIUDAD DE LA SALUD",
+        "CIDELAS",
+        "Hospital",
+        "Panamá · Centenario"
       ]
     },
     {
-      "encabezado_lineas": [
-        "DR. EZEQUIEL ABADÍA",
-        "Hosp. de Soná",
-        "Hospital",
-        "Veraguas · Soná"
-      ],
       "nombre": "DR. EZEQUIEL ABADÍA",
       "etiquetas": [
         "Hosp. de Soná",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Veraguas · Soná",
       "provincia": "Veraguas",
       "corregimiento": "Soná",
@@ -243,20 +255,22 @@
       "cantidad_texto": "14,324 pastillas - cápsulas",
       "dias_abastecimiento": 9,
       "dias_abastecimiento_texto": "9 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DR. EZEQUIEL ABADÍA",
+        "Hosp. de Soná",
+        "Hospital",
+        "Veraguas · Soná"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "LAURENCIO JAÉN OCAÑA (SABANITAS)",
-        "Pol. de Sabanitas",
-        "Policlinica",
-        "Colón · Sabanitas"
-      ],
       "nombre": "LAURENCIO JAÉN OCAÑA (SABANITAS)",
       "etiquetas": [
         "Pol. de Sabanitas",
         "Policlinica"
       ],
+      "es_bodega": false,
       "ubicacion": "Colón · Sabanitas",
       "provincia": "Colón",
       "corregimiento": "Sabanitas",
@@ -265,20 +279,22 @@
       "cantidad_texto": "13,730 pastillas - cápsulas",
       "dias_abastecimiento": 18,
       "dias_abastecimiento_texto": "18 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "LAURENCIO JAÉN OCAÑA (SABANITAS)",
+        "Pol. de Sabanitas",
+        "Policlinica",
+        "Colón · Sabanitas"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "REGIONAL DE CHEPO",
-        "Hosp. de Chepo",
-        "Hospital",
-        "Panamá · Chepo"
-      ],
       "nombre": "REGIONAL DE CHEPO",
       "etiquetas": [
         "Hosp. de Chepo",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Chepo",
       "provincia": "Panamá",
       "corregimiento": "Chepo",
@@ -287,20 +303,22 @@
       "cantidad_texto": "13,471 pastillas - cápsulas",
       "dias_abastecimiento": 11,
       "dias_abastecimiento_texto": "11 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "REGIONAL DE CHEPO",
+        "Hosp. de Chepo",
+        "Hospital",
+        "Panamá · Chepo"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "ALEJANDRO DE LA GUARDIA (BETANIA)",
-        "Pol. de Betania",
-        "Policlinica",
-        "Panamá · Betania"
-      ],
       "nombre": "ALEJANDRO DE LA GUARDIA (BETANIA)",
       "etiquetas": [
         "Pol. de Betania",
         "Policlinica"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Betania",
       "provincia": "Panamá",
       "corregimiento": "Betania",
@@ -309,20 +327,22 @@
       "cantidad_texto": "11,525 pastillas - cápsulas",
       "dias_abastecimiento": 5,
       "dias_abastecimiento_texto": "5 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "ALEJANDRO DE LA GUARDIA (BETANIA)",
+        "Pol. de Betania",
+        "Policlinica",
+        "Panamá · Betania"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
-        "Pol. de Chitré",
-        "Policlinica",
-        "Herrera · Chitré"
-      ],
       "nombre": "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
       "etiquetas": [
         "Pol. de Chitré",
         "Policlinica"
       ],
+      "es_bodega": false,
       "ubicacion": "Herrera · Chitré",
       "provincia": "Herrera",
       "corregimiento": "Chitré",
@@ -331,18 +351,21 @@
       "cantidad_texto": "5,560 pastillas - cápsulas",
       "dias_abastecimiento": 2,
       "dias_abastecimiento_texto": "2 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
+        "Pol. de Chitré",
+        "Policlinica",
+        "Herrera · Chitré"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "LAS ACACIAS (PLAZA TOCUMEN)",
-        "ULAPS",
-        "Panamá · Plaza Tocumen"
-      ],
       "nombre": "LAS ACACIAS (PLAZA TOCUMEN)",
       "etiquetas": [
         "ULAPS"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Plaza Tocumen",
       "provincia": "Panamá",
       "corregimiento": "Plaza Tocumen",
@@ -351,20 +374,21 @@
       "cantidad_texto": "4,042 pastillas - cápsulas",
       "dias_abastecimiento": 19,
       "dias_abastecimiento_texto": "19 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "LAS ACACIAS (PLAZA TOCUMEN)",
+        "ULAPS",
+        "Panamá · Plaza Tocumen"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
-        "Hosp. de Chitré",
-        "Hospital",
-        "Herrera · Chitré"
-      ],
       "nombre": "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
       "etiquetas": [
         "Hosp. de Chitré",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Herrera · Chitré",
       "provincia": "Herrera",
       "corregimiento": "Chitré",
@@ -373,18 +397,21 @@
       "cantidad_texto": "2,240 pastillas - cápsulas",
       "dias_abastecimiento": 0,
       "dias_abastecimiento_texto": "menos de 1 día",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
+        "Hosp. de Chitré",
+        "Hospital",
+        "Herrera · Chitré"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "Bodega PANAMÁ",
-        "Bodega",
-        "Panamá"
-      ],
       "nombre": "Bodega PANAMÁ",
       "etiquetas": [
         "Bodega"
       ],
+      "es_bodega": true,
       "ubicacion": "Panamá",
       "provincia": "Panamá",
       "corregimiento": null,
@@ -393,20 +420,22 @@
       "cantidad_texto": "2,184 pastillas - cápsulas",
       "dias_abastecimiento": null,
       "dias_abastecimiento_texto": null,
+      "dias_no_publicado": true,
       "avisos": [
         "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
+      ],
+      "encabezado_lineas": [
+        "Bodega PANAMÁ",
+        "Bodega",
+        "Panamá"
       ]
     },
     {
-      "encabezado_lineas": [
-        "JUAN AGUILAR (LAS TABLAS)",
-        "ULAPS",
-        "Bocas del Toro"
-      ],
       "nombre": "JUAN AGUILAR (LAS TABLAS)",
       "etiquetas": [
         "ULAPS"
       ],
+      "es_bodega": false,
       "ubicacion": "Bocas del Toro",
       "provincia": "Bocas del Toro",
       "corregimiento": null,
@@ -415,18 +444,20 @@
       "cantidad_texto": "1,500 pastillas - cápsulas",
       "dias_abastecimiento": 30,
       "dias_abastecimiento_texto": "30 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "JUAN AGUILAR (LAS TABLAS)",
+        "ULAPS",
+        "Bocas del Toro"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "HOGAR DE LA ESPERANZA (VERACRUZ)",
-        "Hospital",
-        "Panamá Oeste"
-      ],
       "nombre": "HOGAR DE LA ESPERANZA (VERACRUZ)",
       "etiquetas": [
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá Oeste",
       "provincia": "Panamá Oeste",
       "corregimiento": null,
@@ -435,20 +466,22 @@
       "cantidad_texto": "573 pastillas - cápsulas",
       "dias_abastecimiento": 130,
       "dias_abastecimiento_texto": "130 días",
+      "dias_no_publicado": false,
       "avisos": [
         "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+      ],
+      "encabezado_lineas": [
+        "HOGAR DE LA ESPERANZA (VERACRUZ)",
+        "Hospital",
+        "Panamá Oeste"
       ]
     },
     {
-      "encabezado_lineas": [
-        "LOS NOGALES",
-        "CAPPS",
-        "Panamá · Los Nogales"
-      ],
       "nombre": "LOS NOGALES",
       "etiquetas": [
         "CAPPS"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Los Nogales",
       "provincia": "Panamá",
       "corregimiento": "Los Nogales",
@@ -457,18 +490,20 @@
       "cantidad_texto": "250 pastillas - cápsulas",
       "dias_abastecimiento": 1,
       "dias_abastecimiento_texto": "1 día",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "LOS NOGALES",
+        "CAPPS",
+        "Panamá · Los Nogales"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
-        "Hospital",
-        "Panamá"
-      ],
       "nombre": "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
       "etiquetas": [
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá",
       "provincia": "Panamá",
       "corregimiento": null,
@@ -477,21 +512,23 @@
       "cantidad_texto": "84 pastillas - cápsulas",
       "dias_abastecimiento": 13,
       "dias_abastecimiento_texto": "13 días",
+      "dias_no_publicado": false,
       "avisos": [
         "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.",
         "Farmacia disponible solo para niños (menores de edad)."
+      ],
+      "encabezado_lineas": [
+        "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
+        "Hospital",
+        "Panamá"
       ]
     },
     {
-      "encabezado_lineas": [
-        "CHIRIQUÍ GRANDE",
-        "Hospital",
-        "Bocas del Toro · Chiriquí Grande"
-      ],
       "nombre": "CHIRIQUÍ GRANDE",
       "etiquetas": [
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Bocas del Toro · Chiriquí Grande",
       "provincia": "Bocas del Toro",
       "corregimiento": "Chiriquí Grande",
@@ -500,8 +537,22 @@
       "cantidad_texto": "12 pastillas - cápsulas",
       "dias_abastecimiento": 0,
       "dias_abastecimiento_texto": "menos de 1 día",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "CHIRIQUÍ GRANDE",
+        "Hospital",
+        "Bocas del Toro · Chiriquí Grande"
+      ]
     }
   ],
-  "total_instalaciones": 22
+  "total_instalaciones": 22,
+  "calidad": {
+    "cabecera_detectada": true,
+    "con_dias": 21,
+    "sin_dias": 1,
+    "sin_nombre": 0,
+    "bodegas": 1
+  },
+  "reparseado_en": "2026-08-18T05:48:11.960Z"
 }

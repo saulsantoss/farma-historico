@@ -7,7 +7,6 @@
   "medicamento_nombre": "INSULINA ANÁLOGA LISPRO 100UI/ml, solución, S.C., I.V.",
   "ok": true,
   "etapa": "detalle",
-  "error": null,
   "estado": "Medicamento Disponible",
   "nombres_comerciales": [
     "HUMALOG INSULINA LISPRO 1-- U/ML SOLUCION INYECTABLE I.V., S.C."
@@ -17,17 +16,11 @@
   ],
   "instalaciones": [
     {
-      "encabezado_lineas": [
-        "Restricciones de uso: Endocrinología Pediátrica, Endocrinología Adulto",
-        "Bodega PANAMÁ",
-        "Bodega",
-        "Panamá"
-      ],
-      "nombre": "Restricciones de uso: Endocrinología Pediátrica, Endocrinología Adulto",
+      "nombre": "Bodega PANAMÁ",
       "etiquetas": [
-        "Bodega PANAMÁ",
         "Bodega"
       ],
+      "es_bodega": true,
       "ubicacion": "Panamá",
       "provincia": "Panamá",
       "corregimiento": null,
@@ -36,18 +29,20 @@
       "cantidad_texto": "1,475 viales o ampollas",
       "dias_abastecimiento": null,
       "dias_abastecimiento_texto": null,
-      "avisos": []
+      "dias_no_publicado": true,
+      "avisos": [],
+      "encabezado_lineas": [
+        "Bodega PANAMÁ",
+        "Bodega",
+        "Panamá"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "Bodega CHIRIQUÍ",
-        "Bodega",
-        "Chiriquí"
-      ],
       "nombre": "Bodega CHIRIQUÍ",
       "etiquetas": [
         "Bodega"
       ],
+      "es_bodega": true,
       "ubicacion": "Chiriquí",
       "provincia": "Chiriquí",
       "corregimiento": null,
@@ -56,18 +51,20 @@
       "cantidad_texto": "705 viales o ampollas",
       "dias_abastecimiento": null,
       "dias_abastecimiento_texto": null,
-      "avisos": []
+      "dias_no_publicado": true,
+      "avisos": [],
+      "encabezado_lineas": [
+        "Bodega CHIRIQUÍ",
+        "Bodega",
+        "Chiriquí"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
-        "Hospital",
-        "Panamá"
-      ],
       "nombre": "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
       "etiquetas": [
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá",
       "provincia": "Panamá",
       "corregimiento": null,
@@ -76,22 +73,23 @@
       "cantidad_texto": "447 viales o ampollas",
       "dias_abastecimiento": 80,
       "dias_abastecimiento_texto": "80 días",
+      "dias_no_publicado": false,
       "avisos": [
         "Farmacia disponible solo para niños (menores de edad)."
+      ],
+      "encabezado_lineas": [
+        "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
+        "Hospital",
+        "Panamá"
       ]
     },
     {
-      "encabezado_lineas": [
-        "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
-        "El Complejo",
-        "Hospital",
-        "Panamá · Transístmica"
-      ],
       "nombre": "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
       "etiquetas": [
         "El Complejo",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Transístmica",
       "provincia": "Panamá",
       "corregimiento": "Transístmica",
@@ -100,20 +98,22 @@
       "cantidad_texto": "294 viales o ampollas",
       "dias_abastecimiento": 83,
       "dias_abastecimiento_texto": "83 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+        "El Complejo",
+        "Hospital",
+        "Panamá · Transístmica"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "RAFAEL HERNÁNDEZ",
-        "El Regional",
-        "Hospital",
-        "Chiriquí · David"
-      ],
       "nombre": "RAFAEL HERNÁNDEZ",
       "etiquetas": [
         "El Regional",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Chiriquí · David",
       "provincia": "Chiriquí",
       "corregimiento": "David",
@@ -122,20 +122,22 @@
       "cantidad_texto": "211 viales o ampollas",
       "dias_abastecimiento": 60,
       "dias_abastecimiento_texto": "60 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "RAFAEL HERNÁNDEZ",
+        "El Regional",
+        "Hospital",
+        "Chiriquí · David"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
-        "Hosp. de Changuinola (Raúl Dávila)",
-        "Hospital",
-        "Bocas del Toro · Changuinola"
-      ],
       "nombre": "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
       "etiquetas": [
         "Hosp. de Changuinola (Raúl Dávila)",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Bocas del Toro · Changuinola",
       "provincia": "Bocas del Toro",
       "corregimiento": "Changuinola",
@@ -144,20 +146,22 @@
       "cantidad_texto": "102 viales o ampollas",
       "dias_abastecimiento": 46,
       "dias_abastecimiento_texto": "46 días",
-      "avisos": []
+      "dias_no_publicado": false,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
+        "Hosp. de Changuinola (Raúl Dávila)",
+        "Hospital",
+        "Bocas del Toro · Changuinola"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "CIUDAD DE LA SALUD",
-        "CIDELAS",
-        "Hospital",
-        "Panamá · Centenario"
-      ],
       "nombre": "CIUDAD DE LA SALUD",
       "etiquetas": [
         "CIDELAS",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Panamá · Centenario",
       "provincia": "Panamá",
       "corregimiento": "Centenario",
@@ -166,22 +170,24 @@
       "cantidad_texto": "81 viales o ampollas",
       "dias_abastecimiento": null,
       "dias_abastecimiento_texto": null,
+      "dias_no_publicado": true,
       "avisos": [
         "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+      ],
+      "encabezado_lineas": [
+        "CIUDAD DE LA SALUD",
+        "CIDELAS",
+        "Hospital",
+        "Panamá · Centenario"
       ]
     },
     {
-      "encabezado_lineas": [
-        "DR. EZEQUIEL ABADÍA",
-        "Hosp. de Soná",
-        "Hospital",
-        "Veraguas · Soná"
-      ],
       "nombre": "DR. EZEQUIEL ABADÍA",
       "etiquetas": [
         "Hosp. de Soná",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Veraguas · Soná",
       "provincia": "Veraguas",
       "corregimiento": "Soná",
@@ -190,20 +196,22 @@
       "cantidad_texto": "33 viales o ampollas",
       "dias_abastecimiento": null,
       "dias_abastecimiento_texto": null,
-      "avisos": []
+      "dias_no_publicado": true,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DR. EZEQUIEL ABADÍA",
+        "Hosp. de Soná",
+        "Hospital",
+        "Veraguas · Soná"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "DR. MANUEL AMADOR GUERRERO",
-        "Hosp. Amador Guerrero",
-        "Hospital",
-        "Colón · Coco Solo"
-      ],
       "nombre": "DR. MANUEL AMADOR GUERRERO",
       "etiquetas": [
         "Hosp. Amador Guerrero",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Colón · Coco Solo",
       "provincia": "Colón",
       "corregimiento": "Coco Solo",
@@ -212,20 +220,22 @@
       "cantidad_texto": "16 viales o ampollas",
       "dias_abastecimiento": null,
       "dias_abastecimiento_texto": null,
-      "avisos": []
+      "dias_no_publicado": true,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DR. MANUEL AMADOR GUERRERO",
+        "Hosp. Amador Guerrero",
+        "Hospital",
+        "Colón · Coco Solo"
+      ]
     },
     {
-      "encabezado_lineas": [
-        "DIONISIO ARROCHA",
-        "Hosp. de Puerto Armuelles",
-        "Hospital",
-        "Chiriquí · Puerto Armuelles"
-      ],
       "nombre": "DIONISIO ARROCHA",
       "etiquetas": [
         "Hosp. de Puerto Armuelles",
         "Hospital"
       ],
+      "es_bodega": false,
       "ubicacion": "Chiriquí · Puerto Armuelles",
       "provincia": "Chiriquí",
       "corregimiento": "Puerto Armuelles",
@@ -234,8 +244,23 @@
       "cantidad_texto": "3 viales o ampollas",
       "dias_abastecimiento": null,
       "dias_abastecimiento_texto": null,
-      "avisos": []
+      "dias_no_publicado": true,
+      "avisos": [],
+      "encabezado_lineas": [
+        "DIONISIO ARROCHA",
+        "Hosp. de Puerto Armuelles",
+        "Hospital",
+        "Chiriquí · Puerto Armuelles"
+      ]
     }
   ],
-  "total_instalaciones": 10
+  "total_instalaciones": 10,
+  "calidad": {
+    "cabecera_detectada": true,
+    "con_dias": 4,
+    "sin_dias": 6,
+    "sin_nombre": 0,
+    "bodegas": 2
+  },
+  "reparseado_en": "2026-08-18T05:48:11.923Z"
 }

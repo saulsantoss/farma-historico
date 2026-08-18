@@ -29,7 +29,7 @@ import { createHash } from 'crypto';
 
 const DATA = 'data';
 const RAW = 'raw';
-const OUT = 'public';
+const OUT = 'web/public';
 
 // Piso: primera captura con el pipeline ya estable (limpieza de sesión funcionando).
 // Todo lo anterior es fase de construcción.

@@ -1,0 +1,1558 @@
+{
+  "medicamento_id": "fluoxetina-20",
+  "medicamento_nombre": "FLUOXETINA 20mg, cápsula o tableta, V.O.",
+  "medicamento_termino": "fluoxetina",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "generado_en": "2026-08-18T08:36:28.366Z",
+  "capturas_analizadas": [
+    {
+      "captura": "2026-08-18/0522Z",
+      "capturado_en": "2026-08-18T05:22:59.175Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0554Z",
+      "capturado_en": "2026-08-18T05:54:31.643Z",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "instalaciones_atencion": [
+    {
+      "nombre": "ALEJANDRO DE LA GUARDIA (BETANIA)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Betania",
+      "etiquetas": [
+        "Pol. de Betania",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 45565,
+          "cantidad_texto": "45,565 pastillas - cápsulas",
+          "dias": 101,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 45565,
+          "cantidad_texto": "45,565 pastillas - cápsulas",
+          "dias": 101,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ALMIRANTE",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Almirante",
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 938,
+          "cantidad_texto": "938 pastillas - cápsulas",
+          "dias": 41,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 938,
+          "cantidad_texto": "938 pastillas - cápsulas",
+          "dias": 41,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "BLAS GÓMEZ CHETRO (ARRAIJÁN)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Arraiján",
+      "etiquetas": [
+        "Pol. de Arraiján",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 40852,
+          "cantidad_texto": "40,852 pastillas - cápsulas",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 40852,
+          "cantidad_texto": "40,852 pastillas - cápsulas",
+          "dias": 43,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CAÑITAS",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Cañita",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 3031,
+          "cantidad_texto": "3,031 pastillas - cápsulas",
+          "dias": 138,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 3031,
+          "cantidad_texto": "3,031 pastillas - cápsulas",
+          "dias": 138,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CAPIRA",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Capira",
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2800,
+          "cantidad_texto": "2,800 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2800,
+          "cantidad_texto": "2,800 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CARLOS VELARDE (SAN CRISTÓBAL)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "San Cristóbal",
+      "etiquetas": [
+        "ULAPS de San Cristóbal",
+        "ULAPS"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 3518,
+          "cantidad_texto": "3,518 pastillas - cápsulas",
+          "dias": 133,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 3518,
+          "cantidad_texto": "3,518 pastillas - cápsulas",
+          "dias": 133,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CHIRIQUÍ GRANDE",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Chiriquí Grande",
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 446,
+          "cantidad_texto": "446 pastillas - cápsulas",
+          "dias": 47,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 446,
+          "cantidad_texto": "446 pastillas - cápsulas",
+          "dias": 47,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CIUDAD DE LA SALUD",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Centenario",
+      "etiquetas": [
+        "CIDELAS",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1120,
+          "cantidad_texto": "1,120 pastillas - cápsulas",
+          "dias": 29,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1120,
+          "cantidad_texto": "1,120 pastillas - cápsulas",
+          "dias": 29,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Transístmica",
+      "etiquetas": [
+        "El Complejo",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 23940,
+          "cantidad_texto": "23,940 pastillas - cápsulas",
+          "dias": 38,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 23940,
+          "cantidad_texto": "23,940 pastillas - cápsulas",
+          "dias": 38,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DIONISIO ARROCHA",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Puerto Armuelles",
+      "etiquetas": [
+        "Hosp. de Puerto Armuelles",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 5424,
+          "cantidad_texto": "5,424 pastillas - cápsulas",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 5424,
+          "cantidad_texto": "5,424 pastillas - cápsulas",
+          "dias": 43,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DON GENEROSO GUARDIA (SANTA LIBRADA)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Santa Librada",
+      "etiquetas": [
+        "Pol. de Santa Librada",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 16070,
+          "cantidad_texto": "16,070 pastillas - cápsulas",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 16070,
+          "cantidad_texto": "16,070 pastillas - cápsulas",
+          "dias": 39,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Juan Díaz",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 7200,
+          "cantidad_texto": "7,200 pastillas - cápsulas",
+          "dias": 8,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 7200,
+          "cantidad_texto": "7,200 pastillas - cápsulas",
+          "dias": 8,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. CARLOS N. BRIN (SAN FRANCISCO)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "San Francisco",
+      "etiquetas": [
+        "Pol. de San Fco.",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 9734,
+          "cantidad_texto": "9,734 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 9734,
+          "cantidad_texto": "9,734 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Las Cumbres",
+      "etiquetas": [
+        "Pol. las Cumbres",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2175,
+          "cantidad_texto": "2,175 pastillas - cápsulas",
+          "dias": 15,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2175,
+          "cantidad_texto": "2,175 pastillas - cápsulas",
+          "dias": 15,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. ERNESTO PÉREZ BALLADARES (BOQUETE)",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Boquete",
+      "etiquetas": [
+        "Pol. de Boquete",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 382,
+          "cantidad_texto": "382 pastillas - cápsulas",
+          "dias": 8,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 382,
+          "cantidad_texto": "382 pastillas - cápsulas",
+          "dias": 8,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. EZEQUIEL ABADÍA",
+      "es_bodega": false,
+      "provincia": "Veraguas",
+      "corregimiento": "Soná",
+      "etiquetas": [
+        "Hosp. de Soná",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 3326,
+          "cantidad_texto": "3,326 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 3326,
+          "cantidad_texto": "3,326 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "etiquetas": [
+        "Hosp. de Chitré",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2688,
+          "cantidad_texto": "2,688 pastillas - cápsulas",
+          "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2688,
+          "cantidad_texto": "2,688 pastillas - cápsulas",
+          "dias": 3,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. HUGO SPADAFORA",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 35430,
+          "cantidad_texto": "35,430 pastillas - cápsulas",
+          "dias": 92,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 35430,
+          "cantidad_texto": "35,430 pastillas - cápsulas",
+          "dias": 92,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. JUAN VEGA MÉNDEZ - SAN CARLOS",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "San Carlos",
+      "etiquetas": [
+        "Pol. de San Carlos",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 14000,
+          "cantidad_texto": "14,000 pastillas - cápsulas",
+          "dias": 16,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 14000,
+          "cantidad_texto": "14,000 pastillas - cápsulas",
+          "dias": 16,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. MANUEL AMADOR GUERRERO",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "etiquetas": [
+        "Hosp. Amador Guerrero",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 21963,
+          "cantidad_texto": "21,963 pastillas - cápsulas",
+          "dias": 250,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 21963,
+          "cantidad_texto": "21,963 pastillas - cápsulas",
+          "dias": 250,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Changuinola",
+      "etiquetas": [
+        "Hosp. de Changuinola (Raúl Dávila)",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 3028,
+          "cantidad_texto": "3,028 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 3028,
+          "cantidad_texto": "3,028 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. SANTIAGO BARRAZA (CHORRERA)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "La Chorrera",
+      "etiquetas": [
+        "Pol. de La Chorrera",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 6702,
+          "cantidad_texto": "6,702 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 6702,
+          "cantidad_texto": "6,702 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DRA. CECILIA GUERRA (SAN ANTONIO)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "San Antonio",
+      "etiquetas": [
+        "Pol. de San Antonio (Dra. Cecilia Guerra)",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 64577,
+          "cantidad_texto": "64,577 pastillas - cápsulas",
+          "dias": 185,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 64577,
+          "cantidad_texto": "64,577 pastillas - cápsulas",
+          "dias": 185,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": null,
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1921,
+          "cantidad_texto": "1,921 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1921,
+          "cantidad_texto": "1,921 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIZADA DR. GUSTAVO ADOLFO ROSS (DAVID)",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": null,
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 13661,
+          "cantidad_texto": "13,661 pastillas - cápsulas",
+          "dias": 24,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 13661,
+          "cantidad_texto": "13,661 pastillas - cápsulas",
+          "dias": 24,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIZADA DR. PABLO ESPINOSA (BUGABA)",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Bugaba",
+      "etiquetas": [
+        "Pol. de Bugaba (Pablo Espinosa)",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2766,
+          "cantidad_texto": "2,766 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2766,
+          "cantidad_texto": "2,766 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Alto Verde",
+      "etiquetas": [
+        "Antigua ULAPS Nvo. Vedado (Rodrigo Hidalgo)",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 7553,
+          "cantidad_texto": "7,553 pastillas - cápsulas",
+          "dias": 60,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 7553,
+          "cantidad_texto": "7,553 pastillas - cápsulas",
+          "dias": 60,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "GUABITO",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Guabito",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 460,
+          "cantidad_texto": "460 pastillas - cápsulas",
+          "dias": 73,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 460,
+          "cantidad_texto": "460 pastillas - cápsulas",
+          "dias": 73,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "HOGAR DE LA ESPERANZA (VERACRUZ)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": null,
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 530,
+          "cantidad_texto": "530 pastillas - cápsulas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 530,
+          "cantidad_texto": "530 pastillas - cápsulas",
+          "dias": 80,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "HORACIO DÍAZ GÓMEZ",
+      "es_bodega": false,
+      "provincia": "Veraguas",
+      "corregimiento": "Santiago",
+      "etiquetas": [
+        "Pol. de Santiago",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 3690,
+          "cantidad_texto": "3,690 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 3690,
+          "cantidad_texto": "3,690 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "IRMA DE LOURDES TZANETATOS (24 DE DICIEMBRE)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "24 de Diciembre",
+      "etiquetas": [
+        "Hosp. de la 24 de Dic.",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 11900,
+          "cantidad_texto": "11,900 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 11900,
+          "cantidad_texto": "11,900 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "LA PINTADA",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": null,
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 140,
+          "cantidad_texto": "140 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 140,
+          "cantidad_texto": "140 pastillas - cápsulas",
+          "dias": 9,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "LAURENCIO JAÉN OCAÑA (SABANITAS)",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Sabanitas",
+      "etiquetas": [
+        "Pol. de Sabanitas",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 6126,
+          "cantidad_texto": "6,126 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 6126,
+          "cantidad_texto": "6,126 pastillas - cápsulas",
+          "dias": 48,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MANUEL FERRER VALDÉS",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Calle 25 - Marañón",
+      "etiquetas": [
+        "Pol. de Marañón",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 28087,
+          "cantidad_texto": "28,087 pastillas - cápsulas",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 28087,
+          "cantidad_texto": "28,087 pastillas - cápsulas",
+          "dias": 43,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Veranillo",
+      "etiquetas": [
+        "Pol. de San Miguelito",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 14070,
+          "cantidad_texto": "14,070 pastillas - cápsulas",
+          "dias": 33,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 14070,
+          "cantidad_texto": "14,070 pastillas - cápsulas",
+          "dias": 33,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MÁXIMO HERRERA",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Hipódromo",
+      "etiquetas": [
+        "ULAPS del Hipódromo",
+        "ULAPS"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 338,
+          "cantidad_texto": "338 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 338,
+          "cantidad_texto": "338 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MIGUEL CÁRDENAS",
+      "es_bodega": false,
+      "provincia": "Los Santos",
+      "corregimiento": "Las Tablas",
+      "etiquetas": [
+        "Pol. de Las Tablas",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 11200,
+          "cantidad_texto": "11,200 pastillas - cápsulas",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 11200,
+          "cantidad_texto": "11,200 pastillas - cápsulas",
+          "dias": 46,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "NUEVO SAN JUAN",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "En Giral",
+      "etiquetas": [
+        "Pol. Nvo. San Juan",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 4984,
+          "cantidad_texto": "4,984 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 4984,
+          "cantidad_texto": "4,984 pastillas - cápsulas",
+          "dias": 23,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "PENONOMÉ (MANUEL PAULINO OCAÑA)",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": "Penonomé",
+      "etiquetas": [
+        "Pol. de Penonomé",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2800,
+          "cantidad_texto": "2,800 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2800,
+          "cantidad_texto": "2,800 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "PESÉ",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": null,
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1108,
+          "cantidad_texto": "1,108 pastillas - cápsulas",
+          "dias": 177,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1108,
+          "cantidad_texto": "1,108 pastillas - cápsulas",
+          "dias": 177,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "PRESIDENTE REMÓN",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Calle 17",
+      "etiquetas": [
+        "PPR",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 30011,
+          "cantidad_texto": "30,011 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 30011,
+          "cantidad_texto": "30,011 pastillas - cápsulas",
+          "dias": 57,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "RAFAEL ESTÉVEZ",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": "Aguadulce",
+      "etiquetas": [
+        "Hosp. de Aguadulce",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2408,
+          "cantidad_texto": "2,408 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2408,
+          "cantidad_texto": "2,408 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "RAFAEL HERNÁNDEZ",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "David",
+      "etiquetas": [
+        "El Regional",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 10331,
+          "cantidad_texto": "10,331 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 10331,
+          "cantidad_texto": "10,331 pastillas - cápsulas",
+          "dias": 72,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "REGIONAL DE CHEPO",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Chepo",
+      "etiquetas": [
+        "Hosp. de Chepo",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 10421,
+          "cantidad_texto": "10,421 pastillas - cápsulas",
+          "dias": 53,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 10421,
+          "cantidad_texto": "10,421 pastillas - cápsulas",
+          "dias": 53,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "etiquetas": [
+        "Pol. de Chitré",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 616,
+          "cantidad_texto": "616 pastillas - cápsulas",
+          "dias": 1,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 616,
+          "cantidad_texto": "616 pastillas - cápsulas",
+          "dias": 1,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SAN JUAN DE DIOS (VILLA DE LOS SANTOS)",
+      "es_bodega": false,
+      "provincia": "Los Santos",
+      "corregimiento": "La Villa",
+      "etiquetas": [
+        "Pol. de La Villa",
+        "Policlinica"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 5600,
+          "cantidad_texto": "5,600 pastillas - cápsulas",
+          "dias": 19,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 5600,
+          "cantidad_texto": "5,600 pastillas - cápsulas",
+          "dias": 19,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SUSANA JONES CANO (VILLA LUCRE)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Villa Lucre",
+      "etiquetas": [
+        "Susana Jones",
+        "Hospital"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 4060,
+          "cantidad_texto": "4,060 pastillas - cápsulas",
+          "dias": 51,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 4060,
+          "cantidad_texto": "4,060 pastillas - cápsulas",
+          "dias": 51,
+          "dias_no_publicado": false
+        }
+      ]
+    }
+  ],
+  "bodegas": [
+    {
+      "nombre": "Bodega CHIRIQUÍ",
+      "es_bodega": true,
+      "provincia": "Chiriquí",
+      "corregimiento": null,
+      "etiquetas": [
+        "Bodega"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 20188,
+          "cantidad_texto": "20,188 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 20188,
+          "cantidad_texto": "20,188 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "Bodega PANAMÁ",
+      "es_bodega": true,
+      "provincia": "Panamá",
+      "corregimiento": null,
+      "etiquetas": [
+        "Bodega"
+      ],
+      "unidad": "pastillas - cápsulas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1229088,
+          "cantidad_texto": "1,229,088 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1229088,
+          "cantidad_texto": "1,229,088 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    }
+  ],
+  "metricas": {
+    "instalaciones_atencion": 47,
+    "bodegas": 2,
+    "capturas_ok": 2,
+    "capturas_fallidas": 0,
+    "sin_dias_publicados": 0,
+    "con_dias_publicados": 47,
+    "mediana_cantidad_sin_dias": null,
+    "mediana_cantidad_con_dias": 4984
+  }
+}

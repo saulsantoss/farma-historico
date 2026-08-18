@@ -1,0 +1,2600 @@
+{
+  "medicamento_id": "insulina-nph",
+  "medicamento_nombre": "INSULINA NPH (HUMANA) 100U/ml, suspensión, S.C.",
+  "medicamento_termino": "insulina nph",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "generado_en": "2026-08-18T08:36:28.353Z",
+  "capturas_analizadas": [
+    {
+      "captura": "2026-08-18/0506Z",
+      "capturado_en": "2026-08-18T05:06:17.683Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0522Z",
+      "capturado_en": "2026-08-18T05:22:59.175Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-18/0554Z",
+      "capturado_en": "2026-08-18T05:54:31.643Z",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "instalaciones_atencion": [
+    {
+      "nombre": "ALEJANDRO DE LA GUARDIA (BETANIA)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Betania",
+      "etiquetas": [
+        "Pol. de Betania",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 1068,
+          "cantidad_texto": "1,068 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1068,
+          "cantidad_texto": "1,068 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1068,
+          "cantidad_texto": "1,068 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ALMIRANTE",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Almirante",
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 135,
+          "cantidad_texto": "135 viales o ampollas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 135,
+          "cantidad_texto": "135 viales o ampollas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 135,
+          "cantidad_texto": "135 viales o ampollas",
+          "dias": 40,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "BLAS GÓMEZ CHETRO (ARRAIJÁN)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Arraiján",
+      "etiquetas": [
+        "Pol. de Arraiján",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 1040,
+          "cantidad_texto": "1,040 viales o ampollas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1040,
+          "cantidad_texto": "1,040 viales o ampollas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1040,
+          "cantidad_texto": "1,040 viales o ampollas",
+          "dias": 27,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CAÑITAS",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Cañita",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 91,
+          "cantidad_texto": "91 viales o ampollas",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 91,
+          "cantidad_texto": "91 viales o ampollas",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 91,
+          "cantidad_texto": "91 viales o ampollas",
+          "dias": 39,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CARLOS VELARDE (SAN CRISTÓBAL)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "San Cristóbal",
+      "etiquetas": [
+        "ULAPS de San Cristóbal",
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 395,
+          "cantidad_texto": "395 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 395,
+          "cantidad_texto": "395 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 395,
+          "cantidad_texto": "395 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CHIRIQUÍ GRANDE",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Chiriquí Grande",
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 58,
+          "cantidad_texto": "58 viales o ampollas",
+          "dias": 49,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 58,
+          "cantidad_texto": "58 viales o ampollas",
+          "dias": 49,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 58,
+          "cantidad_texto": "58 viales o ampollas",
+          "dias": 49,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "CIUDAD DE LA SALUD",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Centenario",
+      "etiquetas": [
+        "CIDELAS",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 541,
+          "cantidad_texto": "541 viales o ampollas",
+          "dias": 153,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 541,
+          "cantidad_texto": "541 viales o ampollas",
+          "dias": 153,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 541,
+          "cantidad_texto": "541 viales o ampollas",
+          "dias": 153,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Transístmica",
+      "etiquetas": [
+        "El Complejo",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 2471,
+          "cantidad_texto": "2,471 viales o ampollas",
+          "dias": 84,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2471,
+          "cantidad_texto": "2,471 viales o ampollas",
+          "dias": 84,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2471,
+          "cantidad_texto": "2,471 viales o ampollas",
+          "dias": 84,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DIONISIO ARROCHA",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Puerto Armuelles",
+      "etiquetas": [
+        "Hosp. de Puerto Armuelles",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 797,
+          "cantidad_texto": "797 viales o ampollas",
+          "dias": 45,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 797,
+          "cantidad_texto": "797 viales o ampollas",
+          "dias": 45,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 797,
+          "cantidad_texto": "797 viales o ampollas",
+          "dias": 45,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DIVALÁ",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": null,
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 76,
+          "cantidad_texto": "76 viales o ampollas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 76,
+          "cantidad_texto": "76 viales o ampollas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 76,
+          "cantidad_texto": "76 viales o ampollas",
+          "dias": 22,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DON GENEROSO GUARDIA (SANTA LIBRADA)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Santa Librada",
+      "etiquetas": [
+        "Pol. de Santa Librada",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 2321,
+          "cantidad_texto": "2,321 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2321,
+          "cantidad_texto": "2,321 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2321,
+          "cantidad_texto": "2,321 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Juan Díaz",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 368,
+          "cantidad_texto": "368 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 368,
+          "cantidad_texto": "368 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 368,
+          "cantidad_texto": "368 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. CARLOS N. BRIN (SAN FRANCISCO)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "San Francisco",
+      "etiquetas": [
+        "Pol. de San Fco.",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. EDILBERTO CULIOLIS (LAS CUMBRES)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Las Cumbres",
+      "etiquetas": [
+        "Pol. las Cumbres",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 2141,
+          "cantidad_texto": "2,141 viales o ampollas",
+          "dias": 101,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2141,
+          "cantidad_texto": "2,141 viales o ampollas",
+          "dias": 101,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2141,
+          "cantidad_texto": "2,141 viales o ampollas",
+          "dias": 101,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. ERNESTO PÉREZ BALLADARES (BOQUETE)",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Boquete",
+      "etiquetas": [
+        "Pol. de Boquete",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 162,
+          "cantidad_texto": "162 viales o ampollas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 162,
+          "cantidad_texto": "162 viales o ampollas",
+          "dias": 48,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 162,
+          "cantidad_texto": "162 viales o ampollas",
+          "dias": 48,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. EZEQUIEL ABADÍA",
+      "es_bodega": false,
+      "provincia": "Veraguas",
+      "corregimiento": "Soná",
+      "etiquetas": [
+        "Hosp. de Soná",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 102,
+          "cantidad_texto": "102 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. GUSTAVO NELSON COLLADO (CHITRÉ)",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "etiquetas": [
+        "Hosp. de Chitré",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 viales o ampollas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 viales o ampollas",
+          "dias": 9,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 viales o ampollas",
+          "dias": 9,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. HUGO SPADAFORA",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 988,
+          "cantidad_texto": "988 viales o ampollas",
+          "dias": 59,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 988,
+          "cantidad_texto": "988 viales o ampollas",
+          "dias": 59,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 988,
+          "cantidad_texto": "988 viales o ampollas",
+          "dias": 59,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. MANUEL AMADOR GUERRERO",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Coco Solo",
+      "etiquetas": [
+        "Hosp. Amador Guerrero",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 59,
+          "cantidad_texto": "59 viales o ampollas",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 59,
+          "cantidad_texto": "59 viales o ampollas",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 59,
+          "cantidad_texto": "59 viales o ampollas",
+          "dias": 13,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. MANUEL DE JESÚS ROJAS (AGUADULCE)",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": "Aguadulce",
+      "etiquetas": [
+        "Pol. de Aguadulce",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 80,
+          "cantidad_texto": "80 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 80,
+          "cantidad_texto": "80 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 80,
+          "cantidad_texto": "80 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. RAÚL DÁVILA MENA (CHANGUINOLA)",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Changuinola",
+      "etiquetas": [
+        "Hosp. de Changuinola (Raúl Dávila)",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 502,
+          "cantidad_texto": "502 viales o ampollas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 502,
+          "cantidad_texto": "502 viales o ampollas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 502,
+          "cantidad_texto": "502 viales o ampollas",
+          "dias": 28,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DR. SANTIAGO BARRAZA (CHORRERA)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "La Chorrera",
+      "etiquetas": [
+        "Pol. de La Chorrera",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 245,
+          "cantidad_texto": "245 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 245,
+          "cantidad_texto": "245 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 245,
+          "cantidad_texto": "245 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "DRA. CECILIA GUERRA (SAN ANTONIO)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "San Antonio",
+      "etiquetas": [
+        "Pol. de San Antonio (Dra. Cecilia Guerra)",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 1033,
+          "cantidad_texto": "1,033 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1033,
+          "cantidad_texto": "1,033 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1033,
+          "cantidad_texto": "1,033 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "EL TECAL",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "El Tecal",
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 321,
+          "cantidad_texto": "321 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 321,
+          "cantidad_texto": "321 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 321,
+          "cantidad_texto": "321 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIDADES PEDIÁTRICAS (HEPOTH)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": null,
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 94,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 94,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 288,
+          "cantidad_texto": "288 viales o ampollas",
+          "dias": 94,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIZADA DR. GUSTAVO ADOLFO ROSS (DAVID)",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": null,
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 863,
+          "cantidad_texto": "863 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 863,
+          "cantidad_texto": "863 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 863,
+          "cantidad_texto": "863 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIZADA DR. PABLO ESPINOSA (BUGABA)",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Bugaba",
+      "etiquetas": [
+        "Pol. de Bugaba (Pablo Espinosa)",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 574,
+          "cantidad_texto": "574 viales o ampollas",
+          "dias": 16,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 574,
+          "cantidad_texto": "574 viales o ampollas",
+          "dias": 16,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 574,
+          "cantidad_texto": "574 viales o ampollas",
+          "dias": 16,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Alto Verde",
+      "etiquetas": [
+        "Antigua ULAPS Nvo. Vedado (Rodrigo Hidalgo)",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 556,
+          "cantidad_texto": "556 viales o ampollas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 556,
+          "cantidad_texto": "556 viales o ampollas",
+          "dias": 50,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 556,
+          "cantidad_texto": "556 viales o ampollas",
+          "dias": 50,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "GUABITO",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": "Guabito",
+      "etiquetas": [
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 108,
+          "cantidad_texto": "108 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 108,
+          "cantidad_texto": "108 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 108,
+          "cantidad_texto": "108 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "HOGAR DE LA ESPERANZA (VERACRUZ)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": null,
+      "etiquetas": [
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 7,
+          "cantidad_texto": "7 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 7,
+          "cantidad_texto": "7 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 7,
+          "cantidad_texto": "7 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "HORACIO DÍAZ GÓMEZ",
+      "es_bodega": false,
+      "provincia": "Veraguas",
+      "corregimiento": "Santiago",
+      "etiquetas": [
+        "Pol. de Santiago",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 633,
+          "cantidad_texto": "633 viales o ampollas",
+          "dias": 95,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 633,
+          "cantidad_texto": "633 viales o ampollas",
+          "dias": 95,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 633,
+          "cantidad_texto": "633 viales o ampollas",
+          "dias": 95,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "IRMA DE LOURDES TZANETATOS (24 DE DICIEMBRE)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "24 de Diciembre",
+      "etiquetas": [
+        "Hosp. de la 24 de Dic.",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 1650,
+          "cantidad_texto": "1,650 viales o ampollas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1650,
+          "cantidad_texto": "1,650 viales o ampollas",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1650,
+          "cantidad_texto": "1,650 viales o ampollas",
+          "dias": 57,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "JUAN AGUILAR (LAS TABLAS)",
+      "es_bodega": false,
+      "provincia": "Bocas del Toro",
+      "corregimiento": null,
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 34,
+          "cantidad_texto": "34 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 34,
+          "cantidad_texto": "34 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 34,
+          "cantidad_texto": "34 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "LAS ACACIAS (PLAZA TOCUMEN)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Plaza Tocumen",
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 487,
+          "cantidad_texto": "487 viales o ampollas",
+          "dias": 73,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 487,
+          "cantidad_texto": "487 viales o ampollas",
+          "dias": 73,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 487,
+          "cantidad_texto": "487 viales o ampollas",
+          "dias": 73,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "LAURENCIO JAÉN OCAÑA (SABANITAS)",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Sabanitas",
+      "etiquetas": [
+        "Pol. de Sabanitas",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 550,
+          "cantidad_texto": "550 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 550,
+          "cantidad_texto": "550 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 550,
+          "cantidad_texto": "550 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "LOS NOGALES",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Los Nogales",
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 85,
+          "cantidad_texto": "85 viales o ampollas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 85,
+          "cantidad_texto": "85 viales o ampollas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 85,
+          "cantidad_texto": "85 viales o ampollas",
+          "dias": 5,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "LOS POZOS",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": null,
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 83,
+          "cantidad_texto": "83 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 83,
+          "cantidad_texto": "83 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 83,
+          "cantidad_texto": "83 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "MANUEL FERRER VALDÉS",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Calle 25 - Marañón",
+      "etiquetas": [
+        "Pol. de Marañón",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 3484,
+          "cantidad_texto": "3,484 viales o ampollas",
+          "dias": 99,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 3484,
+          "cantidad_texto": "3,484 viales o ampollas",
+          "dias": 99,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 3484,
+          "cantidad_texto": "3,484 viales o ampollas",
+          "dias": 99,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MANUEL MARÍA VALDÉS (SAN MIGUELITO)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Veranillo",
+      "etiquetas": [
+        "Pol. de San Miguelito",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 1170,
+          "cantidad_texto": "1,170 viales o ampollas",
+          "dias": 62,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 1170,
+          "cantidad_texto": "1,170 viales o ampollas",
+          "dias": 62,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 1170,
+          "cantidad_texto": "1,170 viales o ampollas",
+          "dias": 62,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MÁXIMO HERRERA",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Hipódromo",
+      "etiquetas": [
+        "ULAPS del Hipódromo",
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 472,
+          "cantidad_texto": "472 viales o ampollas",
+          "dias": 53,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 472,
+          "cantidad_texto": "472 viales o ampollas",
+          "dias": 53,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 472,
+          "cantidad_texto": "472 viales o ampollas",
+          "dias": 53,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "MIGUEL CÁRDENAS",
+      "es_bodega": false,
+      "provincia": "Los Santos",
+      "corregimiento": "Las Tablas",
+      "etiquetas": [
+        "Pol. de Las Tablas",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "NUEVO SAN JUAN",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "En Giral",
+      "etiquetas": [
+        "Pol. Nvo. San Juan",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "OCÚ",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": null,
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 32,
+          "cantidad_texto": "32 viales o ampollas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 32,
+          "cantidad_texto": "32 viales o ampollas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 32,
+          "cantidad_texto": "32 viales o ampollas",
+          "dias": 27,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "PEDREGAL",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Pedregal",
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 10,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "PENONOMÉ (MANUEL PAULINO OCAÑA)",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": "Penonomé",
+      "etiquetas": [
+        "Pol. de Penonomé",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "PESÉ",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": null,
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "PORTOBELO",
+      "es_bodega": false,
+      "provincia": "Colón",
+      "corregimiento": "Portobelo",
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 8,
+          "cantidad_texto": "8 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 8,
+          "cantidad_texto": "8 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 8,
+          "cantidad_texto": "8 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "PRESIDENTE REMÓN",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Calle 17",
+      "etiquetas": [
+        "PPR",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 712,
+          "cantidad_texto": "712 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 712,
+          "cantidad_texto": "712 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 712,
+          "cantidad_texto": "712 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "RAFAEL ESTÉVEZ",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": "Aguadulce",
+      "etiquetas": [
+        "Hosp. de Aguadulce",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 3,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "RAFAEL HERNÁNDEZ",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "David",
+      "etiquetas": [
+        "El Regional",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 595,
+          "cantidad_texto": "595 viales o ampollas",
+          "dias": 97,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 595,
+          "cantidad_texto": "595 viales o ampollas",
+          "dias": 97,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 595,
+          "cantidad_texto": "595 viales o ampollas",
+          "dias": 97,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "REGIONAL DE CHEPO",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Chepo",
+      "etiquetas": [
+        "Hosp. de Chepo",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 271,
+          "cantidad_texto": "271 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 271,
+          "cantidad_texto": "271 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 271,
+          "cantidad_texto": "271 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": "Chitré",
+      "etiquetas": [
+        "Pol. de Chitré",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 160,
+          "cantidad_texto": "160 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 160,
+          "cantidad_texto": "160 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 160,
+          "cantidad_texto": "160 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SAN JOSÉ",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": null,
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 131,
+          "cantidad_texto": "131 viales o ampollas",
+          "dias": 111,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 131,
+          "cantidad_texto": "131 viales o ampollas",
+          "dias": 111,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 131,
+          "cantidad_texto": "131 viales o ampollas",
+          "dias": 111,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SAN JUAN DE DIOS (NATÁ)",
+      "es_bodega": false,
+      "provincia": "Coclé",
+      "corregimiento": "Natá",
+      "etiquetas": [
+        "Pol. de Natá",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 viales o ampollas",
+          "dias": 23,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SAN JUAN DE DIOS (VILLA DE LOS SANTOS)",
+      "es_bodega": false,
+      "provincia": "Los Santos",
+      "corregimiento": "La Villa",
+      "etiquetas": [
+        "Pol. de La Villa",
+        "Policlinica"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SANTA MARÍA",
+      "es_bodega": false,
+      "provincia": "Herrera",
+      "corregimiento": null,
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 37,
+          "cantidad_texto": "37 viales o ampollas",
+          "dias": 31,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 37,
+          "cantidad_texto": "37 viales o ampollas",
+          "dias": 31,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 37,
+          "cantidad_texto": "37 viales o ampollas",
+          "dias": 31,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "SUSANA JONES CANO (VILLA LUCRE)",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Villa Lucre",
+      "etiquetas": [
+        "Susana Jones",
+        "Hospital"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 61,
+          "cantidad_texto": "61 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 61,
+          "cantidad_texto": "61 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 61,
+          "cantidad_texto": "61 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "TONOSÍ",
+      "es_bodega": false,
+      "provincia": "Los Santos",
+      "corregimiento": null,
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "TORRIJOS CARTER",
+      "es_bodega": false,
+      "provincia": "Panamá",
+      "corregimiento": "Torrijos Carter",
+      "etiquetas": [
+        "CAPPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 289,
+          "cantidad_texto": "289 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 289,
+          "cantidad_texto": "289 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 289,
+          "cantidad_texto": "289 viales o ampollas",
+          "dias": 82,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "ULAPS DE DOLEGA",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Dólega",
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 147,
+          "cantidad_texto": "147 viales o ampollas",
+          "dias": 125,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 147,
+          "cantidad_texto": "147 viales o ampollas",
+          "dias": 125,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 147,
+          "cantidad_texto": "147 viales o ampollas",
+          "dias": 125,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "VISTA ALEGRE",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Vista Alegre",
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "VOLCÁN",
+      "es_bodega": false,
+      "provincia": "Chiriquí",
+      "corregimiento": "Volcán",
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 137,
+          "cantidad_texto": "137 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 137,
+          "cantidad_texto": "137 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 137,
+          "cantidad_texto": "137 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        }
+      ]
+    }
+  ],
+  "bodegas": [
+    {
+      "nombre": "Bodega CHIRIQUÍ",
+      "es_bodega": true,
+      "provincia": "Chiriquí",
+      "corregimiento": null,
+      "etiquetas": [
+        "Bodega"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 2240,
+          "cantidad_texto": "2,240 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 2240,
+          "cantidad_texto": "2,240 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 2240,
+          "cantidad_texto": "2,240 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    },
+    {
+      "nombre": "Bodega PANAMÁ",
+      "es_bodega": true,
+      "provincia": "Panamá",
+      "corregimiento": null,
+      "etiquetas": [
+        "Bodega"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-18/0506Z",
+          "capturado_en": "2026-08-18T05:06:17.683Z",
+          "estado_captura": "ok",
+          "cantidad": 46191,
+          "cantidad_texto": "46,191 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0522Z",
+          "capturado_en": "2026-08-18T05:22:59.175Z",
+          "estado_captura": "ok",
+          "cantidad": 46191,
+          "cantidad_texto": "46,191 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-18/0554Z",
+          "capturado_en": "2026-08-18T05:54:31.643Z",
+          "estado_captura": "ok",
+          "cantidad": 46191,
+          "cantidad_texto": "46,191 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        }
+      ]
+    }
+  ],
+  "metricas": {
+    "instalaciones_atencion": 62,
+    "bodegas": 2,
+    "capturas_ok": 3,
+    "capturas_fallidas": 0,
+    "sin_dias_publicados": 5,
+    "con_dias_publicados": 57,
+    "mediana_cantidad_sin_dias": 30,
+    "mediana_cantidad_con_dias": 288
+  }
+}

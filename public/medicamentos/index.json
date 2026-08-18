@@ -1,0 +1,146 @@
+{
+  "generado_en": "2026-08-18T08:36:28.378Z",
+  "total": 14,
+  "medicamentos": [
+    {
+      "medicamento_id": "amlodipina-5",
+      "medicamento_nombre": "AMLODIPINA 5mg, tableta, V.O.",
+      "instalaciones_atencion": 67,
+      "bodegas": 4,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 0,
+      "mediana_cantidad_sin_dias": null,
+      "mediana_cantidad_con_dias": 60584
+    },
+    {
+      "medicamento_id": "carbamazepina-200",
+      "medicamento_nombre": "CARBAMAZEPINA 200mg, tableta, V.O.",
+      "instalaciones_atencion": 64,
+      "bodegas": 4,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 2,
+      "mediana_cantidad_sin_dias": 2648,
+      "mediana_cantidad_con_dias": 6350
+    },
+    {
+      "medicamento_id": "carvedilol-625",
+      "medicamento_nombre": "CARVEDILOL 6.25mg, tableta, V.O.",
+      "instalaciones_atencion": 21,
+      "bodegas": 1,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 0,
+      "mediana_cantidad_sin_dias": null,
+      "mediana_cantidad_con_dias": 13730
+    },
+    {
+      "medicamento_id": "fluoxetina-20",
+      "medicamento_nombre": "FLUOXETINA 20mg, cápsula o tableta, V.O.",
+      "instalaciones_atencion": 47,
+      "bodegas": 2,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 0,
+      "mediana_cantidad_sin_dias": null,
+      "mediana_cantidad_con_dias": 4984
+    },
+    {
+      "medicamento_id": "hidroclorotiazida-triamtereno",
+      "medicamento_nombre": "HIDROCLOROTIAZIDA 25mg con TRIAMTERENO 50mg, tableta ranurada, V.O.",
+      "instalaciones_atencion": 65,
+      "bodegas": 4,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 1,
+      "mediana_cantidad_sin_dias": 3380,
+      "mediana_cantidad_con_dias": 9906
+    },
+    {
+      "medicamento_id": "insulina-glargina",
+      "medicamento_nombre": "INSULINA ANÁLOGA DE ACCIÓN PROLONGADA GLARGINA 100UI/ml, solución, S.C.",
+      "instalaciones_atencion": 25,
+      "bodegas": 0,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 1,
+      "mediana_cantidad_sin_dias": 1,
+      "mediana_cantidad_con_dias": 98
+    },
+    {
+      "medicamento_id": "insulina-lispro",
+      "medicamento_nombre": "INSULINA ANÁLOGA LISPRO 100UI/ml, solución, S.C., I.V.",
+      "instalaciones_atencion": 8,
+      "bodegas": 2,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 4,
+      "mediana_cantidad_sin_dias": 25,
+      "mediana_cantidad_con_dias": 253
+    },
+    {
+      "medicamento_id": "insulina-nph",
+      "medicamento_nombre": "INSULINA NPH (HUMANA) 100U/ml, suspensión, S.C.",
+      "instalaciones_atencion": 62,
+      "bodegas": 2,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 5,
+      "mediana_cantidad_sin_dias": 30,
+      "mediana_cantidad_con_dias": 288
+    },
+    {
+      "medicamento_id": "insulina-regular",
+      "medicamento_nombre": "INSULINA REGULAR (HUMANA) 100U/ml, solución, S.C., I.V.",
+      "instalaciones_atencion": 58,
+      "bodegas": 2,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 8,
+      "mediana_cantidad_sin_dias": 30,
+      "mediana_cantidad_con_dias": 164
+    },
+    {
+      "medicamento_id": "levotiroxina-01",
+      "medicamento_nombre": "LEVOTIROXINA SAL SÓDICA 0.1mg, tableta, V.O.",
+      "instalaciones_atencion": 31,
+      "bodegas": 2,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 0,
+      "mediana_cantidad_sin_dias": null,
+      "mediana_cantidad_con_dias": 11136
+    },
+    {
+      "medicamento_id": "metformina-850",
+      "medicamento_nombre": "METFORMINA CLORHIDRATO 850mg, tableta ranurada, V.O.",
+      "instalaciones_atencion": 65,
+      "bodegas": 4,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 0,
+      "mediana_cantidad_sin_dias": null,
+      "mediana_cantidad_con_dias": 40203
+    },
+    {
+      "medicamento_id": "paracetamol-500",
+      "medicamento_nombre": "PARACETAMOL (ACETAMINOFÉN) 500mg, tableta, V.O.",
+      "instalaciones_atencion": 68,
+      "bodegas": 3,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 0,
+      "mediana_cantidad_sin_dias": null,
+      "mediana_cantidad_con_dias": 35482
+    },
+    {
+      "medicamento_id": "salbutamol-inhalador",
+      "medicamento_nombre": "SALBUTAMOL BASE o SULFATO 100mcg/inhalación, suspensión en aerosol libre de CFC, inhalador con 200-250 dosis, Vía Bucal.",
+      "instalaciones_atencion": 66,
+      "bodegas": 4,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 7,
+      "mediana_cantidad_sin_dias": 40,
+      "mediana_cantidad_con_dias": 337
+    },
+    {
+      "medicamento_id": "warfarina-5",
+      "medicamento_nombre": "WARFARINA SÓDICA 5mg, tableta, V.O.",
+      "instalaciones_atencion": 40,
+      "bodegas": 2,
+      "capturas_fallidas": 0,
+      "sin_dias_publicados": 1,
+      "mediana_cantidad_sin_dias": 810,
+      "mediana_cantidad_con_dias": 1748
+    }
+  ]
+}

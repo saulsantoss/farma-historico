@@ -1,0 +1,11 @@
+{
+  "captura_id": "2026-08-18T0759Z",
+  "capturado_en": "2026-08-18T07:59:25.777Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "metformina-850",
+  "medicamento_termino": "metformina",
+  "medicamento_nombre": "METFORMINA CLORHIDRATO 850mg, tableta ranurada, V.O.",
+  "ok": false,
+  "etapa": "carga",
+  "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+}

@@ -1,0 +1,11 @@
+{
+  "captura_id": "2026-08-18T0759Z",
+  "capturado_en": "2026-08-18T07:59:25.777Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "carbamazepina-200",
+  "medicamento_termino": "carbamazepina",
+  "medicamento_nombre": "CARBAMAZEPINA 200mg, tableta, V.O.",
+  "ok": false,
+  "etapa": "carga",
+  "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('input[type=\"search\"]').first() to be visible\n"
+}

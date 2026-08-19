@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-08-18T23:11:08.393Z",
+  "generado_en": "2026-08-19T00:34:52.680Z",
   "total": 14,
   "medicamentos": [
     {
@@ -50,7 +50,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 1,
       "mediana_cantidad_sin_dias": 3380,
-      "mediana_cantidad_con_dias": 9124
+      "mediana_cantidad_con_dias": 9109
     },
     {
       "medicamento_id": "insulina-glargina",
@@ -80,7 +80,7 @@
       "capturas_fallidas": 3,
       "sin_dias_publicados": 6,
       "mediana_cantidad_sin_dias": 25,
-      "mediana_cantidad_con_dias": 283
+      "mediana_cantidad_con_dias": 288
     },
     {
       "medicamento_id": "insulina-regular",
@@ -100,7 +100,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 9897
+      "mediana_cantidad_con_dias": 9747
     },
     {
       "medicamento_id": "metformina-850",
@@ -120,7 +120,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 36075
+      "mediana_cantidad_con_dias": 35720
     },
     {
       "medicamento_id": "salbutamol-inhalador",

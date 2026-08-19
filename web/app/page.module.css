@@ -96,145 +96,33 @@
   color: var(--gris-fuerte);
 }
 
-.notaSeccion {
-  margin-top: 28px;
-  max-width: 72ch;
-  border-left: 1px solid var(--linea-media);
-  padding-left: 16px;
-  font-size: 13px;
-  line-height: 1.7;
-  color: var(--gris-fuerte);
-}
+/* Qué se puede saber y qué no */
 
-.enlaceGrande {
-  margin-top: 24px;
-  font-size: 18px;
-  font-weight: 600;
-}
-
-/* Cifras */
-
-.cifras {
+.saberes {
   margin-top: 32px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   border-top: 1px solid var(--linea);
   border-left: 1px solid var(--linea);
 }
 
-.cifra {
+.saber {
   border-right: 1px solid var(--linea);
   border-bottom: 1px solid var(--linea);
   padding: 24px;
 }
 
-.cifraValor {
-  font-size: clamp(2.25rem, 5vw, 3.25rem);
-  font-weight: 600;
-  line-height: 1;
-  letter-spacing: -0.03em;
-  color: var(--tinta);
-}
-
-.cifraEtiqueta {
-  margin-top: 14px;
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--tinta);
-}
-
-.cifraApoyo {
-  margin-top: 6px;
-  font-size: 13px;
-  line-height: 1.6;
-  color: var(--gris);
-}
-
-/* Portada nacional */
-
-.portada {
-  margin-top: 32px;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1px;
-  background: var(--linea);
-  border: 1px solid var(--linea);
-}
-
-.portadaBloque {
-  background: var(--fondo);
-  padding: 28px 24px 24px;
-}
-
-.portadaNumero {
-  font-size: clamp(2.5rem, 5.5vw, 3.5rem);
-  font-weight: 600;
-  line-height: 1;
-  letter-spacing: -0.035em;
-  color: var(--tinta);
-  font-variant-numeric: tabular-nums;
-}
-
-.portadaDe {
-  font-size: 0.42em;
-  font-weight: 500;
-  color: var(--gris);
-  letter-spacing: 0;
-}
-
-.portadaBloque p + p {
+.saberTexto {
   margin-top: 16px;
+  font-size: 15px;
+  line-height: 1.75;
+  color: var(--gris-fuerte);
 }
 
-/* Tablas */
+/* Enlaces */
 
-.tablaEnvoltura {
-  margin-top: 32px;
-  overflow-x: auto;
-}
-
-.tabla {
-  min-width: 640px;
-  font-size: 14px;
-}
-
-.tabla th {
-  text-align: left;
-  vertical-align: bottom;
-  font-size: 11px;
+.enlaceGrande {
+  margin-top: 24px;
+  font-size: 18px;
   font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--gris);
-  padding: 0 16px 10px 0;
-  border-bottom: 1px solid var(--tinta);
-}
-
-.tabla td {
-  padding: 14px 16px 14px 0;
-  border-bottom: 1px solid var(--linea);
-  vertical-align: top;
-  color: var(--tinta-texto);
-}
-
-.tabla tr td:last-child,
-.tabla tr th:last-child {
-  padding-right: 0;
-}
-
-.derecha {
-  text-align: right;
-}
-
-.cero {
-  color: var(--gris-claro);
-}
-
-.enlaceMedicamento {
-  font-weight: 500;
-  text-decoration-color: var(--linea-media);
-}
-
-.enlaceMedicamento:hover {
-  text-decoration-color: var(--tinta);
 }

@@ -3,7 +3,7 @@ import estilos from "./Cabecera.module.css";
 
 const ENLACES = [
   { href: "/", clave: "inicio", texto: "Inicio" },
-  { href: "/#medicamentos", clave: "medicamentos", texto: "Medicamentos" },
+  { href: "/explorar", clave: "explorar", texto: "Explorar" },
   { href: "/metodologia", clave: "metodologia", texto: "Metodología" },
 ];
 

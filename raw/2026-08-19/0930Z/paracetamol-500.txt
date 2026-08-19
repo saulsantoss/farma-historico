@@ -1,0 +1,452 @@
+Búsqueda de Medicamentos
+Mi Farma Digital
+Ir al inicio
+Plataforma Nacional de Consulta y Abastecimiento de Medicamentos CSS Panamá
+Menú principal
+565
+
+Medicamentos cubiertos por la Caja de Seguro Social — Lista Oficial de Medicamentos (LOM)
+
+Ver lista oficial de medicamentos
+94%
+De medicamentos disponibles
+
+532 en existencia de 565
+
+Corresponde a la proporción de medicamentos de la Lista Oficial que están disponibles.
+
+Óptimo por encima de 90%
+
+Cómo se calcula
+56 días
+de abastecimiento
+
+Estimación basada en el ritmo de utilización reciente de los medicamentos.
+
+Cómo se calcula
+Busque su medicamento
+
+Escriba el nombre y seleccione de la lista, o filtre por provincia y unidad
+
+Limpiar
+FILTRAR POR
+Todas las provincias
+Bocas del Toro
+Chiriquí
+Coclé
+Colón
+Herrera
+Los Santos
+Panamá
+Panamá Oeste
+Veraguas
+Tipo de unidad ejecutora: Todas
+CAPPS y ULAPS
+Policlínicas Básicas
+Policlínicas Especializadas
+Policl. Esp. con Cirugía
+Hospitales
+Nombre de la unidad ejecutora (elija provincia)
+Medicamento Disponible
+PARACETAMOL (ACETAMINOFÉN) 500mg, tableta, V.O.
+¿Este medicamento puede recetarse fuera del sistema CSS-MINSA? Sí
+Nombres comerciales (4):
+ATERMIN 5-- (5--MG) COMPRIMIDOS
+ACETAMINOFEN 5-- MG TABLETAS
+ACETAMINOFEN MK 5-- MG TABLETAS
+APYROL 5-- MG TABLETAS
+Se suministra en: CAPPS/ULAPS, Policlínicas básicas, Policlínicas especializadas, Policlínicas con cirugía, Hospitales
+
+Recuerde que no todos los medicamentos están disponibles en todos los tipos de unidades ejecutoras, por su especialización.
+
+¿Para qué sirve este medicamento?
+Indicaciones: Tratamiento analgésico temporal de dolores leves y de moderada intensidad. Antipirético.
+Bodega CHIRIQUÍ
+Bodega
+Chiriquí
+Cantidad en inventario: 2,441,000 pastillas - cápsulas
+Bodega Divisa
+Bodega
+Herrera
+Cantidad en inventario: 1,060,600 pastillas - cápsulas
+DON JOAQUÍN JOSÉ VALLARINO (JUAN DÍAZ)
+Policlinica
+Panamá · Juan Díaz
+Cantidad en inventario: 741,026 pastillas - cápsulas
+Días de abastecimiento: 83 días
+HORACIO DÍAZ GÓMEZ
+Pol. de Santiago
+Policlinica
+Veraguas · Santiago
+Cantidad en inventario: 315,342 pastillas - cápsulas
+Días de abastecimiento: 34 días
+DR. JUAN VEGA MÉNDEZ - SAN CARLOS
+Pol. de San Carlos
+Policlinica
+Panamá Oeste · San Carlos
+Cantidad en inventario: 249,000 pastillas - cápsulas
+Días de abastecimiento: 87 días
+DR. EDILBERTO CULIOLIS (LAS CUMBRES)
+Pol. las Cumbres
+Policlinica
+Panamá · Las Cumbres
+Cantidad en inventario: 220,282 pastillas - cápsulas
+Días de abastecimiento: 109 días
+ESPECIALIZADA DR. GUSTAVO ADOLFO ROSS (DAVID)
+Policlinica
+Chiriquí
+Cantidad en inventario: 186,779 pastillas - cápsulas
+Días de abastecimiento: 23 días
+DR. HUGO SPADAFORA
+Policlinica
+Colón · Coco Solo
+Cantidad en inventario: 183,023 pastillas - cápsulas
+Días de abastecimiento: 58 días
+IRMA DE LOURDES TZANETATOS (24 DE DICIEMBRE)
+Hosp. de la 24 de Dic.
+Hospital
+Panamá · 24 de Diciembre
+Cantidad en inventario: 181,500 pastillas - cápsulas
+Días de abastecimiento: 41 días
+ALEJANDRO DE LA GUARDIA (BETANIA)
+Pol. de Betania
+Policlinica
+Panamá · Betania
+Cantidad en inventario: 177,644 pastillas - cápsulas
+Días de abastecimiento: 49 días
+MANUEL FERRER VALDÉS
+Pol. de Marañón
+Policlinica
+Panamá · Calle 25 - Marañón
+Cantidad en inventario: 169,069 pastillas - cápsulas
+Días de abastecimiento: 32 días
+MIGUEL CÁRDENAS
+Pol. de Las Tablas
+Policlinica
+Los Santos · Las Tablas
+Cantidad en inventario: 167,000 pastillas - cápsulas
+Días de abastecimiento: 43 días
+RAFAEL HERNÁNDEZ
+El Regional
+Hospital
+Chiriquí · David
+Cantidad en inventario: 159,999 pastillas - cápsulas
+Días de abastecimiento: 45 días
+DR. MANUEL DE JESÚS ROJAS (AGUADULCE)
+Pol. de Aguadulce
+Policlinica
+Coclé · Aguadulce
+Cantidad en inventario: 158,000 pastillas - cápsulas
+Días de abastecimiento: 23 días
+DRA. CECILIA GUERRA (SAN ANTONIO)
+Pol. de San Antonio (Dra. Cecilia Guerra)
+Policlinica
+Panamá · San Antonio
+Cantidad en inventario: 152,699 pastillas - cápsulas
+Días de abastecimiento: 54 días
+DON GENEROSO GUARDIA (SANTA LIBRADA)
+Pol. de Santa Librada
+Policlinica
+Panamá · Santa Librada
+Cantidad en inventario: 132,683 pastillas - cápsulas
+Días de abastecimiento: 24 días
+REGIONAL DE CHEPO
+Hosp. de Chepo
+Hospital
+Panamá · Chepo
+Cantidad en inventario: 122,837 pastillas - cápsulas
+Días de abastecimiento: 46 días
+DR. EZEQUIEL ABADÍA
+Hosp. de Soná
+Hospital
+Veraguas · Soná
+Cantidad en inventario: 111,281 pastillas - cápsulas
+Días de abastecimiento: 60 días
+CIUDAD DE LA SALUD
+CIDELAS
+Hospital
+Panamá · Centenario
+Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).
+Cantidad en inventario: 109,600 pastillas - cápsulas
+Días de abastecimiento: 16 días
+PENONOMÉ (MANUEL PAULINO OCAÑA)
+Pol. de Penonomé
+Policlinica
+Coclé · Penonomé
+Cantidad en inventario: 109,000 pastillas - cápsulas
+Días de abastecimiento: 21 días
+ESPECIALIZADA DR. RODRIGO HIDALGO GONZÁLEZ
+Antigua ULAPS Nvo. Vedado (Rodrigo Hidalgo)
+Policlinica
+Chiriquí · Alto Verde
+Cantidad en inventario: 100,299 pastillas - cápsulas
+Días de abastecimiento: 40 días
+DR. GUSTAVO NELSON COLLADO (CHITRÉ)
+Hosp. de Chitré
+Hospital
+Herrera · Chitré
+Cantidad en inventario: 97,000 pastillas - cápsulas
+Días de abastecimiento: 17 días
+RAFAEL ESTÉVEZ
+Hosp. de Aguadulce
+Hospital
+Coclé · Aguadulce
+Cantidad en inventario: 86,000 pastillas - cápsulas
+Días de abastecimiento: 15 días
+SAN JUAN DE DIOS (NATÁ)
+Pol. de Natá
+Policlinica
+Coclé · Natá
+Cantidad en inventario: 83,000 pastillas - cápsulas
+Días de abastecimiento: 60 días
+ESPECIALIZADA DR. PABLO ESPINOSA (BUGABA)
+Pol. de Bugaba (Pablo Espinosa)
+Policlinica
+Chiriquí · Bugaba
+Cantidad en inventario: 75,685 pastillas - cápsulas
+Días de abastecimiento: 31 días
+DR. ERNESTO PÉREZ BALLADARES (BOQUETE)
+Pol. de Boquete
+Policlinica
+Chiriquí · Boquete
+Cantidad en inventario: 74,851 pastillas - cápsulas
+Días de abastecimiento: 82 días
+DR. RAÚL DÁVILA MENA (CHANGUINOLA)
+Hosp. de Changuinola (Raúl Dávila)
+Hospital
+Bocas del Toro · Changuinola
+Cantidad en inventario: 71,293 pastillas - cápsulas
+Días de abastecimiento: 19 días
+ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)
+Pol. de Chitré
+Policlinica
+Herrera · Chitré
+Cantidad en inventario: 60,000 pastillas - cápsulas
+Días de abastecimiento: 14 días
+SAN JUAN DE DIOS (VILLA DE LOS SANTOS)
+Pol. de La Villa
+Policlinica
+Los Santos · La Villa
+Cantidad en inventario: 58,400 pastillas - cápsulas
+Días de abastecimiento: 27 días
+DR. SANTIAGO BARRAZA (CHORRERA)
+Pol. de La Chorrera
+Policlinica
+Panamá Oeste · La Chorrera
+Cantidad en inventario: 54,192 pastillas - cápsulas
+Días de abastecimiento: 5 días
+COORDINACIÓN LOS SANTOS
+Bodega
+Los Santos
+Cantidad en inventario: 52,000 pastillas - cápsulas
+GUABITO
+Policlinica
+Bocas del Toro · Guabito
+Cantidad en inventario: 51,801 pastillas - cápsulas
+Días de abastecimiento: 6 días
+ALMIRANTE
+Hospital
+Bocas del Toro · Almirante
+Cantidad en inventario: 48,198 pastillas - cápsulas
+Días de abastecimiento: 64 días
+NUEVO SAN JUAN
+Pol. Nvo. San Juan
+Policlinica
+Colón · En Giral
+Cantidad en inventario: 42,000 pastillas - cápsulas
+Días de abastecimiento: 9 días
+DIONISIO ARROCHA
+Hosp. de Puerto Armuelles
+Hospital
+Chiriquí · Puerto Armuelles
+Cantidad en inventario: 40,062 pastillas - cápsulas
+Días de abastecimiento: 11 días
+BLAS GÓMEZ CHETRO (ARRAIJÁN)
+Pol. de Arraiján
+Policlinica
+Panamá Oeste · Arraiján
+Cantidad en inventario: 40,000 pastillas - cápsulas
+Días de abastecimiento: 5 días
+TORRIJOS CARTER
+CAPPS
+Panamá · Torrijos Carter
+Cantidad en inventario: 39,706 pastillas - cápsulas
+Días de abastecimiento: 39 días
+PRESIDENTE REMÓN
+PPR
+Policlinica
+Panamá · Calle 17
+Cantidad en inventario: 31,733 pastillas - cápsulas
+Días de abastecimiento: 6 días
+LAS ACACIAS (PLAZA TOCUMEN)
+ULAPS
+Panamá · Plaza Tocumen
+Cantidad en inventario: 30,321 pastillas - cápsulas
+Días de abastecimiento: 34 días
+SUSANA JONES CANO (VILLA LUCRE)
+Susana Jones
+Hospital
+Panamá · Villa Lucre
+Cantidad en inventario: 29,140 pastillas - cápsulas
+Días de abastecimiento: 12 días
+DR. CARLOS N. BRIN (SAN FRANCISCO)
+Pol. de San Fco.
+Policlinica
+Panamá · San Francisco
+Cantidad en inventario: 28,714 pastillas - cápsulas
+Días de abastecimiento: 11 días
+ULAPS DE DOLEGA
+ULAPS
+Chiriquí · Dólega
+Cantidad en inventario: 27,612 pastillas - cápsulas
+Días de abastecimiento: 71 días
+DR. MANUEL AMADOR GUERRERO
+Hosp. Amador Guerrero
+Hospital
+Colón · Coco Solo
+Cantidad en inventario: 27,534 pastillas - cápsulas
+Días de abastecimiento: 9 días
+MÁXIMO HERRERA
+ULAPS del Hipódromo
+ULAPS
+Panamá · Hipódromo
+Cantidad en inventario: 24,824 pastillas - cápsulas
+Días de abastecimiento: 46 días
+CHIRIQUÍ GRANDE
+Hospital
+Bocas del Toro · Chiriquí Grande
+Cantidad en inventario: 24,267 pastillas - cápsulas
+Días de abastecimiento: 48 días
+VISTA ALEGRE
+ULAPS
+Panamá Oeste · Vista Alegre
+Cantidad en inventario: 24,000 pastillas - cápsulas
+Días de abastecimiento: 19 días
+JUAN AGUILAR (LAS TABLAS)
+ULAPS
+Bocas del Toro
+Cantidad en inventario: 23,378 pastillas - cápsulas
+Días de abastecimiento: 75 días
+ESPECIALIDADES PEDIÁTRICAS (HEPOTH)
+Hospital
+Panamá
+Farmacia disponible solo para niños (menores de edad).
+Cantidad en inventario: 23,323 pastillas - cápsulas
+Días de abastecimiento: 84 días
+CAPIRA
+ULAPS
+Panamá Oeste · Capira
+Cantidad en inventario: 20,000 pastillas - cápsulas
+Días de abastecimiento: 15 días
+GUADALUPE (LA CHORRERA)
+ULAPS
+Panamá Oeste · Guadalupe
+Cantidad en inventario: 20,000 pastillas - cápsulas
+Días de abastecimiento: 8 días
+PESÉ
+CAPPS
+Herrera
+Cantidad en inventario: 16,151 pastillas - cápsulas
+Días de abastecimiento: 42 días
+DIVALÁ
+Policlinica
+Chiriquí
+Cantidad en inventario: 16,016 pastillas - cápsulas
+Días de abastecimiento: 33 días
+SAN JOSÉ
+ULAPS
+Panamá Oeste
+Cantidad en inventario: 15,837 pastillas - cápsulas
+Días de abastecimiento: 68 días
+LAURENCIO JAÉN OCAÑA (SABANITAS)
+Pol. de Sabanitas
+Policlinica
+Colón · Sabanitas
+Cantidad en inventario: 15,816 pastillas - cápsulas
+Días de abastecimiento: 5 días
+VOLCÁN
+ULAPS
+Chiriquí · Volcán
+Cantidad en inventario: 13,091 pastillas - cápsulas
+Días de abastecimiento: 26 días
+CARLOS VELARDE (SAN CRISTÓBAL)
+ULAPS de San Cristóbal
+ULAPS
+Panamá · San Cristóbal
+Cantidad en inventario: 12,289 pastillas - cápsulas
+Días de abastecimiento: 31 días
+GUARARÉ
+CAPPS
+Los Santos · Guararé
+Cantidad en inventario: 12,000 pastillas - cápsulas
+Días de abastecimiento: 38 días
+LA PINTADA
+CAPPS
+Coclé
+Cantidad en inventario: 10,000 pastillas - cápsulas
+Días de abastecimiento: 41 días
+VACAMONTE
+ULAPS
+Panamá Oeste · Puerto de Vacamonte
+Cantidad en inventario: 10,000 pastillas - cápsulas
+Días de abastecimiento: 21 días
+OCÚ
+CAPPS
+Herrera
+Cantidad en inventario: 8,034 pastillas - cápsulas
+Días de abastecimiento: 23 días
+LOS NOGALES
+CAPPS
+Panamá · Los Nogales
+Cantidad en inventario: 7,046 pastillas - cápsulas
+Días de abastecimiento: 9 días
+SANTA MARÍA
+CAPPS
+Herrera
+Cantidad en inventario: 6,839 pastillas - cápsulas
+Días de abastecimiento: 56 días
+LOS POZOS
+CAPPS
+Herrera
+Cantidad en inventario: 4,396 pastillas - cápsulas
+Días de abastecimiento: 28 días
+TONOSÍ
+CAPPS
+Los Santos
+Cantidad en inventario: 4,000 pastillas - cápsulas
+Días de abastecimiento: 21 días
+ZAPOTILLO
+CAPPS
+Veraguas · Zapotillo
+Cantidad en inventario: 3,113 pastillas - cápsulas
+Días de abastecimiento: 29 días
+PORTOBELO
+ULAPS
+Colón · Portobelo
+Cantidad en inventario: 2,931 pastillas - cápsulas
+Días de abastecimiento: 60 días
+CAÑITAS
+Policlinica
+Panamá · Cañita
+Cantidad en inventario: 1,734 pastillas - cápsulas
+Días de abastecimiento: 4 días
+HOGAR DE LA ESPERANZA (VERACRUZ)
+Hospital
+Panamá Oeste
+Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).
+Cantidad en inventario: 1,700 pastillas - cápsulas
+Días de abastecimiento: 37 días
+MANUEL MARÍA VALDÉS (SAN MIGUELITO)
+Pol. de San Miguelito
+Policlinica
+Panamá · Veranillo
+Cantidad en inventario: 258 pastillas - cápsulas
+Días de abastecimiento: menos de 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+EL TECAL
+CAPPS
+Panamá Oeste · El Tecal
+Cantidad en inventario: 12 pastillas - cápsulas
+Días de abastecimiento: menos de 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+Volver a los resultados

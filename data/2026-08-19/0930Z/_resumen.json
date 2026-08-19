@@ -1,0 +1,222 @@
+{
+  "captura_id": "2026-08-19T0930Z",
+  "capturado_en": "2026-08-19T09:30:06.096Z",
+  "portada": {
+    "lom_total": 565,
+    "disponibles_pct": 94,
+    "disponibles_n": 532,
+    "dias_abastecimiento_nacional": 56
+  },
+  "resumen": [
+    {
+      "id": "paracetamol-500",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 70,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 67,
+        "sin_dias": 3,
+        "sin_nombre": 0,
+        "bodegas": 3
+      },
+      "error": null
+    },
+    {
+      "id": "insulina-glargina",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 24,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 23,
+        "sin_dias": 1,
+        "sin_nombre": 0,
+        "bodegas": 0
+      },
+      "error": null
+    },
+    {
+      "id": "insulina-lispro",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 10,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 4,
+        "sin_dias": 6,
+        "sin_nombre": 0,
+        "bodegas": 2
+      },
+      "error": null
+    },
+    {
+      "id": "insulina-nph",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 65,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 57,
+        "sin_dias": 8,
+        "sin_nombre": 0,
+        "bodegas": 2
+      },
+      "error": null
+    },
+    {
+      "id": "insulina-regular",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 60,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 50,
+        "sin_dias": 10,
+        "sin_nombre": 0,
+        "bodegas": 2
+      },
+      "error": null
+    },
+    {
+      "id": "carbamazepina-200",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 68,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 62,
+        "sin_dias": 6,
+        "sin_nombre": 0,
+        "bodegas": 4
+      },
+      "error": null
+    },
+    {
+      "id": "metformina-850",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 69,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 65,
+        "sin_dias": 4,
+        "sin_nombre": 0,
+        "bodegas": 4
+      },
+      "error": null
+    },
+    {
+      "id": "amlodipina-5",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 71,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 67,
+        "sin_dias": 4,
+        "sin_nombre": 0,
+        "bodegas": 4
+      },
+      "error": null
+    },
+    {
+      "id": "carvedilol-625",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 22,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 21,
+        "sin_dias": 1,
+        "sin_nombre": 0,
+        "bodegas": 1
+      },
+      "error": null
+    },
+    {
+      "id": "hidroclorotiazida-triamtereno",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 69,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 64,
+        "sin_dias": 5,
+        "sin_nombre": 0,
+        "bodegas": 4
+      },
+      "error": null
+    },
+    {
+      "id": "levotiroxina-01",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 32,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 30,
+        "sin_dias": 2,
+        "sin_nombre": 0,
+        "bodegas": 2
+      },
+      "error": null
+    },
+    {
+      "id": "warfarina-5",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 42,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 40,
+        "sin_dias": 2,
+        "sin_nombre": 0,
+        "bodegas": 2
+      },
+      "error": null
+    },
+    {
+      "id": "fluoxetina-20",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 49,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 47,
+        "sin_dias": 2,
+        "sin_nombre": 0,
+        "bodegas": 2
+      },
+      "error": null
+    },
+    {
+      "id": "salbutamol-inhalador",
+      "ok": true,
+      "etapa": "detalle",
+      "estado": "Medicamento Disponible",
+      "instalaciones": 70,
+      "calidad": {
+        "cabecera_detectada": true,
+        "con_dias": 60,
+        "sin_dias": 10,
+        "sin_nombre": 0,
+        "bodegas": 4
+      },
+      "error": null
+    }
+  ]
+}

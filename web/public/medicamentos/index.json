@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-08-19T18:35:03.946Z",
+  "generado_en": "2026-08-19T21:35:06.464Z",
   "total": 14,
   "medicamentos": [
     {
@@ -10,7 +10,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 70210
+      "mediana_cantidad_con_dias": 70195
     },
     {
       "medicamento_id": "carbamazepina-200",
@@ -40,7 +40,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 5166
+      "mediana_cantidad_con_dias": 5106
     },
     {
       "medicamento_id": "hidroclorotiazida-triamtereno",
@@ -50,7 +50,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 1,
       "mediana_cantidad_sin_dias": 3380,
-      "mediana_cantidad_con_dias": 11585
+      "mediana_cantidad_con_dias": 11507
     },
     {
       "medicamento_id": "insulina-glargina",
@@ -69,7 +69,7 @@
       "bodegas": 2,
       "capturas_fallidas": 2,
       "sin_dias_publicados": 4,
-      "mediana_cantidad_sin_dias": 25,
+      "mediana_cantidad_sin_dias": 24,
       "mediana_cantidad_con_dias": 264
     },
     {
@@ -110,7 +110,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 41580
+      "mediana_cantidad_con_dias": 41574
     },
     {
       "medicamento_id": "paracetamol-500",
@@ -120,7 +120,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 34304
+      "mediana_cantidad_con_dias": 33632
     },
     {
       "medicamento_id": "salbutamol-inhalador",
@@ -140,7 +140,7 @@
       "capturas_fallidas": 3,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 1404
+      "mediana_cantidad_con_dias": 1494
     }
   ]
 }

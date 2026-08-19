@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-08-19T00:34:52.680Z",
+  "generado_en": "2026-08-19T03:34:58.039Z",
   "total": 14,
   "medicamentos": [
     {
@@ -30,7 +30,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 13490
+      "mediana_cantidad_con_dias": 13430
     },
     {
       "medicamento_id": "fluoxetina-20",
@@ -60,7 +60,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 1,
       "mediana_cantidad_sin_dias": 1,
-      "mediana_cantidad_con_dias": 105
+      "mediana_cantidad_con_dias": 104
     },
     {
       "medicamento_id": "insulina-lispro",
@@ -100,7 +100,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 9747
+      "mediana_cantidad_con_dias": 9597
     },
     {
       "medicamento_id": "metformina-850",

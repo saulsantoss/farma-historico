@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-08-19T03:34:58.039Z",
+  "generado_en": "2026-08-19T06:34:58.955Z",
   "total": 14,
   "medicamentos": [
     {
@@ -10,7 +10,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 69387
+      "mediana_cantidad_con_dias": 69372
     },
     {
       "medicamento_id": "carbamazepina-200",
@@ -80,7 +80,7 @@
       "capturas_fallidas": 3,
       "sin_dias_publicados": 6,
       "mediana_cantidad_sin_dias": 25,
-      "mediana_cantidad_con_dias": 288
+      "mediana_cantidad_con_dias": 287
     },
     {
       "medicamento_id": "insulina-regular",

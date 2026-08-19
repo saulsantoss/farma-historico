@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-08-19T09:35:00.862Z",
+  "generado_en": "2026-08-19T12:35:04.611Z",
   "total": 14,
   "medicamentos": [
     {
@@ -30,7 +30,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 13430
+      "mediana_cantidad_con_dias": 12241
     },
     {
       "medicamento_id": "fluoxetina-20",
@@ -100,7 +100,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 9597
+      "mediana_cantidad_con_dias": 9477
     },
     {
       "medicamento_id": "metformina-850",
@@ -120,7 +120,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 35720
+      "mediana_cantidad_con_dias": 35147
     },
     {
       "medicamento_id": "salbutamol-inhalador",

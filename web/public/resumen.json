@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-08-19T15:35:05.635Z",
+  "generado_en": "2026-08-19T18:35:03.964Z",
   "modo": "normal",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
   "atribucion": "Fuente: Mi Farma Digital — Caja de Seguro Social de Panamá. Datos capturados de forma automatizada. Este sitio no está afiliado a la CSS.",
@@ -9,16 +9,16 @@
     "hora_utc": "0506Z"
   },
   "ultima_captura": {
-    "id": "2026-08-19/1530Z",
+    "id": "2026-08-19/1830Z",
     "fecha": "2026-08-19",
-    "hora_utc": "1530Z"
+    "hora_utc": "1830Z"
   },
-  "total_capturas_en_disco": 28,
-  "total_capturas_analizadas": 20,
+  "total_capturas_en_disco": 30,
+  "total_capturas_analizadas": 22,
   "total_medicamentos": 14,
-  "cambios_detectados": 1518,
+  "cambios_detectados": 1887,
   "exclusiones": {
-    "texto_para_pantalla": "De 28 capturas registradas, 20 se usan para el análisis. Las 8 excluidas son de la fase de construcción del pipeline; en una de ellas se detectó contaminación de sesión comparando huellas del texto crudo. El dato crudo se conserva completo.",
+    "texto_para_pantalla": "De 30 capturas registradas, 22 se usan para el análisis. Las 8 excluidas son de la fase de construcción del pipeline; en una de ellas se detectó contaminación de sesión comparando huellas del texto crudo. El dato crudo se conserva completo.",
     "piso_captura": "2026-08-18/0506Z",
     "total_excluidas": 8,
     "por_motivo": {
@@ -96,12 +96,12 @@
     ]
   },
   "portada_nacional_ultima": {
-    "captura": "2026-08-19/1530Z",
-    "captura_id": "2026-08-19T1530Z",
-    "capturado_en": "2026-08-19T15:30:04.644Z",
+    "captura": "2026-08-19/1830Z",
+    "captura_id": "2026-08-19T1830Z",
+    "capturado_en": "2026-08-19T18:30:06.597Z",
     "lom_total": 565,
     "disponibles_pct": 94,
-    "disponibles_n": 532,
+    "disponibles_n": 531,
     "dias_abastecimiento_nacional": 56
   },
   "portada_nacional_serie": [
@@ -264,6 +264,22 @@
       "disponibles": null,
       "porcentaje": null,
       "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-19/1815Z",
+      "capturado_en": "2026-08-19T18:15:35.674Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
+    },
+    {
+      "captura": "2026-08-19/1830Z",
+      "capturado_en": "2026-08-19T18:30:06.597Z",
+      "total_lom": null,
+      "disponibles": null,
+      "porcentaje": null,
+      "dias_abastecimiento": null
     }
   ],
   "salud_capturas": [
@@ -364,6 +380,16 @@
     },
     {
       "captura": "2026-08-19/1530Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-19/1815Z",
+      "medicamentos_ok": 14,
+      "medicamentos_fallidos": 0
+    },
+    {
+      "captura": "2026-08-19/1830Z",
       "medicamentos_ok": 14,
       "medicamentos_fallidos": 0
     }

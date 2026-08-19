@@ -1,16 +1,16 @@
 {
-  "generado_en": "2026-08-19T15:35:05.625Z",
+  "generado_en": "2026-08-19T18:35:03.946Z",
   "total": 14,
   "medicamentos": [
     {
       "medicamento_id": "amlodipina-5",
       "medicamento_nombre": "AMLODIPINA 5mg, tableta, V.O.",
-      "instalaciones_atencion": 67,
+      "instalaciones_atencion": 68,
       "bodegas": 4,
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 69829
+      "mediana_cantidad_con_dias": 70210
     },
     {
       "medicamento_id": "carbamazepina-200",
@@ -20,17 +20,17 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 2,
       "mediana_cantidad_sin_dias": 2648,
-      "mediana_cantidad_con_dias": 5968
+      "mediana_cantidad_con_dias": 6948
     },
     {
       "medicamento_id": "carvedilol-625",
       "medicamento_nombre": "CARVEDILOL 6.25mg, tableta, V.O.",
-      "instalaciones_atencion": 22,
+      "instalaciones_atencion": 23,
       "bodegas": 1,
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 11071
+      "mediana_cantidad_con_dias": 11312
     },
     {
       "medicamento_id": "fluoxetina-20",
@@ -40,7 +40,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 4984
+      "mediana_cantidad_con_dias": 5166
     },
     {
       "medicamento_id": "hidroclorotiazida-triamtereno",
@@ -50,7 +50,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 1,
       "mediana_cantidad_sin_dias": 3380,
-      "mediana_cantidad_con_dias": 9072
+      "mediana_cantidad_con_dias": 11585
     },
     {
       "medicamento_id": "insulina-glargina",
@@ -70,7 +70,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 4,
       "mediana_cantidad_sin_dias": 25,
-      "mediana_cantidad_con_dias": 265
+      "mediana_cantidad_con_dias": 264
     },
     {
       "medicamento_id": "insulina-nph",
@@ -89,7 +89,7 @@
       "bodegas": 2,
       "capturas_fallidas": 2,
       "sin_dias_publicados": 8,
-      "mediana_cantidad_sin_dias": 34,
+      "mediana_cantidad_sin_dias": 33,
       "mediana_cantidad_con_dias": 166
     },
     {
@@ -110,7 +110,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 39723
+      "mediana_cantidad_con_dias": 41580
     },
     {
       "medicamento_id": "paracetamol-500",
@@ -120,7 +120,7 @@
       "capturas_fallidas": 2,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 30163
+      "mediana_cantidad_con_dias": 34304
     },
     {
       "medicamento_id": "salbutamol-inhalador",
@@ -140,7 +140,7 @@
       "capturas_fallidas": 3,
       "sin_dias_publicados": 0,
       "mediana_cantidad_sin_dias": null,
-      "mediana_cantidad_con_dias": 1612
+      "mediana_cantidad_con_dias": 1404
     }
   ]
 }

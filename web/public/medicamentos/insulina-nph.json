@@ -3,7 +3,7 @@
   "medicamento_nombre": "INSULINA NPH (HUMANA) 100U/ml, suspensión, S.C.",
   "medicamento_termino": "insulina nph",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-19T12:35:04.585Z",
+  "generado_en": "2026-08-19T15:35:05.597Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0506Z",
@@ -116,6 +116,12 @@
     {
       "captura": "2026-08-19/1230Z",
       "capturado_en": "2026-08-19T12:30:06.452Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-19/1530Z",
+      "capturado_en": "2026-08-19T15:30:04.644Z",
       "ok": true,
       "error": null
     }
@@ -302,6 +308,15 @@
           "cantidad_texto": "1,063 viales o ampollas",
           "dias": 22,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1054,
+          "cantidad_texto": "1,054 viales o ampollas",
+          "dias": 22,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -480,6 +495,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 181,
+          "cantidad_texto": "181 viales o ampollas",
+          "dias": 51,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 181,
           "cantidad_texto": "181 viales o ampollas",
@@ -669,6 +693,15 @@
           "cantidad_texto": "1,020 viales o ampollas",
           "dias": 26,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1020,
+          "cantidad_texto": "1,020 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -851,6 +884,15 @@
           "cantidad": 91,
           "cantidad_texto": "91 viales o ampollas",
           "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 viales o ampollas",
+          "dias": 29,
           "dias_no_publicado": false
         }
       ]
@@ -1036,6 +1078,15 @@
           "cantidad_texto": "393 viales o ampollas",
           "dias": 64,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 392,
+          "cantidad_texto": "392 viales o ampollas",
+          "dias": 64,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1214,6 +1265,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 58,
+          "cantidad_texto": "58 viales o ampollas",
+          "dias": 49,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 58,
           "cantidad_texto": "58 viales o ampollas",
@@ -1451,6 +1511,18 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 518,
+          "cantidad_texto": "518 viales o ampollas",
+          "dias": 147,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
         }
       ]
     },
@@ -1633,6 +1705,15 @@
           "estado_captura": "ok",
           "cantidad": 2448,
           "cantidad_texto": "2,448 viales o ampollas",
+          "dias": 77,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 2440,
+          "cantidad_texto": "2,440 viales o ampollas",
           "dias": 77,
           "dias_no_publicado": false
         }
@@ -1819,6 +1900,15 @@
           "cantidad_texto": "790 viales o ampollas",
           "dias": 40,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 784,
+          "cantidad_texto": "784 viales o ampollas",
+          "dias": 40,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1997,6 +2087,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 76,
+          "cantidad_texto": "76 viales o ampollas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 76,
           "cantidad_texto": "76 viales o ampollas",
@@ -2186,6 +2285,15 @@
           "cantidad_texto": "2,311 viales o ampollas",
           "dias": 65,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 2309,
+          "cantidad_texto": "2,309 viales o ampollas",
+          "dias": 65,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2367,6 +2475,15 @@
           "estado_captura": "ok",
           "cantidad": 341,
           "cantidad_texto": "341 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 338,
+          "cantidad_texto": "338 viales o ampollas",
           "dias": 4,
           "dias_no_publicado": false
         }
@@ -2553,6 +2670,15 @@
           "cantidad_texto": "273 viales o ampollas",
           "dias": 9,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 272,
+          "cantidad_texto": "272 viales o ampollas",
+          "dias": 9,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2737,6 +2863,15 @@
           "cantidad_texto": "2,140 viales o ampollas",
           "dias": 83,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 2138,
+          "cantidad_texto": "2,138 viales o ampollas",
+          "dias": 83,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2916,6 +3051,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 179,
+          "cantidad_texto": "179 viales o ampollas",
+          "dias": 51,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 179,
           "cantidad_texto": "179 viales o ampollas",
@@ -3105,6 +3249,15 @@
           "cantidad_texto": "101 viales o ampollas",
           "dias": 2,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 101,
+          "cantidad_texto": "101 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3284,6 +3437,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 viales o ampollas",
+          "dias": 8,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 150,
           "cantidad_texto": "150 viales o ampollas",
@@ -3472,6 +3634,15 @@
           "cantidad_texto": "978 viales o ampollas",
           "dias": 61,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 977,
+          "cantidad_texto": "977 viales o ampollas",
+          "dias": 60,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3656,6 +3827,15 @@
           "cantidad_texto": "259 viales o ampollas",
           "dias": 57,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 257,
+          "cantidad_texto": "257 viales o ampollas",
+          "dias": 56,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3835,6 +4015,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 80,
+          "cantidad_texto": "80 viales o ampollas",
+          "dias": 1,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 80,
           "cantidad_texto": "80 viales o ampollas",
@@ -4024,6 +4213,15 @@
           "cantidad_texto": "497 viales o ampollas",
           "dias": 30,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 496,
+          "cantidad_texto": "496 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -4206,6 +4404,15 @@
           "estado_captura": "ok",
           "cantidad": 1231,
           "cantidad_texto": "1,231 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1229,
+          "cantidad_texto": "1,229 viales o ampollas",
           "dias": 7,
           "dias_no_publicado": false
         }
@@ -4392,6 +4599,15 @@
           "cantidad_texto": "1,015 viales o ampollas",
           "dias": 79,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1029,
+          "cantidad_texto": "1,029 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -4570,6 +4786,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 320,
+          "cantidad_texto": "320 viales o ampollas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 320,
           "cantidad_texto": "320 viales o ampollas",
@@ -4806,6 +5031,18 @@
           "avisos": [
             "Farmacia disponible solo para niños (menores de edad)."
           ]
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 287,
+          "cantidad_texto": "287 viales o ampollas",
+          "dias": 122,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
         }
       ]
     },
@@ -4989,6 +5226,15 @@
           "cantidad_texto": "853 viales o ampollas",
           "dias": 29,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 871,
+          "cantidad_texto": "871 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5168,6 +5414,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 569,
+          "cantidad_texto": "569 viales o ampollas",
+          "dias": 16,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 569,
           "cantidad_texto": "569 viales o ampollas",
@@ -5357,6 +5612,15 @@
           "cantidad_texto": "548 viales o ampollas",
           "dias": 49,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 544,
+          "cantidad_texto": "544 viales o ampollas",
+          "dias": 49,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5539,6 +5803,36 @@
           "cantidad": 208,
           "cantidad_texto": "208 viales o ampollas",
           "dias": 19,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 208,
+          "cantidad_texto": "208 viales o ampollas",
+          "dias": 19,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "GUADALUPE (LA CHORRERA)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Guadalupe",
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "viales o ampollas",
+      "puntos": [
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 viales o ampollas",
+          "dias": 10,
           "dias_no_publicado": false
         }
       ]
@@ -5771,6 +6065,18 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 7,
+          "cantidad_texto": "7 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
         }
       ]
     },
@@ -5955,6 +6261,15 @@
           "cantidad_texto": "629 viales o ampollas",
           "dias": 94,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 528,
+          "cantidad_texto": "528 viales o ampollas",
+          "dias": 79,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -6134,6 +6449,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 1650,
+          "cantidad_texto": "1,650 viales o ampollas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 1650,
           "cantidad_texto": "1,650 viales o ampollas",
@@ -6322,6 +6646,15 @@
           "cantidad_texto": "54 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 54,
+          "cantidad_texto": "54 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -6503,6 +6836,15 @@
           "estado_captura": "ok",
           "cantidad": 480,
           "cantidad_texto": "480 viales o ampollas",
+          "dias": 68,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 478,
+          "cantidad_texto": "478 viales o ampollas",
           "dias": 68,
           "dias_no_publicado": false
         }
@@ -6689,6 +7031,15 @@
           "cantidad_texto": "544 viales o ampollas",
           "dias": 81,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 534,
+          "cantidad_texto": "534 viales o ampollas",
+          "dias": 80,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -6872,6 +7223,15 @@
           "cantidad_texto": "83 viales o ampollas",
           "dias": 5,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 82,
+          "cantidad_texto": "82 viales o ampollas",
+          "dias": 5,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7050,6 +7410,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 83,
+          "cantidad_texto": "83 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 83,
           "cantidad_texto": "83 viales o ampollas",
@@ -7239,6 +7608,15 @@
           "cantidad_texto": "3,480 viales o ampollas",
           "dias": 99,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 3479,
+          "cantidad_texto": "3,479 viales o ampollas",
+          "dias": 99,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7423,6 +7801,15 @@
           "cantidad_texto": "1,156 viales o ampollas",
           "dias": 55,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1153,
+          "cantidad_texto": "1,153 viales o ampollas",
+          "dias": 55,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7602,6 +7989,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 472,
+          "cantidad_texto": "472 viales o ampollas",
+          "dias": 53,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 472,
           "cantidad_texto": "472 viales o ampollas",
@@ -7791,6 +8187,15 @@
           "cantidad_texto": "240 viales o ampollas",
           "dias": 14,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 240,
+          "cantidad_texto": "240 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7975,6 +8380,15 @@
           "cantidad_texto": "260 viales o ampollas",
           "dias": 26,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 760,
+          "cantidad_texto": "760 viales o ampollas",
+          "dias": 76,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -8158,6 +8572,15 @@
           "cantidad_texto": "32 viales o ampollas",
           "dias": 27,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 viales o ampollas",
+          "dias": 26,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -8336,6 +8759,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 400,
+          "cantidad_texto": "400 viales o ampollas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 400,
           "cantidad_texto": "400 viales o ampollas",
@@ -8525,6 +8957,15 @@
           "cantidad_texto": "260 viales o ampollas",
           "dias": 6,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -8703,6 +9144,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 30,
           "cantidad_texto": "30 viales o ampollas",
@@ -8891,6 +9341,15 @@
           "cantidad_texto": "8 viales o ampollas",
           "dias": 7,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 7,
+          "cantidad_texto": "7 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -9075,6 +9534,15 @@
           "cantidad_texto": "691 viales o ampollas",
           "dias": 33,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 682,
+          "cantidad_texto": "682 viales o ampollas",
+          "dias": 32,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -9254,6 +9722,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 100,
           "cantidad_texto": "100 viales o ampollas",
@@ -9443,6 +9920,15 @@
           "cantidad_texto": "803 viales o ampollas",
           "dias": 131,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 802,
+          "cantidad_texto": "802 viales o ampollas",
+          "dias": 131,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -9622,6 +10108,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 267,
+          "cantidad_texto": "267 viales o ampollas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 267,
           "cantidad_texto": "267 viales o ampollas",
@@ -9811,6 +10306,15 @@
           "cantidad_texto": "160 viales o ampollas",
           "dias": 18,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 160,
+          "cantidad_texto": "160 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -9989,6 +10493,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 131,
+          "cantidad_texto": "131 viales o ampollas",
+          "dias": 111,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 131,
           "cantidad_texto": "131 viales o ampollas",
@@ -10178,6 +10691,15 @@
           "cantidad_texto": "330 viales o ampollas",
           "dias": 20,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 330,
+          "cantidad_texto": "330 viales o ampollas",
+          "dias": 20,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -10362,6 +10884,15 @@
           "cantidad_texto": "60 viales o ampollas",
           "dias": 17,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 viales o ampollas",
+          "dias": 17,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -10540,6 +11071,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 36,
+          "cantidad_texto": "36 viales o ampollas",
+          "dias": 31,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 36,
           "cantidad_texto": "36 viales o ampollas",
@@ -10729,6 +11269,15 @@
           "cantidad_texto": "61 viales o ampollas",
           "dias": 26,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 viales o ampollas",
+          "dias": 13,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -10907,6 +11456,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 20,
           "cantidad_texto": "20 viales o ampollas",
@@ -11095,6 +11653,15 @@
           "cantidad_texto": "233 viales o ampollas",
           "dias": 70,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 233,
+          "cantidad_texto": "233 viales o ampollas",
+          "dias": 70,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -11273,6 +11840,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 143,
+          "cantidad_texto": "143 viales o ampollas",
+          "dias": 122,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 143,
           "cantidad_texto": "143 viales o ampollas",
@@ -11461,6 +12037,15 @@
           "cantidad_texto": "100 viales o ampollas",
           "dias": 14,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -11644,6 +12229,15 @@
           "cantidad_texto": "87 viales o ampollas",
           "dias": 19,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 87,
+          "cantidad_texto": "87 viales o ampollas",
+          "dias": 19,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -11723,6 +12317,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 6,
+          "cantidad_texto": "6 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 6,
           "cantidad_texto": "6 viales o ampollas",
@@ -11913,6 +12516,15 @@
           "cantidad_texto": "2,240 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 2240,
+          "cantidad_texto": "2,240 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -12096,18 +12708,27 @@
           "cantidad_texto": "45,511 viales o ampollas",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 44511,
+          "cantidad_texto": "44,511 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     }
   ],
   "metricas": {
-    "instalaciones_atencion": 63,
+    "instalaciones_atencion": 64,
     "bodegas": 2,
-    "capturas_ok": 16,
+    "capturas_ok": 17,
     "capturas_fallidas": 3,
     "sin_dias_publicados": 6,
-    "con_dias_publicados": 57,
+    "con_dias_publicados": 58,
     "mediana_cantidad_sin_dias": 25,
-    "mediana_cantidad_con_dias": 287
+    "mediana_cantidad_con_dias": 304
   }
 }

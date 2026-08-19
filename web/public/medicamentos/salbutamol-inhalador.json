@@ -3,7 +3,7 @@
   "medicamento_nombre": "SALBUTAMOL BASE o SULFATO 100mcg/inhalación, suspensión en aerosol libre de CFC, inhalador con 200-250 dosis, Vía Bucal.",
   "medicamento_termino": "salbutamol",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-19T12:35:04.607Z",
+  "generado_en": "2026-08-19T15:35:05.621Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0522Z",
@@ -110,6 +110,12 @@
     {
       "captura": "2026-08-19/1230Z",
       "capturado_en": "2026-08-19T12:30:06.452Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-19/1530Z",
+      "capturado_en": "2026-08-19T15:30:04.644Z",
       "ok": true,
       "error": null
     }
@@ -287,6 +293,15 @@
           "cantidad_texto": "452 inhaladores",
           "dias": 26,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 inhaladores",
+          "dias": 26,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -456,6 +471,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 179,
+          "cantidad_texto": "179 inhaladores",
+          "dias": 57,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 179,
           "cantidad_texto": "179 inhaladores",
@@ -636,6 +660,15 @@
           "cantidad_texto": "1,198 inhaladores",
           "dias": 32,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1198,
+          "cantidad_texto": "1,198 inhaladores",
+          "dias": 32,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -810,6 +843,15 @@
           "cantidad_texto": "112 inhaladores",
           "dias": 102,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 112,
+          "cantidad_texto": "112 inhaladores",
+          "dias": 102,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -979,6 +1021,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 120,
+          "cantidad_texto": "120 inhaladores",
+          "dias": 109,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 120,
           "cantidad_texto": "120 inhaladores",
@@ -1159,6 +1210,15 @@
           "cantidad_texto": "307 inhaladores",
           "dias": 279,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 307,
+          "cantidad_texto": "307 inhaladores",
+          "dias": 279,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -1332,6 +1392,15 @@
           "cantidad": 240,
           "cantidad_texto": "240 inhaladores",
           "dias": 73,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 238,
+          "cantidad_texto": "238 inhaladores",
+          "dias": 72,
           "dias_no_publicado": false
         }
       ]
@@ -1556,6 +1625,18 @@
           "avisos": [
             "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
           ]
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 701,
+          "cantidad_texto": "701 inhaladores",
+          "dias": 163,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
         }
       ]
     },
@@ -1730,6 +1811,15 @@
           "cantidad": 1460,
           "cantidad_texto": "1,460 inhaladores",
           "dias": 83,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1450,
+          "cantidad_texto": "1,450 inhaladores",
+          "dias": 82,
           "dias_no_publicado": false
         }
       ]
@@ -1906,6 +1996,15 @@
           "cantidad_texto": "448 inhaladores",
           "dias": 44,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 447,
+          "cantidad_texto": "447 inhaladores",
+          "dias": 44,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2075,6 +2174,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 37,
+          "cantidad_texto": "37 inhaladores",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 37,
           "cantidad_texto": "37 inhaladores",
@@ -2255,6 +2363,15 @@
           "cantidad_texto": "1,039 inhaladores",
           "dias": 50,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1039,
+          "cantidad_texto": "1,039 inhaladores",
+          "dias": 50,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2424,6 +2541,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 977,
+          "cantidad_texto": "977 inhaladores",
+          "dias": 12,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 977,
           "cantidad_texto": "977 inhaladores",
@@ -2604,6 +2730,15 @@
           "cantidad_texto": "984 inhaladores",
           "dias": 98,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 983,
+          "cantidad_texto": "983 inhaladores",
+          "dias": 98,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2779,6 +2914,15 @@
           "cantidad_texto": "1,377 inhaladores",
           "dias": 87,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1376,
+          "cantidad_texto": "1,376 inhaladores",
+          "dias": 87,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -2949,6 +3093,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 62,
+          "cantidad_texto": "62 inhaladores",
+          "dias": 56,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 62,
           "cantidad_texto": "62 inhaladores",
@@ -3129,6 +3282,15 @@
           "cantidad_texto": "320 inhaladores",
           "dias": 31,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 320,
+          "cantidad_texto": "320 inhaladores",
+          "dias": 31,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3299,6 +3461,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 630,
+          "cantidad_texto": "630 inhaladores",
+          "dias": 55,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 630,
           "cantidad_texto": "630 inhaladores",
@@ -3478,6 +3649,15 @@
           "cantidad_texto": "235 inhaladores",
           "dias": 33,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 232,
+          "cantidad_texto": "232 inhaladores",
+          "dias": 32,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -3648,6 +3828,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 850,
+          "cantidad_texto": "850 inhaladores",
+          "dias": 70,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 850,
           "cantidad_texto": "850 inhaladores",
@@ -3828,6 +4017,15 @@
           "cantidad_texto": "1,718 inhaladores",
           "dias": 174,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1718,
+          "cantidad_texto": "1,718 inhaladores",
+          "dias": 174,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -4003,6 +4201,15 @@
           "cantidad_texto": "833 inhaladores",
           "dias": 57,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 831,
+          "cantidad_texto": "831 inhaladores",
+          "dias": 57,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -4173,6 +4380,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 1559,
+          "cantidad_texto": "1,559 inhaladores",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 1559,
           "cantidad_texto": "1,559 inhaladores",
@@ -4353,6 +4569,15 @@
           "cantidad_texto": "908 inhaladores",
           "dias": 106,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 906,
+          "cantidad_texto": "906 inhaladores",
+          "dias": 106,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -4526,6 +4751,15 @@
           "cantidad": 7,
           "cantidad_texto": "7 inhaladores",
           "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 167,
+          "cantidad_texto": "167 inhaladores",
+          "dias": 80,
           "dias_no_publicado": false
         }
       ]
@@ -4749,6 +4983,18 @@
           "avisos": [
             "Farmacia disponible solo para niños (menores de edad)."
           ]
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1493,
+          "cantidad_texto": "1,493 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
         }
       ]
     },
@@ -4923,6 +5169,15 @@
           "cantidad_texto": "654 inhaladores",
           "dias": 42,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 653,
+          "cantidad_texto": "653 inhaladores",
+          "dias": 42,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5093,6 +5348,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 367,
+          "cantidad_texto": "367 inhaladores",
+          "dias": 32,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 367,
           "cantidad_texto": "367 inhaladores",
@@ -5273,6 +5537,15 @@
           "cantidad_texto": "430 inhaladores",
           "dias": 43,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 428,
+          "cantidad_texto": "428 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5447,6 +5720,36 @@
           "cantidad_texto": "477 inhaladores",
           "dias": 76,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 476,
+          "cantidad_texto": "476 inhaladores",
+          "dias": 76,
+          "dias_no_publicado": false
+        }
+      ]
+    },
+    {
+      "nombre": "GUADALUPE (LA CHORRERA)",
+      "es_bodega": false,
+      "provincia": "Panamá Oeste",
+      "corregimiento": "Guadalupe",
+      "etiquetas": [
+        "ULAPS"
+      ],
+      "unidad": "inhaladores",
+      "puntos": [
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 inhaladores",
+          "dias": 45,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5616,6 +5919,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 40,
           "cantidad_texto": "40 inhaladores",
@@ -5796,6 +6108,15 @@
           "cantidad_texto": "1,081 inhaladores",
           "dias": 57,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1078,
+          "cantidad_texto": "1,078 inhaladores",
+          "dias": 57,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -5966,6 +6287,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 2536,
+          "cantidad_texto": "2,536 inhaladores",
+          "dias": 46,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 2536,
           "cantidad_texto": "2,536 inhaladores",
@@ -6145,6 +6475,15 @@
           "cantidad_texto": "47 inhaladores",
           "dias": 43,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 47,
+          "cantidad_texto": "47 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -6319,6 +6658,15 @@
           "cantidad_texto": "20 inhaladores",
           "dias": 18,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 10,
+          "cantidad_texto": "10 inhaladores",
+          "dias": 9,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -6488,6 +6836,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 158,
+          "cantidad_texto": "158 inhaladores",
+          "dias": 72,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 158,
           "cantidad_texto": "158 inhaladores",
@@ -6668,6 +7025,15 @@
           "cantidad_texto": "351 inhaladores",
           "dias": 84,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 350,
+          "cantidad_texto": "350 inhaladores",
+          "dias": 84,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -6842,6 +7208,15 @@
           "cantidad_texto": "110 inhaladores",
           "dias": 33,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 110,
+          "cantidad_texto": "110 inhaladores",
+          "dias": 33,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7011,6 +7386,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 60,
           "cantidad_texto": "60 inhaladores",
@@ -7191,6 +7575,15 @@
           "cantidad_texto": "1,255 inhaladores",
           "dias": 60,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1255,
+          "cantidad_texto": "1,255 inhaladores",
+          "dias": 60,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7366,6 +7759,15 @@
           "cantidad_texto": "1,627 inhaladores",
           "dias": 68,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 1615,
+          "cantidad_texto": "1,615 inhaladores",
+          "dias": 68,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7536,6 +7938,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 35,
+          "cantidad_texto": "35 inhaladores",
+          "dias": 12,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 35,
           "cantidad_texto": "35 inhaladores",
@@ -7716,6 +8127,15 @@
           "cantidad_texto": "260 inhaladores",
           "dias": 124,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 260,
+          "cantidad_texto": "260 inhaladores",
+          "dias": 124,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -7891,6 +8311,15 @@
           "cantidad_texto": "300 inhaladores",
           "dias": 34,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 900,
+          "cantidad_texto": "900 inhaladores",
+          "dias": 102,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -8065,6 +8494,15 @@
           "cantidad_texto": "38 inhaladores",
           "dias": 35,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 38,
+          "cantidad_texto": "38 inhaladores",
+          "dias": 35,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -8234,6 +8672,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 220,
+          "cantidad_texto": "220 inhaladores",
+          "dias": 105,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 220,
           "cantidad_texto": "220 inhaladores",
@@ -8414,6 +8861,15 @@
           "cantidad_texto": "261 inhaladores",
           "dias": 13,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 261,
+          "cantidad_texto": "261 inhaladores",
+          "dias": 13,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -8588,6 +9044,15 @@
           "cantidad_texto": "17 inhaladores",
           "dias": 15,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 17,
+          "cantidad_texto": "17 inhaladores",
+          "dias": 15,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -8757,6 +9222,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 57,
+          "cantidad_texto": "57 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 57,
           "cantidad_texto": "57 inhaladores",
@@ -8937,6 +9411,15 @@
           "cantidad_texto": "962 inhaladores",
           "dias": 80,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 968,
+          "cantidad_texto": "968 inhaladores",
+          "dias": 80,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -9107,6 +9590,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 80,
+          "cantidad_texto": "80 inhaladores",
+          "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 80,
           "cantidad_texto": "80 inhaladores",
@@ -9287,6 +9779,15 @@
           "cantidad_texto": "268 inhaladores",
           "dias": 62,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 268,
+          "cantidad_texto": "268 inhaladores",
+          "dias": 62,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -9460,6 +9961,15 @@
           "estado_captura": "ok",
           "cantidad": 428,
           "cantidad_texto": "428 inhaladores",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 427,
+          "cantidad_texto": "427 inhaladores",
           "dias": 65,
           "dias_no_publicado": false
         }
@@ -9637,6 +10147,15 @@
           "cantidad_texto": "122 inhaladores",
           "dias": 18,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 122,
+          "cantidad_texto": "122 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -9806,6 +10325,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 336,
+          "cantidad_texto": "336 inhaladores",
+          "dias": 305,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 336,
           "cantidad_texto": "336 inhaladores",
@@ -9986,6 +10514,15 @@
           "cantidad_texto": "145 inhaladores",
           "dias": 25,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 145,
+          "cantidad_texto": "145 inhaladores",
+          "dias": 25,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -10161,6 +10698,15 @@
           "cantidad_texto": "70 inhaladores",
           "dias": 32,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 70,
+          "cantidad_texto": "70 inhaladores",
+          "dias": 32,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -10330,6 +10876,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 18,
+          "cantidad_texto": "18 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 18,
           "cantidad_texto": "18 inhaladores",
@@ -10510,6 +11065,15 @@
           "cantidad_texto": "797 inhaladores",
           "dias": 69,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 493,
+          "cantidad_texto": "493 inhaladores",
+          "dias": 43,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -10679,6 +11243,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 20,
           "cantidad_texto": "20 inhaladores",
@@ -10858,6 +11431,15 @@
           "cantidad_texto": "152 inhaladores",
           "dias": 138,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 172,
+          "cantidad_texto": "172 inhaladores",
+          "dias": 156,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -11027,6 +11609,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 93,
+          "cantidad_texto": "93 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 93,
           "cantidad_texto": "93 inhaladores",
@@ -11206,6 +11797,15 @@
           "cantidad_texto": "30 inhaladores",
           "dias": 27,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 30,
+          "cantidad_texto": "30 inhaladores",
+          "dias": 27,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -11375,6 +11975,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 inhaladores",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 40,
           "cantidad_texto": "40 inhaladores",
@@ -11554,6 +12163,15 @@
           "cantidad_texto": "124 inhaladores",
           "dias": 43,
           "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 94,
+          "cantidad_texto": "94 inhaladores",
+          "dias": 33,
+          "dias_no_publicado": false
         }
       ]
     },
@@ -11723,6 +12341,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 14,
+          "cantidad_texto": "14 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 14,
           "cantidad_texto": "14 inhaladores",
@@ -11904,6 +12531,15 @@
           "cantidad_texto": "4,191 inhaladores",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 4191,
+          "cantidad_texto": "4,191 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -12073,6 +12709,15 @@
         {
           "captura": "2026-08-19/1230Z",
           "capturado_en": "2026-08-19T12:30:06.452Z",
+          "estado_captura": "ok",
+          "cantidad": 4433,
+          "cantidad_texto": "4,433 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
           "estado_captura": "ok",
           "cantidad": 4433,
           "cantidad_texto": "4,433 inhaladores",
@@ -12252,6 +12897,15 @@
           "cantidad_texto": "51,944 inhaladores",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 51944,
+          "cantidad_texto": "51,944 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     },
@@ -12426,18 +13080,27 @@
           "cantidad_texto": "45 inhaladores",
           "dias": null,
           "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/1530Z",
+          "capturado_en": "2026-08-19T15:30:04.644Z",
+          "estado_captura": "ok",
+          "cantidad": 45,
+          "cantidad_texto": "45 inhaladores",
+          "dias": null,
+          "dias_no_publicado": true
         }
       ]
     }
   ],
   "metricas": {
-    "instalaciones_atencion": 66,
+    "instalaciones_atencion": 67,
     "bodegas": 4,
-    "capturas_ok": 16,
+    "capturas_ok": 17,
     "capturas_fallidas": 2,
     "sin_dias_publicados": 6,
-    "con_dias_publicados": 60,
+    "con_dias_publicados": 61,
     "mediana_cantidad_sin_dias": 49,
-    "mediana_cantidad_con_dias": 314
+    "mediana_cantidad_con_dias": 320
   }
 }

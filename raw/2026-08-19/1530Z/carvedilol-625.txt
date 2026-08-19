@@ -1,0 +1,202 @@
+Búsqueda de Medicamentos
+Mi Farma Digital
+Ir al inicio
+Plataforma Nacional de Consulta y Abastecimiento de Medicamentos CSS Panamá
+Menú principal
+565
+
+Medicamentos cubiertos por la Caja de Seguro Social — Lista Oficial de Medicamentos (LOM)
+
+Ver lista oficial de medicamentos
+94%
+De medicamentos disponibles
+
+532 en existencia de 565
+
+Corresponde a la proporción de medicamentos de la Lista Oficial que están disponibles.
+
+Óptimo por encima de 90%
+
+Cómo se calcula
+56 días
+de abastecimiento
+
+Estimación basada en el ritmo de utilización reciente de los medicamentos.
+
+Cómo se calcula
+Busque su medicamento
+
+Escriba el nombre y seleccione de la lista, o filtre por provincia y unidad
+
+Limpiar
+FILTRAR POR
+Todas las provincias
+Bocas del Toro
+Chiriquí
+Coclé
+Colón
+Herrera
+Los Santos
+Panamá
+Panamá Oeste
+Veraguas
+Tipo de unidad ejecutora: Todas
+CAPPS y ULAPS
+Policlínicas Básicas
+Policlínicas Especializadas
+Policl. Esp. con Cirugía
+Hospitales
+Nombre de la unidad ejecutora (elija provincia)
+Medicamento Disponible
+CARVEDILOL 6.25mg, tableta, V.O.
+¿Este medicamento puede recetarse fuera del sistema CSS-MINSA? Sí
+Nombres comerciales (4):
+CARVEDILOL NORMON 6,25 MG COMPRIMIDOS EFG
+CORYOL 6.25 MG TABLETAS
+CARVEDILOL 6.25 MG TABLETAS
+CARVEDILOL 6.25 MG TABLETAS RECUBIERTAS
+Se suministra en: CAPPS/ULAPS, Policlínicas básicas, Policlínicas especializadas, Policlínicas con cirugía, Hospitales
+
+Recuerde que no todos los medicamentos están disponibles en todos los tipos de unidades ejecutoras, por su especialización.
+
+¿Para qué sirve este medicamento?
+Indicaciones: Insuficiencia cardiaca congestiva compensada.
+Restricciones de uso: Cardiología de Adulto, Cardiología Pediátrica, Medicina Interna, Medicina Familiar, Geriatría, Medicina General con Protocolo del especialista para continuidad de tratamiento. Médicos Generales del Programa SADI podrán llenar el protocolo para continuidad del tratamiento
+COMPLEJO HOSPITALARIO DR. ARNULFO ARIAS MADRID
+El Complejo
+Hospital
+Panamá · Transístmica
+Cantidad en inventario: 376,992 pastillas - cápsulas
+Días de abastecimiento: 78 días
+DON GENEROSO GUARDIA (SANTA LIBRADA)
+Pol. de Santa Librada
+Policlinica
+Panamá · Santa Librada
+Cantidad en inventario: 121,750 pastillas - cápsulas
+Días de abastecimiento: 25 días
+DR. MANUEL AMADOR GUERRERO
+Hosp. Amador Guerrero
+Hospital
+Colón · Coco Solo
+Cantidad en inventario: 71,364 pastillas - cápsulas
+Días de abastecimiento: 106 días
+PRESIDENTE REMÓN
+PPR
+Policlinica
+Panamá · Calle 17
+Cantidad en inventario: 55,590 pastillas - cápsulas
+Días de abastecimiento: 18 días
+HORACIO DÍAZ GÓMEZ
+Pol. de Santiago
+Policlinica
+Veraguas · Santiago
+Cantidad en inventario: 39,445 pastillas - cápsulas
+Días de abastecimiento: 16 días
+DR. CARLOS N. BRIN (SAN FRANCISCO)
+Pol. de San Fco.
+Policlinica
+Panamá · San Francisco
+Cantidad en inventario: 37,668 pastillas - cápsulas
+Días de abastecimiento: 20 días
+DR. EDILBERTO CULIOLIS (LAS CUMBRES)
+Pol. las Cumbres
+Policlinica
+Panamá · Las Cumbres
+Cantidad en inventario: 36,700 pastillas - cápsulas
+Días de abastecimiento: 45 días
+MANUEL MARÍA VALDÉS (SAN MIGUELITO)
+Pol. de San Miguelito
+Policlinica
+Panamá · Veranillo
+Cantidad en inventario: 34,395 pastillas - cápsulas
+Días de abastecimiento: 14 días
+DR. EZEQUIEL ABADÍA
+Hosp. de Soná
+Hospital
+Veraguas · Soná
+Cantidad en inventario: 14,054 pastillas - cápsulas
+Días de abastecimiento: 8 días
+REGIONAL DE CHEPO
+Hosp. de Chepo
+Hospital
+Panamá · Chepo
+Cantidad en inventario: 12,031 pastillas - cápsulas
+Días de abastecimiento: 10 días
+CIUDAD DE LA SALUD
+CIDELAS
+Hospital
+Panamá · Centenario
+Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).
+Cantidad en inventario: 11,312 pastillas - cápsulas
+Días de abastecimiento: 5 días
+LAURENCIO JAÉN OCAÑA (SABANITAS)
+Pol. de Sabanitas
+Policlinica
+Colón · Sabanitas
+Cantidad en inventario: 10,830 pastillas - cápsulas
+Días de abastecimiento: 18 días
+ALEJANDRO DE LA GUARDIA (BETANIA)
+Pol. de Betania
+Policlinica
+Panamá · Betania
+Cantidad en inventario: 8,235 pastillas - cápsulas
+Días de abastecimiento: 4 días
+ROBERTO RAMÍREZ DE DIEGO (CHITRÉ)
+Pol. de Chitré
+Policlinica
+Herrera · Chitré
+Cantidad en inventario: 5,560 pastillas - cápsulas
+Días de abastecimiento: 2 días
+LAS ACACIAS (PLAZA TOCUMEN)
+ULAPS
+Panamá · Plaza Tocumen
+Cantidad en inventario: 2,512 pastillas - cápsulas
+Días de abastecimiento: 9 días
+DR. GUSTAVO NELSON COLLADO (CHITRÉ)
+Hosp. de Chitré
+Hospital
+Herrera · Chitré
+Cantidad en inventario: 2,240 pastillas - cápsulas
+Días de abastecimiento: menos de 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+Bodega PANAMÁ
+Bodega
+Panamá
+Cantidad en inventario: 2,184 pastillas - cápsulas
+JUAN AGUILAR (LAS TABLAS)
+ULAPS
+Bocas del Toro
+Cantidad en inventario: 1,200 pastillas - cápsulas
+Días de abastecimiento: 24 días
+HOGAR DE LA ESPERANZA (VERACRUZ)
+Hospital
+Panamá Oeste
+Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados).
+Cantidad en inventario: 573 pastillas - cápsulas
+Días de abastecimiento: 130 días
+LOS NOGALES
+CAPPS
+Panamá · Los Nogales
+Cantidad en inventario: 250 pastillas - cápsulas
+Días de abastecimiento: 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+ESPECIALIDADES PEDIÁTRICAS (HEPOTH)
+Hospital
+Panamá
+Farmacia disponible solo para niños (menores de edad).
+Cantidad en inventario: 84 pastillas - cápsulas
+Días de abastecimiento: 13 días
+DRA. CECILIA GUERRA (SAN ANTONIO)
+Pol. de San Antonio (Dra. Cecilia Guerra)
+Policlinica
+Panamá · San Antonio
+Cantidad en inventario: 60 pastillas - cápsulas
+Días de abastecimiento: menos de 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+CHIRIQUÍ GRANDE
+Hospital
+Bocas del Toro · Chiriquí Grande
+Cantidad en inventario: 12 pastillas - cápsulas
+Días de abastecimiento: menos de 1 día
+Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento.
+Volver a los resultados

@@ -1,0 +1,133 @@
+{
+  "captura_id": "2026-08-19T2000Z",
+  "capturado_en": "2026-08-19T20:00:01.640Z",
+  "portada": {},
+  "resumen": [
+    {
+      "id": "paracetamol-500",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "insulina-glargina",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "insulina-lispro",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "insulina-nph",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "insulina-regular",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "carbamazepina-200",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "metformina-850",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "amlodipina-5",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "carvedilol-625",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "hidroclorotiazida-triamtereno",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "levotiroxina-01",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "warfarina-5",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "fluoxetina-20",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "salbutamol-inhalador",
+      "ok": false,
+      "etapa": "inicio",
+      "estado": null,
+      "instalaciones": 0,
+      "calidad": null,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
+}

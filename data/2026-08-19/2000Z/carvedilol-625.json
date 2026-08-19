@@ -1,0 +1,11 @@
+{
+  "captura_id": "2026-08-19T2000Z",
+  "capturado_en": "2026-08-19T20:00:01.640Z",
+  "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
+  "medicamento_id": "carvedilol-625",
+  "medicamento_termino": "carvedilol",
+  "medicamento_nombre": "CARVEDILOL 6.25mg, tableta, V.O.",
+  "ok": false,
+  "etapa": "inicio",
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+}

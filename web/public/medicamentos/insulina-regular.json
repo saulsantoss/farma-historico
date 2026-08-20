@@ -3,7 +3,7 @@
   "medicamento_nombre": "INSULINA REGULAR (HUMANA) 100U/ml, solución, S.C., I.V.",
   "medicamento_termino": "insulina regular",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-19T21:35:06.435Z",
+  "generado_en": "2026-08-20T00:35:09.168Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0506Z",
@@ -138,8 +138,26 @@
       "error": null
     },
     {
+      "captura": "2026-08-19/2000Z",
+      "capturado_en": "2026-08-19T20:00:01.640Z",
+      "ok": false,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
       "captura": "2026-08-19/2130Z",
       "capturado_en": "2026-08-19T21:30:07.096Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-19/2300Z",
+      "capturado_en": "2026-08-19T23:00:01.514Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-20/0030Z",
+      "capturado_en": "2026-08-20T00:30:07.183Z",
       "ok": true,
       "error": null
     }
@@ -355,11 +373,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 625,
           "cantidad_texto": "625 viales o ampollas",
+          "dias": 59,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 623,
+          "cantidad_texto": "623 viales o ampollas",
+          "dias": 59,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 623,
+          "cantidad_texto": "623 viales o ampollas",
           "dias": 59,
           "dias_no_publicado": false
         }
@@ -574,8 +619,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 86,
+          "cantidad_texto": "86 viales o ampollas",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 86,
+          "cantidad_texto": "86 viales o ampollas",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 86,
           "cantidad_texto": "86 viales o ampollas",
@@ -794,8 +866,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 600,
+          "cantidad_texto": "600 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 600,
           "cantidad_texto": "600 viales o ampollas",
@@ -1013,8 +1112,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 42,
+          "cantidad_texto": "42 viales o ampollas",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 42,
+          "cantidad_texto": "42 viales o ampollas",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 42,
           "cantidad_texto": "42 viales o ampollas",
@@ -1233,8 +1359,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 viales o ampollas",
+          "dias": 128,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 300,
+          "cantidad_texto": "300 viales o ampollas",
+          "dias": 128,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 300,
           "cantidad_texto": "300 viales o ampollas",
@@ -1452,8 +1605,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 43,
+          "cantidad_texto": "43 viales o ampollas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 43,
+          "cantidad_texto": "43 viales o ampollas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 43,
           "cantidad_texto": "43 viales o ampollas",
@@ -1732,8 +1912,41 @@
           ]
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 301,
+          "cantidad_texto": "301 viales o ampollas",
+          "dias": 128,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 301,
+          "cantidad_texto": "301 viales o ampollas",
+          "dias": 128,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 301,
           "cantidad_texto": "301 viales o ampollas",
@@ -1955,8 +2168,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 1151,
+          "cantidad_texto": "1,151 viales o ampollas",
+          "dias": 75,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 1151,
+          "cantidad_texto": "1,151 viales o ampollas",
+          "dias": 75,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 1151,
           "cantidad_texto": "1,151 viales o ampollas",
@@ -2175,8 +2415,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 374,
+          "cantidad_texto": "374 viales o ampollas",
+          "dias": 61,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 374,
+          "cantidad_texto": "374 viales o ampollas",
+          "dias": 61,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 374,
           "cantidad_texto": "374 viales o ampollas",
@@ -2394,8 +2661,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 viales o ampollas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 20,
+          "cantidad_texto": "20 viales o ampollas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 20,
           "cantidad_texto": "20 viales o ampollas",
@@ -2614,8 +2908,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 1095,
+          "cantidad_texto": "1,095 viales o ampollas",
+          "dias": 70,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 1095,
+          "cantidad_texto": "1,095 viales o ampollas",
+          "dias": 70,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 1095,
           "cantidad_texto": "1,095 viales o ampollas",
@@ -2833,8 +3154,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 498,
+          "cantidad_texto": "498 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 498,
+          "cantidad_texto": "498 viales o ampollas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 498,
           "cantidad_texto": "498 viales o ampollas",
@@ -3053,8 +3401,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 308,
+          "cantidad_texto": "308 viales o ampollas",
+          "dias": 24,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 308,
+          "cantidad_texto": "308 viales o ampollas",
+          "dias": 24,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 308,
           "cantidad_texto": "308 viales o ampollas",
@@ -3273,12 +3648,39 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 993,
           "cantidad_texto": "993 viales o ampollas",
           "dias": 141,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 1018,
+          "cantidad_texto": "1,018 viales o ampollas",
+          "dias": 144,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 1018,
+          "cantidad_texto": "1,018 viales o ampollas",
+          "dias": 144,
           "dias_no_publicado": false
         }
       ]
@@ -3493,8 +3895,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 125,
+          "cantidad_texto": "125 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 125,
+          "cantidad_texto": "125 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 125,
           "cantidad_texto": "125 viales o ampollas",
@@ -3713,8 +4142,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 119,
+          "cantidad_texto": "119 viales o ampollas",
+          "dias": 8,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 119,
+          "cantidad_texto": "119 viales o ampollas",
+          "dias": 8,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 119,
           "cantidad_texto": "119 viales o ampollas",
@@ -3933,8 +4389,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 viales o ampollas",
+          "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 viales o ampollas",
+          "dias": 3,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 90,
           "cantidad_texto": "90 viales o ampollas",
@@ -4152,8 +4635,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 235,
+          "cantidad_texto": "235 viales o ampollas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 235,
+          "cantidad_texto": "235 viales o ampollas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 235,
           "cantidad_texto": "235 viales o ampollas",
@@ -4372,8 +4882,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 168,
+          "cantidad_texto": "168 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 168,
+          "cantidad_texto": "168 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 168,
           "cantidad_texto": "168 viales o ampollas",
@@ -4592,12 +5129,39 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 363,
           "cantidad_texto": "363 viales o ampollas",
           "dias": 309,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 362,
+          "cantidad_texto": "362 viales o ampollas",
+          "dias": 308,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 362,
+          "cantidad_texto": "362 viales o ampollas",
+          "dias": 308,
           "dias_no_publicado": false
         }
       ]
@@ -4812,8 +5376,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 100,
+          "cantidad_texto": "100 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 100,
           "cantidad_texto": "100 viales o ampollas",
@@ -5032,8 +5623,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 248,
+          "cantidad_texto": "248 viales o ampollas",
+          "dias": 32,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 248,
+          "cantidad_texto": "248 viales o ampollas",
+          "dias": 32,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 248,
           "cantidad_texto": "248 viales o ampollas",
@@ -5252,11 +5870,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 312,
           "cantidad_texto": "312 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 310,
+          "cantidad_texto": "310 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 310,
+          "cantidad_texto": "310 viales o ampollas",
           "dias": 4,
           "dias_no_publicado": false
         }
@@ -5472,8 +6117,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 150,
+          "cantidad_texto": "150 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 150,
           "cantidad_texto": "150 viales o ampollas",
@@ -5691,8 +6363,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 124,
+          "cantidad_texto": "124 viales o ampollas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 124,
+          "cantidad_texto": "124 viales o ampollas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 124,
           "cantidad_texto": "124 viales o ampollas",
@@ -5970,8 +6669,41 @@
           ]
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 325,
+          "cantidad_texto": "325 viales o ampollas",
+          "dias": 106,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 325,
+          "cantidad_texto": "325 viales o ampollas",
+          "dias": 106,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 325,
           "cantidad_texto": "325 viales o ampollas",
@@ -6192,11 +6924,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 400,
           "cantidad_texto": "400 viales o ampollas",
+          "dias": 16,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 396,
+          "cantidad_texto": "396 viales o ampollas",
+          "dias": 16,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 396,
+          "cantidad_texto": "396 viales o ampollas",
           "dias": 16,
           "dias_no_publicado": false
         }
@@ -6412,8 +7171,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 816,
+          "cantidad_texto": "816 viales o ampollas",
+          "dias": 58,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 816,
+          "cantidad_texto": "816 viales o ampollas",
+          "dias": 58,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 816,
           "cantidad_texto": "816 viales o ampollas",
@@ -6632,8 +7418,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 291,
+          "cantidad_texto": "291 viales o ampollas",
+          "dias": 41,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 291,
+          "cantidad_texto": "291 viales o ampollas",
+          "dias": 41,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 291,
           "cantidad_texto": "291 viales o ampollas",
@@ -6851,8 +7664,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 134,
+          "cantidad_texto": "134 viales o ampollas",
+          "dias": 38,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 134,
+          "cantidad_texto": "134 viales o ampollas",
+          "dias": 38,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 134,
           "cantidad_texto": "134 viales o ampollas",
@@ -7130,8 +7970,41 @@
           ]
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 8,
+          "cantidad_texto": "8 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 8,
+          "cantidad_texto": "8 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 8,
           "cantidad_texto": "8 viales o ampollas",
@@ -7353,8 +8226,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 141,
+          "cantidad_texto": "141 viales o ampollas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 141,
+          "cantidad_texto": "141 viales o ampollas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 141,
           "cantidad_texto": "141 viales o ampollas",
@@ -7573,8 +8473,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 755,
+          "cantidad_texto": "755 viales o ampollas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 755,
+          "cantidad_texto": "755 viales o ampollas",
+          "dias": 54,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 755,
           "cantidad_texto": "755 viales o ampollas",
@@ -7792,8 +8719,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 48,
+          "cantidad_texto": "48 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 48,
+          "cantidad_texto": "48 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 48,
           "cantidad_texto": "48 viales o ampollas",
@@ -8017,8 +8971,41 @@
           ]
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 8,
+          "cantidad_texto": "8 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
+          ]
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 8,
+          "cantidad_texto": "8 viales o ampollas",
+          "dias": 2,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Existencia muy baja para su ritmo de entrega diario: puede agotarse en cualquier momento. Considere ir a otra unidad de servicio que tenga mayor abastecimiento."
+          ]
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 8,
           "cantidad_texto": "8 viales o ampollas",
@@ -8240,8 +9227,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 217,
+          "cantidad_texto": "217 viales o ampollas",
+          "dias": 92,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 217,
+          "cantidad_texto": "217 viales o ampollas",
+          "dias": 92,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 217,
           "cantidad_texto": "217 viales o ampollas",
@@ -8459,8 +9473,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 163,
+          "cantidad_texto": "163 viales o ampollas",
+          "dias": 24,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 163,
+          "cantidad_texto": "163 viales o ampollas",
+          "dias": 24,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 163,
           "cantidad_texto": "163 viales o ampollas",
@@ -8678,8 +9719,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 53,
+          "cantidad_texto": "53 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 53,
+          "cantidad_texto": "53 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 53,
           "cantidad_texto": "53 viales o ampollas",
@@ -8898,11 +9966,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 714,
           "cantidad_texto": "714 viales o ampollas",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 714,
+          "cantidad_texto": "714 viales o ampollas",
+          "dias": 39,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 713,
+          "cantidad_texto": "713 viales o ampollas",
           "dias": 39,
           "dias_no_publicado": false
         }
@@ -9118,11 +10213,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 310,
           "cantidad_texto": "310 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 309,
+          "cantidad_texto": "309 viales o ampollas",
+          "dias": 35,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 309,
+          "cantidad_texto": "309 viales o ampollas",
           "dias": 35,
           "dias_no_publicado": false
         }
@@ -9338,8 +10460,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 90,
+          "cantidad_texto": "90 viales o ampollas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 90,
           "cantidad_texto": "90 viales o ampollas",
@@ -9557,8 +10706,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 61,
+          "cantidad_texto": "61 viales o ampollas",
+          "dias": 55,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 61,
+          "cantidad_texto": "61 viales o ampollas",
+          "dias": 55,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 61,
           "cantidad_texto": "61 viales o ampollas",
@@ -9776,8 +10952,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 29,
+          "cantidad_texto": "29 viales o ampollas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 29,
+          "cantidad_texto": "29 viales o ampollas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 29,
           "cantidad_texto": "29 viales o ampollas",
@@ -9996,8 +11199,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 162,
+          "cantidad_texto": "162 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 162,
+          "cantidad_texto": "162 viales o ampollas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 162,
           "cantidad_texto": "162 viales o ampollas",
@@ -10216,8 +11446,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 60,
+          "cantidad_texto": "60 viales o ampollas",
+          "dias": 4,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 60,
           "cantidad_texto": "60 viales o ampollas",
@@ -10436,8 +11693,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 594,
+          "cantidad_texto": "594 viales o ampollas",
+          "dias": 78,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 594,
+          "cantidad_texto": "594 viales o ampollas",
+          "dias": 78,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 594,
           "cantidad_texto": "594 viales o ampollas",
@@ -10656,8 +11940,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 169,
+          "cantidad_texto": "169 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 169,
+          "cantidad_texto": "169 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 169,
           "cantidad_texto": "169 viales o ampollas",
@@ -10876,8 +12187,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 10,
+          "cantidad_texto": "10 viales o ampollas",
+          "dias": 0,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 10,
+          "cantidad_texto": "10 viales o ampollas",
+          "dias": 0,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 10,
           "cantidad_texto": "10 viales o ampollas",
@@ -11095,8 +12433,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 26,
+          "cantidad_texto": "26 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 26,
+          "cantidad_texto": "26 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 26,
           "cantidad_texto": "26 viales o ampollas",
@@ -11315,8 +12680,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 50,
+          "cantidad_texto": "50 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 50,
+          "cantidad_texto": "50 viales o ampollas",
+          "dias": 6,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 50,
           "cantidad_texto": "50 viales o ampollas",
@@ -11535,8 +12927,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 138,
+          "cantidad_texto": "138 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 138,
+          "cantidad_texto": "138 viales o ampollas",
+          "dias": 30,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 138,
           "cantidad_texto": "138 viales o ampollas",
@@ -11754,8 +13173,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 19,
+          "cantidad_texto": "19 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 19,
+          "cantidad_texto": "19 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 19,
           "cantidad_texto": "19 viales o ampollas",
@@ -11971,8 +13417,33 @@
           "dias_no_publicado": null
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "no_listada",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "no_listada",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "no_listada",
           "cantidad": null,
           "dias": null,
@@ -12189,8 +13660,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 40,
+          "cantidad_texto": "40 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 40,
           "cantidad_texto": "40 viales o ampollas",
@@ -12408,8 +13906,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 91,
+          "cantidad_texto": "91 viales o ampollas",
+          "dias": 41,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 91,
+          "cantidad_texto": "91 viales o ampollas",
+          "dias": 41,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 91,
           "cantidad_texto": "91 viales o ampollas",
@@ -12627,8 +14152,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 43,
+          "cantidad_texto": "43 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 43,
+          "cantidad_texto": "43 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 43,
           "cantidad_texto": "43 viales o ampollas",
@@ -12846,8 +14398,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 58,
+          "cantidad_texto": "58 viales o ampollas",
+          "dias": 49,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 58,
+          "cantidad_texto": "58 viales o ampollas",
+          "dias": 49,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 58,
           "cantidad_texto": "58 viales o ampollas",
@@ -13065,8 +14644,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 1,
+          "cantidad_texto": "1 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 1,
+          "cantidad_texto": "1 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 1,
           "cantidad_texto": "1 viales o ampollas",
@@ -13286,8 +14892,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 2570,
+          "cantidad_texto": "2,570 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 2570,
+          "cantidad_texto": "2,570 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 2570,
           "cantidad_texto": "2,570 viales o ampollas",
@@ -13505,8 +15138,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 8195,
+          "cantidad_texto": "8,195 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 8195,
+          "cantidad_texto": "8,195 viales o ampollas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 8195,
           "cantidad_texto": "8,195 viales o ampollas",
@@ -13519,8 +15179,8 @@
   "metricas": {
     "instalaciones_atencion": 58,
     "bodegas": 2,
-    "capturas_ok": 21,
-    "capturas_fallidas": 2,
+    "capturas_ok": 23,
+    "capturas_fallidas": 3,
     "sin_dias_publicados": 8,
     "con_dias_publicados": 50,
     "mediana_cantidad_sin_dias": 33,

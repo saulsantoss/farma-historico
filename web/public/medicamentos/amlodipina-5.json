@@ -3,7 +3,7 @@
   "medicamento_nombre": "AMLODIPINA 5mg, tableta, V.O.",
   "medicamento_termino": "amlodipina",
   "fuente": "https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica",
-  "generado_en": "2026-08-19T21:35:06.441Z",
+  "generado_en": "2026-08-20T00:35:09.177Z",
   "capturas_analizadas": [
     {
       "captura": "2026-08-18/0522Z",
@@ -132,8 +132,26 @@
       "error": null
     },
     {
+      "captura": "2026-08-19/2000Z",
+      "capturado_en": "2026-08-19T20:00:01.640Z",
+      "ok": false,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n"
+    },
+    {
       "captura": "2026-08-19/2130Z",
       "capturado_en": "2026-08-19T21:30:07.096Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-19/2300Z",
+      "capturado_en": "2026-08-19T23:00:01.514Z",
+      "ok": true,
+      "error": null
+    },
+    {
+      "captura": "2026-08-20/0030Z",
+      "capturado_en": "2026-08-20T00:30:07.183Z",
       "ok": true,
       "error": null
     }
@@ -340,12 +358,39 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 185670,
           "cantidad_texto": "185,670 pastillas - cápsulas",
           "dias": 21,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 185310,
+          "cantidad_texto": "185,310 pastillas - cápsulas",
+          "dias": 21,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 185100,
+          "cantidad_texto": "185,100 pastillas - cápsulas",
+          "dias": 20,
           "dias_no_publicado": false
         }
       ]
@@ -550,11 +595,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 68682,
           "cantidad_texto": "68,682 pastillas - cápsulas",
+          "dias": 47,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 68652,
+          "cantidad_texto": "68,652 pastillas - cápsulas",
+          "dias": 47,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 68652,
+          "cantidad_texto": "68,652 pastillas - cápsulas",
           "dias": 47,
           "dias_no_publicado": false
         }
@@ -761,8 +833,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 403200,
+          "cantidad_texto": "403,200 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 403200,
+          "cantidad_texto": "403,200 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 403200,
           "cantidad_texto": "403,200 pastillas - cápsulas",
@@ -971,8 +1070,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 24780,
+          "cantidad_texto": "24,780 pastillas - cápsulas",
+          "dias": 51,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 24780,
+          "cantidad_texto": "24,780 pastillas - cápsulas",
+          "dias": 51,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 24780,
           "cantidad_texto": "24,780 pastillas - cápsulas",
@@ -1181,8 +1307,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 151200,
+          "cantidad_texto": "151,200 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 151200,
+          "cantidad_texto": "151,200 pastillas - cápsulas",
+          "dias": 40,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 151200,
           "cantidad_texto": "151,200 pastillas - cápsulas",
@@ -1392,8 +1545,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 66074,
+          "cantidad_texto": "66,074 pastillas - cápsulas",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 66074,
+          "cantidad_texto": "66,074 pastillas - cápsulas",
+          "dias": 36,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 66074,
           "cantidad_texto": "66,074 pastillas - cápsulas",
@@ -1602,8 +1782,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 5283,
+          "cantidad_texto": "5,283 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 5283,
+          "cantidad_texto": "5,283 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 5283,
           "cantidad_texto": "5,283 pastillas - cápsulas",
@@ -1870,8 +2077,41 @@
           ]
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 70800,
+          "cantidad_texto": "70,800 pastillas - cápsulas",
+          "dias": 49,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 70800,
+          "cantidad_texto": "70,800 pastillas - cápsulas",
+          "dias": 49,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 70800,
           "cantidad_texto": "70,800 pastillas - cápsulas",
@@ -2084,11 +2324,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 108770,
           "cantidad_texto": "108,770 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 108680,
+          "cantidad_texto": "108,680 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 108680,
+          "cantidad_texto": "108,680 pastillas - cápsulas",
           "dias": 17,
           "dias_no_publicado": false
         }
@@ -2295,11 +2562,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 43794,
           "cantidad_texto": "43,794 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 43674,
+          "cantidad_texto": "43,674 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 43404,
+          "cantidad_texto": "43,404 pastillas - cápsulas",
           "dias": 10,
           "dias_no_publicado": false
         }
@@ -2505,8 +2799,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 28990,
+          "cantidad_texto": "28,990 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 28990,
+          "cantidad_texto": "28,990 pastillas - cápsulas",
+          "dias": 37,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 28990,
           "cantidad_texto": "28,990 pastillas - cápsulas",
@@ -2716,11 +3037,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 490948,
           "cantidad_texto": "490,948 pastillas - cápsulas",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 490318,
+          "cantidad_texto": "490,318 pastillas - cápsulas",
+          "dias": 43,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 490108,
+          "cantidad_texto": "490,108 pastillas - cápsulas",
           "dias": 43,
           "dias_no_publicado": false
         }
@@ -2926,11 +3274,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 322907,
           "cantidad_texto": "322,907 pastillas - cápsulas",
+          "dias": 19,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 323817,
+          "cantidad_texto": "323,817 pastillas - cápsulas",
+          "dias": 19,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 323757,
+          "cantidad_texto": "323,757 pastillas - cápsulas",
           "dias": 19,
           "dias_no_publicado": false
         }
@@ -3137,11 +3512,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 324234,
           "cantidad_texto": "324,234 pastillas - cápsulas",
+          "dias": 38,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 323754,
+          "cantidad_texto": "323,754 pastillas - cápsulas",
+          "dias": 38,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 323724,
+          "cantidad_texto": "323,724 pastillas - cápsulas",
           "dias": 38,
           "dias_no_publicado": false
         }
@@ -3348,11 +3750,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 575407,
           "cantidad_texto": "575,407 pastillas - cápsulas",
+          "dias": 80,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 575287,
+          "cantidad_texto": "575,287 pastillas - cápsulas",
+          "dias": 80,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 575092,
+          "cantidad_texto": "575,092 pastillas - cápsulas",
           "dias": 80,
           "dias_no_publicado": false
         }
@@ -3559,8 +3988,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 84233,
+          "cantidad_texto": "84,233 pastillas - cápsulas",
+          "dias": 44,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 84233,
+          "cantidad_texto": "84,233 pastillas - cápsulas",
+          "dias": 44,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 84233,
           "cantidad_texto": "84,233 pastillas - cápsulas",
@@ -3770,11 +4226,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 21975,
           "cantidad_texto": "21,975 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 21145,
+          "cantidad_texto": "21,145 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 21145,
+          "cantidad_texto": "21,145 pastillas - cápsulas",
           "dias": 5,
           "dias_no_publicado": false
         }
@@ -3981,8 +4464,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 159900,
+          "cantidad_texto": "159,900 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 159900,
+          "cantidad_texto": "159,900 pastillas - cápsulas",
+          "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 159900,
           "cantidad_texto": "159,900 pastillas - cápsulas",
@@ -4191,11 +4701,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 601550,
           "cantidad_texto": "601,550 pastillas - cápsulas",
+          "dias": 68,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 601010,
+          "cantidad_texto": "601,010 pastillas - cápsulas",
+          "dias": 68,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 600800,
+          "cantidad_texto": "600,800 pastillas - cápsulas",
           "dias": 68,
           "dias_no_publicado": false
         }
@@ -4402,8 +4939,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 25500,
+          "cantidad_texto": "25,500 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 25500,
+          "cantidad_texto": "25,500 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 25500,
           "cantidad_texto": "25,500 pastillas - cápsulas",
@@ -4613,11 +5177,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 169835,
           "cantidad_texto": "169,835 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 169715,
+          "cantidad_texto": "169,715 pastillas - cápsulas",
+          "dias": 67,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 169685,
+          "cantidad_texto": "169,685 pastillas - cápsulas",
           "dias": 67,
           "dias_no_publicado": false
         }
@@ -4824,8 +5415,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 137600,
+          "cantidad_texto": "137,600 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 137600,
+          "cantidad_texto": "137,600 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 137600,
           "cantidad_texto": "137,600 pastillas - cápsulas",
@@ -5035,11 +5653,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 52069,
           "cantidad_texto": "52,069 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 51949,
+          "cantidad_texto": "51,949 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 51859,
+          "cantidad_texto": "51,859 pastillas - cápsulas",
           "dias": 11,
           "dias_no_publicado": false
         }
@@ -5246,11 +5891,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 849853,
           "cantidad_texto": "849,853 pastillas - cápsulas",
+          "dias": 44,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 848923,
+          "cantidad_texto": "848,923 pastillas - cápsulas",
+          "dias": 44,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 848593,
+          "cantidad_texto": "848,593 pastillas - cápsulas",
           "dias": 44,
           "dias_no_publicado": false
         }
@@ -5457,11 +6129,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 269044,
           "cantidad_texto": "269,044 pastillas - cápsulas",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 268654,
+          "cantidad_texto": "268,654 pastillas - cápsulas",
+          "dias": 13,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 268204,
+          "cantidad_texto": "268,204 pastillas - cápsulas",
           "dias": 13,
           "dias_no_publicado": false
         }
@@ -5667,8 +6366,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 35060,
+          "cantidad_texto": "35,060 pastillas - cápsulas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 35060,
+          "cantidad_texto": "35,060 pastillas - cápsulas",
+          "dias": 14,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 35060,
           "cantidad_texto": "35,060 pastillas - cápsulas",
@@ -5934,8 +6660,41 @@
           ]
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 4636,
+          "cantidad_texto": "4,636 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 4636,
+          "cantidad_texto": "4,636 pastillas - cápsulas",
+          "dias": 81,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para niños (menores de edad)."
+          ]
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 4636,
           "cantidad_texto": "4,636 pastillas - cápsulas",
@@ -6147,12 +6906,39 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 236624,
           "cantidad_texto": "236,624 pastillas - cápsulas",
           "dias": 18,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 235544,
+          "cantidad_texto": "235,544 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 234884,
+          "cantidad_texto": "234,884 pastillas - cápsulas",
+          "dias": 17,
           "dias_no_publicado": false
         }
       ]
@@ -6358,11 +7144,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 40390,
           "cantidad_texto": "40,390 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 40330,
+          "cantidad_texto": "40,330 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 40330,
+          "cantidad_texto": "40,330 pastillas - cápsulas",
           "dias": 5,
           "dias_no_publicado": false
         }
@@ -6569,8 +7382,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 168226,
+          "cantidad_texto": "168,226 pastillas - cápsulas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 168226,
+          "cantidad_texto": "168,226 pastillas - cápsulas",
+          "dias": 29,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 168226,
           "cantidad_texto": "168,226 pastillas - cápsulas",
@@ -6779,8 +7619,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 46838,
+          "cantidad_texto": "46,838 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 46838,
+          "cantidad_texto": "46,838 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 46838,
           "cantidad_texto": "46,838 pastillas - cápsulas",
@@ -6989,8 +7856,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 126000,
+          "cantidad_texto": "126,000 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 126000,
+          "cantidad_texto": "126,000 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 126000,
           "cantidad_texto": "126,000 pastillas - cápsulas",
@@ -7199,8 +8093,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 14000,
+          "cantidad_texto": "14,000 pastillas - cápsulas",
+          "dias": 33,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 14000,
+          "cantidad_texto": "14,000 pastillas - cápsulas",
+          "dias": 33,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 14000,
           "cantidad_texto": "14,000 pastillas - cápsulas",
@@ -7466,8 +8387,41 @@
           ]
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 500,
+          "cantidad_texto": "500 pastillas - cápsulas",
+          "dias": 32,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 500,
+          "cantidad_texto": "500 pastillas - cápsulas",
+          "dias": 32,
+          "dias_no_publicado": false,
+          "avisos": [
+            "Farmacia disponible solo para pacientes atendidos en esta unidad (ambulatorios u hospitalizados)."
+          ]
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 500,
           "cantidad_texto": "500 pastillas - cápsulas",
@@ -7680,11 +8634,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 129322,
           "cantidad_texto": "129,322 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 128452,
+          "cantidad_texto": "128,452 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 127642,
+          "cantidad_texto": "127,642 pastillas - cápsulas",
           "dias": 11,
           "dias_no_publicado": false
         }
@@ -7891,8 +8872,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 335200,
+          "cantidad_texto": "335,200 pastillas - cápsulas",
+          "dias": 45,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 335200,
+          "cantidad_texto": "335,200 pastillas - cápsulas",
+          "dias": 45,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 335200,
           "cantidad_texto": "335,200 pastillas - cápsulas",
@@ -8101,8 +9109,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 19675,
+          "cantidad_texto": "19,675 pastillas - cápsulas",
+          "dias": 112,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 19675,
+          "cantidad_texto": "19,675 pastillas - cápsulas",
+          "dias": 112,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 19675,
           "cantidad_texto": "19,675 pastillas - cápsulas",
@@ -8311,8 +9346,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 15000,
+          "cantidad_texto": "15,000 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 15000,
+          "cantidad_texto": "15,000 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 15000,
           "cantidad_texto": "15,000 pastillas - cápsulas",
@@ -8521,8 +9583,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 200854,
+          "cantidad_texto": "200,854 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 200854,
+          "cantidad_texto": "200,854 pastillas - cápsulas",
+          "dias": 90,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 200854,
           "cantidad_texto": "200,854 pastillas - cápsulas",
@@ -8732,11 +9821,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 185646,
           "cantidad_texto": "185,646 pastillas - cápsulas",
+          "dias": 41,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 185466,
+          "cantidad_texto": "185,466 pastillas - cápsulas",
+          "dias": 41,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 185406,
+          "cantidad_texto": "185,406 pastillas - cápsulas",
           "dias": 41,
           "dias_no_publicado": false
         }
@@ -8942,8 +10058,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 25435,
+          "cantidad_texto": "25,435 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 25435,
+          "cantidad_texto": "25,435 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 25435,
           "cantidad_texto": "25,435 pastillas - cápsulas",
@@ -9152,8 +10295,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 30230,
+          "cantidad_texto": "30,230 pastillas - cápsulas",
+          "dias": 159,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 30230,
+          "cantidad_texto": "30,230 pastillas - cápsulas",
+          "dias": 159,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 30230,
           "cantidad_texto": "30,230 pastillas - cápsulas",
@@ -9362,8 +10532,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 5000,
+          "cantidad_texto": "5,000 pastillas - cápsulas",
+          "dias": 12,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 5000,
+          "cantidad_texto": "5,000 pastillas - cápsulas",
+          "dias": 12,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 5000,
           "cantidad_texto": "5,000 pastillas - cápsulas",
@@ -9573,11 +10770,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 1016561,
           "cantidad_texto": "1,016,561 pastillas - cápsulas",
+          "dias": 93,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 1015901,
+          "cantidad_texto": "1,015,901 pastillas - cápsulas",
+          "dias": 93,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 1015491,
+          "cantidad_texto": "1,015,491 pastillas - cápsulas",
           "dias": 93,
           "dias_no_publicado": false
         }
@@ -9784,11 +11008,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 347677,
           "cantidad_texto": "347,677 pastillas - cápsulas",
+          "dias": 51,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 347137,
+          "cantidad_texto": "347,137 pastillas - cápsulas",
+          "dias": 51,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 346957,
+          "cantidad_texto": "346,957 pastillas - cápsulas",
           "dias": 51,
           "dias_no_publicado": false
         }
@@ -9995,8 +11246,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 179804,
+          "cantidad_texto": "179,804 pastillas - cápsulas",
+          "dias": 52,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 179804,
+          "cantidad_texto": "179,804 pastillas - cápsulas",
+          "dias": 52,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 179804,
           "cantidad_texto": "179,804 pastillas - cápsulas",
@@ -10206,8 +11484,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 325800,
+          "cantidad_texto": "325,800 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 325800,
+          "cantidad_texto": "325,800 pastillas - cápsulas",
+          "dias": 65,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 325800,
           "cantidad_texto": "325,800 pastillas - cápsulas",
@@ -10246,8 +11551,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 126000,
+          "cantidad_texto": "126,000 pastillas - cápsulas",
+          "dias": 19,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 126000,
+          "cantidad_texto": "126,000 pastillas - cápsulas",
+          "dias": 19,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 126000,
           "cantidad_texto": "126,000 pastillas - cápsulas",
@@ -10456,8 +11788,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 30612,
+          "cantidad_texto": "30,612 pastillas - cápsulas",
+          "dias": 42,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 30612,
+          "cantidad_texto": "30,612 pastillas - cápsulas",
+          "dias": 42,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 30612,
           "cantidad_texto": "30,612 pastillas - cápsulas",
@@ -10666,8 +12025,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 25200,
+          "cantidad_texto": "25,200 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 25200,
+          "cantidad_texto": "25,200 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 25200,
           "cantidad_texto": "25,200 pastillas - cápsulas",
@@ -10877,8 +12263,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 100800,
+          "cantidad_texto": "100,800 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 100800,
+          "cantidad_texto": "100,800 pastillas - cápsulas",
+          "dias": 7,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 100800,
           "cantidad_texto": "100,800 pastillas - cápsulas",
@@ -11087,8 +12500,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 12720,
+          "cantidad_texto": "12,720 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 12720,
+          "cantidad_texto": "12,720 pastillas - cápsulas",
+          "dias": 27,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 12720,
           "cantidad_texto": "12,720 pastillas - cápsulas",
@@ -11297,8 +12737,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 9040,
+          "cantidad_texto": "9,040 pastillas - cápsulas",
+          "dias": 59,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 9040,
+          "cantidad_texto": "9,040 pastillas - cápsulas",
+          "dias": 59,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 9040,
           "cantidad_texto": "9,040 pastillas - cápsulas",
@@ -11508,11 +12975,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 262426,
           "cantidad_texto": "262,426 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 261732,
+          "cantidad_texto": "261,732 pastillas - cápsulas",
+          "dias": 22,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 261612,
+          "cantidad_texto": "261,612 pastillas - cápsulas",
           "dias": 22,
           "dias_no_publicado": false
         }
@@ -11719,8 +13213,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 9700,
+          "cantidad_texto": "9,700 pastillas - cápsulas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 9700,
+          "cantidad_texto": "9,700 pastillas - cápsulas",
+          "dias": 2,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 9700,
           "cantidad_texto": "9,700 pastillas - cápsulas",
@@ -11930,11 +13451,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 199664,
           "cantidad_texto": "199,664 pastillas - cápsulas",
+          "dias": 68,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 199544,
+          "cantidad_texto": "199,544 pastillas - cápsulas",
+          "dias": 68,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 199454,
+          "cantidad_texto": "199,454 pastillas - cápsulas",
           "dias": 68,
           "dias_no_publicado": false
         }
@@ -12141,11 +13689,38 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
           "estado_captura": "ok",
           "cantidad": 37936,
           "cantidad_texto": "37,936 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 37726,
+          "cantidad_texto": "37,726 pastillas - cápsulas",
+          "dias": 10,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
+          "estado_captura": "ok",
+          "cantidad": 37666,
+          "cantidad_texto": "37,666 pastillas - cápsulas",
           "dias": 10,
           "dias_no_publicado": false
         }
@@ -12352,8 +13927,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 50400,
+          "cantidad_texto": "50,400 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 50400,
+          "cantidad_texto": "50,400 pastillas - cápsulas",
+          "dias": 5,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 50400,
           "cantidad_texto": "50,400 pastillas - cápsulas",
@@ -12562,8 +14164,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 47097,
+          "cantidad_texto": "47,097 pastillas - cápsulas",
+          "dias": 70,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 47097,
+          "cantidad_texto": "47,097 pastillas - cápsulas",
+          "dias": 70,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 47097,
           "cantidad_texto": "47,097 pastillas - cápsulas",
@@ -12773,8 +14402,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 114300,
+          "cantidad_texto": "114,300 pastillas - cápsulas",
+          "dias": 33,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 114300,
+          "cantidad_texto": "114,300 pastillas - cápsulas",
+          "dias": 33,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 114300,
           "cantidad_texto": "114,300 pastillas - cápsulas",
@@ -12984,8 +14640,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 32100,
+          "cantidad_texto": "32,100 pastillas - cápsulas",
+          "dias": 12,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 32100,
+          "cantidad_texto": "32,100 pastillas - cápsulas",
+          "dias": 12,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 32100,
           "cantidad_texto": "32,100 pastillas - cápsulas",
@@ -13194,8 +14877,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 12730,
+          "cantidad_texto": "12,730 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 12730,
+          "cantidad_texto": "12,730 pastillas - cápsulas",
+          "dias": 34,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 12730,
           "cantidad_texto": "12,730 pastillas - cápsulas",
@@ -13405,8 +15115,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 29500,
+          "cantidad_texto": "29,500 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 29500,
+          "cantidad_texto": "29,500 pastillas - cápsulas",
+          "dias": 17,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 29500,
           "cantidad_texto": "29,500 pastillas - cápsulas",
@@ -13615,8 +15352,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 4200,
+          "cantidad_texto": "4,200 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 4200,
+          "cantidad_texto": "4,200 pastillas - cápsulas",
+          "dias": 11,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 4200,
           "cantidad_texto": "4,200 pastillas - cápsulas",
@@ -13825,8 +15589,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 79493,
+          "cantidad_texto": "79,493 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 79493,
+          "cantidad_texto": "79,493 pastillas - cápsulas",
+          "dias": 28,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 79493,
           "cantidad_texto": "79,493 pastillas - cápsulas",
@@ -14035,8 +15826,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 99208,
+          "cantidad_texto": "99,208 pastillas - cápsulas",
+          "dias": 116,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 99208,
+          "cantidad_texto": "99,208 pastillas - cápsulas",
+          "dias": 116,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 99208,
           "cantidad_texto": "99,208 pastillas - cápsulas",
@@ -14245,8 +16063,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 69589,
+          "cantidad_texto": "69,589 pastillas - cápsulas",
+          "dias": 41,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 69589,
+          "cantidad_texto": "69,589 pastillas - cápsulas",
+          "dias": 41,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 69589,
           "cantidad_texto": "69,589 pastillas - cápsulas",
@@ -14455,8 +16300,35 @@
           "dias_no_publicado": false
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 4979,
+          "cantidad_texto": "4,979 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 4979,
+          "cantidad_texto": "4,979 pastillas - cápsulas",
+          "dias": 25,
+          "dias_no_publicado": false
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 4979,
           "cantidad_texto": "4,979 pastillas - cápsulas",
@@ -14667,8 +16539,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 1382100,
+          "cantidad_texto": "1,382,100 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 1382100,
+          "cantidad_texto": "1,382,100 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 1382100,
           "cantidad_texto": "1,382,100 pastillas - cápsulas",
@@ -14877,8 +16776,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 3050900,
+          "cantidad_texto": "3,050,900 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 3050900,
+          "cantidad_texto": "3,050,900 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 3050900,
           "cantidad_texto": "3,050,900 pastillas - cápsulas",
@@ -15087,8 +17013,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 4538200,
+          "cantidad_texto": "4,538,200 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 4538200,
+          "cantidad_texto": "4,538,200 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 4538200,
           "cantidad_texto": "4,538,200 pastillas - cápsulas",
@@ -15297,8 +17250,35 @@
           "dias_no_publicado": true
         },
         {
+          "captura": "2026-08-19/2000Z",
+          "capturado_en": "2026-08-19T20:00:01.640Z",
+          "estado_captura": "no_capturado",
+          "motivo": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\nCall log:\n  - navigating to \"https://mifarmadigital.css.gob.pa/medicamentos/buscar/basica\", waiting until \"domcontentloaded\"\n",
+          "cantidad": null,
+          "dias": null,
+          "dias_no_publicado": null
+        },
+        {
           "captura": "2026-08-19/2130Z",
           "capturado_en": "2026-08-19T21:30:07.096Z",
+          "estado_captura": "ok",
+          "cantidad": 20500,
+          "cantidad_texto": "20,500 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-19/2300Z",
+          "capturado_en": "2026-08-19T23:00:01.514Z",
+          "estado_captura": "ok",
+          "cantidad": 20500,
+          "cantidad_texto": "20,500 pastillas - cápsulas",
+          "dias": null,
+          "dias_no_publicado": true
+        },
+        {
+          "captura": "2026-08-20/0030Z",
+          "capturado_en": "2026-08-20T00:30:07.183Z",
           "estado_captura": "ok",
           "cantidad": 20500,
           "cantidad_texto": "20,500 pastillas - cápsulas",
@@ -15311,8 +17291,8 @@
   "metricas": {
     "instalaciones_atencion": 68,
     "bodegas": 4,
-    "capturas_ok": 20,
-    "capturas_fallidas": 2,
+    "capturas_ok": 22,
+    "capturas_fallidas": 3,
     "sin_dias_publicados": 0,
     "con_dias_publicados": 68,
     "mediana_cantidad_sin_dias": null,

@@ -89,7 +89,7 @@
 }
 
 .tabla {
-  min-width: 720px;
+  min-width: 820px;
   font-size: 14px;
 }
 
@@ -161,6 +161,13 @@
   font-size: 16px;
   font-weight: 500;
   color: var(--tinta);
+}
+
+.confiabilidad {
+  display: block;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--tinta-texto);
 }
 
 .noPublicado {

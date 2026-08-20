@@ -81,6 +81,7 @@ export function TablaInstalaciones({
                 <th scope="col" className={estilos.derecha}>
                   Días de abastecimiento
                 </th>
+                <th scope="col">Confiabilidad</th>
               </tr>
             </thead>
             <tbody>
@@ -117,6 +118,9 @@ export function TablaInstalaciones({
                   <td className={`${estilos.derecha} num`}>
                     <Dias estado={estado} />
                   </td>
+                  <td>
+                    <Confiabilidad instalacion={instalacion} />
+                  </td>
                 </tr>
               ))}
             </tbody>
@@ -124,6 +128,34 @@ export function TablaInstalaciones({
         </div>
       )}
     </section>
+  );
+}
+
+function Confiabilidad({ instalacion }) {
+  const puntos = Array.isArray(instalacion?.puntos) ? instalacion.puntos : [];
+  const lecturasOk = puntos.filter((p) => p?.estado_captura === "ok");
+  const lecturas = lecturasOk.length;
+
+  if (lecturas === 0) {
+    return <span className={estilos.subCelda}>Sin lecturas suficientes</span>;
+  }
+
+  const disponibles = lecturasOk.filter(
+    (p) => typeof p?.cantidad === "number" && p.cantidad > 0,
+  ).length;
+  const proporcion = disponibles / lecturas;
+
+  let etiqueta = "Escaso";
+  if (proporcion >= 0.8) etiqueta = "Estable";
+  else if (proporcion >= 0.3) etiqueta = "Intermitente";
+
+  return (
+    <>
+      <span className={`${estilos.confiabilidad} num`}>
+        Disponible en {numero(disponibles)} de {numero(lecturas)} lecturas
+      </span>
+      <span className={estilos.subCelda}>{etiqueta}</span>
+    </>
   );
 }
 
